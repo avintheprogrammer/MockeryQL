@@ -1,0 +1,174 @@
+{
+  "template": "Regular Article",
+  "layout": [
+    {
+      "columns": [
+        {
+          "modules": [
+            {
+              "name": "articleTicker",
+              "source": "10000113",
+              "canChangeLayout": false,
+              "canChangeSource": false,
+              "serverRenderPolicy": "ssr"
+            }
+          ],
+          "span": 12,
+          "editable": false
+        }
+      ],
+      "editable": false
+    },
+    {
+      "columns": [
+        {
+          "modules": [
+            {
+              "name": "adTopBanner",
+              "source": null,
+              "canChangeLayout": false,
+              "canChangeSource": false,
+              "serverRenderPolicy": "ssr"
+            }
+          ],
+          "span": 12,
+          "editable": false
+        }
+      ],
+      "editable": false
+    },
+    {
+      "columns": [
+        {
+          "modules": [
+            {
+              "name": "articleHeaderEyebrow",
+              "source": "self",
+              "canChangeLayout": false,
+              "canChangeSource": false,
+              "serverRenderPolicy": "ssr"
+            }
+          ],
+          "span": 12,
+          "editable": true
+        }
+      ],
+      "editable": true
+    },
+    {
+      "columns": [
+        {
+          "modules": [
+            {
+              "name": "articleInlineMedia",
+              "source": "self",
+              "canChangeLayout": false,
+              "canChangeSource": false,
+              "serverRenderPolicy": "ssr"
+            },
+            {
+              "name": "keyPoints",
+              "source": "self",
+              "canChangeLayout": false,
+              "canChangeSource": false,
+              "serverRenderPolicy": "ssr"
+            },
+            {
+              "name": "articleBody",
+              "source": "self",
+              "canChangeLayout": false,
+              "canChangeSource": false,
+              "serverRenderPolicy": "ssr"
+            },
+            {
+              "name": "relatedTags",
+              "source": "self",
+              "canChangeLayout": false,
+              "canChangeSource": false,
+              "serverRenderPolicy": "ssr"
+            },
+            {
+              "name": "taboola",
+              "source": null,
+              "canChangeLayout": false,
+              "canChangeSource": false,
+              "serverRenderPolicy": "client"
+            }
+          ],
+          "span": 8,
+          "editable": true
+        },
+        {
+          "modules": [
+            {
+              "name": "adFlexBox",
+              "source": null,
+              "canChangeLayout": false,
+              "canChangeSource": false,
+              "serverRenderPolicy": "ssr"
+            },
+            {
+              "name": "mostPopular",
+              "source": "self",
+              "canChangeLayout": false,
+              "canChangeSource": false,
+              "serverRenderPolicy": "ssr"
+            }
+          ],
+          "span": 4,
+          "editable": true
+        }
+      ],
+      "editable": true
+    },
+    {
+      "columns": [
+        {
+          "modules": [
+            {
+              "name": "transporterArticle",
+              "source": "self",
+              "canChangeLayout": false,
+              "canChangeSource": false,
+              "serverRenderPolicy": "client"
+            }
+          ],
+          "span": 12,
+          "editable": true
+        }
+      ],
+      "editable": false
+    },
+    {
+      "columns": [
+        {
+          "modules": [
+            {
+              "name": "adFlexBox",
+              "source": null,
+              "canChangeLayout": false,
+              "canChangeSource": false,
+              "serverRenderPolicy": "ssr"
+            }
+          ],
+          "span": 4,
+          "editable": true
+        },
+        {
+          "modules": [
+            {
+              "name": "transporterSection",
+              "source": "self",
+              "canChangeLayout": false,
+              "canChangeSource": false,
+              "serverRenderPolicy": "ssr"
+            }
+          ],
+          "span": 8,
+          "editable": true
+        }
+      ],
+      "editable": true
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "section": {
+      "carousel": [
+        {
+          "id": 104847509,
+          "title": "Todd Combs",
+          "url": "https://qa-aws01web.cnbc.com/todd-combs-hedge-fund-manager/"
+        },
+        {
+          "id": 104847515,
+          "title": "Coca-cola",
+          "url": "https://qa-aws01web.cnbc.com/coca-cola-beveage/"
+        },
+        {
+          "id": 104847512,
+          "title": "Geico",
+          "url": "https://qa-aws01web.cnbc.com/geico/"
+        },
+        {
+          "id": 104847511,
+          "title": "Ted Weschler",
+          "url": "https://qa-aws01web.cnbc.com/ted-weschler-hedge-fund-manager/"
+        }
+      ]
+    }
+  }
+}

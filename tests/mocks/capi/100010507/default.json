@@ -1,0 +1,189 @@
+{
+  "@type": "Collection",
+  "@id": "100010507",
+  "cn:type": "franchise",
+  "cn:slug": "US Economy",
+  "cn:creatorOverwrite": "",
+  "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/100010507",
+  "cn:settings": {
+    "cn:commentsEnabled": "Yes",
+    "cn:socialtoolsEnabled": "Yes",
+    "cn:listType": "Manual and/or populated by feeds",
+    "cn:tweetOnPublish": 0
+  },
+  "cn:summary": "Latest news and headlines affecting the United States economy.",
+  "cn:shorterDescription": "Latest news and headlines affecting the United States economy.",
+  "cn:shortestDescription": "Latest news affecting the United States economy.",
+  "url": "http://qa-pa13pub.cnbc.com/us-economy/",
+  "datePublished": "2014-09-02T17:20:56 GMT",
+  "cn:subType": "section",
+  "name": "US Economy",
+  "description": "Latest news and headlines affecting the United States economy.",
+  "@context": {
+    "@vocab": "http://schema.org/",
+    "cn": "http://cnbc.com/schema/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "CNBC",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "cn:pagination": {
+    "cn:link": {
+      "cn:self": "http://qa-pa20capi-bl.cnbc.com/list/id/100010507?page=1&pagesize=20",
+      "cn:next": "http://qa-pa20capi-bl.cnbc.com/list/id/100010507?page=2&pagesize=20",
+      "cn:previous": "http://qa-pa20capi-bl.cnbc.com/list/id/100010507?page=1&pagesize=20",
+      "cn:last": "http://qa-pa20capi-bl.cnbc.com/list/id/100010507?page=96&pagesize=20"
+    },
+    "cn:page": 1,
+    "cn:totalCount": 1920,
+    "cn:pageSize": 20
+  },
+  "cn:listItem":[
+    {
+      "@id": "104823320",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "The Trump Fed Cox 171106 EC ",
+      "cn:creatorOverwrite": "",
+      "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/104823320",
+      "headline": "The Trump Fed: New faces, but less experience and so bigger chances for a market disruption",
+      "url": "http://qa-pa14pub.cnbc.com/2017/11/06/the-trump-fed-fresher-faces-bigger-chance-for-market-disruption.html",
+      "datePublished": "2017-11-06T19:38:39 GMT",
+      "description": "The Federal Reserve will not only lose its three top-ranking officials but also the more than three decades of experience they brought to policymaking.\r\n\r\n",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author":[
+        {
+          "@type": "Creator",
+          "@id": "36003787",
+          "name": "Jeff Cox",
+          "url": "http://qa-pa13pub.cnbc.com/jeff-cox/",
+          "position": "1",
+          "sameAs":[
+            "https://www.facebook.com/jeff.cox.7528",
+            "https://www.twitter.com/JeffCoxCNBCcom",
+            "https://www.plus.google.com/108326509113152516426"
+          ],
+          "cn:socialMediaInfo":[
+            {
+              "cn:url": "https://facebook.com/jeff.cox.7528",
+              "cn:displayText": "jeff.cox.7528",
+              "cn:type": "facebook"
+            },
+            {
+              "cn:url": "https://twitter.com/JeffCoxCNBCcom",
+              "cn:displayText": "JeffCoxCNBCcom",
+              "cn:type": "twitter"
+            },
+            {
+              "cn:url": "https://plus.google.com/108326509113152516426",
+              "cn:displayText": "108326509113152516426",
+              "cn:type": "googlePlus"
+            }
+          ]
+        }
+      ],
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@type": "NewsArticle"
+    },
+    {
+      "@id": "104768689",
+      "cn:type": "partnerstory",
+      "cn:slug": "Tax reform cuts versus rates commentary NATIONAL REVIEW 171012 EC",
+      "cn:creatorOverwrite": "Jeffrey Dorfman",
+      "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/104768689",
+      "headline": "This should be the GOP's priority for tax reform",
+      "url": "http://qa-pa14pub.cnbc.com/2017/10/12/tax-reform-republican-congress-should-cut-rates-commentary.html",
+      "datePublished": "2017-10-12T15:40:06 GMT",
+      "description": "Here's what Republicans should prioritize when it comes to tax reform, Jeffrey Dorfman writes in the National Review.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 1
+      },
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104768674,
+        "author": "",
+        "datePublished": "2017-10-12T14:29:03 GMT",
+        "caption": "Speaker Paul Ryan, R-Wis., and House Majority Leader Kevin McCarthy, R-Calif.",
+        "description": "",
+        "copyrightHolder": "Tom Williams | CQ Roll Call",
+        "height": "1318",
+        "width": "2000",
+        "url": "http://img-static-qa1.cnbc.com/image/104768674-GettyImages-860240926.jpg?v=1507818551"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@type": "NewsArticle"
+    },
+    {
+      "@type": "CreativeWork",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "@id": "104823866",
+      "cn:type": "wildcard",
+      "cn:slug": "phoenix wyldcard test",
+      "cn:creatorOverwrite": "",
+      "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/104823866",
+      "datePublished": "2017-12-06T17:10:12 GMT",
+      "cn:wildcard": {
+        "cn:wildcardContent": {
+          "cn:__cdata": "<style>\r\n  .crazy-div {\r\n      animation: colorchange 5s infinite; /* animation-name followed by duration in seconds*/\r\n         /* you could also use milliseconds (ms) or something like 2.5s */\r\n      -webkit-animation: colorchange 5s infinite; /* Chrome and Safari */\r\n    }\r\n\r\n    @keyframes colorchange\r\n    {\r\n      0%   {background: red;}\r\n      25%  {background: yellow;}\r\n      50%  {background: blue;}\r\n      75%  {background: green;}\r\n      100% {background: red;}\r\n    }\r\n\r\n    @-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */\r\n    {\r\n      0%   {background: red;}\r\n      25%  {background: yellow;}\r\n      50%  {background: blue;}\r\n      75%  {background: green;}\r\n      100% {background: red;}\r\n    }\r\n</style>\r\n\r\n<div class=\"crazy-div\" style=\"height:250px;width:100%\"></div>\r\n\r\n<style>\r\n.trumpy:nth-child(2){display:none;}\r\n.trumpy{width:100%;}\r\n</style>\r\n<script type=\"text/javascript\" src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js\"></script>\r\n<script>\r\njQuery(document).ready(function($){\r\n  $('.trumpy').on(\"click\", function(){\r\n    $(this).toggle();\r\n    $(this).siblings().toggle();\r\n  });\r\n});\r\n</script>\r\n<div>\r\n<img class=\"trumpy\" src=\"http://staging.snopes.com/app/uploads/2017/01/melania_smile_frown_tw-1024x512.jpg\" />\r\n<img class=\"trumpy\" src=\"https://content.newsinc.com/jpg/415/31892452/49596246.jpg\" />\r\n<a href=\"/wildcard\">link technology</a>\r\n</div>\r\nthis is the content text"
+        },
+        "cn:wildcardPromo": {
+          "cn:__cdata": "<style>\r\n  .crazy-div {\r\n      animation: colorchange 5s infinite; /* animation-name followed by duration in seconds*/\r\n         /* you could also use milliseconds (ms) or something like 2.5s */\r\n      -webkit-animation: colorchange 5s infinite; /* Chrome and Safari */\r\n    }\r\n\r\n    @keyframes colorchange\r\n    {\r\n      0%   {background: red;}\r\n      25%  {background: yellow;}\r\n      50%  {background: blue;}\r\n      75%  {background: green;}\r\n      100% {background: red;}\r\n    }\r\n\r\n    @-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */\r\n    {\r\n      0%   {background: red;}\r\n      25%  {background: yellow;}\r\n      50%  {background: blue;}\r\n      75%  {background: green;}\r\n      100% {background: red;}\r\n    }\r\n</style>\r\n\r\n<div class=\"crazy-div\" style=\"height:250px;width:100%\"></div>\r\n\r\n<style>\r\n.trumpy:nth-child(2){display:none;}\r\n.trumpy{width:100%;}\r\n</style>\r\n<script type=\"text/javascript\" src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js\"></script>\r\n<script>\r\njQuery(document).ready(function($){\r\n  $('.trumpy').on(\"click\", function(){\r\n    $(this).toggle();\r\n    $(this).siblings().toggle();\r\n  });\r\n});\r\n</script>\r\n<div>\r\n<img class=\"trumpy\" src=\"http://staging.snopes.com/app/uploads/2017/01/melania_smile_frown_tw-1024x512.jpg\" />\r\n<img class=\"trumpy\" src=\"https://content.newsinc.com/jpg/415/31892452/49596246.jpg\" />\r\n<a href=\"/wildcard\">link technology</a>\r\n</div>\r\nthis is the promo text"
+        }
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      }
+    }
+  ]
+}

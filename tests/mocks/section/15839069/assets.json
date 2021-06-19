@@ -1,0 +1,28 @@
+{
+  "data": {
+    "section": {
+      "assets": [
+        {
+          "id": 104846850,
+          "type": "cnbcvideo"
+        },
+        {
+          "id": 104844032,
+          "type": "cnbcvideo"
+        },
+        {
+          "id": 104844020,
+          "type": "cnbcvideo"
+        },
+        {
+          "id": 104841092,
+          "type": "cnbcvideo"
+        },
+        {
+          "id": 104838294,
+          "type": "cnbcvideo"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "data": {
+    "asset": {
+      "id": 104790019,
+      "type": "cnbcnewsstory",
+      "brand": "cnbc",
+      "summary": "Your Tesla will be able to check your calendar to see where you need to be. ",
+      "shorterDescription": "Convenient or creepy?",
+      "slug": "Elon Musk car will go where you want without having to tell it CLIFFORD 171023 NY",
+      "url": "http://qa-aws01web.cnbc.com/2017/10/23/elon-musk-tesla-cars-will-be-self-driving-and-know-your-schedule.html",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104790019",
+      "datePublished": "2017-10-23T16:52:05+0000",
+      "dateLastPublished": "2017-10-23T16:52:05+0000",
+      "dateModified": "2017-10-23T16:51:44+0000",
+      "title": "Elon Musk: Your future Tesla will drive you where you want to go without you even having to tell it",
+      "headline": "Elon Musk: Your future Tesla will predict where you want to go",
+      "description": "Your Tesla will be able to check your calendar to see where you need to be. ",
+      "premium": false,
+      "native": false,
+      "sameAs": null,
+      "publisher": {
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "author": [
+        {
+          "id": 103841821
+        }
+      ],
+      "section": {
+        "id": 103775527
+      },
+      "sourceOrganization": [
+        {
+          "id": 80000022
+        }
+      ]
+    }
+  }
+}

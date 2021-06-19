@@ -1,0 +1,145 @@
+{
+  "tagName": "tag name of the story",
+  "projectTeamContent": [
+    {
+      "id": "100002766",
+      "headline": "CNBC US Team",
+      "tagName": "CNBC US Team from tag name"
+    }
+  ],
+  "relatedTags": [
+    {
+      "id": 104847532,
+      "headline": "Buffett A-Z",
+      "tagName": "Buffett A-Z",
+      "type": "franchise"
+    },
+    {
+      "id": 100646105,
+      "headline": "FBI",
+      "tagName": "FBI",
+      "type": "organization"
+    },
+    {
+      "id": 104845386,
+      "headline": "Carbon Minerals Ltd",
+      "tagName": "Carbon Minerals Ltd",
+      "type": "company"
+    },
+    {
+      "id": 104847094,
+      "headline": "Bernstein Global Research Fund",
+      "tagName": "Bernstein Global Research Fund",
+      "type": "security"
+    },
+    {
+      "id": 15839215,
+      "headline": "Stocks",
+      "tagName": "Stocks from tag name",
+      "type": "franchise"
+    },
+    {
+      "id": 15838421,
+      "headline": "Closing Bell",
+      "tagName": "Closing Bell",
+      "type": "franchise"
+    },
+    {
+      "id": 19854910,
+      "headline": "Tech",
+      "tagName": "Technology",
+      "type": "franchise"
+    },
+    {
+      "id": 15837362,
+      "headline": "U.S. News",
+      "tagName": "US: News",
+      "type": "franchise"
+    },
+    {
+      "id": 15839135,
+      "headline": "Earnings",
+      "tagName": "Earnings",
+      "type": "franchise"
+    },
+    {
+      "id": 10000064,
+      "headline": "Software",
+      "tagName": "Software",
+      "type": "franchise"
+    },
+    {
+      "id": 101004656,
+      "headline": "Enterprise",
+      "tagName": "Enterprise",
+      "type": "franchise"
+    },
+    {
+      "id": 1501792,
+      "headline": "Alphabet Class A",
+      "tagName": "Alphabet Class A from tag name",
+      "type": "company"
+    },
+    {
+      "id": 1505169,
+      "headline": "Cisco Systems Inc",
+      "tagName": "Cisco Systems Inc",
+      "type": "company"
+    }
+  ],
+  "additionalSectionContent": [
+    {
+      "id": 10000066,
+      "headline": "Mobile",
+      "tagName": "Mobile Tag Name:",
+      "type": "franchise"
+    },
+    {
+      "id": 104832964,
+      "headline": "From Our Sponsor",
+      "tagName": null,
+      "type": "franchise"
+    }
+  ],
+  "relatedContent": [
+    {
+      "id": "104847465",
+      "headline": "Davos 2018",
+      "tagName": null,
+      "type": "event"
+    },
+    {
+      "id": 104847445,
+      "headline": "Marijuana",
+      "tagName": "Marijuana",
+      "type": "tag"
+    },
+    {
+      "id": 104847365,
+      "headline": "Dynamic Menu",
+      "tagName": null,
+      "type": "franchise"
+    },
+    {
+      "id": 104847459,
+      "headline": "Full Episodes",
+      "tagName": null,
+      "type": "franchise"
+    }
+  ],
+  "sectionHierarchy": [
+    {
+      "id": "104847472",
+      "tagName": null,
+      "order": 1
+    }
+  ],
+  "creatorOverwrite": "Creator overwrite",
+  "projectContent": [
+    {
+      "id": "103544958",
+      "headline": "CNBC Pro Talks project Shorter Headline:",
+      "tagName": "CNBC Pro Talks project from Tag Name"
+    }
+  ]
+}

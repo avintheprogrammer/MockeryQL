@@ -1,0 +1,1239 @@
+{
+  "header": {
+    "collapsed": [
+      {
+        "name": "markets",
+        "label": "Markets",
+        "host": "www.cnbc.com",
+        "path": "/markets/",
+        "attr": {
+          "data": {
+            "trknavattr": "navigation:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      },
+      {
+        "name": "business_news",
+        "label": "Business News",
+        "host": "www.cnbc.com",
+        "path": "/us-news/",
+        "attr": {
+          "data": {
+            "trknavattr": "navigation:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      },
+      {
+        "name": "investing",
+        "label": "Investing",
+        "host": "www.cnbc.com",
+        "path": "/investing/",
+        "attr": {
+          "data": {
+            "trknavattr": "navigation:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      },
+      {
+        "name": "tech",
+        "label": "Tech",
+        "host": "www.cnbc.com",
+        "path": "/technology/",
+        "attr": {
+          "data": {
+            "trknavattr": "navigation:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      },
+      {
+        "name": "politics",
+        "label": "Politics",
+        "host": "www.cnbc.com",
+        "path": "/politics/",
+        "attr": {
+          "data": {
+            "trknavattr": "navigation:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      },
+      {
+        "name": "cnbc_tv",
+        "label": "CNBC TV",
+        "host": "www.cnbc.com",
+        "path": "/live-tv/",
+        "attr": {
+          "data": {
+            "trknavattr": "navigation:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      }
+    ],
+    "expanded": [
+      {
+        "name": "markets",
+        "label": "Markets",
+        "host": "www.cnbc.com",
+        "path": "/markets/",
+        "attr": {
+          "data": {
+            "trknavattr": "navigation:${parent}:${name}:${currentDocNID}"
+          }
+        },
+        "items": [
+          {
+            "name": "pre_markets",
+            "label": "Pre-Markets",
+            "host": "www.cnbc.com",
+            "path": "/pre-markets/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${name}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "us_markets",
+            "label": "U.S. Markets",
+            "host": "www.cnbc.com",
+            "path": "/us-markets/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${name}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "asia_markets",
+            "label": "Asia Markets",
+            "host": "www.cnbc.com",
+            "path": "/markets-asia-pacific/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${name}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "europe_markets",
+            "label": "Europe Markets",
+            "host": "www.cnbc.com",
+            "path": "/markets-europe/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${name}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "currencies",
+            "label": "Currencies",
+            "host": "www.cnbc.com",
+            "path": "/currencies/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${name}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "futures & commodities",
+            "label": "Futures & Commodities",
+            "host": "www.cnbc.com",
+            "path": "/commodities/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${name}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "bonds",
+            "label": "Bonds",
+            "host": "www.cnbc.com",
+            "path": "/bonds/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${name}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "funds & etfs",
+            "label": "Funds & ETFs",
+            "host": "www.cnbc.com",
+            "path": "/exchange-traded-funds/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${name}:${currentDocNID}"
+              }
+            },
+            "items": []
+          }
+        ],
+        "source": {}
+      },
+      {
+        "name": "business_news",
+        "label": "Business News",
+        "host": "www.cnbc.com",
+        "path": "/us-news/",
+        "attr": {
+          "data": {
+            "trknavattr": "navigation:${parent}:${name}:${currentDocNID}"
+          }
+        },
+        "items": [
+          {
+            "name": "economy",
+            "label": "Economy",
+            "host": "www.cnbc.com",
+            "path": "/economy/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${name}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "finance",
+            "label": "Finance",
+            "host": "www.cnbc.com",
+            "path": "/finance/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${name}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "health & science",
+            "label": "Health & Science",
+            "host": "www.cnbc.com",
+            "path": "/health-care/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${name}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "real_estate",
+            "label": "Real Estate",
+            "host": "www.cnbc.com",
+            "path": "/real-estate/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${name}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "energy",
+            "label": "Energy",
+            "host": "www.cnbc.com",
+            "path": "/energy/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${name}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "transportation",
+            "label": "Transportation",
+            "host": "www.cnbc.com",
+            "path": "/transportation/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${name}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "industrials",
+            "label": "Industrials",
+            "host": "www.cnbc.com",
+            "path": "/industrials/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${label}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "retail",
+            "label": "Retail",
+            "host": "www.cnbc.com",
+            "path": "/retail/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${name}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "life",
+            "label": "Life",
+            "host": "www.cnbc.com",
+            "path": "/life/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${name}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "wealth",
+            "label": "Wealth",
+            "host": "www.cnbc.com",
+            "path": "/wealth/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${name}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "small_business",
+            "label": "Small Business",
+            "host": "www.cnbc.com",
+            "path": "/SMALL-BUSINESS/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${name}:${currentDocNID}"
+              }
+            },
+            "items": []
+          }
+        ],
+        "source": {}
+      },
+      {
+        "name": "investing",
+        "label": "Investing",
+        "host": "www.cnbc.com",
+        "path": "/investing/",
+        "attr": {
+          "data": {
+            "trknavattr": "navigation:${parent}:${name}:${currentDocNID}"
+          }
+        },
+        "items": [
+          {
+            "name": "personal_finance",
+            "label": "Personal Finance",
+            "host": "www.cnbc.com",
+            "path": "/personal-finance/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${name}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "financial_advisors",
+            "label": "Financial Advisors",
+            "host": "www.cnbc.com",
+            "path": "/financial-advisors/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${name}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "trading_nation",
+            "label": "Trading Nation",
+            "host": "www.cnbc.com",
+            "path": "/trading-nation/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${name}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "etf_street",
+            "label": "ETF Street",
+            "host": "www.cnbc.com",
+            "path": "/etf-street/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${name}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "buffett_watch",
+            "label": "Buffett Watch",
+            "host": "www.cnbc.com",
+            "path": "/buffett-watch/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${name}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "earnings",
+            "label": "Earnings",
+            "host": "www.cnbc.com",
+            "path": "/earnings/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${name}:${currentDocNID}"
+              }
+            },
+            "items": []
+          }
+        ],
+        "source": {}
+      },
+      {
+        "name": "tech",
+        "label": "Tech",
+        "host": "www.cnbc.com",
+        "path": "/technology/",
+        "attr": {
+          "data": {
+            "trknavattr": "navigation:${parent}:${label}:${currentDocNID}"
+          }
+        },
+        "items": [
+          {
+            "name": "cybersecurity",
+            "label": "Cybersecurity",
+            "host": "www.cnbc.com",
+            "path": "/cybersecurity/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${label}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "enterprise",
+            "label": "Enterprise",
+            "host": "www.cnbc.com",
+            "path": "/enterprise/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${label}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "internet",
+            "label": "Internet",
+            "host": "www.cnbc.com",
+            "path": "/internet/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${label}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "media",
+            "label": "Media",
+            "host": "www.cnbc.com",
+            "path": "/media/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${label}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "mobile",
+            "label": "Mobile",
+            "host": "www.cnbc.com",
+            "path": "/mobile/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${label}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "social_media",
+            "label": "Social Media",
+            "host": "www.cnbc.com",
+            "path": "/social-media/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${label}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "venture_capital",
+            "label": "Venture Capital",
+            "host": "www.cnbc.com",
+            "path": "/venture-capital/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${label}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "tech_guide",
+            "label": "Tech Guide",
+            "host": "www.cnbc.com",
+            "path": "/tech-guide/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${label}:${currentDocNID}"
+              }
+            },
+            "items": []
+          }
+        ],
+        "source": {}
+      },
+      {
+        "name": "politics",
+        "label": "Politics",
+        "host": "www.cnbc.com",
+        "path": "/politics/",
+        "attr": {
+          "data": {
+            "trknavattr": "navigation:${parent}:${label}:${currentDocNID}"
+          }
+        },
+        "items": [
+          {
+            "name": "congress",
+            "label": "Congress",
+            "host": "www.cnbc.com",
+            "path": "/congress/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${label}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "elections",
+            "label": "Elections",
+            "host": "www.cnbc.com",
+            "path": "/elections/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${label}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "law",
+            "label": "Law",
+            "host": "www.cnbc.com",
+            "path": "/law/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${label}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "taxes",
+            "label": "Taxes",
+            "host": "www.cnbc.com",
+            "path": "/taxes/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${label}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "policy",
+            "label": "Policy",
+            "host": "www.cnbc.com",
+            "path": "/policy/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${label}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "white_house",
+            "label": "White House",
+            "host": "www.cnbc.com",
+            "path": "/white-house/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${label}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "defense",
+            "label": "Defense",
+            "host": "www.cnbc.com",
+            "path": "/defense/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${label}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "china_asia_pacific",
+            "label": "China & Asia-Pacific",
+            "host": "www.cnbc.com",
+            "path": "/china-asia-pacific/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${label}:${currentDocNID}"
+              }
+            },
+            "region": "USA",
+            "items": []
+          },
+          {
+            "name": "europe",
+            "label": "Europe",
+            "host": "www.cnbc.com",
+            "path": "/europe-politics/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${label}:${currentDocNID}"
+              }
+            },
+            "items": []
+          },
+          {
+            "name": "world",
+            "label": "World",
+            "host": "www.cnbc.com",
+            "path": "/world-politics/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${label}:${currentDocNID}"
+              }
+            },
+            "items": []
+          }
+        ],
+        "source": {}
+      },
+      {
+        "name": "cnbc_tv",
+        "label": "CNBC TV",
+        "host": "www.cnbc.com",
+        "path": "/live-tv/",
+        "attr": {
+          "data": {
+            "trknavattr": "navigation:${parent}:${label}:${currentDocNID}"
+          }
+        },
+        "items": [
+          {
+            "name": "live_tv",
+            "label": "Live TV",
+            "host": "www.cnbc.com",
+            "path": "/live-tv/?trknav=navigation:shows:watchlive:46",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${label}:${currentDocNID}"
+              }
+            },
+            "region": "USA",
+            "items": []
+          },
+          {
+            "name": "latest_videos",
+            "label": "Latest Videos",
+            "host": "www.cnbc.com",
+            "path": "/video/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${label}:${currentDocNID}"
+              }
+            },
+            "region": "USA",
+            "items": []
+          },
+          {
+            "name": "business_day_shows",
+            "label": "Business Day Shows",
+            "host": "www.cnbc.com",
+            "path": "/tv/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${label}:${currentDocNID}"
+              }
+            },
+            "region": "USA",
+            "items": []
+          },
+          {
+            "name": "primetime_shows",
+            "label": "Primetime Shows",
+            "host": "www.cnbc.com",
+            "path": "/make-it/shows/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${label}:${currentDocNID}"
+              }
+            },
+            "region": "USA",
+            "items": []
+          },
+          {
+            "name": "digital_originals",
+            "label": "Digital Originals",
+            "host": "www.cnbc.com",
+            "path": "/digital-original/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${label}:${currentDocNID}"
+              }
+            },
+            "region": "USA",
+            "items": []
+          },
+          {
+            "name": "full_episodes",
+            "label": "Full Episodes",
+            "host": "www.cnbc.com",
+            "path": "/live-tv/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${label}:${currentDocNID}"
+              }
+            },
+            "region": "USA",
+            "items": []
+          },
+          {
+            "name": "podcasts",
+            "label": "Podcasts",
+            "host": "www.cnbc.com",
+            "path": "/podcasts/",
+            "attr": {
+              "data": {
+                "trknavattr": "navigation:${parent}:${label}:${currentDocNID}"
+              }
+            },
+            "items": []
+          }
+        ],
+        "source": {}
+      },
+      {
+        "name": "dynamic",
+        "source": {
+          "name": "CAPI",
+          "path": "/list/id/",
+          "id": "104847365"
+        },
+        "attr": {
+          "parent": {
+            "data": {
+              "trknavattr": "navigation:${parent}:${name}:${currentDocNID}"
+            }
+          },
+          "child": {
+            "data": {
+              "trknavattr": "navigation:${parent}:${self}:${currentDocNID}"
+            }
+          }
+        },
+        "items": []
+      }
+    ],
+    "featured": [
+      {
+        "name": "user_signin",
+        "label": "Sign In",
+        "host": "www.cnbc.com",
+        "path": "javascript:void(0);",
+        "attr": {
+          "data": {
+            "trknavattr": "featured:${parent}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      },
+      {
+        "name": "account",
+        "label": "Account",
+        "host": "//www.cnbc.com",
+        "path": "/account/#profile",
+        "attr": {
+          "data": {
+            "trknavattr": "featured:${parent}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      },
+      {
+        "name": "pro_subscriber",
+        "label": "Pro",
+        "host": "www.cnbc.com",
+        "path": "/pro/",
+        "attr": {
+          "data": {
+            "trknavattr": "featured:${parent}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      },
+      {
+        "name": "watchlist",
+        "label": "Watchlist",
+        "host": "watchlist.cnbc.com",
+        "path": "/",
+        "attr": {
+          "data": {
+            "trknavattr": "featured:${parent}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      },
+      {
+        "name": "makeit",
+        "label": "Make It",
+        "host": "www.cnbc.com",
+        "path": "/makeit/",
+        "attr": {
+          "data": {
+            "trknavattr": "featured:${parent}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      }
+    ],
+    "edition": [
+      {
+        "name": "us_edition",
+        "label": "USA",
+        "host": "www.cnbc.com",
+        "path": "/",
+        "attr": {
+          "data": {
+            "trknavattr": "navigation:${parent}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      },
+      {
+        "name": "international_edition",
+        "label": "INTL",
+        "host": "www.cnbc.com",
+        "path": "/world/",
+        "attr": {
+          "data": {
+            "trknavattr": "navigation:${parent}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      }
+    ]
+  },
+  "footer": {
+    "hosts": {
+      "cnbc": "//localhost:3000/us-homepage",
+      "buffett": "//localhost:3000/buffett",
+      "makeit": "//localhost:3000"
+    },
+    "main": [
+      {
+        "name": "about_cnbc",
+        "label": "About CNBC",
+        "host": "www.cnbc.com",
+        "path": "/id/15907487",
+        "attr": {
+          "data": {
+            "trknavattr": "footer:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "region": "USA",
+        "items": []
+      },
+      {
+        "name": "sitemap",
+        "label": "Site Map",
+        "host": "www.cnbc.com",
+        "path": "/id/15920090",
+        "attr": {
+          "data": {
+            "trknavattr": "footer:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      },
+      {
+        "name": "digital_products",
+        "label": "Digital Products",
+        "host": "www.cnbc.com",
+        "path": "/digital-products/",
+        "attr": {
+          "data": {
+            "trknavattr": "footer:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      },
+      {
+        "name": "podcasts",
+        "label": "Podcasts",
+        "host": "www.cnbc.com",
+        "path": "/podcasts/",
+        "attr": {
+          "data": {
+            "trknavattr": "footer:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      },
+      {
+        "name": "help",
+        "label": "Help",
+        "host": "https://cnbcllca.custhelp.com",
+        "path": "/",
+        "attr": {
+          "data": {
+            "trknavattr": "footer:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      },
+      {
+        "name": "contact",
+        "label": "Contact",
+        "host": "https://cnbcllca.custhelp.com",
+        "path": "/app/ask/",
+        "attr": {
+          "data": {
+            "trknavattr": "footer:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      },
+      {
+        "name": "careers",
+        "label": "Careers",
+        "host": "www.cnbc.com",
+        "path": "/cnbc-careers-and-employment/",
+        "attr": {
+          "data": {
+            "trknavattr": "footer:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      },
+      {
+        "name": "advertise",
+        "label": "Advertise With Us",
+        "host": "www.cnbc.com",
+        "path": "/advertising-and-partnerships/",
+        "attr": {
+          "data": {
+            "trknavattr": "footer:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      },
+      {
+        "name": "licensing_and_reprints",
+        "label": "Licensing & Reprints",
+        "host": "www.cnbc.com",
+        "path": "/cnbc-reprints/",
+        "attr": {
+          "data": {
+            "trknavattr": "footer:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      },
+      {
+        "name": "corrections",
+        "label": "Corrections",
+        "host": "www.cnbc.com",
+        "path": "/corrections/",
+        "attr": {
+          "data": {
+            "trknavattr": "footer:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      },
+      {
+        "name": "independent_programming",
+        "label": "Independent Programming",
+        "host": "https://corporate.comcast.com",
+        "path": "/news-information/nbcuniversal-transaction/independent-programming/",
+        "attr": {
+          "data": {
+            "trknavattr": "footer:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      },
+      {
+        "name": "closed_captioning",
+        "label": "Closed Captioning",
+        "host": "www.cnbc.com",
+        "path": "/closed-captioning/",
+        "attr": {
+          "data": {
+            "trknavattr": "footer:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      },
+      {
+        "name": "cnbc_panel",
+        "label": "Join the CNBC Panel",
+        "host": "https://cnbcexchange.vcsurveys.com",
+        "path": "/c/a/5bz17E1ICrI1gVk4ZBAbCA",
+        "attr": {
+          "data": {
+            "trknavattr": "footer:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      },
+      {
+        "name": "privacy_policy",
+        "label": "Privacy Policy",
+        "host": "https://www.nbcuniversal.com",
+        "path": "/privacy/",
+        "attr": {
+          "data": {
+            "trknavattr": "footer:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      },
+      {
+        "name": "terms_of_service",
+        "label": "Terms of Service",
+        "host": "www.cnbc.com",
+        "path": "/nbcuniversal-terms-of-service/",
+        "attr": {
+          "data": {
+            "trknavattr": "footer:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      },
+      {
+        "name": "newsletter_link",
+        "label": "Sign Up Now",
+        "host": "www.cnbc.com",
+        "path": "/sign-up-for-cnbc-newsletters/",
+        "attr": {
+          "data": {
+            "trknavattr": "footer:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      },
+      {
+        "name": "news_tips_link",
+        "label": "Get In Touch",
+        "host": "www.cnbc.com",
+        "path": "/news-tips/",
+        "attr": {
+          "data": {
+            "trknavattr": "footer:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      },
+      {
+        "name": "subscribe_with_icon",
+        "label": "Subscribe to CNBC PRO",
+        "host": "www.cnbc.com",
+        "path": "/application/pro/?__source=pro|display|cnbc|house|PRO_Footer_MktgPg/",
+        "attr": {
+          "data": {
+            "trknavattr": "footer:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      }
+    ],
+    "social": [
+      {
+        "name": "facebook",
+        "label": "",
+        "icon": {
+          "placement": "center",
+          "url": "TODO",
+          "alt": "CNBC on Instagram",
+          "title": "CNBC on Instagram"
+        },
+        "host": "https://www.facebook.com",
+        "path": "/cnbc/",
+        "attr": {
+          "data": {
+            "trknavattr": "footer:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "region": "USA",
+        "items": []
+      },
+      {
+        "name": "twitter",
+        "label": "",
+        "icon": {
+          "placement": "center",
+          "url": "TODO",
+          "alt": "CNBC on Instagram",
+          "title": "CNBC on Instagram"
+        },
+        "host": "https://www.twitter.com",
+        "path": "/cnbc/",
+        "attr": {
+          "data": {
+            "trknavattr": "footer:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "region": "USA",
+        "items": []
+      },
+      {
+        "name": "linkedin",
+        "label": "",
+        "icon": {
+          "placement": "center",
+          "url": "TODO",
+          "alt": "CNBC on Instagram",
+          "title": "CNBC on Instagram"
+        },
+        "host": "https://www.linkedin.com",
+        "path": "/company/cnbc/",
+        "attr": {
+          "data": {
+            "trknavattr": "footer:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "region": "USA",
+        "items": []
+      },
+      {
+        "name": "instagram",
+        "label": "",
+        "icon": {
+          "placement": "center",
+          "url": "TODO",
+          "alt": "CNBC on Instagram",
+          "title": "CNBC on Instagram"
+        },
+        "host": "https://www.instagram.com",
+        "path": "/cnbc/",
+        "attr": {
+          "data": {
+            "trknavattr": "footer:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "region": "USA",
+        "items": []
+      },
+      {
+        "name": "youtube",
+        "label": "",
+        "icon": {
+          "placement": "center",
+          "url": "TODO",
+          "alt": "CNBC on Instagram",
+          "title": "CNBC on Instagram"
+        },
+        "host": "https://www.youtube.com",
+        "path": "/user/cnbc/",
+        "attr": {
+          "data": {
+            "trknavattr": "footer:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "region": "USA",
+        "items": []
+      },
+      {
+        "name": "apple_news",
+        "label": "",
+        "icon": {
+          "placement": "center",
+          "url": "TODO",
+          "alt": "CNBC on Instagram",
+          "title": "CNBC on Instagram"
+        },
+        "host": "https://apple.news",
+        "path": "/T3OtoXcxtRkuHRkM7SpFP_Q",
+        "attr": {
+          "data": {
+            "trknavattr": "footer:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      },
+      {
+        "name": "rss",
+        "label": "",
+        "icon": {
+          "placement": "center",
+          "url": "TODO",
+          "alt": "CNBC on Instagram",
+          "title": "CNBC on Instagram"
+        },
+        "host": "www.cnbc.com",
+        "path": "/id/28295763/",
+        "attr": {
+          "data": {
+            "trknavattr": "footer:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      }
+    ]
+  }
+}

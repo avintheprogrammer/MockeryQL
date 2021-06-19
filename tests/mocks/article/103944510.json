@@ -1,0 +1,4245 @@
+{
+  "data": {
+    "article": {
+      "id": "103944510",
+      "type": "cnbcnewsstory",
+      "brand": "cnbc",
+      "slug": "Test Story Without Make IT Skin",
+      "headline": "Link Headline - Test Story Without Make IT Skin",
+      "title": "Link Headline - Test Story Without Make IT Skin",
+      "description": "Summary - Test Story Without Make IT Skin",
+      "premium": false,
+      "native": false,
+      "body": [{
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": [{
+                "type": "Element",
+                "tagName": "p",
+                "attributes": {},
+                "children": [{
+                  "type": "Text",
+                  "content": "CSV Chart"
+                }]
+              }]
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": [{
+                "type": "Element",
+                "tagName": "asset",
+                "attributes": {
+                  "type": "chart",
+                  "headline": "CSV Chart Example",
+                  "datePublished": "2017-10-31T18:54:21 GMT",
+                  "chartType": "csv",
+                  "rows": [
+                    [
+                      "Complaint",
+                      "Percent of complaints"
+                    ],
+                    [
+                      "Attmepts to collect debt not owed",
+                      "51%"
+                    ],
+                    [
+                      "Improper communication tactics",
+                      "20%"
+                    ],
+                    [
+                      "Other",
+                      "18%"
+                    ],
+                    [
+                      "Insufficient written notice",
+                      "11%"
+                    ],
+                    [
+                      ""
+                    ]
+                  ],
+                  "rowHeader": true,
+                  "columnHeader": false
+                },
+                "children": []
+              }]
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": [{
+                "type": "Element",
+                "tagName": "p",
+                "attributes": {},
+                "children": [{
+                  "type": "Text",
+                  "content": "Infographic Chart"
+                }]
+              }]
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": [{
+                "type": "Element",
+                "tagName": "asset",
+                "attributes": {
+                  "type": "chart",
+                  "headline": "Heinz brands info graphic",
+                  "datePublished": "2013-02-14T15:34:37 GMT"
+                },
+                "children": []
+              }]
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": [{
+                "type": "Element",
+                "tagName": "p",
+                "attributes": {},
+                "children": [{
+                  "type": "Text",
+                  "content": "Data Chart"
+                }]
+              }]
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {
+                "group_asset": 1
+              },
+              "children": [{
+                "type": "Element",
+                "tagName": "asset",
+                "attributes": {
+                  "type": "chart",
+                  "headline": "One time use: \" How Much\" where freelancers make the most relative to the cost of living map",
+                  "datePublished": "2017-10-12T15:42:53 GMT",
+                  "chartType": "image",
+                  "file": "2017/10/12/howmuchfreelancemap.jpg"
+                },
+                "children": []
+              }]
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": [{
+                "type": "Element",
+                "tagName": "asset",
+                "attributes": {
+                  "type": "chart",
+                  "headline": "Market Chart Test",
+                  "datePublished": "2017-11-01T18:41:11 GMT",
+                  "chartType": "stock",
+                  "headers": [
+                    "Exchange",
+                    "Change",
+                    "Price"
+                  ],
+                  "timeFrame": "6 Months",
+                  "tickerIssueIDs": [
+                    "111081688",
+                    "83312",
+                    "418001519",
+                    "436305825"
+                  ]
+                },
+                "children": []
+              }]
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": [{
+                "type": "Element",
+                "tagName": "asset",
+                "attributes": {
+                  "type": "chart",
+                  "headline": "Markit PMI GDP data chart",
+                  "datePublished": "2016-06-29T11:13:26 GMT"
+                },
+                "children": []
+              }]
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": [{
+                "type": "Element",
+                "tagName": "asset",
+                "attributes": {
+                  "type": "chart",
+                  "headline": "Holiday Gift Cards DATA CHART CHEMI 141210",
+                  "datePublished": "2014-12-10T15:57:40 GMT",
+                  "chartType": "csv",
+                  "rows": [
+                    [
+                      "Pct shopped in past month",
+                      "Store"
+                    ],
+                    [
+                      "83%",
+                      "Kohl's"
+                    ],
+                    [
+                      "68%",
+                      "Old Navy"
+                    ],
+                    [
+                      "66%",
+                      "TJ Maxx"
+                    ],
+                    [
+                      "61%",
+                      "Burlington Coat Factory"
+                    ],
+                    [
+                      "61%",
+                      "Gap"
+                    ],
+                    [
+                      "60%",
+                      "Walmart"
+                    ],
+                    [
+                      "52%",
+                      "Target"
+                    ],
+                    [
+                      "51%",
+                      "Home Depot"
+                    ],
+                    [
+                      "51%",
+                      "famous footwear"
+                    ],
+                    [
+                      "50%",
+                      "Walgreens"
+                    ],
+                    [
+                      "40%",
+                      "DSW"
+                    ],
+                    [
+                      "36%",
+                      "Sports Authority"
+                    ],
+                    [
+                      "33%",
+                      "LL Bean (online)"
+                    ],
+                    [
+                      "33%",
+                      "Lands' End (online)"
+                    ],
+                    [
+                      "27%",
+                      "Zappos.com"
+                    ],
+                    [
+                      ""
+                    ]
+                  ],
+                  "rowHeader": true,
+                  "columnHeader": false
+                },
+                "children": []
+              }]
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": [{
+                "type": "Element",
+                "tagName": "asset",
+                "attributes": {
+                  "type": "chart",
+                  "headline": "Birinyi buyback data chart",
+                  "datePublished": "2013-11-04T21:39:01 GMT"
+                },
+                "children": []
+              }]
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": [{
+                "type": "Element",
+                "tagName": "asset",
+                "attributes": {
+                  "type": "chart",
+                  "headline": "Reusable: Henrietta Leavitt’s star data chart",
+                  "datePublished": "2013-10-25T14:41:05 GMT"
+                },
+                "children": []
+              }]
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": [{
+                "type": "Element",
+                "tagName": "asset",
+                "attributes": {
+                  "type": "chart",
+                  "headline": "Reusable: Ignaz Semmelweis’s germ theory data chart",
+                  "datePublished": "2013-10-25T14:37:04 GMT"
+                },
+                "children": []
+              }]
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": [{
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Text",
+                    "content": "-----------------------------"
+                  }]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                      "type": "Element",
+                      "tagName": "strong",
+                      "attributes": {},
+                      "children": []
+                    },
+                    {
+                      "type": "Text",
+                      "content": "Wildcard embed"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": [{
+                "type": "Element",
+                "tagName": "asset",
+                "attributes": {
+                  "settings": {
+                    "commentsEnabled": "Yes",
+                    "socialtoolsEnabled": "Yes",
+                    "dateline": "Yes",
+                    "displayByline": "Yes",
+                    "displaySource": "Yes",
+                    "outbrainEnabled": "Yes",
+                    "listType": "Virtual"
+                  },
+                  "id": "104770291",
+                  "type": "wildcard",
+                  "slug": "Phoenix Wilcard sample",
+                  "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/104770291",
+                  "datePublished": "2017-11-08T21:48:45 GMT",
+                  "wildcard": {
+                    "wildcardContent": {
+                      "cdata": "<style>\r\n  .crazy-div {\r\n      animation: colorchange 5s infinite; /* animation-name followed by duration in seconds*/\r\n         /* you could also use milliseconds (ms) or something like 2.5s */\r\n      -webkit-animation: colorchange 5s infinite; /* Chrome and Safari */\r\n    }\r\n\r\n    @keyframes colorchange\r\n    {\r\n      0%   {background: red;}\r\n      25%  {background: yellow;}\r\n      50%  {background: blue;}\r\n      75%  {background: green;}\r\n      100% {background: red;}\r\n    }\r\n\r\n    @-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */\r\n    {\r\n      0%   {background: red;}\r\n      25%  {background: yellow;}\r\n      50%  {background: blue;}\r\n      75%  {background: green;}\r\n      100% {background: red;}\r\n    }\r\n</style>\r\n\r\n<div class=\"crazy-div\" style=\"height:250px;width:100%\"></div>"
+                    },
+                    "wildcardPromo": {
+                      "cdata": "<style>\r\n  .crazy-div {\r\n      animation: colorchange 5s infinite; /* animation-name followed by duration in seconds*/\r\n         /* you could also use milliseconds (ms) or something like 2.5s */\r\n      -webkit-animation: colorchange 5s infinite; /* Chrome and Safari */\r\n    }\r\n\r\n    @keyframes colorchange\r\n    {\r\n      0%   {background: red;}\r\n      25%  {background: yellow;}\r\n      50%  {background: blue;}\r\n      75%  {background: green;}\r\n      100% {background: red;}\r\n    }\r\n\r\n    @-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */\r\n    {\r\n      0%   {background: red;}\r\n      25%  {background: yellow;}\r\n      50%  {background: blue;}\r\n      75%  {background: green;}\r\n      100% {background: red;}\r\n    }\r\n</style>\r\n\r\n<div class=\"crazy-div\" style=\"height:250px;width:100%\"></div>"
+                    }
+                  },
+                  "publisher": {
+                    "name": "CNBC",
+                    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+                  },
+                  "relation": [{
+                    "position": 66,
+                    "relationType": "primary"
+                  }]
+                },
+                "children": []
+              }]
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": [{
+                "type": "Element",
+                "tagName": "p",
+                "attributes": {},
+                "children": [{
+                  "type": "Element",
+                  "tagName": "strong",
+                  "attributes": {
+                    "className": [
+                      ""
+                    ]
+                  },
+                  "children": [{
+                    "type": "Text",
+                    "content": "THIS IS THE BODY NOW"
+                  }]
+                }]
+              }]
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": [{
+                "type": "Text",
+                "content": "Subtitle"
+              }]
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Text",
+                    "content": "iOS is better than Android!"
+                  }]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Text",
+                    "content": "CEO, Google"
+                  }]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Text",
+                    "content": "Larry Page"
+                  }]
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": [{
+                "type": "Text",
+                "content": "Gold prices have fluctuated, hitting some price earlier this week. Even as the"
+              }]
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": [{
+                "type": "Element",
+                "tagName": "p",
+                "attributes": {},
+                "children": [{
+                  "type": "Element",
+                  "tagName": "strong",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Text",
+                    "content": " yellow "
+                  }]
+                }]
+              }]
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": [{
+                "type": "Text",
+                "content": "metal has pulled back from those highs in the last two sessions, someone expect"
+              }]
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": [{
+                "type": "Element",
+                "tagName": "p",
+                "attributes": {},
+                "children": [{
+                  "type": "Element",
+                  "tagName": "sup",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Text",
+                    "content": "s th"
+                  }]
+                }]
+              }]
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": [{
+                "type": "Text",
+                "content": "ese di"
+              }]
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": [{
+                "type": "Element",
+                "tagName": "p",
+                "attributes": {},
+                "children": [{
+                  "type": "Element",
+                  "tagName": "sup",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Text",
+                    "content": "ps to arise"
+                  }]
+                }]
+              }]
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": [{
+                "type": "Text",
+                "content": "as buyin"
+              }]
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": [{
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Element",
+                    "tagName": "sub",
+                    "attributes": {},
+                    "children": [{
+                      "type": "Text",
+                      "content": "g"
+                    }]
+                  }]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Element",
+                    "tagName": "sub",
+                    "attributes": {},
+                    "children": [{
+                      "type": "Text",
+                      "content": "Company"
+                    }]
+                  }]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": [{
+                "type": "Element",
+                "tagName": "asset",
+                "attributes": {
+                  "type": "company",
+                  "headline": "Beleave Inc T:BLEVF",
+                  "title": "Beleave Inc",
+                  "tickerSymbol": " NULL",
+                  "render": "large"
+                },
+                "children": []
+              }]
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": [{
+                "type": "Element",
+                "tagName": "p",
+                "attributes": {},
+                "children": [{
+                  "type": "Text",
+                  "content": "Security"
+                }]
+              }]
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": [{
+                "type": "Element",
+                "tagName": "asset",
+                "attributes": {
+                  "type": "security",
+                  "headline": "Novume Solutions Inc T:NVMMP",
+                  "title": "Novume Solutions Inc",
+                  "datePublished": "2017-10-02T12:31:06 GMT",
+                  "name": "Novume Solutions Inc",
+                  "tickerSymbol": "OTCQX NVMMP",
+                  "render": "small"
+                },
+                "children": []
+              }]
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": [{
+                "type": "Text",
+                "content": "opportunities for investors."
+              }]
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": [{
+                  "type": "Element",
+                  "tagName": "blockquote",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Element",
+                    "tagName": "p",
+                    "attributes": {},
+                    "children": [{
+                        "type": "Text",
+                        "content": "Gold started the year \"and it hasn't looked back,\" someone said. \"While the first six weeks of 2016 were to develop, the Fed's inability to secure more rate hikes, or even convince the market they were "
+                      },
+                      {
+                        "type": "Element",
+                        "tagName": "em",
+                        "attributes": {},
+                        "children": [{
+                          "type": "Text",
+                          "content": "coming , fueled the rally we are seeing,\" he added."
+                        }]
+                      }
+                    ]
+                  }]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                      "type": "Element",
+                      "tagName": "em",
+                      "attributes": {
+                        "style": {
+                          "fontSize": "1.1em"
+                        }
+                      },
+                      "children": [{
+                          "type": "Text",
+                          "content": "A "
+                        },
+                        {
+                          "type": "Element",
+                          "tagName": "strong",
+                          "attributes": {},
+                          "children": [{
+                            "type": "Text",
+                            "content": "Natural&#160;"
+                          }]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "Element",
+                      "tagName": "em",
+                      "attributes": {
+                        "style": {
+                          "fontSize": "1.1em"
+                        }
+                      },
+                      "children": [{
+                          "type": "Text",
+                          "content": "Defense "
+                        },
+                        {
+                          "type": "Element",
+                          "tagName": "sub",
+                          "attributes": {},
+                          "children": [{
+                            "type": "Text",
+                            "content": "Council"
+                          }]
+                        },
+                        {
+                          "type": "Text",
+                          "content": " "
+                        },
+                        {
+                          "type": "Element",
+                          "tagName": "sup",
+                          "attributes": {},
+                          "children": [{
+                            "type": "Text",
+                            "content": "study"
+                          }]
+                        },
+                        {
+                          "type": "Text",
+                          "content": " "
+                        },
+                        {
+                          "type": "Element",
+                          "tagName": "a",
+                          "attributes": {
+                            "href": "http://www.google.com"
+                          },
+                          "children": [{
+                            "type": "Text",
+                            "content": "recently"
+                          }]
+                        },
+                        {
+                          "type": "Text",
+                          "content": " "
+                        },
+                        {
+                          "type": "Element",
+                          "tagName": "a",
+                          "attributes": {
+                            "id": "1504327",
+                            "type": "company",
+                            "headline": "Comcast Corp  T:CMCSA",
+                            "title": "Comcast Corp",
+                            "href": "/quotes/?symbol=NASDAQ CMCSA"
+                          },
+                          "children": [{
+                            "type": "Text",
+                            "content": "found"
+                          }]
+                        },
+                        {
+                          "type": "Text",
+                          "content": " € asÁ much as 40 percent of the food supply in the U.S. goes uneaten. Meanwhile, 20 percent of all produce is wasted in the U.S. because shoppers think it's not \"perfect\" in"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Element",
+                    "tagName": "em",
+                    "attributes": {
+                      "style": {
+                        "fontSize": "1.1em"
+                      }
+                    },
+                    "children": [{
+                      "type": "Text",
+                      "content": "."
+                    }]
+                  }]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "ol",
+                  "attributes": {},
+                  "children": [{
+                      "type": "Element",
+                      "tagName": "li",
+                      "attributes": {},
+                      "children": [{
+                        "type": "Text",
+                        "content": "Number 1"
+                      }]
+                    },
+                    {
+                      "type": "Element",
+                      "tagName": "li",
+                      "attributes": {},
+                      "children": [{
+                        "type": "Text",
+                        "content": "Number 2"
+                      }]
+                    },
+                    {
+                      "type": "Element",
+                      "tagName": "li",
+                      "attributes": {},
+                      "children": [{
+                        "type": "Text",
+                        "content": "Number 3"
+                      }]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": [{
+                "type": "Element",
+                "tagName": "asset",
+                "attributes": {
+                  "id": 104385950,
+                  "type": "cnbcvideo",
+                  "headline": "makeit highpayingjobs grad degree 2",
+                  "title": "High-paying jobs that make getting a graduate degree worth it",
+                  "url": "http://qa-pa13pub.cnbc.com/video/2017/04/05/high-paying-jobs-that-make-getting-a-graduate-degree-worth-it.html",
+                  "show": "Make It",
+                  "description": "From podiatrists to patent attorneys, these jobs rake in a lot of money.",
+                  "thumbnail": "http://img-static-qa1.cnbc.com/image/104385951-thumbnail.jpg?v=1491400029",
+                  "duration": 50
+                },
+                "children": []
+              }]
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": [{
+                  "type": "Element",
+                  "tagName": "ul",
+                  "attributes": {},
+                  "children": [{
+                      "type": "Element",
+                      "tagName": "li",
+                      "attributes": {},
+                      "children": [{
+                        "type": "Text",
+                        "content": "Bullet 1"
+                      }]
+                    },
+                    {
+                      "type": "Element",
+                      "tagName": "li",
+                      "attributes": {},
+                      "children": [{
+                        "type": "Text",
+                        "content": "Bullet 2"
+                      }]
+                    },
+                    {
+                      "type": "Element",
+                      "tagName": "li",
+                      "attributes": {},
+                      "children": [{
+                        "type": "Text",
+                        "content": "Bullet 3"
+                      }]
+                    }
+                  ]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "ol",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Element",
+                    "tagName": "ol",
+                    "attributes": {},
+                    "children": [{
+                        "type": "Element",
+                        "tagName": "li",
+                        "attributes": {},
+                        "children": [{
+                          "type": "Element",
+                          "tagName": "em",
+                          "attributes": {},
+                          "children": [{
+                            "type": "Text",
+                            "content": "Number 1"
+                          }]
+                        }]
+                      },
+                      {
+                        "type": "Element",
+                        "tagName": "li",
+                        "attributes": {},
+                        "children": [{
+                          "type": "Element",
+                          "tagName": "em",
+                          "attributes": {},
+                          "children": [{
+                            "type": "Text",
+                            "content": "Number 2"
+                          }]
+                        }]
+                      },
+                      {
+                        "type": "Element",
+                        "tagName": "li",
+                        "attributes": {},
+                        "children": [{
+                          "type": "Element",
+                          "tagName": "em",
+                          "attributes": {},
+                          "children": [{
+                            "type": "Text",
+                            "content": "Number 3"
+                          }]
+                        }]
+                      }
+                    ]
+                  }]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "ol",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "ol",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {
+                "group_asset": 1
+              },
+              "children": [{
+                  "type": "Element",
+                  "tagName": "asset",
+                  "attributes": {
+                    "type": "security",
+                    "headline": "American Century Mid Cap Value Fund Investor Class T:ACMVX",
+                    "title": "American Century Mid Cap Value Fund Investor Class",
+                    "datePublished": "2015-09-11T18:29:17 GMT",
+                    "name": "American Century Mid Cap Value Fund Investor Class",
+                    "tickerSymbol": "NASDAQ ACMVX-O",
+                    "render": "small"
+                  },
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "asset",
+                  "attributes": {
+                    "settings": {
+                      "commentsEnabled": "Yes",
+                      "socialtoolsEnabled": "Yes",
+                      "dateline": "Yes",
+                      "displayByline": "Yes",
+                      "displaySource": "Yes",
+                      "outbrainEnabled": "Yes",
+                      "listType": "Virtual"
+                    },
+                    "id": "104705692",
+                    "type": "wildcard",
+                    "slug": "GDP chart",
+                    "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/104705692",
+                    "datePublished": "2017-09-12T19:59:40 GMT",
+                    "wildcard": {
+                      "wildcardContent": {
+                        "cdata": "<!-- PLACE EMBED IN WILDCARD PROMOR TEXT FIELD IN PROMOTIONAL VIEW TAB-->"
+                      },
+                      "wildcardPromo": {
+                        "cdata": "<link href=\"https://fm.cnbc.com/applications/cnbc.com/resources/styles/skin/DATA-VISUALISATION/HIGHCHARTS/css/chart.css\" rel=\"stylesheet\" />\r\n<script>postLoadFunctions = postLoadFunctions || {};postLoadFunctions.highchart = function(){\r\nfunction loadScripts(array,callback){var loader = function(src,handler){var script = document.createElement(\"script\");script.src = src;script.onload = script.onreadystatechange = function(){script.onreadystatechange = script.onload = null;handler();}\r\nvar domNode = document.getElementsByTagName(\"body\")[0];(domNode || document.body).appendChild( script );};(function(){if(array.length!=0){loader(array.shift(),arguments.callee);}else{callback && callback();}})();}loadScripts([\"https://code.highcharts.com/stock/highstock.js\",\"https://code.highcharts.com/highcharts-more.js\",\"https://code.highcharts.com/highcharts-3d.js\",\"https://code.highcharts.com/modules/exporting.js\"],function(){\r\nHighcharts.setOptions({chart:{renderTo: \"container\",events:{load: function (){this.renderer.image(\"https://fm.cnbc.com/applications/cnbc.com/resources/styles/skin/DATA-VISUALIZATION/logos/cnbc-logo-charts.png\", 10, this.chartHeight - 15, 100, 15).add();}},style:{fontFamily:\"Gotham Narrow SSm 4r\"}},title:{align: \"left\",x: 20,style:{fontSize: \"22px\",fontFamily:\"Gotham Narrow SSm 5r\",fontWeight:\"bold\",textAlign:\"left\"}},subtitle:{align: \"left\",x: 20, style:{fontSize: \"18px\",fontFamily:\"Gotham Narrow SSm 5r\",textAlign:\"left\"}}});\r\nvar options = {\r\n\t\"chart\": {\r\n\t\t\"type\": \"column\",\r\n\t\t\"inverted\": true,\r\n\t\t\"width\": 420,\r\n\t\t\"height\": 300\r\n\t},\r\n\t\"title\": {\r\n\t\t\"text\": \"Gross Domestic Product\"\r\n\t},\r\n\t\"subtitle\": {\r\n\t\t\"text\": \"Spain and Catalonia\"\r\n\t},\r\n\t\"yAxis\": {\r\n\t\t\"title\": {\r\n\t\t\t\"text\": \"GDP (in thousands of euros)\"\r\n\t\t}\r\n\t},\r\n\t\"xAxis\": {\r\n\t\t\"title\": {\r\n\t\t\t\"text\": null\r\n\t\t},\r\n\t\t\"type\": \"category\"\r\n\t},\r\n\t\"colors\": [\r\n\t\t\"#7cb5ec\",\r\n\t\t\"#34346e\",\r\n\t\t\"#90ed7d\",\r\n\t\t\"#f7a35c\",\r\n\t\t\"#8085e9\",\r\n\t\t\"#f15c80\",\r\n\t\t\"#e4d354\",\r\n\t\t\"#2b908f\",\r\n\t\t\"#f45b5b\",\r\n\t\t\"#91e8e1\"\r\n\t],\r\n\t\"series\": [\r\n\t\t{\r\n\t\t\t\"index\": 0,\r\n\t\t\t\"name\": \"SPAIN\",\r\n\t\t\t\"data\": [\r\n\t\t\t\t[\r\n\t\t\t\t\t\".\",\r\n\t\t\t\t\t285293\r\n\t\t\t\t]\r\n\t\t\t]\r\n\t\t},\r\n\t\t{\r\n\t\t\t\"index\": 1,\r\n\t\t\t\"color\": \"#392d9c\",\r\n\t\t\t\"name\": \"CATALONIA\",\r\n\t\t\t\"data\": [\r\n\t\t\t\t[\r\n\t\t\t\t\t\".\",\r\n\t\t\t\t\t56845\r\n\t\t\t\t]\r\n\t\t\t]\r\n\t\t}\r\n\t]\r\n};\r\n\r\n\r\n$(\"#container\").highcharts(options);\r\n});\r\n}</script>\r\n<div id=\"container\"></div>"
+                      }
+                    },
+                    "publisher": {
+                      "name": "CNBC",
+                      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+                    },
+                    "relation": [{
+                      "position": 53,
+                      "relationType": "primary"
+                    }]
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": [{
+                "type": "Element",
+                "tagName": "asset",
+                "attributes": {
+                  "type": "chart",
+                  "headline": "Levinson Chart 171003",
+                  "datePublished": "2017-10-04T18:19:46 GMT",
+                  "chartType": "csv",
+                  "rows": [
+                    [
+                      "Town",
+                      "School",
+                      "Student Housing Cost Per Year",
+                      "\"Price per Sq. Foot",
+                      " Condo\"",
+                      "\"Average Cost for a 1",
+                      "200 sq. ft. Condo (1.200 x price/sq ft)\"",
+                      "20% Down",
+                      "Yearly Mortgage"
+                    ],
+                    [
+                      "\"State College",
+                      " PA\"",
+                      "Penn State",
+                      "\"$6",
+                      "738.00\"",
+                      "$183.00",
+                      "\"$219",
+                      "600.00\"",
+                      "\"$43",
+                      "920\"",
+                      "\"$9",
+                      "816\""
+                    ],
+                    [
+                      "\"College Station",
+                      " TX\"",
+                      "Texas A&M University",
+                      "\"$6",
+                      "221.00\"",
+                      "$125.00",
+                      "\"$150",
+                      "000.00\"",
+                      "\"$30",
+                      "000\"",
+                      "\"$6",
+                      "696\""
+                    ],
+                    [
+                      "\"Fayetteville",
+                      " AR\"",
+                      "University of Arkansas",
+                      "\"$6",
+                      "626.00\"",
+                      "$137.00",
+                      "\"$164",
+                      "400.00\"",
+                      "\"$32",
+                      "880\"",
+                      "\"$7",
+                      "344\""
+                    ],
+                    [
+                      ""
+                    ]
+                  ],
+                  "rowHeader": true,
+                  "columnHeader": true
+                },
+                "children": []
+              }]
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": [{
+                "type": "Element",
+                "tagName": "p",
+                "attributes": {},
+                "children": [{
+                  "type": "Element",
+                  "tagName": "strong",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Text",
+                    "content": "Multiple Videos"
+                  }]
+                }]
+              }]
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {
+                "group_asset": 1
+              },
+              "children": [{
+                  "type": "Element",
+                  "tagName": "asset",
+                  "attributes": {
+                    "id": 103078294,
+                    "type": "cnbcvideo",
+                    "headline": "Tesoro's very good year v3000432306",
+                    "title": "Tesoro's very good year",
+                    "show": "Power Lunch",
+                    "description": "Refiners are one group benefiting from oil's slide. Tesoro, for example, is up 30 percent so far this year. CNBC's Morgan Brennan reports.",
+                    "thumbnail": "http://img-static-qa1.cnbc.com/image/103078295-8cb2e7417e43dc491d94f90190b50933f6f8e569.jpg?v=1444849253"
+                  },
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "asset",
+                  "attributes": {
+                    "id": 103078287,
+                    "type": "cnbcvideo",
+                    "headline": "Some big oil worth your money: Pro v3000431006",
+                    "title": "Some big oil worth your money: Pro",
+                    "url": "http://qa-pa13pub.cnbc.com/video/2015/10/14/some-big-oil-worth-your-money-pro.html",
+                    "description": "Stewart Glickman, Oil Analyst & Sr. Associate Director, S&P Capital IQ, discusses why he believes big cap oil companies are a worthwhile investment.",
+                    "thumbnail": "http://img-static-qa1.cnbc.com/image/103078288-df2380d970463281f1f34bc96c00ce6fb5fbec46.jpg?v=1444849196",
+                    "duration": 105
+                  },
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "asset",
+                  "attributes": {
+                    "id": 103078284,
+                    "type": "cnbcvideo",
+                    "headline": "Wal-Mart & the consumer v3000432302",
+                    "title": "Wal-Mart & the consumer",
+                    "url": "http://qa-pa13pub.cnbc.com/video/2015/10/14/wal-mart-the-consumer.html",
+                    "show": "Power Lunch",
+                    "description": "Dan Greenhaus, BTIG, and Jan Kniffen, J. Rogers Kniffen Worldwide Enterprises, discuss what they believe is behind Wal-mart's weak guidance.",
+                    "thumbnail": "http://img-static-qa1.cnbc.com/image/103078285-11679ed16e7838b8fab2477b162b0a7e91ab4cd5.jpg?v=1444849018",
+                    "duration": 263
+                  },
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "asset",
+                  "attributes": {
+                    "id": 103078278,
+                    "type": "cnbcvideo",
+                    "headline": "CNBC update: Restaurant group eliminates tips v3000432053",
+                    "title": "CNBC update: Restaurant group eliminates tips",
+                    "url": "http://qa-pa13pub.cnbc.com/video/2015/10/14/cnbc-update-restaurant-group-eliminates-tips.html",
+                    "show": "Power Lunch",
+                    "description": "CNN says last night's Democratic debate drew over 15 million viewers. And all 13 restaurants in the Union Square Hospitality Group will eliminate tipping. CNBC's Sue Herera reports.",
+                    "thumbnail": "http://img-static-qa1.cnbc.com/image/103078279-26c7aa2abcef58801c20194fc9d699e4008cdba1.jpg?v=1444848753",
+                    "duration": 73
+                  },
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "asset",
+                  "attributes": {
+                    "id": 103078273,
+                    "type": "cnbcvideo",
+                    "headline": "Self-driving cars closer than we think v3000431949",
+                    "title": "Self-driving cars closer than we think",
+                    "url": "http://qa-pa13pub.cnbc.com/video/2015/10/14/self-driving-cars-closer-than-we-think.html",
+                    "show": "Power Lunch",
+                    "description": "Bob Lutz, Fmr. General Motors Vice Chairman, on when he thinks autonomous cars will make their debut.",
+                    "thumbnail": "http://img-static-qa1.cnbc.com/image/103078274-5878f14a9c9d13ce090569bbca901e85fbfa8689.jpg?v=1444848652",
+                    "duration": 255
+                  },
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "asset",
+                  "attributes": {
+                    "id": 103078236,
+                    "type": "cnbcvideo",
+                    "headline": "Wal-Mart's awful, very bad day v3000432236",
+                    "title": "Wal-Mart's awful, very bad day",
+                    "url": "http://qa-pa13pub.cnbc.com/video/2015/10/14/wal-marts-awful-very-bad-day.html",
+                    "show": "Power Lunch",
+                    "description": "Oliver Chen, Senior Retail Analyst & Managing Director, Cowen and Company, looks at Wal-mart following the company's announcement that 2016 sales will likely come in flat.",
+                    "thumbnail": "http://img-static-qa1.cnbc.com/image/103078237-796e3f048f0269919f1dbc0625142884722cd7a5.jpg?v=1444847636",
+                    "duration": 115
+                  },
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "asset",
+                  "attributes": {
+                    "id": 103078228,
+                    "type": "cnbcvideo",
+                    "headline": "Uber jumps into delivery v3000432304",
+                    "title": "Uber jumps into delivery",
+                    "url": "http://qa-pa13pub.cnbc.com/video/2015/10/14/uber-jumps-into-delivery.html",
+                    "show": "Power Lunch",
+                    "description": "CNBC's Kate Rogers reports on UberRUSH rolling out Wednesday in New York City, San Francisco and Chicago.",
+                    "thumbnail": "http://img-static-qa1.cnbc.com/image/103078229-c63cc7d9f9abb3311a8cf8d6b6e87fc8201c4489.jpg?v=1444847460",
+                    "duration": 97
+                  },
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "asset",
+                  "attributes": {
+                    "id": 103078220,
+                    "type": "cnbcvideo",
+                    "headline": "Does Beige Book show Fed fracture? v3000432295",
+                    "title": "Does Beige Book show Fed fracture?",
+                    "url": "http://qa-pa13pub.cnbc.com/video/2015/10/14/does-beige-book-show-fed-fracture.html",
+                    "show": "Power Lunch",
+                    "description": "CNBC's Steve Liesman discusses the latest data from the Fed's Beige Book release and what it seems to show about the economy.",
+                    "thumbnail": "http://img-static-qa1.cnbc.com/image/103078257-8fbe5532a2b4d79ba5080bc67441ecc00ba432d9.jpg?v=1444848168",
+                    "duration": 241
+                  },
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "asset",
+                  "attributes": {
+                    "id": 103078188,
+                    "type": "cnbcvideo",
+                    "headline": "Wal-Mart bad news = good news? v3000432303",
+                    "title": "Wal-Mart bad news = good news?",
+                    "url": "http://qa-pa13pub.cnbc.com/video/2015/10/14/wal-mart-bad-news-good-news.html",
+                    "show": "Power Lunch",
+                    "description": "Discussing Wal-Mart's flat guidance for 2016, and the outlook for consumers, with Brad McMillan, Commonwealth Financial, and Richard Weiss, American Century.",
+                    "thumbnail": "http://img-static-qa1.cnbc.com/image/103078189-a40c1bf8f8a93999495831e92098ebf9b258f0c5.jpg?v=1444846348",
+                    "duration": 140
+                  },
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "asset",
+                  "attributes": {
+                    "id": 103078184,
+                    "type": "cnbcvideo",
+                    "headline": "Not shy about our ambitious goals: Nike CEO v3000432305",
+                    "title": "Not shy about our ambitious goals: Nike CEO",
+                    "url": "http://qa-pa13pub.cnbc.com/video/2015/10/14/not-shy-about-our-ambitious-goals-nike-ceo.html",
+                    "show": "Power Lunch",
+                    "description": "CNBC's Sara Eisen sits down with Nike CEO Mark Parker to discuss Nike's growth plans and investment strategy. ",
+                    "thumbnail": "http://img-static-qa1.cnbc.com/image/103078185-573eb47b0c514c8797445fcc1056f317b38c2be1.jpg?v=1444846310",
+                    "duration": 414
+                  },
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "asset",
+                  "attributes": {
+                    "id": 103078148,
+                    "type": "cnbcvideo",
+                    "headline": "Allianz growth strategy v3000432294",
+                    "title": "Allianz growth strategy",
+                    "url": "http://qa-pa13pub.cnbc.com/video/2015/10/14/allianz-growth-strategy.html",
+                    "show": "Power Lunch",
+                    "description": "Allianz is the parent company of Pimco. Oliver Bate, Allianz SE Chairman and CEO, discusses Bill Gross' lawsuit, and the company's growth strategy.",
+                    "thumbnail": "http://img-static-qa1.cnbc.com/image/103078149-0478b5478c4017a4e959064bc6090942a136b60f.jpg?v=1444845562",
+                    "duration": 311
+                  },
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "asset",
+                  "attributes": {
+                    "id": 103078146,
+                    "type": "cnbcvideo",
+                    "headline": "Now-Cast CEO talks big data on Wall Street v3000432299",
+                    "title": "Now-Cast CEO talks big data on Wall Street",
+                    "url": "http://qa-pa13pub.cnbc.com/video/2015/10/14/now-cast-ceo-talks-big-data-on-wall-street.html",
+                    "show": "Power Lunch",
+                    "description": "Giselle Guzman, Now-Cast CEO, discusses how her company uses big data to get the read on the economy. ",
+                    "thumbnail": "http://img-static-qa1.cnbc.com/image/103078147-03cbd8b25fdcfa6a124bf2e2abca8e89fab1675e.jpg?v=1444845556",
+                    "duration": 137
+                  },
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "asset",
+                  "attributes": {
+                    "id": 103078119,
+                    "type": "cnbcvideo",
+                    "headline": "The future of the internet  v3000432265",
+                    "title": "The future of the internet ",
+                    "url": "http://qa-pa13pub.cnbc.com/video/2015/10/14/the-future-of-the-internet-.html",
+                    "description": "Leaders from the nation’s biggest internet companies meet to discuss the policy issues and new regulations that could shape the future of the industry. ",
+                    "thumbnail": "http://img-static-qa1.cnbc.com/image/103078120-f855e3690a3fbed75a1c5e655dd8e8ef6fcc3ebe.jpg?v=1444844700",
+                    "duration": 112
+                  },
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "asset",
+                  "attributes": {
+                    "id": 103078117,
+                    "type": "cnbcvideo",
+                    "headline": "Intel’s data center business  v3000432264",
+                    "title": "Intel’s data center business ",
+                    "url": "http://qa-pa13pub.cnbc.com/video/2015/10/14/intels-data-center-business-.html",
+                    "description": "Josh Lipton explains the new metric Wall Street is using to evaluate Intel’s performance. ",
+                    "thumbnail": "http://img-static-qa1.cnbc.com/image/103078118-af02753c70e76a554a7c1f98134df948b81eb1f3.jpg?v=1444844693",
+                    "duration": 143
+                  },
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "asset",
+                  "attributes": {
+                    "id": 103078085,
+                    "type": "cnbcvideo",
+                    "headline": "What the banks say v3000432267",
+                    "title": "What the banks say",
+                    "url": "http://qa-pa13pub.cnbc.com/video/2015/10/14/what-the-banks-say.html",
+                    "show": "Fast Money Halftime Report",
+                    "description": "Discussing the play on Bank of America, with Mike Mayo, CLSA bank analyst.",
+                    "thumbnail": "http://img-static-qa1.cnbc.com/image/103078086-2eef2f0dd7ede75949b854f12ab9e85473c59f48.jpg?v=1444844127",
+                    "duration": 226
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": [{
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Text",
+                    "content": "A Natural Resources Defense Council study recently found that as much as 40 percent of the food supply in the U.S. goes uneaten. Meanwhile, 20 percent of all produce is wasted in the U.S. because shoppers think it's not \"perfect\" in appearance."
+                  }]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                      "type": "Element",
+                      "tagName": "strong",
+                      "attributes": {},
+                      "children": []
+                    },
+                    {
+                      "type": "Element",
+                      "tagName": "strong",
+                      "attributes": {},
+                      "children": [{
+                        "type": "Text",
+                        "content": "Polls"
+                      }]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {
+                "group_asset": 1
+              },
+              "children": [{
+                "type": "Element",
+                "tagName": "asset",
+                "attributes": {
+                  "id": 102883621,
+                  "type": "cnbcvideo",
+                  "headline": "Securing Wall Street's instant messages v3000402498",
+                  "title": "Securing Wall Street's instant messages",
+                  "url": "http://qa-pa13pub.cnbc.com/video/2015/07/31/securing-wall-streets-instant-messages.html",
+                  "show": "Power Lunch",
+                  "description": "Communication platform Symphony launches in September. CNBC's Mary Thompson spoke to David Gurle, Symphony founder and CEO, about the security of data on its services. ",
+                  "thumbnail": "http://img-static-qa1.cnbc.com/image/102883623-923ee34928222a76de557806b773cd424c7daa9d.jpg?v=1438368543",
+                  "duration": 103
+                },
+                "children": []
+              }]
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": [{
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Text",
+                    "content": "This is inline image under"
+                  }]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Element",
+                    "tagName": "img",
+                    "attributes": {
+                      "className": [
+                        "inlineChart"
+                      ],
+                      "src": "http://fm.cnbc.com/applications/cnbc.com/resources/editorialfiles/charts/2016/06/1467222237_103754372-GettyImages-524811203.530x298.jpg"
+                    },
+                    "children": []
+                  }]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Element",
+                    "tagName": "strong",
+                    "attributes": {},
+                    "children": [{
+                      "type": "Text",
+                      "content": "Images From Embedded Assets"
+                    }]
+                  }]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {
+                "group_asset": 1
+              },
+              "children": [{
+                  "type": "Element",
+                  "tagName": "asset",
+                  "attributes": {
+                    "type": "company",
+                    "headline": "Avaya Holdings Corp T:AVYA",
+                    "title": "Avaya Holdings Corp",
+                    "tickerSymbol": " AVYA",
+                    "render": "large"
+                  },
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "asset",
+                  "attributes": {
+                    "type": "chart",
+                    "headline": "Australia ghost towns map",
+                    "datePublished": "2015-08-03T04:46:15 GMT"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": [{
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                      "type": "Element",
+                      "tagName": "strong",
+                      "attributes": {},
+                      "children": []
+                    },
+                    {
+                      "type": "Element",
+                      "tagName": "strong",
+                      "attributes": {},
+                      "children": [{
+                        "type": "Text",
+                        "content": "Testing Web resource&#160;"
+                      }]
+                    },
+                    {
+                      "type": "Element",
+                      "tagName": "a",
+                      "attributes": {
+                        "target": "_blank",
+                        "href": "http://feeds.nbcnews.com/c/35002/f/663303/s/48a939c5/sc/19/l/0L0Snbcchicago0N0Cweather0Cstories0Cchicago0Eweather0Eforecase0Esevere0Ethunderstorm0Ewarning0E320A4427120Bhtml/story01.htm"
+                      },
+                      "children": [{
+                        "type": "Text",
+                        "content": "stuff"
+                      }]
+                    }
+                  ]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                      "type": "Element",
+                      "tagName": "strong",
+                      "attributes": {},
+                      "children": [{
+                        "type": "Text",
+                        "content": "Regular link -&#160;"
+                      }]
+                    },
+                    {
+                      "type": "Element",
+                      "tagName": "a",
+                      "attributes": {
+                        "href": "http://cnbc.com"
+                      },
+                      "children": [{
+                        "type": "Text",
+                        "content": "Link"
+                      }]
+                    }
+                  ]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Element",
+                    "tagName": "strong",
+                    "attributes": {},
+                    "children": [{
+                      "type": "Text",
+                      "content": "Twitter module under"
+                    }]
+                  }]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Element",
+                    "tagName": "a",
+                    "attributes": {
+                      "href": "https://twitter.com/CNBC/status/775949361096323072"
+                    },
+                    "children": [{
+                      "type": "Text",
+                      "content": "Twitter Link - Webresource"
+                    }]
+                  }]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Element",
+                    "tagName": "strong",
+                    "attributes": {},
+                    "children": [{
+                      "type": "Text",
+                      "content": "Story Carousel"
+                    }]
+                  }]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {
+                "group_asset": 1
+              },
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": [{
+                "type": "Element",
+                "tagName": "p",
+                "attributes": {},
+                "children": [{
+                    "type": "Element",
+                    "tagName": "strong",
+                    "attributes": {},
+                    "children": []
+                  },
+                  {
+                    "type": "Element",
+                    "tagName": "strong",
+                    "attributes": {},
+                    "children": [{
+                      "type": "Text",
+                      "content": "Slideshow"
+                    }]
+                  }
+                ]
+              }]
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": [{
+                "type": "Element",
+                "tagName": "p",
+                "attributes": {},
+                "children": [{
+                  "type": "Element",
+                  "tagName": "strong",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Text",
+                    "content": "Company - Should show table at end of page"
+                  }]
+                }]
+              }]
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": [{
+                "type": "Element",
+                "tagName": "asset",
+                "attributes": {
+                  "type": "company",
+                  "headline": "Avaya Holdings Corp T:AVYA",
+                  "title": "Avaya Holdings Corp",
+                  "tickerSymbol": " AVYA",
+                  "render": "large"
+                },
+                "children": []
+              }]
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": [{
+                "type": "Element",
+                "tagName": "p",
+                "attributes": {},
+                "children": [{
+                  "type": "Element",
+                  "tagName": "strong",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Text",
+                    "content": "Embedded WebResource"
+                  }]
+                }]
+              }]
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": [{
+                "type": "Element",
+                "tagName": "p",
+                "attributes": {},
+                "children": [{
+                  "type": "Element",
+                  "tagName": "strong",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Text",
+                    "content": "Embedded Chart"
+                  }]
+                }]
+              }]
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": [{
+                "type": "Element",
+                "tagName": "asset",
+                "attributes": {
+                  "type": "chart",
+                  "headline": "HSBC 3",
+                  "datePublished": "2016-09-08T00:32:48 GMT"
+                },
+                "children": []
+              }]
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": [{
+                "type": "Element",
+                "tagName": "p",
+                "attributes": {},
+                "children": [{
+                  "type": "Text",
+                  "content": "Franchise links"
+                }]
+              }]
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {
+                "group_asset": 1
+              },
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": [{
+                "type": "Element",
+                "tagName": "asset",
+                "attributes": {
+                  "type": "image",
+                  "headline": "Premium EA: Donald Trump Oval Office 170203",
+                  "url": "http://img-static-qa1.cnbc.com/image/104261411-GettyImages-633716654.jpg?v=1486162162",
+                  "datePublished": "2017-02-03T22:49:02 GMT",
+                  "caption": "President Donald Trump poses for photographs after signing an Executive Order related to the review of the Dodd-Frank Act in the Oval Office of the White House, in Washington, D.C.",
+                  "copyrightHolder": "Aude Guerrucci | Bloomberg | Getty Images",
+                  "width": "4370",
+                  "height": "3418"
+                },
+                "children": []
+              }]
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": [{
+                "type": "Element",
+                "tagName": "p",
+                "attributes": {},
+                "children": []
+              }]
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": [{
+                "type": "Element",
+                "tagName": "asset",
+                "attributes": {
+                  "type": "image",
+                  "headline": "Subs: General Motors CEO Mary Barra 161215",
+                  "url": "http://img-static-qa1.cnbc.com/image/Mary Barra, Chairman and CEO of General Motors, poses with an autonomous vehicle during a General Motors press conference at the Renaissance Center on December 15, 2016 in Detroit, Michigan.?v=1493132704",
+                  "datePublished": "2017-02-03T22:19:57 GMT",
+                  "caption": "Mary Barra, Chairman and CEO of General Motors, poses with an autonomous vehicle during a General Motors press conference at the Renaissance Center on December 15, 2016 in Detroit, Michigan.",
+                  "copyrightHolder": "Getty Images",
+                  "width": "4359",
+                  "height": "2901"
+                },
+                "children": []
+              }]
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": []
+            }
+          ]
+        }
+      ],
+      "keyPoints": [{
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": [{
+                "type": "Text",
+                "content": "Keypoint Subtitle"
+              }]
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": [{
+                "type": "Element",
+                "tagName": "asset",
+                "attributes": {
+                  "type": "security",
+                  "headline": "UNILEVER APR0 T:@UNIAlf20J-GB",
+                  "title": "UNILEVER APR0",
+                  "datePublished": "2017-10-08T18:21:58 GMT",
+                  "name": "UNILEVER APR0",
+                  "tickerSymbol": "Intercontinental Exchange Europe @UNIALF20J-GB",
+                  "render": "small"
+                },
+                "children": []
+              }]
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": [{
+                "type": "Element",
+                "tagName": "asset",
+                "attributes": {
+                  "type": "image",
+                  "headline": "ONE TIME USE: SLSR Dallas exterior",
+                  "url": "http://img-static-qa1.cnbc.com/image/104769012-SLSR_Dallas_exterior.jpg?v=1512144751",
+                  "datePublished": "2017-10-12T16:25:13 GMT",
+                  "copyrightHolder": "Allie Beth Allman",
+                  "width": "2000",
+                  "height": "1393"
+                },
+                "children": []
+              }]
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": [{
+                "type": "Element",
+                "tagName": "asset",
+                "attributes": {
+                  "id": 104768942,
+                  "type": "cnbcvideo",
+                  "headline": "SA twitter boycott MORGANTEEN 171012",
+                  "title": "Twitter users threaten boycott after Rose McGowan ban",
+                  "url": "http://qa-pa13pub.cnbc.com/video/2017/10/12/twitter-users-threaten-boycott-after-rose-mcgowan-ban.html",
+                  "show": "Squawk Alley",
+                  "description": "CNBC’s Julia Boorstin reports that calls for a Twitter boycott have been growing Thursday after the social network temporarily banned actress Rose McGowan. ",
+                  "thumbnail": "http://img-static-qa1.cnbc.com/image/104768654-GettyImages-518489912-rose-mcgowan.jpg?v=1507818027",
+                  "duration": 72
+                },
+                "children": []
+              }]
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Text",
+                    "content": "Keypoint Quote"
+                  }]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Text",
+                    "content": "Keypoint Quote Author Title"
+                  }]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Text",
+                    "content": "Keypoint Quote Author"
+                  }]
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": [{
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Text",
+                    "content": "THIS IS KEYPOINT"
+                  }]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "blockquote",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Element",
+                    "tagName": "p",
+                    "attributes": {},
+                    "children": [{
+                      "type": "Text",
+                      "content": "This is yet another keypoint"
+                    }]
+                  }]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": [{
+                "type": "Element",
+                "tagName": "asset",
+                "attributes": {
+                  "type": "security",
+                  "headline": "Gold / US Dollar Spot T:XAU=",
+                  "title": "Gold / US Dollar Spot",
+                  "datePublished": "2012-04-04T20:35:42 GMT",
+                  "name": "Gold / US Dollar Spot",
+                  "tickerSymbol": "Exchange XAU=",
+                  "render": "small"
+                },
+                "children": []
+              }]
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": [{
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                      "type": "Element",
+                      "tagName": "strong",
+                      "attributes": {
+                        "className": [
+                          ""
+                        ]
+                      },
+                      "children": [{
+                        "type": "Text",
+                        "content": "Gold"
+                      }]
+                    },
+                    {
+                      "type": "Text",
+                      "content": " prices "
+                    },
+                    {
+                      "type": "Element",
+                      "tagName": "em",
+                      "attributes": {},
+                      "children": [{
+                        "type": "Text",
+                        "content": "have"
+                      }]
+                    },
+                    {
+                      "type": "Text",
+                      "content": " fluctuated, "
+                    },
+                    {
+                      "type": "Element",
+                      "tagName": "a",
+                      "attributes": {
+                        "href": "http://www.google.com"
+                      },
+                      "children": [{
+                        "type": "Text",
+                        "content": "hitting"
+                      }]
+                    },
+                    {
+                      "type": "Text",
+                      "content": " some "
+                    },
+                    {
+                      "type": "Element",
+                      "tagName": "a",
+                      "attributes": {
+                        "id": "103584323",
+                        "type": "company",
+                        "headline": "AppAsia Bhd T:APPA-MY",
+                        "title": "AppAsia Bhd",
+                        "href": "/quotes/?symbol=Kuala Lumpur Stock Exchange APPA-MY"
+                      },
+                      "children": [{
+                        "type": "Text",
+                        "content": "price"
+                      }]
+                    },
+                    {
+                      "type": "Text",
+                      "content": " earlier this week. Even as the "
+                    },
+                    {
+                      "type": "Element",
+                      "tagName": "strong",
+                      "attributes": {},
+                      "children": [{
+                        "type": "Text",
+                        "content": "yellow "
+                      }]
+                    },
+                    {
+                      "type": "Text",
+                      "content": "metal has pulled back from those highs in the last two sessions,"
+                    }
+                  ]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                      "type": "Text",
+                      "content": "expect"
+                    },
+                    {
+                      "type": "Element",
+                      "tagName": "sup",
+                      "attributes": {},
+                      "children": [{
+                        "type": "Text",
+                        "content": "s th"
+                      }]
+                    },
+                    {
+                      "type": "Text",
+                      "content": "ese di"
+                    },
+                    {
+                      "type": "Element",
+                      "tagName": "sup",
+                      "attributes": {},
+                      "children": [{
+                        "type": "Text",
+                        "content": "ps to arise"
+                      }]
+                    },
+                    {
+                      "type": "Text",
+                      "content": " as buyin"
+                    },
+                    {
+                      "type": "Element",
+                      "tagName": "sub",
+                      "attributes": {},
+                      "children": [{
+                        "type": "Text",
+                        "content": "g "
+                      }]
+                    },
+                    {
+                      "type": "Text",
+                      "content": "opportunities for investors.&#160;Ã"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": [{
+                "type": "Element",
+                "tagName": "asset",
+                "attributes": {
+                  "type": "security",
+                  "headline": "Apple Hospitality REIT Inc T:APLE",
+                  "title": "Apple Hospitality REIT Inc",
+                  "datePublished": "2017-07-27T22:25:23 GMT",
+                  "name": "Apple Hospitality REIT Inc",
+                  "tickerSymbol": "NYSE APLE",
+                  "render": "small"
+                },
+                "children": []
+              }]
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": [{
+                "type": "Element",
+                "tagName": "asset",
+                "attributes": {
+                  "type": "company",
+                  "headline": "CarGurus Inc T:CARG",
+                  "title": "CarGurus Inc",
+                  "tickerSymbol": "NASDAQ CARG",
+                  "render": "large"
+                },
+                "children": []
+              }]
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": [{
+                "type": "Element",
+                "tagName": "p",
+                "attributes": {},
+                "children": [{
+                  "type": "Text",
+                  "content": "Audio"
+                }]
+              }]
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": [{
+                "type": "Element",
+                "tagName": "p",
+                "attributes": {},
+                "children": [{
+                  "type": "Text",
+                  "content": "Poll"
+                }]
+              }]
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": [{
+                "type": "Element",
+                "tagName": "p",
+                "attributes": {},
+                "children": [{
+                  "type": "Text",
+                  "content": "Chart:"
+                }]
+              }]
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": [{
+                "type": "Element",
+                "tagName": "asset",
+                "attributes": {
+                  "type": "chart",
+                  "headline": "CSV Chart Example",
+                  "datePublished": "2017-10-31T18:54:21 GMT",
+                  "chartType": "csv",
+                  "rows": [
+                    [
+                      "Complaint",
+                      "Percent of complaints"
+                    ],
+                    [
+                      "Attmepts to collect debt not owed",
+                      "51%"
+                    ],
+                    [
+                      "Improper communication tactics",
+                      "20%"
+                    ],
+                    [
+                      "Other",
+                      "18%"
+                    ],
+                    [
+                      "Insufficient written notice",
+                      "11%"
+                    ],
+                    [
+                      ""
+                    ]
+                  ],
+                  "rowHeader": true,
+                  "columnHeader": false
+                },
+                "children": []
+              }]
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": []
+            }
+          ]
+        }
+      ],
+      "relatedContent": {
+        "id": "102538302",
+        "type": "cnbcnewsstory",
+        "url": "http://qa-pa13pub.cnbc.com/2015/03/26/testing-premium-2.html"
+      },
+      "featuredMedia": {
+        "id": "104752500",
+        "type": null,
+        "contentSize": null,
+        "caption": null,
+        "filter": null,
+        "height": 1688,
+        "width": 3000,
+        "url": "http://img-static-qa1.cnbc.com/image/104752500-Unknown.jpeg?v=1507140075",
+        "datePublished": null,
+        "dateModified": null,
+        "dateLastPublished": null,
+        "publisher": null,
+        "focalPoints": null,
+        "copyrightHolder": null,
+        "slug": null,
+        "description": null
+      },
+      "promoImage": {
+        "id": "104752500",
+        "type": null,
+        "contentSize": null
+      },
+      "datePublished": "2017-10-24T16:44:00 GMT",
+      "dateModified": "2017-12-01T00:58:31 GMT",
+      "publisher": {
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "section": {
+        "id": "10001275",
+        "color": "#1FF1C8",
+        "name": "Entrepreneurs",
+        "url": "http://qa-pa13pub.cnbc.com/entrepreneurs/",
+        "image": "https://fm.cnbc.com/applications/cnbc.com/resources/styles/skin/special-reports/the-pulse/pulse-1market-header-2800.jpg",
+        "logo": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/Redesign/pulse_logo.png"
+      },
+      "relatedTags": [{
+          "id": "818",
+          "name": "Tech",
+          "url": "https://www.cnbc.com/technology/"
+        },
+        {
+          "id": "347",
+          "name": "Finance",
+          "url": "https://www.cnbc.com/finance/"
+        },
+        {
+          "id": "917",
+          "name": "Economy",
+          "url": "https://www.cnbc.com/economy/"
+        },
+        {
+          "id": "561",
+          "name": "Politics",
+          "url": "https://www.cnbc.com/politics/"
+        },
+        {
+          "id": "718",
+          "name": "Healthcare",
+          "url": "https://www.cnbc.com/health-care/"
+        }
+      ],
+      "author": [{
+        "id": "103944451",
+        "url": "http://qa-pa13pub.cnbc.com/testcreator/",
+        "name": "This is the Creator",
+        "image": null,
+        "sameAs": null,
+        "socialMediaInfo": null
+      }],
+      "sourceOrganization": [{
+          "id": "80000022",
+          "type": "source",
+          "slug": "CNBC US Source",
+          "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/80000022",
+          "url": null,
+          "name": "cnbctitle",
+          "description": "CNBC.com",
+          "logo": "http://fm.cnbc.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif"
+        },
+        {
+          "id": "104710340",
+          "type": "source",
+          "slug": "The Oracles Source",
+          "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/104710340",
+          "url": null,
+          "name": null,
+          "description": "The Oracles",
+          "logo": "http://fm.cnbc.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif"
+        }
+      ]
+    }
+  }
+}

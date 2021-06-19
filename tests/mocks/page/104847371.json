@@ -1,0 +1,155 @@
+{
+  "data": {
+    "page": {
+      "layout": [{
+          "columns": [{
+            "span": "12",
+            "editable": false,
+            "modules": [{
+              "name": "hero",
+              "source": "104847371",
+              "canChangeLayout": false,
+              "canChangeSource": false,
+              "serverRenderPolicy": "ssr",
+              "data": {}
+            }]
+          }]
+        },
+        {
+          "columns": [{
+            "span": "12",
+            "editable": false,
+            "modules": [{
+              "name": "search",
+              "source": "104847492",
+              "canChangeLayout": false,
+              "canChangeSource": false,
+              "serverRenderPolicy": "ssr",
+              "data": {}
+            }]
+          }]
+        },
+        {
+          "columns": [{
+            "span": "12",
+            "editable": false,
+            "modules": [{
+              "name": "storiesTwoThird",
+              "source": "104847371",
+              "canChangeLayout": false,
+              "canChangeSource": false,
+              "serverRenderPolicy": "ssr",
+              "data": {
+                "id": 104847371,
+                "relatedTags": [{
+                    "id": 100769431
+                  },
+                  {
+                    "id": 100000101
+                  }
+                ],
+                "assets": [{
+                    "id": 104847603
+                  },
+                  {
+                    "id": 104846322
+                  },
+                  {
+                    "id": 104847639
+                  },
+                  {
+                    "id": 104847762
+                  },
+                  {
+                    "id": 104846344
+                  }
+                ]
+              }
+            }]
+          }]
+        },
+        {
+          "columns": [{
+            "span": "12",
+            "editable": false,
+            "modules": [{
+              "name": "threeUp",
+              "source": "104847371",
+              "canChangeLayout": false,
+              "canChangeSource": false,
+              "serverRenderPolicy": "ssr",
+              "data": {
+                "id": 104847371,
+                "relatedTags": [{
+                    "id": 100769431
+                  },
+                  {
+                    "id": 100000101
+                  }
+                ],
+                "assets": [{
+                    "id": 104847603
+                  },
+                  {
+                    "id": 104846322
+                  },
+                  {
+                    "id": 104847639
+                  },
+                  {
+                    "id": 104847762
+                  },
+                  {
+                    "id": 104846344
+                  }
+                ]
+              }
+            }]
+          }]
+        },
+        {
+          "columns": [{
+            "span": "12",
+            "editable": false,
+            "modules": [{
+              "name": "slideshowHighlight",
+              "source": "104847532",
+              "canChangeLayout": false,
+              "canChangeSource": false,
+              "serverRenderPolicy": "client",
+              "data": {}
+            }]
+          }]
+        },
+        {
+          "columns": [{
+            "span": "12",
+            "editable": false,
+            "modules": [{
+              "name": "buffettQuote",
+              "source": null,
+              "canChangeLayout": false,
+              "canChangeSource": false,
+              "serverRenderPolicy": "client",
+              "data": {}
+            }]
+          }]
+        },
+        {
+          "columns": [{
+            "span": "12",
+            "editable": false,
+            "modules": [{
+              "name": "adBuffettBreaker",
+              "source": null,
+              "canChangeLayout": false,
+              "canChangeSource": false,
+              "serverRenderPolicy": "ssr",
+              "data": {}
+            }]
+          }]
+        }
+      ]
+    }
+  }
+}

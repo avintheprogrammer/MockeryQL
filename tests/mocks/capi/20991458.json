@@ -1,0 +1,380 @@
+{
+  "cn:branding": "cnbc",
+  "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+  "url": "https://qa-aws01pub.cnbc.com/breaking-news/",
+  "cn:type": "franchise",
+  "cn:creatorOverwrite": "",
+  "cn:liveURL": "/breaking-news/",
+  "@id": "20991458",
+  "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/20991458",
+  "cn:slug": "Breaking news",
+  "cn:subType": "news_section",
+  "cn:title": "Breaking news",
+  "cn:tagName": "Breaking News",
+  "cn:sectionHierarchy": [
+    {
+      "id": 20991458,
+      "tagName": "Breaking News",
+      "order": 1
+    },
+    {
+      "id": 101050794,
+      "tagName": "CNBC Utilities Page",
+      "order": 2
+    }
+  ],
+  "cn:shorterHeadline": "",
+  "cn:sectionLabel": "",
+  "cn:state": "Publish",
+  "cn:settings": {
+    "cn:listType": "Manual and/or populated by feeds",
+    "cn:tweetOnPublish": 0
+  },
+  "description": "Breaking News",
+  "cn:section": {
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+    "url": "https://qa-aws01pub.cnbc.com/utility-page/",
+    "cn:type": "collection",
+    "cn:creatorOverwrite": "",
+    "cn:liveURL": "/utility-page/",
+    "@id": "101050794",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/101050794",
+    "cn:slug": "CNBC Utility Pages",
+    "cn:subType": "section",
+    "cn:title": "CNBC Utilities Page",
+    "cn:tagName": "CNBC Utilities Page",
+    "cn:sectionHierarchy": [],
+    "cn:shorterHeadline": "CNBC Utilities Page",
+    "cn:sectionLabel": "CNBC Utilities Page",
+    "cn:state": "Publish",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Virtual"
+    },
+    "description": "",
+    "cn:linkHeadline": "CNBC Utilities Page",
+    "cn:sectionLinktext": "CNBC Utilities Page",
+    "headline": "CNBC Utilities Page",
+    "datePublished": "2013-11-22T13:47:56+0000",
+    "cn:dateLastPublished": "2013-12-16T21:35:01+0000",
+    "cn:dateFirstPublished": "2013-11-22T13:48:00+0000",
+    "expires": "",
+    "cn:historicalURL": [],
+    "cn:shortestHeadline": "CNBC Utilities Page",
+    "cn:tabLabel": "CNBC Utilities Page",
+    "cn:bodyTeaser": "null",
+    "cn:shortestDescription": "",
+    "cn:seoTitle": "CNBC Utilities Pages",
+    "cn:summary": "",
+    "cn:editedBy": "viktor.cea",
+    "cn:createdBy": "joseph.odell",
+    "cn:shorterDescription": "",
+    "name": "CNBC Utilities Page",
+    "@type": "Collection"
+  },
+  "cn:linkHeadline": "",
+  "cn:sectionLinktext": "",
+  "headline": "Breaking news",
+  "datePublished": "2018-05-01T14:46:49+0000",
+  "cn:dateLastPublished": "2018-06-21T20:32:55+0000",
+  "cn:dateFirstPublished": "2012-05-02T04:24:08+0000",
+  "expires": "",
+  "cn:historicalURL": [
+    "/id/20991458"
+  ],
+  "cn:shortestHeadline": "",
+  "cn:tabLabel": "",
+  "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><font><font>(Story developing)</font></font></p></div></group></body>",
+  "cn:shortestDescription": "",
+  "cn:seoTitle": "Breaking News",
+  "cn:summary": "",
+  "cn:editedBy": "vitaly",
+  "cn:createdBy": "migration",
+  "cn:shorterDescription": "Breaking News",
+  "publisher": {
+    "name": "CNBC",
+    "@type": "Organization",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "@context": {
+    "@vocab": "http://schema.org/",
+    "cn": "http://cnbc.com/schema/"
+  },
+  "name": "Breaking news",
+  "cn:sectionColor": "#000000",
+  "cn:promoText": "",
+  "cn:showTime": "",
+  "@type": "Collection",
+  "cn:pagination": {
+    "cn:link": {
+      "cn:self": "https://qa-aws02capi-bl.cnbc.com/api/v1/list/id/20991458?page=1&pagesize=20",
+      "cn:next": "https://qa-aws02capi-bl.cnbc.com/api/v1/list/id/20991458?page=1&pagesize=20",
+      "cn:previous": "https://qa-aws02capi-bl.cnbc.com/api/v1/list/id/20991458?page=1&pagesize=20",
+      "cn:last": "https://qa-aws02capi-bl.cnbc.com/api/v1/list/id/20991458?page=1&pagesize=20"
+    },
+    "cn:page": 1,
+    "cn:totalCount": 2,
+    "cn:pageSize": 20
+  },
+  "cn:listItem": [
+    {
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+      "url": "https://www.nbcnews.com/mach/science/nasa-s-new-satellite-will-scan-cosmos-alien-worlds-ncna865831?cid=public-rss_20180425",
+      "cn:type": "webresource",
+      "cn:liveURL": "",
+      "@id": "105156615",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/105156615",
+      "cn:slug": "NASA's_new_1524617348",
+      "cn:title": "NASA's new satellite will scan the cosmos for alien worlds",
+      "cn:tagName": "",
+      "cn:sectionHierarchy": [],
+      "cn:shorterHeadline": "NASA's new satellite will scan the cosmos for alien worlds",
+      "cn:state": "Publish",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes"
+      },
+      "description": "NASA's new satellite will scan the cosmos for alien worlds",
+      "cn:linkHeadline": "NASA's new satellite will scan the cosmos for alien worlds",
+      "headline": "NASA's new satellite will scan the cosmos for alien worlds",
+      "datePublished": "2018-04-25T00:49:08+0000",
+      "cn:dateLastPublished": "2018-04-25T00:49:09+0000",
+      "cn:dateFirstPublished": "2018-04-25T00:49:09+0000",
+      "expires": "",
+      "cn:historicalURL": [],
+      "cn:shortestHeadline": "NASA's new satellite will scan the cosmos for alien worlds",
+      "cn:bodyTeaser": "",
+      "cn:shortestDescription": "NASA's new satellite will scan the cosmos for alien worlds",
+      "cn:summary": "NASA's new satellite will scan the cosmos for alien worlds",
+      "cn:editedBy": "admin",
+      "cn:createdBy": "admin",
+      "cn:shorterDescription": "NASA's new satellite will scan the cosmos for alien worlds",
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "cn:webResource": {
+        "cn:webResourceLinkText": "NASA's new satellite will scan the cosmos for alien worlds",
+        "cn:webResourceAttributeUrl": "https://www.nbcnews.com/mach/science/nasa-s-new-satellite-will-scan-cosmos-alien-worlds-ncna865831?cid=public-rss_20180425",
+        "cn:webResourceAttributeTitle": "NASA's new satellite will scan the cosmos for alien worlds",
+        "cn:webResourceIsFeed": 0,
+        "cn:webResourceRefreshInterval": 0,
+        "cn:webResourceLastRefreshTime": 0,
+        "cn:webResourceAttributeTarget": "_blank",
+        "cn:webResourceAttributeRel": "",
+        "cn:webResourceAttributeId": "",
+        "cn:webResourceAttributeClass": ""
+      },
+      "@type": "CreativeWork",
+      "cn:relation": [
+        {
+          "cn:isPromoted": "true",
+          "cn:relationType": "outputList",
+          "cn:position": 29487,
+          "cn:isPinUp": "false",
+          "cn:pill": "",
+          "cn:region": 3
+        }
+      ]
+    },
+    {
+      "cn:branding": "makeit",
+      "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+      "url": "https://qa-aws01pub.cnbc.com/2018/05/25/test-breaking245.html",
+      "cn:type": "wirestory",
+      "cn:title": "Gold prices edged higher on Wednesday ",
+      "cn:creatorOverwrite": "",
+      "cn:liveURL": "/2018/05/25/test-breaking245.html",
+      "@id": "105158774",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/105158774",
+      "cn:slug": "Gold Markets RTRS 180425 Asias-testbn",
+      "cn:shortestDescription": "Spot gold and U.S. gold futures traded higher while most stock markets were under pressure from a rise in bond yields.",
+      "cn:sectionHierarchy": [
+        {
+          "id": 103402510,
+          "tagName": "Make It In Depth",
+          "order": 1
+        },
+        {
+          "id": 103395579,
+          "tagName": "Make It",
+          "order": 2
+        }
+      ],
+      "cn:seoTitle": "Gold prices edged higher on Wednesday ",
+      "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "caption": "",
+        "author": "",
+        "copyrightHolder": "Edgar Su | Reuters",
+        "@id": "104696760",
+        "height": "1334",
+        "datePublished": "2017-09-07T21:20:53+0000",
+        "description": "",
+        "width": "2000",
+        "url": "https://qa-aws02image-origin.cnbcfm.com/api/v1/image/104696760-RTX3CK9X-gold.jpg?v=1506458339"
+      },
+      "cn:featuredMedia": {
+        "cn:isPromoted": "false",
+        "cn:isHighTouch": "false"
+      },
+      "sourceOrganization": [
+        {
+          "@type": "Organization",
+          "cn:branding": "cnbc",
+          "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+          "url": "",
+          "cn:type": "source",
+          "cn:creatorOverwrite": "",
+          "cn:liveURL": "",
+          "@id": "80000008",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/80000008",
+          "cn:slug": "Reuters",
+          "cn:title": "Reuters",
+          "cn:tagName": "Reuters",
+          "cn:sourceLogo": "https://fm.cnbc.com/applications/cnbc.com/resources/source_logo/2018/04/05/133240667-byline-reuters.png",
+          "cn:sourceType": "Wire",
+          "cn:sourceName": "Reuters",
+          "cn:linkHeadline": "Reuters",
+          "description": "Reuters",
+          "name": "Reuters"
+        }
+      ],
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:listType": "Virtual",
+        "cn:outbrainEnabled": "Yes",
+        "cn:tweetOnPublish": 0
+      },
+      "cn:tag": [
+        {
+          "@id": "105158286",
+          "cn:tagName": "Breaking News: Politics",
+          "url": "",
+          "cn:title": "Breaking News: Politics",
+          "cn:subType": "topic"
+        },
+        {
+          "@id": "105158284",
+          "cn:tagName": "Breaking News: All",
+          "url": "",
+          "cn:title": "Breaking News: All",
+          "cn:subType": "topic"
+        }
+      ],
+      "description": "Both spot gold price and U.S. gold futures traded higher while most global stock markets were under pressure following a rise in Treasury yields.",
+      "cn:section": {
+        "cn:branding": "makeit",
+        "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+        "url": "https://qa-aws01pub.cnbc.com/make-it/special-reports/",
+        "cn:type": "franchise",
+        "cn:creatorOverwrite": "",
+        "cn:liveURL": "/make-it/special-reports/",
+        "@id": "103402510",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/103402510",
+        "cn:slug": "Make It - in Depth (Special Reports)",
+        "cn:subType": "section",
+        "cn:title": "Make It - Special Reports",
+        "cn:tagName": "Make It In Depth",
+        "cn:sectionHierarchy": [
+          {
+            "id": 103402510,
+            "tagName": "Make It In Depth",
+            "order": 1
+          },
+          {
+            "id": 103395579,
+            "tagName": "Make It",
+            "order": 2
+          }
+        ],
+        "cn:shorterHeadline": "Special Reports",
+        "cn:sectionLabel": "Special Reports",
+        "cn:state": "Publish",
+        "cn:settings": {
+          "cn:commentsEnabled": "No",
+          "cn:dateline": "Yes",
+          "cn:isFamilyFriendly": "Yes",
+          "cn:socialtoolsEnabled": "Yes",
+          "cn:displayByline": "Yes",
+          "cn:displaySource": "Yes",
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:outbrainEnabled": "Yes",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "CNBC Make It’s special reports section takes a deeper dive into small business, personal finance and career topics that impact consumers. ",
+        "cn:linkHeadline": "Special Reports",
+        "cn:sectionLinktext": "Special Reports",
+        "headline": "Special Reports",
+        "datePublished": "2016-03-09T18:26:22+0000",
+        "cn:dateLastPublished": "2018-05-14T13:37:58+0000",
+        "cn:dateFirstPublished": "2016-03-09T18:26:22+0000",
+        "expires": "",
+        "cn:historicalURL": [],
+        "cn:shortestHeadline": "Special Reports",
+        "cn:tabLabel": "Special Reports",
+        "cn:bodyTeaser": "",
+        "cn:shortestDescription": "CNBC Make It’s special reports section takes a deeper dive into small business, personal finance and career topics. ",
+        "cn:seoTitle": "Make It - Special Reports",
+        "cn:summary": "CNBC Make It’s special reports section takes a deeper dive into small business, personal finance and career topics that impact consumers. ",
+        "cn:editedBy": "rosy.ngo",
+        "cn:createdBy": "joseph.odell",
+        "cn:shorterDescription": "CNBC Make It’s special reports section takes a deeper dive into small business, personal finance and career topics that impact consumers. ",
+        "name": "Make It - Special Reports",
+        "cn:sectionColor": "#000000",
+        "cn:promoText": "",
+        "cn:showTime": "",
+        "@type": "Collection"
+      },
+      "cn:shorterHeadline": "Gold prices climb after stocks slide and the dollar rally ease",
+      "cn:state": "Publish",
+      "cn:summary": "Both spot gold price and U.S. gold futures traded higher while most global stock markets were under pressure following a rise in Treasury yields.",
+      "cn:linkHeadline": "Gold prices climb after stocks slide and the dollar rally ease",
+      "headline": "Gold prices climb after stocks slide and the dollar rally ease",
+      "cn:editedBy": "roshan.varghese",
+      "datePublished": "2018-05-25T20:43:25+0000",
+      "cn:dateLastPublished": "2018-06-19T20:29:07+0000",
+      "cn:dateFirstPublished": "2018-05-25T20:43:26+0000",
+      "expires": "",
+      "cn:historicalURL": [],
+      "cn:shortestHeadline": "",
+      "cn:createdBy": "Sreekant.Male",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p>Gold prices edged higher on Wednesday as most global stock markets fell and as the U.S. dollar eased below an over three-month high hit in the previous session.</p></div></group></body>",
+      "cn:shorterDescription": "Both spot gold price and U.S. gold futures traded higher while most global stock markets were under pressure following a rise in Treasury yields.",
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "NewsArticle",
+      "cn:relation": [
+        {
+          "cn:isPromoted": "true",
+          "cn:relationType": "outputList",
+          "cn:position": 29478,
+          "cn:isPinUp": "false",
+          "cn:pill": "",
+          "cn:region": 3
+        }
+      ]
+    }
+  ]
+}

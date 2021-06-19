@@ -1,0 +1,226 @@
+{
+  "data": {
+    "wildcard": {
+      "id": 104847117,
+      "slug": "Geopolitics oil ELLYATT 171116",
+      "creatorOverwrite": null,
+      "summary": "Energy Aspects' Amrita Sen said that $60 to $65 per barrel range for oil was the \"new range for Brent.\"",
+      "shorterDescription": null,
+      "type": "cnbcnewsstory",
+      "brand": "cnbc",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847117",
+      "datePublished": "2017-11-16T15:43:51+0000",
+      "publisher": {
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "contentText": "<style>\r\n  .crazy-div {\r\n      animation: colorchange 5s infinite; /* animation-name followed by duration in seconds*/\r\n         /* you could also use milliseconds (ms) or something like 2.5s */\r\n      -webkit-animation: colorchange 5s infinite; /* Chrome and Safari */\r\n    }\r\n\r\n    @keyframes colorchange\r\n    {\r\n      0%   {background: red;}\r\n      25%  {background: yellow;}\r\n      50%  {background: blue;}\r\n      75%  {background: green;}\r\n      100% {background: red;}\r\n    }\r\n\r\n    @-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */\r\n    {\r\n      0%   {background: red;}\r\n      25%  {background: yellow;}\r\n      50%  {background: blue;}\r\n      75%  {background: green;}\r\n      100% {background: red;}\r\n    }\r\n</style>\r\n\r\n<div class=\"crazy-div\" style=\"height:250px;width:100%\"></div>",
+      "promoText": "<style>\r\n  .crazy-div {\r\n      animation: colorchange 5s infinite; /* animation-name followed by duration in seconds*/\r\n         /* you could also use milliseconds (ms) or something like 2.5s */\r\n      -webkit-animation: colorchange 5s infinite; /* Chrome and Safari */\r\n    }\r\n\r\n    @keyframes colorchange\r\n    {\r\n      0%   {background: red;}\r\n      25%  {background: yellow;}\r\n      50%  {background: blue;}\r\n      75%  {background: green;}\r\n      100% {background: red;}\r\n    }\r\n\r\n    @-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */\r\n    {\r\n      0%   {background: red;}\r\n      25%  {background: yellow;}\r\n      50%  {background: blue;}\r\n      75%  {background: green;}\r\n      100% {background: red;}\r\n    }\r\n</style>\r\n\r\n<div class=\"crazy-div\" style=\"height:250px;width:100%\"></div>",
+      "native": false,
+      "premium": false,
+      "image": {
+        "id": 104748027
+      },
+      "body": {
+        "content": [
+          {
+            "tagName": "cnbcvideo",
+            "attributes": {
+              "id": 104846350,
+              "type": "cnbcvideo",
+              "headline": "Geopolitical risks support oil prices, analyst says",
+              "title": "Geopolitical risks support oil prices, analyst says",
+              "url": "/video/2017/11/16/geopolitical-risks-support-oil-prices-analyst-says.html",
+              "description": "Iraq is a bigger issue for oil markets than Iran, Amrita Sen, chief oil analyst at Energy Aspects, said.",
+              "thumbnail": "https://qa-aws02capi-img-origin.cnbc.com/image/104846380-5ED3-SSEU-11167-AmritaSen.jpg?v=1510826116",
+              "duration": 145,
+              "uploadDate": "2017-11-16T09:23:53+0000",
+              "autoPlay": true
+            },
+            "children": []
+          },
+          {
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": [
+              {
+                "tagName": "p",
+                "children": [
+                  "Iran-Saudi Arabia tensions, a potential debt default in Venezuela and a territorial dispute in Iraq — those are just some of the reasons that geopolitics matters to the price of oil right now, according to the chief oil analyst at Energy Aspects."
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  "Speaking to CNBC on Thursday, Amrita Sen said that there were a number of issues that could affect the oil price, with a particular concern being the lack of  \"inventory buffer\" — a cushion of oil supply — if production was to fall from major oil producers for economic or political reasons."
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  " \"Even if there is a flare up in Iran (with Saudi Arabia) we don't see exports and production being lost, but Iraq is probably a bigger issue right now with the dispute between Baghdad and Kurdistan, we have lost a decent chunk (of output), about 300,000 barrels per day of volume from the north (of the country). In Venezuela too, production is absolutely plummeting,\" she said."
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  " \"And the reason that of all these become far more important is that there is no oil inventory buffer anymore. OPEC spare capacity is a lot lower and that's why geopolitics matters. If you think about the last three years, we've hardly had any geopolitical premium in the price but now, because we don't have a buffer, geopolitics will matter a lot more which can lead to spikey-ness in oil prices next year.\""
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  "Sen's comments come amid an improving outlook for oil prices following the sharp declines seen since 2014 due to a glut in supply and lackluster demand. ",
+                  {
+                    "tagName": "a",
+                    "attributes": {
+                      "target": "_blank",
+                      "id": "webresource_",
+                      "className": "webresource",
+                      "href": "http://data.cnbc.com/quotes/lcocv1"
+                    },
+                    "children": [
+                      "Brent crude"
+                    ]
+                  },
+                  " was trading at $61.58 per barrel on Thursday and ",
+                  {
+                    "tagName": "a",
+                    "attributes": {
+                      "target": "_blank",
+                      "id": "webresource_",
+                      "className": "webresource",
+                      "href": "http://data.cnbc.com/quotes/@CL.1"
+                    },
+                    "children": [
+                      "West Texas Intermediate"
+                    ]
+                  },
+                  " at $55.18. Prices have been helped by major oil producers OPEC and non-OPEC producers, including Russia, agreeing to limit oil output in a bid to support prices."
+                ]
+              }
+            ]
+          },
+          {
+            "tagName": "image",
+            "attributes": {
+              "id": "104748027",
+              "type": "image",
+              "creatorOverwrite": "Paul Giamou | Aurora | Getty Images",
+              "headline": "Premium: Oil field 171003 ",
+              "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104748027-GettyImages-158924758.jpg?v=1506994696",
+              "datePublished": "2017-10-03T01:38:10+0000",
+              "caption": "Pumpjacks in an oil field.",
+              "copyrightHolder": "Paul Giamou | Aurora | Getty Images",
+              "width": "2121",
+              "height": "1414"
+            },
+            "children": []
+          },
+          {
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": [
+              {
+                "tagName": "p",
+                "children": [
+                  "Sen said that $60 to $65 per barrel range for oil was the  \"new range for Brent.\""
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  " \"The move up to $60 was very much a fundamentally driven move. We have seen phenomenal demand right through the last two years, and particularly this year, and supplies have been falling thanks to OPEC, but also non-OPEC supplies haven't risen by as much as people thought."
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  " \"Since then, however, we have seen a flare-up of geopolitics, Saudi Arabia and Iran relations have deteriorated and, as a result of that, we have seen a significant uptick in prices and that's the correction you're seeing now. Some of those geopolitical issues haven't gone away, but they're not in the limelight."
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  " \"You're going to see a volatile range between $60 and $65 but this is the new range for Brent as opposed to the $50 to $55 range that we had even just a few months ago.\""
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  "Sen spoke come ahead of a meeting of OPEC oil producers at the end of November where the expectation is that oil output cuts will be extended beyond the current expiry date of March 2018."
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  " \"The market is becoming a little more skeptical about that because Russia has raised concerns that, at $60 to $65 a barrel, shale oil is going to grow a lot more strongly so there are some reports that the decision could be delayed to February or March when the deal expires.\""
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  "Energy Aspects believed that there would be a decision at OPEC's November 30 meeting, however, because markets were expecting such a move and, Sen said,  \"the stakes are too high.\""
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  " \"The market is expecting it and if they don't do anything prices could fall sharply,\" she said."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "keyPoints": [
+        {
+          "tagName": "group",
+          "children": [
+            {
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": [
+                {
+                  "tagName": "ul",
+                  "children": [
+                    {
+                      "tagName": "li",
+                      "children": [
+                        "Amrita Sen, chief oil analyst at Energy Aspects, said that there were a number of geopolitical issues that could affect the oil price"
+                      ]
+                    },
+                    {
+                      "tagName": "li",
+                      "children": [
+                        "Sen's comments come amid an improving outlook for oil prices following the sharp declines seen since 2014 due to a glut in supply and lackluster demand"
+                      ]
+                    },
+                    {
+                      "tagName": "li",
+                      "children": [
+                        "The analyst said that $60 to $65 per barrel range for oil was the  \"new range for Brent.\""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "@type": "Collection",
+  "@id": "15838459",
+  "cn:type": "franchise",
+  "cn:slug": "Mad Money",
+  "cn:title": "Mad Money with Jim Cramer",
+  "headline": "Mad Money",
+  "cn:creatorOverwrite": "",
+  "cn:historicalURL": ["/id/15838459"],
+  "cn:editedBy": "Tahir",
+  "cn:createdBy": "migration",
+  "cn:subDomain": "CNBC.com",
+  "cn:branding": "CNBC",
+  "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15838459",
+  "cn:settings": {
+    "cn:commentsEnabled": "Yes",
+    "cn:socialtoolsEnabled": "Yes",
+    "cn:dateline": "Yes",
+    "cn:displayByline": "Yes",
+    "cn:displaySource": "Yes",
+    "cn:outbrainEnabled": "Yes",
+    "cn:isFamilyFriendly": "Yes",
+    "cn:listType": "Manual and/or populated by feeds",
+    "cn:tweetOnPublish": 0
+  },
+  "url": "http://qa-aws01web.cnbc.com/mad-money/",
+  "datePublished": "2014-02-20T00:07:49+0000",
+  "cn:section": [{
+    "id": 100008328,
+    "tagName": "U.S. Business Day",
+    "order": 1
+  }, {
+    "id": 15839263,
+    "tagName": "Video and TV",
+    "order": 2
+  }, {
+    "id": 10000161,
+    "tagName": "CNBC Global",
+    "order": 3
+  }],
+  "cn:subtype": "news_show",
+  "description": "Mad Money seeks to help people like you, who own stocks and feel like they're on the outside looking in, become better investors. To teach you how to think about the market like a pro. This show is not about picking stocks. It's not about giving you tips that will make you money overnight. Our mission is educational, to teach you how to analyze stocks and the market through the prism of events.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "CNBC",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "@context": {
+    "cn": "http://cnbc.com/schema/",
+    "@vocab": "http://schema.org/"
+  },
+  "cn:pagination": {
+    "cn:link": {
+      "cn:self": "https://qa-aws02capi-bl.cnbc.com/list/id/15838459?page=1&pagesize=2",
+      "cn:next": "https://qa-aws02capi-bl.cnbc.com/list/id/15838459?page=2&pagesize=2",
+      "cn:previous": "https://qa-aws02capi-bl.cnbc.com/list/id/15838459?page=1&pagesize=2",
+      "cn:last": "https://qa-aws02capi-bl.cnbc.com/list/id/15838459?page=1300&pagesize=2"
+    },
+    "cn:page": 1,
+    "cn:totalCount": 2599,
+    "cn:pageSize": 2
+  },
+  "cn:listItem": [{
+    "@id": "104844636",
+    "cn:type": "blogpost",
+    "cn:slug": "Market - GURDUS - 171115 - MM",
+    "cn:createdBy": "Elizabeth.gurdus@nbcuni.com",
+    "cn:editedBy": "vitaly",
+    "cn:title": "Cramer urges investors not to 'jump to conclusions' based only on stock moves",
+    "headline": "Cramer urges investors not to 'jump to conclusions' based only on stock moves",
+    "cn:creatorOverwrite": "",
+    "cn:historicalURL": [],
+    "cn:subDomain": "CNBC.com",
+    "cn:branding": "CNBC",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104844636",
+    "url": "http://qa-aws01web.cnbc.com/2017/11/15/cramer-urges-investors-not-to-jump-to-conclusions-about-the-sell-off.html",
+    "datePublished": "2017-11-15T23:13:16+0000",
+    "cn:section": [{
+      "id": 15838459,
+      "tagName": "Mad Money",
+      "order": 1
+    }, {
+      "id": 100008328,
+      "tagName": "U.S. Business Day",
+      "order": 2
+    }, {
+      "id": 15839263,
+      "tagName": "Video and TV",
+      "order": 3
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 4
+    }],
+    "description": "Jim Cramer cautioned investors about \"following the crowd,\" saying the method is often wrong and can be costly.",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:dateline": "Yes",
+      "cn:displayByline": "Yes",
+      "cn:displaySource": "Yes",
+      "cn:outbrainEnabled": "Yes",
+      "cn:isFamilyFriendly": "Yes",
+      "cn:listType": "Virtual",
+      "cn:tweetOnPublish": 0
+    },
+    "author": [{
+      "@type": "Creator",
+      "@id": "103964735",
+      "name": "Elizabeth Gurdus",
+      "url": "http://qa-aws01web.cnbc.com/elizabeth-gurdus/",
+      "position": "5000",
+      "sameAs": ["https://www.twitter.com/lizzygurdus"],
+      "cn:socialMediaInfo": [{
+        "cn:url": "https://twitter.com/lizzygurdus",
+        "cn:displayText": "lizzygurdus",
+        "cn:type": "twitter"
+      }]
+    }],
+    "image": {
+      "representativeOfPage": "true",
+      "@type": "ImageObject",
+      "@id": 104417979,
+      "author": "",
+      "datePublished": "2017-04-21T12:25:40+0000",
+      "caption": "Pedestrians walk along Wall Street near the New York Stock Exchange.",
+      "description": "",
+      "copyrightHolder": "Michael Nagle | Bloomberg | Getty Images",
+      "height": "1333",
+      "width": "2000",
+      "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104417979-GettyImages-665836206.jpg?v=1492777553"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "@type": "BlogPosting",
+    "cn:relation": [{
+      "cn:isPromoted": "true",
+      "cn:relationType": "outputList",
+      "position": 8820
+    }]
+  }, {
+    "@id": "104844639",
+    "cn:type": "blogpost",
+    "cn:slug": "Square - GURDUS - 171115 - MM",
+    "cn:createdBy": "Elizabeth.gurdus@nbcuni.com",
+    "cn:editedBy": "vitaly",
+    "cn:title": "Square CFO: We're experimenting with bitcoin to see if it's 'real'",
+    "headline": "Square CFO: We're experimenting with bitcoin to see if it's 'real'",
+    "cn:creatorOverwrite": "",
+    "cn:historicalURL": [],
+    "cn:subDomain": "CNBC.com",
+    "cn:branding": "CNBC",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104844639",
+    "url": "http://qa-aws01web.cnbc.com/2017/11/15/square-cfo-were-experimenting-with-bitcoin-to-see-if-its-real.html",
+    "datePublished": "2017-11-15T23:25:40+0000",
+    "cn:section": [{
+      "id": 15838459,
+      "tagName": "Mad Money",
+      "order": 1
+    }, {
+      "id": 100008328,
+      "tagName": "U.S. Business Day",
+      "order": 2
+    }, {
+      "id": 15839263,
+      "tagName": "Video and TV",
+      "order": 3
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 4
+    }],
+    "description": "Jim Cramer spoke to Square Chief Financial Officer Sarah Friar about her company's latest foray into digital currency.",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:dateline": "Yes",
+      "cn:displayByline": "Yes",
+      "cn:displaySource": "Yes",
+      "cn:outbrainEnabled": "Yes",
+      "cn:isFamilyFriendly": "Yes",
+      "cn:listType": "Virtual",
+      "cn:tweetOnPublish": 0
+    },
+    "author": [{
+      "@type": "Creator",
+      "@id": "103964735",
+      "name": "Elizabeth Gurdus",
+      "url": "http://qa-aws01web.cnbc.com/elizabeth-gurdus/",
+      "position": "5000",
+      "sameAs": ["https://www.twitter.com/lizzygurdus"],
+      "cn:socialMediaInfo": [{
+        "cn:url": "https://twitter.com/lizzygurdus",
+        "cn:displayText": "lizzygurdus",
+        "cn:type": "twitter"
+      }]
+    }],
+    "image": {
+      "representativeOfPage": "true",
+      "@type": "ImageObject",
+      "@id": 104845450,
+      "author": "",
+      "datePublished": "2017-11-15T23:01:03+0000",
+      "caption": "Sarah Friar, CFO, Square",
+      "description": "",
+      "copyrightHolder": "Scott Mlyn | CNBC",
+      "height": "1333",
+      "width": "2000",
+      "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104845450-IMG_5778r.jpg?v=1510786810"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "@type": "BlogPosting",
+    "cn:relation": [{
+      "cn:isPromoted": "true",
+      "cn:relationType": "outputList",
+      "position": 8819
+    }]
+  }]
+}

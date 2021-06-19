@@ -1,0 +1,390 @@
+{
+  "@type": "Event",
+  "@id": "47630621",
+  "cn:type": "event",
+  "cn:slug": "Farnborough Airshow 2012",
+  "cn:createdBy": "migration",
+  "cn:editedBy": "nathaniel.quashie",
+  "cn:title": "Farnborough International Airshow 2012",
+  "headline": "Farnborough International Airshow 2012",
+  "cn:summary": "Industry insiders will be paying attention to who is winning orders from whom and how business stacks up in a sluggish global economy.",
+  "cn:shorterDescription": "Find out what companies and planes are on display at one the biggest events in the aerospace industry.",
+  "cn:shortestDescription": "Find out what companies and planes are on display at one the biggest events in the aerospace industry.",
+  "cn:creatorOverwrite": "",
+  "cn:branding": "CNBC",
+  "cn:subDomain": "CNBC.com",
+  "cn:historicalURL": [
+    "/2012/07/28/farnborough-international-airshow-2012-news.html",
+    "/id/47630621"
+  ],
+  "datePublished": "2012-07-28T07:54:43 GMT",
+  "cn:dateLastPublished": "2018-01-19T17:15:33 GMT",
+  "dateModified": "2018-01-19T17:15:34 GMT",
+  "description": "Industry insiders will be paying attention to who is winning orders from whom and how business stacks up in a sluggish global economy.",
+  "articlebody": "null",
+  "cn:xmlArticleBody": "null",
+  "cn:xmlKeyPoints": "null",
+  "url": "http://qa-aws01web.cnbc.com/2012/07/28/farnborough-international-airshow-2012.html",
+  "sourceOrganization": [{
+    "@type": "Organization",
+    "@id": "100005495",
+    "cn:type": "source",
+    "cn:slug": "CNBC Europe Source",
+    "cn:title": "",
+    "headline": "",
+    "cn:creatorOverwrite": "",
+    "cn:editedBy": "bryn.bache",
+    "cn:historicalURL": [],
+    "cn:createdBy": "chris.larsen",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100005495",
+    "url": "",
+    "cn:sourceName": "CNBC.com",
+    "description": "CNBC.com"
+  }],
+  "image": {
+    "@type": "ImageObject",
+    "representativeOfPage": "true",
+    "@id": 100003303,
+    "author": "Chris Ratcliffe",
+    "datePublished": "2012-07-30T16:43:52 GMT",
+    "caption": "An Airbus SAS A380 aircraft operated by Malaysia Airline System Bhd. performs a fly-past on the third day of the Farnborough International Air Show in Farnborough, U.K., on Wednesday, July 11, 2012. The Farnborough International Air Show runs from July 9-15.",
+    "description": "An Airbus SAS A380 aircraft operated by Malaysia Airline System Bhd. performs a fly-past on the third day of the Farnborough International Air Show in Farnborough, U.K., on Wednesday, July 11, 2012. The Farnborough International Air Show runs from July 9-15. Photographer: Chris Ratcliffe/Bloomberg via Getty Images",
+    "copyrightHolder": "",
+    "height": "2666",
+    "width": "4000",
+    "url": "https://qa-aws02capi-img-origin.cnbc.com/image/100003303-farnborough-international-airshow-malaysia-air-2012-gettyp.jpg?v=1468216586"
+  },
+  "cn:settings": {
+    "cn:commentsEnabled": "Yes",
+    "cn:socialtoolsEnabled": "Yes",
+    "cn:listType": "Manual and/or populated by feeds",
+    "cn:tweetOnPublish": 0
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "CNBC",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "@context": {
+    "@vocab": "http://schema.org/",
+    "cn": "http://cnbc.com/schema/"
+  },
+  "cn:eventStartDate": "2018-01-26T05:00:00 GMT",
+  "cn:eventEndDate": "2018-01-31T05:00:00 GMT",
+  "cn:eventTimezone": "EST",
+  "cn:eventRegistrationDeadlineDate": "2018-01-22T05:00:00 GMT",
+  "cn:eventStatus": "open",
+  "cn:eventCapacity": 4000,
+  "cn:eventPhone": "888-867-5309",
+  "cn:eventEmail": "test@example.com",
+  "cn:eventLandingPage": "",
+  "cn:eventLocation": "Brooklyn, NY",
+  "cn:association": [{
+      "@type": "Collection",
+      "@id": "10000142",
+      "cn:type": "franchise",
+      "cn:slug": "Transportation",
+      "cn:title": "Transportation",
+      "headline": "Transportation",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [
+        "/id/10000142"
+      ],
+      "cn:editedBy": "david reid",
+      "cn:createdBy": "migration",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000142",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "url": "http://qa-aws01web.cnbc.com/transportation/",
+      "datePublished": "2012-01-29T18:23:15 GMT",
+      "cn:subtype": "section",
+      "description": "Latest news for the transportation industry, including status of America's crumbling roadways and bridges. ",
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "cn:relation": [{
+        "position": 5000,
+        "cn:relationType": "section",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@id": "100003303",
+      "cn:type": "image",
+      "cn:slug": "Farnborough International 2012 Airshow Malaysia Air",
+      "cn:title": "",
+      "headline": "",
+      "cn:creatorOverwrite": "",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes"
+      },
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100003303",
+      "author": "Chris Ratcliffe",
+      "contentSize": 1166477,
+      "datePublished": "2012-07-30T16:43:52 GMT",
+      "url": "https://qa-aws02capi-img-origin.cnbc.com/image/100003303-farnborough-international-airshow-malaysia-air-2012-gettyp.jpg?v=1468216586",
+      "caption": "An Airbus SAS A380 aircraft operated by Malaysia Airline System Bhd. performs a fly-past on the third day of the Farnborough International Air Show in Farnborough, U.K., on Wednesday, July 11, 2012. The Farnborough International Air Show runs from July 9-15.",
+      "description": "An Airbus SAS A380 aircraft operated by Malaysia Airline System Bhd. performs a fly-past on the third day of the Farnborough International Air Show in Farnborough, U.K., on Wednesday, July 11, 2012. The Farnborough International Air Show runs from July 9-15. Photographer: Chris Ratcliffe/Bloomberg via Getty Images",
+      "height": "2666",
+      "width": "4000",
+      "@type": "ImageObject",
+      "representativeOfPage": "true",
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "cn:relation": [{
+        "position": 4999,
+        "cn:relationType": "promo",
+        "cn:isPromoted": "true"
+      }]
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "100002778",
+      "cn:type": "cnbcteam",
+      "cn:slug": "CNBC Europe Team",
+      "cn:title": "",
+      "headline": "",
+      "cn:creatorOverwrite": "",
+      "cn:editedBy": "jessica.morris",
+      "cn:historicalURL": [],
+      "cn:createdBy": "brian.beers",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100002778",
+      "url": "",
+      "datePublished": "2014-03-07T07:15:25 GMT",
+      "description": "",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "cn:relation": [{
+        "position": 4998,
+        "cn:relationType": "team",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@type": "Organization",
+      "@id": "100005495",
+      "cn:type": "source",
+      "cn:slug": "CNBC Europe Source",
+      "cn:title": "",
+      "headline": "",
+      "cn:creatorOverwrite": "",
+      "cn:editedBy": "bryn.bache",
+      "cn:historicalURL": [],
+      "cn:createdBy": "chris.larsen",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100005495",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes"
+      },
+      "url": "",
+      "cn:sourceName": "CNBC.com",
+      "datePublished": "2012-08-09T19:16:41 GMT",
+      "description": "CNBC.com",
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "cn:relation": [{
+        "position": 4997,
+        "cn:relationType": "source",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@type": "DigitalDocument",
+      "fileFormat": "text/tpl",
+      "@id": "10007",
+      "cn:type": "markup_template",
+      "cn:slug": "Topic Template",
+      "cn:createdBy": "ingest",
+      "cn:editedBy": "chris.larsen",
+      "cn:title": "Topic Template",
+      "headline": "Topic Template",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "cn:settings": {
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:commentsEnabled": "Yes"
+      },
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10007",
+      "datePublished": "2012-08-09T14:58:03 GMT",
+      "name": "franchise.tpl",
+      "url": "file://franchise.tpl",
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "cn:relation": [{
+        "position": 4995,
+        "cn:relationType": "template",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@type": "Collection",
+      "@id": "16903222",
+      "cn:type": "franchise",
+      "cn:slug": "Special Reports",
+      "cn:title": "CNBC Special Reports",
+      "headline": "Latest Special Reports",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [
+        "/id/16903222"
+      ],
+      "cn:editedBy": "aaron.stephanus",
+      "cn:createdBy": "migration",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/16903222",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "url": "http://qa-aws01web.cnbc.com/special-reports/",
+      "datePublished": "2017-04-12T14:17:56 GMT",
+      "cn:subtype": "special_report",
+      "description": "Find CNBC Special Reports with News and Analysis on Investing, Technology, Real Estate, Breaking News and Special Events.\r\n",
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "cn:relation": [{
+        "position": 3,
+        "cn:relationType": "tags",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "cn:relation": [{
+        "position": 2,
+        "cn:relationType": "tags",
+        "cn:isPromoted": "false"
+      }],
+      "@id": "101821985"
+    },
+    {
+      "@type": "CreativeWork",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Virtual"
+      },
+      "@id": "100803071",
+      "cn:type": "wildcard",
+      "cn:slug": "no most popular video",
+      "cn:createdBy": "chris.larsen",
+      "cn:editedBy": "chris.larsen",
+      "cn:title": "",
+      "headline": "",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [
+        "/no-most-popular-video/"
+      ],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100803071",
+      "datePublished": "2013-06-10T14:27:09 GMT",
+      "cn:wildcard": {
+        "cn:wildcardContent": {
+          "cn:__cdata": ""
+        },
+        "cn:wildcardPromo": {
+          "cn:__cdata": ""
+        }
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "cn:relation": [{
+        "position": 1,
+        "cn:relationType": "more",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "cn:relation": [{
+        "position": 1,
+        "cn:relationType": "tags",
+        "cn:isPromoted": "false"
+      }],
+      "@id": "4428842"
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "100013683",
+      "cn:type": "skin",
+      "cn:slug": "farnborough skin",
+      "cn:title": "",
+      "headline": "",
+      "cn:creatorOverwrite": "",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100013683",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes"
+      },
+      "datePublished": "2012-09-19T19:58:08 GMT",
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "cn:relation": [{
+        "position": 1,
+        "cn:relationType": "skin",
+        "cn:isPromoted": "false"
+      }]
+    }
+  ]
+}

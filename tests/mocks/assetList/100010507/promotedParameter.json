@@ -1,0 +1,132 @@
+{
+  "data": {
+    "assetList": {
+      "id": 100010507,
+      "type": "franchise",
+      "slug": "US Economy",
+      "url": "https://qa-aws01web.cnbc.com/us-economy/",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100010507",
+      "datePublished": "2014-09-02T17:20:56+0000",
+      "subType": "news_section",
+      "name": "US Economy",
+      "description": "Latest news and headlines affecting the United States economy.",
+      "publisher": {
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "pagination": {
+        "link": {
+          "self": "https://qa-aws02capi-bl.cnbc.com/list/id/100010507?page=1&pagesize=10",
+          "next": "https://qa-aws02capi-bl.cnbc.com/list/id/100010507?page=2&pagesize=10",
+          "previous": "https://qa-aws02capi-bl.cnbc.com/list/id/100010507?page=1&pagesize=10",
+          "last": "https://qa-aws02capi-bl.cnbc.com/list/id/100010507?page=182&pagesize=10"
+        },
+        "page": 1,
+        "totalCount": 1814,
+        "pageSize": 10
+      },
+      "assets": [
+        {
+          "id": 104846877,
+          "type": "cnbcnewsstory",
+          "slug": "Mester-warnings Cox 17116 EC",
+          "datePublished": "2017-11-16T14:51:10+0000",
+          "description": "The economy faces higher deficits, lower government benefits and near-zero interest rates unless Congress acts, the Fed's Loretta Mester says.",
+          "headline": "Fed's Mester warns on rising deficits, calls for more immigration",
+          "title": "Federal Reserve president says country needs more immigration to save economy",
+          "keyPoints": []
+        },
+        {
+          "id": 104846604,
+          "type": "cnbcnewsstory",
+          "slug": "Impact cybersecurity tips GRANT 20171116",
+          "datePublished": "2017-11-16T14:46:38+0000",
+          "description": "Both advisors and consumers could stand to improve their email habits and password use, to thwart would-be thieves. ",
+          "headline": "Smart behaviors to improve your cybersecurity",
+          "title": "Smart behaviors that can improve your cybersecurity",
+          "keyPoints": []
+        },
+        {
+          "id": 104846799,
+          "type": "cnbcnewsstory",
+          "slug": "Industrial Production October BREUNINGER 171116 EC",
+          "datePublished": "2017-11-16T14:15:53+0000",
+          "description": "Economists polled by Reuters expected industrial output to increase in October.",
+          "headline": "US industrial production rose 0.9% in Oct as hurricane impact revised downward",
+          "title": "US industrial production rose 0.9% in Oct, vs 0.5% increase expected",
+          "keyPoints": []
+        },
+        {
+          "id": 104845074,
+          "type": "cnbcnewsstory",
+          "slug": "US market outlook KIESNOSKI 171115 EC",
+          "datePublished": "2017-11-16T14:18:11+0000",
+          "description": "The U.S. market rally probably has a few years left to run, and will more than likely slow due to natural cycles rather than any cataclysm, say experts.",
+          "headline": "Market rally has another year to run, say experts",
+          "title": "Market rally has at least another year to run, say experts",
+          "keyPoints": []
+        },
+        {
+          "id": 104846956,
+          "type": "cnbcnewsstory",
+          "slug": "Home builder confidence rises OLICK 171116 ",
+          "datePublished": "2017-11-16T05:00:00+0000",
+          "description": "Home builder confidence rises as builders see more sales and increased buyer traffic.",
+          "headline": "Home builder confidence hits 8-month high in November",
+          "title": "Home builder confidence hits 8-month high in November",
+          "keyPoints": []
+        },
+        {
+          "id": 104844245,
+          "type": "cnbcnewsstory",
+          "slug": "Import prices RTRS 171116 EC",
+          "datePublished": "2017-11-16T13:31:16+0000",
+          "description": "Import prices rose less than expected in October as an increase in the cost of imported petroleum and capital goods was offset by a decline in food prices.",
+          "headline": "US import prices rise less than expected in October ",
+          "title": "US import prices rose 0.2% in Oct, vs 0.4% increase expected",
+          "keyPoints": []
+        },
+        {
+          "id": 104844239,
+          "type": "cnbcnewsstory",
+          "slug": "Jobless claims RTRS 171116 EC",
+          "datePublished": "2017-11-16T13:30:49+0000",
+          "description": "The number of Americans filing for unemployment benefits unexpectedly rose last week.",
+          "headline": "US weekly jobless claims unexpectedly rise",
+          "title": "US weekly jobless claims unexpectedly rise",
+          "keyPoints": []
+        },
+        {
+          "id": 104845427,
+          "type": "cnbcnewsstory",
+          "slug": "Trump’s tax reform HARWOOD 171115 EC",
+          "datePublished": "2017-11-16T12:04:23+0000",
+          "description": "President Trump's white working-class supporters don't gain much from the Republican tax cut push. They support it anyway.",
+          "headline": "Trump’s core supporters are about to be handed the bill for tax reform",
+          "title": "Trump’s core supporters are about to be handed the bill for tax reform",
+          "keyPoints": []
+        },
+        {
+          "id": 104846359,
+          "type": "cnbcnewsstory",
+          "slug": "US premarkets Gibbs 171116 EU",
+          "datePublished": "2017-11-16T10:54:36+0000",
+          "description": "U.S. stock index futures pointed to a higher open Thursday, bouncing back from yesterday's weak trading session, ahead of a vote on tax reform.",
+          "headline": "Futures point to a higher open on Wall Street ahead of tax bill vote",
+          "title": "Futures point to a higher open on Wall Street ahead of tax bill vote",
+          "keyPoints": []
+        },
+        {
+          "id": 104846360,
+          "type": "cnbcnewsstory",
+          "slug": "US bonds Gibbs 171116 EU",
+          "datePublished": "2017-11-16T10:45:35+0000",
+          "description": "U.S. government debt yields rose Thursday after jobless claims unexpectedly rose and industrial production beat projections. ",
+          "headline": "US Treasury yields climb after jobless numbers, stronger industrial production",
+          "title": "US Treasury yields climb after jobless numbers, stronger industrial production data",
+          "keyPoints": []
+        }
+      ]
+    }
+  }
+}

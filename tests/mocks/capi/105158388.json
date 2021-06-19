@@ -1,0 +1,442 @@
+{
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+    "url": "https://qa-aws01pub.cnbc.com/2018/04/25/reuters-america-airbus-confirms-plans-to-raise-a320-output-to-63-a-month.html",
+    "cn:type": "wirestory",
+    "cn:title": "Airbus confirms plans to raise A320 output to 63 a month",
+    "cn:creatorOverwrite": "",
+    "cn:liveURL": "/2018/04/25/reuters-america-airbus-confirms-plans-to-raise-a320-output-to-63-a-month.html",
+    "@id": "105158388",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/105158388",
+    "cn:slug": "Airbus confirms plans to raise A320 output to 63 a month - 1524666306",
+    "cn:sectionHierarchy": [
+        {
+            "id": 10001307,
+            "tagName": "Wires",
+            "order": 1
+        },
+        {
+            "id": 101050794,
+            "tagName": "CNBC Utilities Page",
+            "order": 2
+        }
+    ],
+    "cn:seoTitle": "Airbus confirms plans to raise A320 output to 63 a month",
+    "sourceOrganization": [
+        {
+            "@type": "Organization",
+            "cn:branding": "cnbc",
+            "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+            "url": "https://qa-aws01pub.cnbc.com",
+            "cn:type": "source",
+            "cn:creatorOverwrite": "",
+            "cn:liveURL": "",
+            "@id": "80000008",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/80000008",
+            "cn:slug": "Reuters",
+            "cn:title": "Reuters",
+            "cn:tagName": "Reuters",
+            "cn:sourceLogo": "https://fm.cnbc.com/applications/cnbc.com/resources/source_logo/2018/04/05/133240667-byline-reuters.png",
+            "cn:sourceType": "Wire",
+            "cn:sourceName": "Reuters",
+            "description": "Reuters",
+            "name": "Reuters"
+        }
+    ],
+    "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes"
+    },
+    "description": "PARIS, April 25- Airbus plans to increase production of single-aisle A320-family aircraft to 63 a month, a company spokesman said, confirming press reports. The production increase, first reported by France's La Tribune, will take effect in 2019, accelerating previous plans to lift output to 60 aircraft a month over the same period. Airbus Chief Executive Tom...",
+    "cn:section": {
+        "cn:branding": "cnbc",
+        "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+        "url": "https://qa-aws01pub.cnbc.com/wires/",
+        "cn:type": "franchise",
+        "cn:creatorOverwrite": "",
+        "cn:liveURL": "/wires/",
+        "@id": "10001307",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10001307",
+        "cn:slug": "Wires",
+        "cn:subType": "section",
+        "cn:title": "Wires",
+        "cn:tagName": "Wires",
+        "cn:sectionHierarchy": [
+            {
+                "id": 10001307,
+                "tagName": "Wires",
+                "order": 1
+            },
+            {
+                "id": 101050794,
+                "tagName": "CNBC Utilities Page",
+                "order": 2
+            }
+        ],
+        "cn:sectionLabel": "",
+        "cn:state": "Publish",
+        "cn:settings": {
+            "cn:commentsEnabled": "Yes",
+            "cn:socialtoolsEnabled": "Yes",
+            "cn:listType": "Virtual",
+            "cn:tweetOnPublish": 0
+        },
+        "description": "",
+        "cn:sectionLinktext": "",
+        "headline": "Wires",
+        "datePublished": "2012-07-28T05:32:26+0000",
+        "cn:dateLastPublished": "2018-04-03T09:20:27+0000",
+        "cn:dateFirstPublished": "2012-07-28T05:32:26+0000",
+        "expires": "",
+        "cn:historicalURL": [
+            "/id/10001307"
+        ],
+        "cn:tabLabel": "",
+        "cn:bodyTeaser": "",
+        "cn:shortestDescription": "",
+        "cn:seoTitle": "Wires",
+        "cn:summary": "",
+        "cn:editedBy": "ashish.gupta",
+        "cn:createdBy": "migration",
+        "cn:shorterDescription": "",
+        "name": "Wires",
+        "cn:sectionColor": "#000000",
+        "cn:promoText": "",
+        "cn:showTime": "",
+        "@type": "Collection"
+    },
+    "cn:state": "Publish",
+    "cn:summary": "PARIS, April 25- Airbus plans to increase production of single-aisle A320-family aircraft to 63 a month, a company spokesman said, confirming press reports. The production increase, first reported by France's La Tribune, will take effect in 2019, accelerating previous plans to lift output to 60 aircraft a month over the same period. Airbus Chief Executive Tom...",
+    "cn:linkHeadline": "Airbus confirms plans to raise A320 output to 63 a month",
+    "headline": "Airbus confirms plans to raise A320 output to 63 a month",
+    "cn:editedBy": "ingest",
+    "datePublished": "2018-04-25T14:23:00+0000",
+    "cn:dateLastPublished": "2018-04-25T14:25:06+0000",
+    "cn:dateFirstPublished": "2018-04-25T14:25:06+0000",
+    "expires": "2018-10-22T04:00:00+0000",
+    "cn:historicalURL": [],
+    "cn:createdBy": "ingest",
+    "cn:bodyTeaser": "PARIS, April 25- Airbus plans to increase production of single-aisle A320-family aircraft to 63 a month, a company spokesman said, confirming press reports. The production increase, first reported by France's La Tribune, will take effect in 2019, accelerating previous plans to lift output to 60 aircraft a month over the same period. Airbus Chief Executive Tom...",
+    "cn:shorterHeadline": "",
+    "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+    },
+    "@type": "NewsArticle",
+    "cn:xmlArticleBody": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p>PARIS, April 25 (Reuters) - Airbus plans to increase production of single-aisle A320-family aircraft to 63 a month, a company spokesman said, confirming press reports.</p>\n<p>The production increase, first reported by France's La Tribune, will take effect in 2019, accelerating previous plans to lift output to 60 aircraft a month over the same period.</p>\n<p>The plans were unveiled to suppliers in a letter earlier this month.</p>\n<p>Over the longer term, Airbus is studying plans to raise output of its best-selling jet family to as high as 75 aircraft a month, a source familiar with the company's planning said.</p>\n<p>Currently, Airbus is producing 55 a month, the source added.</p>\n<p>Airbus Chief Executive Tom Enders has spoken of proposals to raise production to 70 a month over an undefined period, reflecting rising air travel and strong commercial jet demand. (Reporting by Tim Hepher Editing by Bate Felix)</p></div></group></body>",
+    "articlebody": "PARIS, April 25 (Reuters) - Airbus plans to increase production of single-aisle A320-family aircraft to 63 a month, a company spokesman said, confirming press reports.\nThe production increase, first reported by France's La Tribune, will take effect in 2019, accelerating previous plans to lift output to 60 aircraft a month over the same period.\nThe plans were unveiled to suppliers in a letter earlier this month.\nOver the longer term, Airbus is studying plans to raise output of its best-selling jet family to as high as 75 aircraft a month, a source familiar with the company's planning said.\nCurrently, Airbus is producing 55 a month, the source added.\nAirbus Chief Executive Tom Enders has spoken of proposals to raise production to 70 a month over an undefined period, reflecting rising air travel and strong commercial jet demand. (Reporting by Tim Hepher Editing by Bate Felix)",
+    "cn:xmlKeyPoints": "",
+    "dateModified": "2018-04-25T14:25:07+0000",
+    "cn:unpublishDate": "",
+    "cn:association": [
+        {
+            "cn:branding": "cnbc",
+            "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+            "url": "https://qa-aws01pub.cnbc.com/wires/",
+            "cn:type": "franchise",
+            "cn:creatorOverwrite": "",
+            "cn:liveURL": "/wires/",
+            "@id": "10001307",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10001307",
+            "cn:slug": "Wires",
+            "cn:subType": "section",
+            "cn:title": "Wires",
+            "cn:tagName": "Wires",
+            "cn:sectionHierarchy": [
+                {
+                    "id": 10001307,
+                    "tagName": "Wires",
+                    "order": 1
+                },
+                {
+                    "id": 101050794,
+                    "tagName": "CNBC Utilities Page",
+                    "order": 2
+                }
+            ],
+            "cn:sectionLabel": "",
+            "cn:state": "Publish",
+            "cn:settings": {
+                "cn:commentsEnabled": "Yes",
+                "cn:socialtoolsEnabled": "Yes",
+                "cn:listType": "Virtual",
+                "cn:tweetOnPublish": 0
+            },
+            "description": "",
+            "cn:sectionLinktext": "",
+            "headline": "Wires",
+            "datePublished": "2012-07-28T05:32:26+0000",
+            "cn:dateLastPublished": "2018-04-03T09:20:27+0000",
+            "cn:dateFirstPublished": "2012-07-28T05:32:26+0000",
+            "expires": "",
+            "cn:historicalURL": [
+                "/id/10001307"
+            ],
+            "cn:tabLabel": "",
+            "cn:bodyTeaser": "",
+            "cn:shortestDescription": "",
+            "cn:seoTitle": "Wires",
+            "cn:summary": "",
+            "cn:editedBy": "ashish.gupta",
+            "cn:createdBy": "migration",
+            "cn:shorterDescription": "",
+            "publisher": {
+                "name": "CNBC",
+                "@type": "Organization",
+                "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+            },
+            "@context": {
+                "cn": "http://cnbc.com/schema/",
+                "@vocab": "http://schema.org/"
+            },
+            "name": "Wires",
+            "cn:sectionColor": "#000000",
+            "cn:promoText": "",
+            "cn:showTime": "",
+            "@type": "Collection",
+            "cn:relation": [
+                {
+                    "position": 5000,
+                    "cn:relationType": "section",
+                    "cn:isPromoted": "true"
+                }
+            ]
+        },
+        {
+            "@type": "Organization",
+            "cn:branding": "cnbc",
+            "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+            "url": "https://qa-aws01pub.cnbc.com",
+            "cn:type": "source",
+            "cn:creatorOverwrite": "",
+            "cn:liveURL": "",
+            "@id": "80000008",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/80000008",
+            "cn:slug": "Reuters",
+            "cn:title": "Reuters",
+            "cn:tagName": "Reuters",
+            "cn:sourceLogo": "https://fm.cnbc.com/applications/cnbc.com/resources/source_logo/2018/04/05/133240667-byline-reuters.png",
+            "cn:sourceType": "Wire",
+            "cn:sourceName": "Reuters",
+            "cn:sectionHierarchy": [],
+            "cn:shorterHeadline": "",
+            "cn:state": "Publish",
+            "cn:settings": {
+                "cn:commentsEnabled": "Yes",
+                "cn:socialtoolsEnabled": "Yes",
+                "cn:listType": "Virtual",
+                "cn:tweetOnPublish": 0
+            },
+            "description": "Reuters",
+            "cn:linkHeadline": "Reuters",
+            "headline": "Reuters",
+            "datePublished": "2016-11-01T10:25:42+0000",
+            "cn:dateLastPublished": "2018-05-09T19:29:38+0000",
+            "cn:dateFirstPublished": "2011-10-06T17:33:47+0000",
+            "expires": "",
+            "cn:historicalURL": [],
+            "cn:shortestHeadline": "",
+            "cn:bodyTeaser": "",
+            "cn:shortestDescription": "",
+            "cn:summary": "Reuters",
+            "cn:editedBy": "Josephine.Bila",
+            "cn:createdBy": "migration",
+            "cn:shorterDescription": "Reuters",
+            "publisher": {
+                "name": "CNBC",
+                "@type": "Organization",
+                "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+            },
+            "@context": {
+                "cn": "http://cnbc.com/schema/",
+                "@vocab": "http://schema.org/"
+            },
+            "name": "Reuters",
+            "cn:relation": [
+                {
+                    "position": 4999,
+                    "cn:relationType": "source",
+                    "cn:isPromoted": "false"
+                }
+            ]
+        },
+        {
+            "cn:branding": "cnbc",
+            "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+            "url": "https://qa-aws01pub.cnbc.com",
+            "cn:type": "skin",
+            "cn:title": "",
+            "cn:creatorOverwrite": "",
+            "cn:liveURL": "",
+            "@id": "100003343",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100003343",
+            "cn:slug": "cnbc global skin",
+            "cn:tagName": "",
+            "cn:shortestDescription": "",
+            "cn:sectionHierarchy": [],
+            "cn:shorterHeadline": "",
+            "cn:state": "Publish",
+            "cn:summary": "",
+            "cn:settings": {
+                "cn:commentsEnabled": "Yes",
+                "cn:socialtoolsEnabled": "Yes",
+                "cn:tweetOnPublish": 0
+            },
+            "description": "",
+            "cn:linkHeadline": "",
+            "headline": "",
+            "cn:editedBy": "matt.shade",
+            "datePublished": "2012-07-30T19:54:30+0000",
+            "cn:dateLastPublished": "2018-03-26T19:49:51+0000",
+            "cn:dateFirstPublished": "2012-07-30T19:54:30+0000",
+            "expires": "",
+            "cn:historicalURL": [],
+            "cn:shortestHeadline": "",
+            "cn:createdBy": "matt.shade",
+            "cn:bodyTeaser": "",
+            "cn:shorterDescription": "",
+            "publisher": {
+                "name": "CNBC",
+                "@type": "Organization",
+                "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+            },
+            "@context": {
+                "cn": "http://cnbc.com/schema/",
+                "@vocab": "http://schema.org/"
+            },
+            "@type": "DigitalDocument",
+            "cn:relation": [
+                {
+                    "position": 3,
+                    "cn:relationType": "skin",
+                    "cn:isPromoted": "false"
+                }
+            ]
+        },
+        {
+            "cn:branding": "cnbc",
+            "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+            "url": "https://qa-aws01pub.cnbc.com",
+            "cn:type": "skin",
+            "cn:title": "",
+            "cn:creatorOverwrite": "",
+            "cn:liveURL": "",
+            "@id": "102133452",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/102133452",
+            "cn:slug": "Hide wires story header skin",
+            "cn:tagName": "",
+            "cn:shortestDescription": "",
+            "cn:sectionHierarchy": [],
+            "cn:seoTitle": "",
+            "cn:shorterHeadline": "",
+            "cn:state": "Publish",
+            "cn:summary": "",
+            "cn:settings": {
+                "cn:commentsEnabled": "Yes",
+                "cn:dateline": "Yes",
+                "cn:isFamilyFriendly": "Yes",
+                "cn:socialtoolsEnabled": "Yes",
+                "cn:displayByline": "Yes",
+                "cn:displaySource": "Yes",
+                "cn:listType": "Virtual",
+                "cn:outbrainEnabled": "Yes"
+            },
+            "description": "",
+            "cn:linkHeadline": "",
+            "headline": "",
+            "cn:editedBy": "joseph.odell",
+            "datePublished": "2014-10-29T19:01:40+0000",
+            "cn:dateLastPublished": "2014-10-29T19:01:40+0000",
+            "cn:dateFirstPublished": "2014-10-29T19:01:40+0000",
+            "expires": "",
+            "cn:historicalURL": [],
+            "cn:shortestHeadline": "",
+            "cn:createdBy": "joseph.odell",
+            "cn:bodyTeaser": "",
+            "cn:shorterDescription": "",
+            "publisher": {
+                "name": "CNBC",
+                "@type": "Organization",
+                "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+            },
+            "@context": {
+                "cn": "http://cnbc.com/schema/",
+                "@vocab": "http://schema.org/"
+            },
+            "@type": "DigitalDocument",
+            "cn:relation": [
+                {
+                    "position": 1,
+                    "cn:relationType": "skin",
+                    "cn:isPromoted": "false"
+                }
+            ]
+        },
+        {
+            "fileFormat": "text/tpl",
+            "cn:branding": "cnbc",
+            "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+            "url": "file://story_simple.tpl",
+            "cn:type": "markup_template",
+            "cn:title": "",
+            "cn:creatorOverwrite": "",
+            "cn:liveURL": "",
+            "@id": "102876524",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/102876524",
+            "cn:slug": "Story Simple Right Rail template",
+            "cn:tagName": "",
+            "cn:shortestDescription": "",
+            "cn:sectionHierarchy": [],
+            "cn:seoTitle": "",
+            "cn:shorterHeadline": "",
+            "cn:state": "Publish",
+            "cn:summary": "",
+            "cn:settings": {
+                "cn:commentsEnabled": "Yes",
+                "cn:dateline": "Yes",
+                "cn:isFamilyFriendly": "Yes",
+                "cn:socialtoolsEnabled": "Yes",
+                "cn:displayByline": "Yes",
+                "cn:displaySource": "Yes",
+                "cn:listType": "Virtual",
+                "cn:outbrainEnabled": "Yes"
+            },
+            "description": "",
+            "cn:linkHeadline": "",
+            "headline": "",
+            "cn:editedBy": "viktor.cea",
+            "datePublished": "2015-07-30T00:41:29+0000",
+            "cn:dateLastPublished": "2015-07-30T00:41:29+0000",
+            "cn:dateFirstPublished": "2015-07-30T00:41:29+0000",
+            "expires": "",
+            "cn:historicalURL": [],
+            "cn:shortestHeadline": "",
+            "cn:createdBy": "viktor.cea",
+            "cn:bodyTeaser": "",
+            "cn:shorterDescription": "",
+            "publisher": {
+                "name": "CNBC",
+                "@type": "Organization",
+                "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+            },
+            "@context": {
+                "cn": "http://cnbc.com/schema/",
+                "@vocab": "http://schema.org/"
+            },
+            "name": "story_simple.tpl",
+            "@type": "DigitalDocument",
+            "cn:relation": [
+                {
+                    "position": 1,
+                    "cn:relationType": "template",
+                    "cn:isPromoted": "false"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "@id": "9999",
+    "cn:type": "image",
+    "cn:slug": "pedro-penguin-creator-empty",
+    "cn:title": "",
+    "author": "",
+    "contentSize": 158910,
+    "datePublished": "2017-12-19T15:15:34 GMT",
+    "cn:dateLastPublished": "2017-12-19T15:15:38 GMT",
+    "dateModified": "2017-12-19T15:15:39 GMT",
+    "url": "http://img-static-qa1.cnbc.com/image/104824953-cute-baby-penguin-7.jpg?v=1513696539",
+    "caption": "",
+    "description": "",
+    "height": "1068",
+    "width": "800",
+    "cn:focalPoints": {
+        "cn:height": 0,
+        "cn:width": 0
+    },
+    "cn:filter": "{\"file\":{\"filename\":\"104824953-cute-baby-penguin-7.jpg\",\"path\":\"2017/12/19/\",\"folder\":\"qa-pa14fm-cnbc\",\"version\":\"1513696539\"},\"custom_coordinates\":{\"x\":\"\",\"y\":\"\",\"h\":\"0\",\"w\":\"0\"}}",
+    "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+    },
+    "@type": "ImageObject",
+    "representativeOfPage": "true",
+    "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "cn:association": [{
+        "@type": "CreativeWork",
+        "cn:settings": {
+            "cn:commentsEnabled": "Yes",
+            "cn:socialtoolsEnabled": "Yes",
+            "cn:listType": "Virtual",
+            "cn:tweetOnPublish": 0
+        },
+        "@id": "100452589",
+        "cn:type": "wildcard",
+        "cn:slug": "Getty Premium Images Wild Card",
+        "cn:title": "",
+        "cn:creatorOverwrite": "",
+        "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/100452589",
+        "datePublished": "2013-02-12T13:59:13 GMT",
+        "cn:wildcard": {
+            "cn:wildcardContent": {
+                "cn:__cdata": ""
+            },
+            "cn:wildcardPromo": {
+                "cn:__cdata": ""
+            }
+        },
+        "@context": {
+            "@vocab": "http://schema.org/",
+            "cn": "http://cnbc.com/schema/"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+        },
+        "cn:relation": [{
+            "position": 1,
+            "cn:relationType": "more"
+        }]
+    }]
+}

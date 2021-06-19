@@ -1,0 +1,3562 @@
+{
+  "cn:type": "cnbcnewsstory",
+  "cn:creatorOverwrite": "",
+  "@id": "104790019",
+  "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104790019",
+  "cn:slug": "Elon Musk car will go where you want without having to tell it CLIFFORD 171023 NY",
+  "url": "http://qa-aws01web.cnbc.com/2017/10/23/elon-musk-tesla-cars-will-be-self-driving-and-know-your-schedule.html",
+  "cn:title": "Elon Musk: Your future Tesla will drive you where you want to go without you even having to tell it",
+  "cn:tagName": "",
+  "cn:sectionHierarchy": [
+    {
+      "id": 103775527,
+      "tagName": "Make It - Entrepreneurs ",
+      "order": 1
+    },
+    {
+      "id": 103395579,
+      "tagName": "Make It",
+      "order": 2
+    },
+    {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 3
+    }
+  ],
+  "cn:shorterHeadline": "Elon Musk: Your future Tesla will predict where you want to go",
+  "headline": "Elon Musk: Your future Tesla will predict where you want to go",
+  "cn:liveURL": "/2017/10/23/elon-musk-tesla-cars-will-be-self-driving-and-know-your-schedule.html",
+  "cn:settings": {
+    "cn:commentsEnabled": "Yes",
+    "cn:dateline": "Yes",
+    "cn:isFamilyFriendly": "Yes",
+    "cn:socialtoolsEnabled": "Yes",
+    "cn:displayByline": "Yes",
+    "cn:displaySource": "Yes",
+    "cn:listType": "Virtual",
+    "cn:outbrainEnabled": "Yes",
+    "cn:tweetOnPublish": 3
+  },
+  "image": {
+    "@type": "ImageObject",
+    "representativeOfPage": "true",
+    "@id": "104789984",
+    "datePublished": "2017-10-23T14:47:17+0000",
+    "description": "BEIJING, CHINA - OCTOBER 23: (CHINA OUT) Elon Musk, Chairman, CEO and Product Architect of Tesla Motors, addresses a press conference to declare that the Tesla Motors releases v7.0 System in China on a limited basis for its Model S, which will enable self-driving features such as Autosteer for a select group of beta testers on October 23, 2015 in Beijing, China. The v7.0 system includes Autosteer, a new Autopilot feature. While it\\'s not absolutely self-driving and the driver still need to hold the steering wheel and be mindful of road conditions and surrounding traffic when using Autosteer. When set to the new Autosteer mode, graphics on the driver\\'s display will show the path the Model S is following, post the current speed limit and indicate if a car is in front of the Tesla. (Photo by ChinaFotoPress)***_***",
+    "copyrightHolder": "Photo by VCG ",
+    "author": "ChinaFotoPress",
+    "height": "709",
+    "width": "1024",
+    "caption": "Tesla CEO Elon Musk",
+    "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104789984-GettyImages-493893254_1.jpg?v=1508770011"
+  },
+  "sourceOrganization": [
+    {
+      "@type": "Organization",
+      "@id": "80000022",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/80000022",
+      "cn:type": "source",
+      "cn:slug": "CNBC US Source",
+      "cn:tagName": "CNBC US Source",
+      "cn:title": "",
+      "cn:creatorOverwrite": "",
+      "url": "",
+      "cn:sourceName": "CNBC.com",
+      "description": "CNBC.com",
+      "name": ""
+    }
+  ],
+  "description": "Your Tesla will be able to check your calendar to see where you need to be. ",
+  "author": [
+    {
+      "@type": "Creator",
+      "@id": "103841821",
+      "name": "Catherine Clifford",
+      "url": "http://qa-aws01web.cnbc.com/cat-clifford/",
+      "cn:tagName": "Cat Clifford",
+      "image": "https://qa-aws02capi-img-origin.cnbc.com/image/103905216-20160824-4208-2197.jpg?v=1472647731",
+      "position": "4999"
+    }
+  ],
+  "cn:section": {
+    "@id": "103775527",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103775527",
+    "cn:type": "franchise",
+    "cn:slug": "Make It - Entrepreneurs ",
+    "cn:subType": "section",
+    "cn:tagName": "Make It - Entrepreneurs ",
+    "cn:title": "Make It - Entrepreneurs",
+    "cn:creatorOverwrite": "",
+    "url": "http://qa-aws01web.cnbc.com/make-it/entrepreneurs/",
+    "cn:liveURL": "/make-it/entrepreneurs/",
+    "datePublished": "2016-07-08T20:07:09+0000",
+    "cn:summary": "",
+    "cn:sectionLinktext": "Entrepreneurs ",
+    "cn:sectionLabel": "Entrepreneurs",
+    "headline": "Entrepreneurs",
+    "cn:tabLabel": "Entrepreneurs",
+    "cn:shorterDescription": "",
+    "cn:shortestDescription": "",
+    "cn:bodyTeaser": "null",
+    "cn:settings": {
+      "cn:isFamilyFriendly": "Yes",
+      "cn:listType": "Manual and/or populated by feeds",
+      "cn:tweetOnPublish": 0
+    },
+    "description": "",
+    "cn:sectionHierarchy": [
+      {
+        "id": 103395579,
+        "tagName": "Make It",
+        "order": 1
+      },
+      {
+        "id": 10000161,
+        "tagName": "CNBC Global",
+        "order": 2
+      }
+    ],
+    "cn:historicalURL": [],
+    "cn:editedBy": "matthew.clinch",
+    "cn:createdBy": "joseph.odell",
+    "name": "Make It - Entrepreneurs",
+    "@type": "Collection"
+  },
+  "cn:linkHeadline": "Elon Musk: Your future Tesla will drive you where you want to go without you even having to tell it",
+  "datePublished": "2017-10-23T16:52:05+0000",
+  "cn:historicalURL": [],
+  "cn:shortestHeadline": "",
+  "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p>Imagine getting into your car and it automatically takes you where you want to go without you even having to tell it.</p><p>Though it may feel Jetson-like, that futuristic reality is coming, says billionaire tech entrepreneur <asset_inline nid=\"100987750\">Elon Musk</asset_inline>, the CEO of <asset_inline nid=\"1514889\">Tesla</asset_inline> and SpaceX.</p><p>A Twitter user suggested to Musk that he would love to be able to get in his car and tell it where to drive him. Musk's response was, \"it won't even need to ask you most of the time.\"</p></div></group></body>",
+  "cn:shortestDescription": "Convenient or creepy?",
+  "cn:summary": "Your Tesla will be able to check your calendar to see where you need to be. ",
+  "cn:editedBy": "Leah.Ginsberg@nbcuni.com",
+  "cn:createdBy": "Cat.Clifford",
+  "cn:shorterDescription": "Convenient or creepy?",
+  "publisher": {
+    "@type": "Organization",
+    "name": "CNBC",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "@context": {
+    "@vocab": "http://schema.org/",
+    "cn": "http://cnbc.com/schema/"
+  },
+  "@type": "NewsArticle",
+  "cn:xmlArticleBody": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p>Imagine getting into your car and it automatically takes you where you want to go without you even having to tell it.</p><p>Though it may feel Jetson-like, that futuristic reality is coming, says billionaire tech entrepreneur <asset_inline nid=\"100987750\">Elon Musk</asset_inline>, the CEO of <asset_inline nid=\"1514889\">Tesla</asset_inline> and SpaceX.</p><p>A Twitter user suggested to Musk that he would love to be able to get in his car and tell it where to drive him. Musk's response was, \"it won't even need to ask you most of the time.\"</p></div></group><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104789988\"/></assets><div class=\"group\"><p>When the user asked how the car would know where you need to go, another suggested that if you are going to your car at the same time you go to work every day, the car's operating system would eventually learn your schedule. Musk agreed. \"Yeah, don't exactly need to be Sherlock Holmes.\"</p></div></group><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104790001\"/></assets><div class=\"group\"><p>All Tesla vehicles are built with the hardware necessary for full self-driving capability, including eight cameras and a computer that sees and hears in all directions.</p><p>\"Together, this system provides a view of the world that a driver alone cannot access, seeing in every direction simultaneously, and on wavelengths that go far beyond the human senses,\" <asset_inline ext_link=\"https://www.tesla.com/autopilot\" ext_title=\"\">Tesla says on its website</asset_inline>.</p><p>Your car will be able to listen to and respond to directional commands, but will also have access to your calendar. If you do not tell your car where to drive you, then your Tesla will check your calendar&#160;and take you where you&#160;are scheduled to&#160;be. If there is nothing scheduled, your Tesla will take you home.</p><p>Cars sold to consumers are not currently autonomous, however, because the hardware needs software to operate it.&#160;Tesla's distribution of the required software is&#160;<asset_inline ext_link=\"https://www.tesla.com/autopilot\" ext_title=\"\">pending regulatory approval</asset_inline>.</p><p>Though this particular application of machine learning may sound harmless enough — convenient, even — Musk is also a loud voice for the negative potential of artificial intelligence run amok.</p><p>\"What's going to happen is robots will be able to do everything better than us. ... I mean all of us,\" says <asset_inline ext_link=\"https://www.c-span.org/video/?431119-6/elon-musk-address-nga&amp;start=5049\" ext_title=\"\"> Musk, speaking to the National Governors Association</asset_inline> in July. \"Yeah, I am not sure exactly what to do about this. This is really the scariest problem to me, I will tell you.\"</p><p><em><strong>See also:</strong></em></p><p><em><strong><asset_inline nid=\"104590595\"> Elon Musk: 'Robots will be able to do everything better than us'</asset_inline></strong></em></p><p><em><strong><asset_inline nid=\"104678817\"> Elon Musk says 'A.I. will be the best or worst thing ever for humanity,' recommends a book on the topic</asset_inline></strong></em></p><p><em><strong><asset_inline nid=\"104391939\"> Ahead of Elon Musk, this self-made millionaire already launched a company to merge your brain with computers</asset_inline></strong></em></p></div></group><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104590871\" autoplay_flag=\"false\"/></assets><div class=\"group\"><p><strong>Like this story? Like <asset_inline ext_link=\"https://www.facebook.com/CNBCMakeIt/\" ext_title=\"\">CNBC Make It on Facebook</asset_inline>.</strong></p></div></group></body>",
+  "articlebody": "Imagine getting into your car and it automatically takes you where you want to go without you even having to tell it.Though it may feel Jetson-like, that futuristic reality is coming, says billionaire tech entrepreneur Elon Musk, the CEO of Tesla and SpaceX.A Twitter user suggested to Musk that he would love to be able to get in his car and tell it where to drive him. Musk's response was, \"it won't even need to ask you most of the time.\"When the user asked how the car would know where you need to go, another suggested that if you are going to your car at the same time you go to work every day, the car's operating system would eventually learn your schedule. Musk agreed. \"Yeah, don't exactly need to be Sherlock Holmes.\"All Tesla vehicles are built with the hardware necessary for full self-driving capability, including eight cameras and a computer that sees and hears in all directions.\"Together, this system provides a view of the world that a driver alone cannot access, seeing in every direction simultaneously, and on wavelengths that go far beyond the human senses,\" Tesla says on its website.Your car will be able to listen to and respond to directional commands, but will also have access to your calendar. If you do not tell your car where to drive you, then your Tesla will check your calendar&#160;and take you where you&#160;are scheduled to&#160;be. If there is nothing scheduled, your Tesla will take you home.Cars sold to consumers are not currently autonomous, however, because the hardware needs software to operate it.&#160;Tesla's distribution of the required software is&#160;pending regulatory approval.Though this particular application of machine learning may sound harmless enough — convenient, even — Musk is also a loud voice for the negative potential of artificial intelligence run amok.\"What's going to happen is robots will be able to do everything better than us. ... I mean all of us,\" says  Musk, speaking to the National Governors Association in July. \"Yeah, I am not sure exactly what to do about this. This is really the scariest problem to me, I will tell you.\"See also: Elon Musk: 'Robots will be able to do everything better than us' Elon Musk says 'A.I. will be the best or worst thing ever for humanity,' recommends a book on the topic Ahead of Elon Musk, this self-made millionaire already launched a company to merge your brain with computersLike this story? Like CNBC Make It on Facebook.",
+  "cn:xmlKeyPoints": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104789984\"/></assets><div class=\"group\"/></group></body>",
+  "dateModified": "2017-10-23T16:51:44+0000",
+  "cn:dateLastPublished": "2017-10-23T16:52:05+0000",
+  "cn:unpublishDate": "",
+  "cn:association": [
+    {
+      "@id": "103775527",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103775527",
+      "cn:type": "franchise",
+      "cn:slug": "Make It - Entrepreneurs ",
+      "cn:subType": "section",
+      "cn:tagName": "Make It - Entrepreneurs ",
+      "cn:title": "Make It - Entrepreneurs",
+      "cn:creatorOverwrite": "",
+      "url": "http://qa-aws01web.cnbc.com/make-it/entrepreneurs/",
+      "cn:liveURL": "/make-it/entrepreneurs/",
+      "datePublished": "2016-07-08T20:07:09+0000",
+      "cn:summary": "",
+      "cn:linkHeadline": "Entrepreneurs ",
+      "cn:shorterHeadline": "Entrepreneurs",
+      "headline": "Entrepreneurs",
+      "cn:shortestHeadline": "Entrepreneurs",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:settings": {
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "cn:association": [
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "103395579",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103395579",
+          "cn:slug": "Make It",
+          "cn:subType": "special_report",
+          "url": "https://qa-aws01web.cnbc.com/make-it/",
+          "cn:title": "CNBC Make It",
+          "cn:tagName": "Make It",
+          "description": "Summary Field - Get smarter about how you earn, save and spend your money with the latest from CNBC Make It. ",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "section",
+              "cn:isPromoted": "false"
+            },
+            [
+              {
+                "cn:relationType": "section",
+                "cn:isPromoted": "false"
+              }
+            ]
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/id/17",
+          "cn:type": "franchise",
+          "cn:title": "Franchise Root",
+          "@id": "17",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/17",
+          "cn:slug": "Franchise Root",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            },
+            [
+              {
+                "cn:relationType": "parent",
+                "cn:isPromoted": "false"
+              }
+            ],
+            [
+              {
+                "cn:relationType": "parent",
+                "cn:isPromoted": "false"
+              }
+            ]
+          ]
+        }
+      ],
+      "description": "",
+      "cn:section": {
+        "cn:type": "franchise",
+        "cn:creatorOverwrite": "",
+        "@id": "103395579",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103395579",
+        "cn:slug": "Make It",
+        "cn:subType": "special_report",
+        "url": "https://qa-aws01web.cnbc.com/make-it/",
+        "cn:title": "CNBC Make It",
+        "cn:tagName": "Make It",
+        "cn:subDomain": "https://qa-aws01web.cnbc.com",
+        "cn:branding": "cnbc",
+        "cn:sectionHierarchy": [
+          {
+            "id": 103395579,
+            "tagName": "Make It",
+            "order": 1
+          },
+          {
+            "id": 10000161,
+            "tagName": "CNBC Global",
+            "order": 2
+          }
+        ],
+        "cn:sectionLabel": "Section Label",
+        "headline": "Section Label",
+        "cn:liveURL": "/make-it/",
+        "cn:settings": {
+          "cn:isFamilyFriendly": "Yes",
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "Summary Field - Get smarter about how you earn, save and spend your money with the latest from CNBC Make It. ",
+        "cn:sectionLinktext": "Section Link Text",
+        "datePublished": "2016-03-02T18:58:48+0000",
+        "cn:historicalURL": [
+          "/makeit/"
+        ],
+        "cn:tabLabel": "Tab Label",
+        "cn:bodyTeaser": "null",
+        "cn:shortestDescription": "Shortest Summary Field - Get smarter about how you earn, save and spend your money with the latest from CNBC Make It. ",
+        "cn:summary": "Summary Field - Get smarter about how you earn, save and spend your money with the latest from CNBC Make It. ",
+        "cn:editedBy": "Devi.Chapidi",
+        "cn:createdBy": "joseph.odell",
+        "cn:shorterDescription": "Shorter Summary Field - Get smarter about how you earn, save and spend your money with the latest from CNBC Make It.  ",
+        "name": "CNBC Make It",
+        "cn:sectionColor": "#a94d4d",
+        "cn:promoText": "Promo Text",
+        "cn:showTime": "",
+        "@type": "Collection"
+      },
+      "cn:sectionHierarchy": [
+        {
+          "id": 103395579,
+          "tagName": "Make It",
+          "order": 1
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 2
+        }
+      ],
+      "cn:historicalURL": [],
+      "cn:editedBy": "matthew.clinch",
+      "cn:createdBy": "joseph.odell",
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "CreativeWork",
+      "cn:relation": [
+        {
+          "position": 5000,
+          "cn:relationType": "section",
+          "cn:isPromoted": "false"
+        },
+        {
+          "position": 7,
+          "cn:relationType": "tags",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "@id": "100002766",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100002766",
+      "cn:type": "cnbcteam",
+      "cn:slug": "CNBC US Team",
+      "cn:tagName": "CNBC US Team from tag name",
+      "cn:title": "CNBC US Team",
+      "cn:creatorOverwrite": "",
+      "url": "",
+      "cn:liveURL": "",
+      "datePublished": "2012-07-20T19:39:35+0000",
+      "cn:summary": "",
+      "cn:linkHeadline": "",
+      "cn:shorterHeadline": "",
+      "headline": "CNBC US Team",
+      "cn:shortestHeadline": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "",
+      "cn:sectionHierarchy": [],
+      "cn:editedBy": "vitaly",
+      "cn:historicalURL": [],
+      "cn:createdBy": "brian.beers",
+      "cn:subDomain": "Make-It.CNBC.com",
+      "cn:branding": "Make It",
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "CreativeWork",
+      "cn:relation": [
+        {
+          "position": 5000,
+          "cn:relationType": "team",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "@id": "103841821",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103841821",
+      "cn:type": "creator",
+      "cn:slug": "Cat Clifford",
+      "cn:tagName": "Cat Clifford",
+      "cn:title": "Cat Clifford",
+      "cn:creatorOverwrite": "",
+      "url": "http://qa-aws01web.cnbc.com/cat-clifford/",
+      "cn:liveURL": "/cat-clifford/",
+      "datePublished": "2016-08-03T15:22:39+0000",
+      "cn:summary": "Senior Writer",
+      "cn:linkHeadline": "Catherine Clifford",
+      "cn:shorterHeadline": "Catherine Clifford",
+      "headline": "Catherine Clifford",
+      "cn:shortestHeadline": "Catherine Clifford",
+      "cn:shorterDescription": "Senior Writer",
+      "cn:shortestDescription": "Senior Writer",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p>\n  Catherine Clifford is the senior entrepreneurship writer at CNBC.\n  She was formerly a&#160;senior writer at Entrepreneur.com, the\n  small business reporter at CNNMoney and an assistant in the New\n  York bureau for CNN. Clifford&#160;attended Columbia University\n  where she earned a bachelor's degree. She lives in Brooklyn,\n  N.Y., and is an avid yogi. You can follow her on Twitter\n  at&#160;@<asset_inline ext_link=\"https://twitter.com/CatClifford\" ext_title=\"\" target=\"_blank\">CatClifford</asset_inline>.\n</p></div></group></body>",
+      "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "caption": "Cat Clifford",
+        "author": "",
+        "copyrightHolder": "Adam Jeffery | CNBC ",
+        "@id": "103905216",
+        "height": "2000",
+        "datePublished": "2016-08-31T12:48:38+0000",
+        "description": "",
+        "width": "3000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/103905216-20160824-4208-2197.jpg?v=1472647731"
+      },
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "cn:association": [
+        {
+          "url": "http://qa-aws01web.cnbc.com/anchors-and-reporters/",
+          "cn:type": "franchise",
+          "cn:title": "CNBC Anchors and Reporters",
+          "cn:creatorOverwrite": "",
+          "@id": "10000087",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000087",
+          "cn:slug": "US Anchor & Reporter Profiles",
+          "cn:tagName": "CNBC Anchors and Reporters",
+          "cn:subType": "section",
+          "description": "Biographies and social profiles for your favorite CNBC anchors and reporters.",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "section",
+              "cn:isPromoted": "false"
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "cn:type": "image",
+          "cn:creatorOverwrite": "Adam Jeffery | CNBC ",
+          "@id": "103905216",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103905216",
+          "cn:slug": "CNBC Headshot: Cat Clifford 2016",
+          "cn:title": "Cat Clifford",
+          "cn:tagName": "",
+          "url": "https://qa-aws02capi-img-origin.cnbc.com/image/103905216-20160824-4208-2197.jpg?v=1472647731",
+          "description": "",
+          "author": "",
+          "contentSize": 2162926,
+          "caption": "Cat Clifford",
+          "copyrightHolder": "Adam Jeffery | CNBC ",
+          "height": "2000",
+          "width": "3000",
+          "cn:relation": [
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "true"
+            }
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/id/33",
+          "cn:type": "creator",
+          "cn:title": "Creator Root",
+          "@id": "33",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/33",
+          "cn:slug": "Creator Root",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }
+          ]
+        }
+      ],
+      "description": "Senior Writer",
+      "cn:section": {
+        "url": "http://qa-aws01web.cnbc.com/anchors-and-reporters/",
+        "cn:type": "franchise",
+        "cn:title": "CNBC Anchors and Reporters",
+        "cn:creatorOverwrite": "",
+        "@id": "10000087",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000087",
+        "cn:slug": "US Anchor & Reporter Profiles",
+        "cn:tagName": "CNBC Anchors and Reporters",
+        "cn:subType": "section",
+        "cn:shortestDescription": "Biographies and social profiles for your favorite CNBC anchors and reporters.",
+        "cn:sectionHierarchy": [
+          {
+            "id": 10000161,
+            "tagName": "CNBC Global",
+            "order": 1
+          }
+        ],
+        "cn:sectionLabel": "Anchors and Reporters",
+        "headline": "Anchors and Reporters",
+        "cn:liveURL": "/anchors-and-reporters/",
+        "cn:summary": "Biographies and social profiles for your favorite CNBC anchors and reporters.",
+        "cn:settings": {
+          "cn:commentsEnabled": "Yes",
+          "cn:socialtoolsEnabled": "Yes",
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "Biographies and social profiles for your favorite CNBC anchors and reporters.",
+        "cn:sectionLinktext": "CNBC Anchors and Reporters",
+        "cn:editedBy": "Josephine.Bila",
+        "datePublished": "2012-01-30T01:45:41+0000",
+        "cn:historicalURL": [
+          "/cnbc-us-profiles/",
+          "/id/10000087"
+        ],
+        "cn:tabLabel": "Anchors & Reporters",
+        "cn:createdBy": "migration",
+        "cn:bodyTeaser": "null",
+        "cn:shorterDescription": "Biographies and social profiles for your favorite CNBC anchors and reporters.",
+        "name": "CNBC Anchors and Reporters",
+        "@type": "Collection"
+      },
+      "cn:sectionHierarchy": [
+        {
+          "id": 10000087,
+          "tagName": "CNBC Anchors and Reporters",
+          "order": 1
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 2
+        }
+      ],
+      "cn:historicalURL": [],
+      "cn:editedBy": "Elisabeth.Cordova",
+      "cn:createdBy": "Mark.Richards",
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "name": "Catherine Clifford",
+      "givenName": "Cat",
+      "familyName": "Clifford",
+      "jobTitle": "Senior Writer",
+      "email": "Cat.Clifford@nbcuni.com",
+      "telephone": "",
+      "@type": "Person",
+      "cn:relation": [
+        {
+          "position": 4999,
+          "cn:relationType": "author",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "80000022",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/80000022",
+      "cn:type": "source",
+      "cn:slug": "CNBC US Source",
+      "cn:tagName": "CNBC US Source",
+      "cn:title": "",
+      "cn:creatorOverwrite": "",
+      "url": "",
+      "cn:sourceName": "CNBC.com",
+      "cn:liveURL": "",
+      "cn:createdBy": "migration",
+      "cn:editedBy": "Anusha.Gogineni",
+      "datePublished": "2011-10-06T17:33:47+0000",
+      "cn:summary": "",
+      "cn:linkHeadline": "",
+      "cn:shorterHeadline": " ",
+      "headline": "",
+      "cn:shortestHeadline": "CNBC",
+      "cn:shorterDescription": "CNBC.com",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:sectionHierarchy": [],
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "CNBC.com",
+      "cn:subDomain": "",
+      "cn:historicalURL": [],
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "name": "",
+      "cn:relation": [
+        {
+          "position": 4999,
+          "cn:relationType": "source",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "fileFormat": "text/tpl",
+      "@id": "103399985",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103399985",
+      "cn:type": "markup_template",
+      "cn:slug": "Make It Story 1 Column - Responsive ad",
+      "cn:tagName": "",
+      "cn:title": "",
+      "cn:creatorOverwrite": "",
+      "url": "file://story_ng_2column.tpl",
+      "cn:liveURL": "",
+      "datePublished": "2016-03-10T15:26:38+0000",
+      "cn:summary": "",
+      "cn:linkHeadline": "",
+      "cn:shorterHeadline": "",
+      "headline": "",
+      "cn:shortestHeadline": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Virtual",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes"
+      },
+      "description": "",
+      "cn:sectionHierarchy": [],
+      "cn:editedBy": "vitaly",
+      "cn:historicalURL": [],
+      "cn:createdBy": "viktor.cea",
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "name": "story_ng_2column.tpl",
+      "@type": "DigitalDocument",
+      "cn:relation": [
+        {
+          "position": 4998,
+          "cn:relationType": "template",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "@id": "104790001",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104790001",
+      "cn:type": "wildcard",
+      "cn:slug": "Musk tweet car take you where you want to go 2",
+      "cn:tagName": "",
+      "cn:title": "",
+      "cn:creatorOverwrite": "",
+      "url": "http://qa-aws01pub.cnbc.com/musk-tweet-car-take-you-where-you-want-to-go-2/",
+      "cn:liveURL": "http://qa-aws01pub.cnbc.com/musk-tweet-car-take-you-where-you-want-to-go-2/",
+      "datePublished": "2017-10-23T14:51:51+0000",
+      "cn:summary": "",
+      "cn:linkHeadline": "",
+      "cn:shorterHeadline": "",
+      "headline": "",
+      "cn:shortestHeadline": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "",
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "cn:wildcard": {
+        "cn:wildcardContent": {
+          "cn:__cdata": "<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Yeah, don&#39;t exactly need to be Sherlock Holmes.</p>&mdash; Elon Musk (@elonmusk) <a href=\"https://twitter.com/elonmusk/status/921587018412339200?ref_src=twsrc%5Etfw\">October 21, 2017</a></blockquote>\r\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+        },
+        "cn:wildcardPromo": {
+          "cn:__cdata": "<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Yeah, don&#39;t exactly need to be Sherlock Holmes.</p>&mdash; Elon Musk (@elonmusk) <a href=\"https://twitter.com/elonmusk/status/921587018412339200?ref_src=twsrc%5Etfw\">October 21, 2017</a></blockquote>\r\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+        }
+      },
+      "@type": "CreativeWork",
+      "cn:relation": [
+        {
+          "position": 9,
+          "cn:relationType": "tags",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "@id": "104789988",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104789988",
+      "cn:type": "wildcard",
+      "cn:slug": "Musk tweet car take you where you want to go 1",
+      "cn:tagName": "",
+      "cn:title": "",
+      "cn:creatorOverwrite": "",
+      "url": "http://qa-aws01pub.cnbc.com/musk-tweet-car-take-you-where-you-want-to-go-1/",
+      "cn:liveURL": "http://qa-aws01pub.cnbc.com/musk-tweet-car-take-you-where-you-want-to-go-1/",
+      "datePublished": "2017-10-23T14:49:20+0000",
+      "cn:summary": "",
+      "cn:linkHeadline": "",
+      "cn:shorterHeadline": "",
+      "headline": "",
+      "cn:shortestHeadline": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "",
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "cn:wildcard": {
+        "cn:wildcardContent": {
+          "cn:__cdata": "<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">It won&#39;t even need to ask you most of the time</p>&mdash; Elon Musk (@elonmusk) <a href=\"https://twitter.com/elonmusk/status/921575999384326145?ref_src=twsrc%5Etfw\">October 21, 2017</a></blockquote>\r\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+        },
+        "cn:wildcardPromo": {
+          "cn:__cdata": "<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">It won&#39;t even need to ask you most of the time</p>&mdash; Elon Musk (@elonmusk) <a href=\"https://twitter.com/elonmusk/status/921575999384326145?ref_src=twsrc%5Etfw\">October 21, 2017</a></blockquote>\r\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+        }
+      },
+      "@type": "CreativeWork",
+      "cn:relation": [
+        {
+          "position": 8,
+          "cn:relationType": "tags",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "@id": "19854910",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/19854910",
+      "cn:type": "franchise",
+      "cn:slug": "Technology",
+      "cn:subType": "primetime_show",
+      "cn:tagName": "Technology1",
+      "cn:title": "Technology",
+      "cn:creatorOverwrite": "",
+      "url": "https://qa-aws01web.cnbc.com/technology/",
+      "cn:liveURL": "/technology/",
+      "cn:createdBy": "migration",
+      "cn:editedBy": "vitaly",
+      "datePublished": "2015-12-21T12:51:45+0000",
+      "cn:summary": "Find the latest business news pertaining to Technology covering companies, advancements, multimedia, electronics, mobile technologies, and science available on the official CNBC Technology site.",
+      "cn:linkHeadline": "Tech",
+      "cn:shorterHeadline": "Tech",
+      "headline": "Tech",
+      "cn:shortestHeadline": "Tech",
+      "cn:shorterDescription": "Find the latest business news pertaining to Technology available on the official CNBC Technology site.",
+      "cn:shortestDescription": "See latest technology news and features",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><br /></p><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div></div></group></body>",
+      "cn:sectionHierarchy": [
+        {
+          "id": 19854910,
+          "tagName": "Technology1",
+          "order": 1
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 2
+        }
+      ],
+      "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "caption": "",
+        "author": "",
+        "copyrightHolder": "",
+        "@id": "102672478",
+        "height": "1999",
+        "datePublished": "2015-05-12T18:46:46+0000",
+        "description": "",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/102672478-Tech-at-1Market-mezz.jpg?v=1431456504"
+      },
+      "cn:settings": {
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "cn:association": [
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "10000161",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000161",
+          "cn:slug": "CNBC Global",
+          "cn:subType": "news_section",
+          "url": "/cnbc-global/",
+          "cn:title": "Headlines from CNBC",
+          "cn:tagName": "CNBC Global",
+          "description": "CNBC",
+          "name": "Headlines from CNBC",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [
+            {
+              "cn:relationType": "section",
+              "cn:isPromoted": "false"
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "cn:type": "image",
+          "cn:creatorOverwrite": "",
+          "@id": "102672478",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/102672478",
+          "cn:slug": "Tech at one market mezz",
+          "cn:title": "",
+          "cn:tagName": "",
+          "url": "https://qa-aws02capi-img-origin.cnbc.com/image/102672478-Tech-at-1Market-mezz.jpg?v=1431456504",
+          "description": "",
+          "author": "",
+          "contentSize": 264539,
+          "caption": "",
+          "copyrightHolder": "",
+          "height": "1999",
+          "width": "2000",
+          "cn:relation": [
+            {
+              "cn:relationType": "promo",
+              "cn:isPromoted": "true"
+            }
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "19854910",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/19854910",
+          "cn:slug": "Technology",
+          "cn:subType": "primetime_show",
+          "url": "https://qa-aws01web.cnbc.com/technology/",
+          "cn:title": "Technology",
+          "cn:tagName": "Technology1",
+          "description": "Find the latest business news pertaining to Technology covering companies, advancements, multimedia, electronics, mobile technologies, and science available on the official CNBC Technology site.",
+          "name": "Technology",
+          "cn:sectionColor": "#5e1c1c",
+          "cn:promoText": "test promo",
+          "cn:showTime": "12 PM",
+          "@type": "Collection",
+          "cn:relation": [
+            {
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "10000066",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000066",
+          "cn:slug": "Mobile",
+          "cn:subType": "news_section",
+          "url": "https://qa-aws01web.cnbc.com/mobile/",
+          "cn:title": "Mobile",
+          "cn:tagName": "Mobile tag 2",
+          "description": "Latest tech news for the mobile industry covering tablets, smartphones, new gear, innovative wireless products, and special reports. ",
+          "name": "Mobile",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [
+            {
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "100003114",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100003114",
+          "cn:slug": "US Top News and Analysis",
+          "cn:subType": "section",
+          "url": "/us-top-news-and-analysis/",
+          "cn:title": "US Top News and Analysis",
+          "cn:tagName": "US Top News and Analysis",
+          "description": "",
+          "name": "US Top News and Analysis",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [
+            {
+              "cn:relationType": "content_queue",
+              "cn:isPromoted": "false"
+            }
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/social-media/",
+          "cn:type": "franchise",
+          "cn:title": "Social Media",
+          "cn:creatorOverwrite": "",
+          "@id": "100397778",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100397778",
+          "cn:slug": "Social Media",
+          "cn:tagName": "Social Media",
+          "cn:subType": "blog",
+          "description": "Latest headlines on social media platforms including Facebook, Twitter, LinkedIn, Instagram, and Pinterest. ",
+          "name": "Social Media",
+          "@type": "Collection",
+          "cn:relation": [
+            {
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/enterprise/",
+          "cn:type": "franchise",
+          "cn:title": "Enterprise",
+          "cn:creatorOverwrite": "",
+          "@id": "101004656",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/101004656",
+          "cn:slug": "Enterprise",
+          "cn:tagName": "Enterprise",
+          "cn:subType": "section",
+          "description": "Latest headlines for enterprise technology.",
+          "name": "Enterprise",
+          "@type": "Collection",
+          "cn:relation": [
+            {
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "100807029",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100807029",
+          "cn:slug": "Cybersecurity ",
+          "cn:subType": "news_show",
+          "url": "https://qa-aws01web.cnbc.com/cybersecurity/",
+          "cn:title": "Cybersecurity",
+          "cn:tagName": "Cybersecurity",
+          "description": "Latest news on cybersecurity including online standards, hacking awareness, and increasing digital defense. ",
+          "name": "Cybersecurity",
+          "cn:sectionColor": "#913434",
+          "cn:promoText": "Testing Promo text example",
+          "cn:showTime": "13 PM ET",
+          "@type": "Collection",
+          "cn:relation": [
+            {
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "104368876",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104368876",
+          "cn:slug": "Tech Guide",
+          "cn:subType": "section",
+          "url": "http://qa-aws01web.cnbc.com/tech-guide/",
+          "cn:title": "Tech Guide",
+          "cn:tagName": "Tech Guide",
+          "description": "Explore the latest tech products and gadgets from Apple, Samsung, Microsoft, Facebook, Google, and more, with pro tips, how to’s, first impressions, reviews, and video.",
+          "name": "Tech Guide",
+          "@type": "Collection",
+          "cn:relation": [
+            {
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/id/17",
+          "cn:type": "franchise",
+          "cn:title": "Franchise Root",
+          "@id": "17",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/17",
+          "cn:slug": "Franchise Root",
+          "name": "Franchise Root",
+          "@type": "Collection",
+          "cn:relation": [
+            {
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }
+          ]
+        }
+      ],
+      "description": "Find the latest business news pertaining to Technology covering companies, advancements, multimedia, electronics, mobile technologies, and science available on the official CNBC Technology site.",
+      "cn:section": {
+        "cn:type": "franchise",
+        "cn:creatorOverwrite": "",
+        "@id": "10000161",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000161",
+        "cn:slug": "CNBC Global",
+        "cn:subType": "news_section",
+        "url": "/cnbc-global/",
+        "cn:title": "Headlines from CNBC",
+        "cn:tagName": "CNBC Global",
+        "cn:subDomain": "",
+        "cn:sectionHierarchy": [],
+        "cn:sectionLabel": "CNBC",
+        "headline": "CNBC",
+        "cn:liveURL": "/cnbc-global/",
+        "cn:settings": {
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "CNBC",
+        "cn:sectionLinktext": "Headlines from CNBC",
+        "datePublished": "2012-02-03T16:18:58+0000",
+        "cn:historicalURL": [
+          "/id/10000161"
+        ],
+        "cn:tabLabel": "CNBC",
+        "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><br /></p><div id=\"csscan-wrapper\" style=\"display: none; \"><h2 id=\"csscan-header\">element</h2><table id=\"csscan-table\"><tbody><tr><th colspan=\"2\" id=\"csscan-header-font\" class=\"csscan-header\">Font</th></tr><tr id=\"csscan-row-font-family\"><td id=\"csscan-property-font-family\" class=\"csscan-property\">font-family</td><td id=\"csscan-value-font-family\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-size\"><td id=\"csscan-property-font-size\" class=\"csscan-property\">font-size</td><td id=\"csscan-value-font-size\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-style\"><td id=\"csscan-property-font-style\" class=\"csscan-property\">font-style</td><td id=\"csscan-value-font-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-variant\"><td id=\"csscan-property-font-variant\" class=\"csscan-property\">font-variant</td><td id=\"csscan-value-font-variant\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-weight\"><td id=\"csscan-property-font-weight\" class=\"csscan-property\">font-weight</td><td id=\"csscan-value-font-weight\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-letter-spacing\"><td id=\"csscan-property-letter-spacing\" class=\"csscan-property\">letter-spacing</td><td id=\"csscan-value-letter-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-line-height\"><td id=\"csscan-property-line-height\" class=\"csscan-property\">line-height</td><td id=\"csscan-value-line-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-decoration\"><td id=\"csscan-property-text-decoration\" class=\"csscan-property\">text-decoration</td><td id=\"csscan-value-text-decoration\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-align\"><td id=\"csscan-property-text-align\" class=\"csscan-property\">text-align</td><td id=\"csscan-value-text-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-indent\"><td id=\"csscan-property-text-indent\" class=\"csscan-property\">text-indent</td><td id=\"csscan-value-text-indent\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-transform\"><td id=\"csscan-property-text-transform\" class=\"csscan-property\">text-transform</td><td id=\"csscan-value-text-transform\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-white-space\"><td id=\"csscan-property-white-space\" class=\"csscan-property\">white-space</td><td id=\"csscan-value-white-space\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-word-spacing\"><td id=\"csscan-property-word-spacing\" class=\"csscan-property\">word-spacing</td><td id=\"csscan-value-word-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-color\"><td id=\"csscan-property-color\" class=\"csscan-property\">color</td><td id=\"csscan-value-color\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-background\" class=\"csscan-header\">Background</th></tr><tr id=\"csscan-row-background-attachment\"><td id=\"csscan-property-background-attachment\" class=\"csscan-property\">bg-attachment</td><td id=\"csscan-value-background-attachment\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-color\"><td id=\"csscan-property-background-color\" class=\"csscan-property\">bg-color</td><td id=\"csscan-value-background-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-image\"><td id=\"csscan-property-background-image\" class=\"csscan-property\">bg-image</td><td id=\"csscan-value-background-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-position\"><td id=\"csscan-property-background-position\" class=\"csscan-property\">bg-position</td><td id=\"csscan-value-background-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-repeat\"><td id=\"csscan-property-background-repeat\" class=\"csscan-property\">bg-repeat</td><td id=\"csscan-value-background-repeat\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-size\" class=\"csscan-header\">Box</th></tr><tr id=\"csscan-row-width\"><td id=\"csscan-property-width\" class=\"csscan-property\">width</td><td id=\"csscan-value-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-height\"><td id=\"csscan-property-height\" class=\"csscan-property\">height</td><td id=\"csscan-value-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-top\"><td id=\"csscan-property-border-top\" class=\"csscan-property\">border-top</td><td id=\"csscan-value-border-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-right\"><td id=\"csscan-property-border-right\" class=\"csscan-property\">border-right</td><td id=\"csscan-value-border-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-bottom\"><td id=\"csscan-property-border-bottom\" class=\"csscan-property\">border-bottom</td><td id=\"csscan-value-border-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-left\"><td id=\"csscan-property-border-left\" class=\"csscan-property\">border-left</td><td id=\"csscan-value-border-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-margin\"><td id=\"csscan-property-margin\" class=\"csscan-property\">margin</td><td id=\"csscan-value-margin\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-padding\"><td id=\"csscan-property-padding\" class=\"csscan-property\">padding</td><td id=\"csscan-value-padding\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-height\"><td id=\"csscan-property-max-height\" class=\"csscan-property\">max-height</td><td id=\"csscan-value-max-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-height\"><td id=\"csscan-property-min-height\" class=\"csscan-property\">min-height</td><td id=\"csscan-value-min-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-width\"><td id=\"csscan-property-max-width\" class=\"csscan-property\">max-width</td><td id=\"csscan-value-max-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-width\"><td id=\"csscan-property-min-width\" class=\"csscan-property\">min-width</td><td id=\"csscan-value-min-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-color\"><td id=\"csscan-property-outline-color\" class=\"csscan-property\">outline-color</td><td id=\"csscan-value-outline-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-style\"><td id=\"csscan-property-outline-style\" class=\"csscan-property\">outline-style</td><td id=\"csscan-value-outline-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-width\"><td id=\"csscan-property-outline-width\" class=\"csscan-property\">outline-width</td><td id=\"csscan-value-outline-width\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-position\" class=\"csscan-header\">Positioning</th></tr><tr id=\"csscan-row-position\"><td id=\"csscan-property-position\" class=\"csscan-property\">position</td><td id=\"csscan-value-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-top\"><td id=\"csscan-property-top\" class=\"csscan-property\">top</td><td id=\"csscan-value-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-bottom\"><td id=\"csscan-property-bottom\" class=\"csscan-property\">bottom</td><td id=\"csscan-value-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-right\"><td id=\"csscan-property-right\" class=\"csscan-property\">right</td><td id=\"csscan-value-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-left\"><td id=\"csscan-property-left\" class=\"csscan-property\">left</td><td id=\"csscan-value-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-float\"><td id=\"csscan-property-float\" class=\"csscan-property\">float</td><td id=\"csscan-value-float\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-display\"><td id=\"csscan-property-display\" class=\"csscan-property\">display</td><td id=\"csscan-value-display\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-clear\"><td id=\"csscan-property-clear\" class=\"csscan-property\">clear</td><td id=\"csscan-value-clear\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-z-index\"><td id=\"csscan-property-z-index\" class=\"csscan-property\">z-index</td><td id=\"csscan-value-z-index\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-list\" class=\"csscan-header\">List</th></tr><tr id=\"csscan-row-list-style-image\"><td id=\"csscan-property-list-style-image\" class=\"csscan-property\">list-style-image</td><td id=\"csscan-value-list-style-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-type\"><td id=\"csscan-property-list-style-type\" class=\"csscan-property\">list-style-type</td><td id=\"csscan-value-list-style-type\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-position\"><td id=\"csscan-property-list-style-position\" class=\"csscan-property\">list-style-position</td><td id=\"csscan-value-list-style-position\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-table\" class=\"csscan-header\">Table</th></tr><tr id=\"csscan-row-vertical-align\"><td id=\"csscan-property-vertical-align\" class=\"csscan-property\">vertical-align</td><td id=\"csscan-value-vertical-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-collapse\"><td id=\"csscan-property-border-collapse\" class=\"csscan-property\">border-collapse</td><td id=\"csscan-value-border-collapse\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-spacing\"><td id=\"csscan-property-border-spacing\" class=\"csscan-property\">border-spacing</td><td id=\"csscan-value-border-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-caption-side\"><td id=\"csscan-property-caption-side\" class=\"csscan-property\">caption-side</td><td id=\"csscan-value-caption-side\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-empty-cells\"><td id=\"csscan-property-empty-cells\" class=\"csscan-property\">empty-cells</td><td id=\"csscan-value-empty-cells\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-table-layout\"><td id=\"csscan-property-table-layout\" class=\"csscan-property\">table-layout</td><td id=\"csscan-value-table-layout\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-effects\" class=\"csscan-header\">Effects</th></tr><tr id=\"csscan-row-text-shadow\"><td id=\"csscan-property-text-shadow\" class=\"csscan-property\">text-shadow</td><td id=\"csscan-value-text-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row--webkit-box-shadow\"><td id=\"csscan-property--webkit-box-shadow\" class=\"csscan-property\">-webkit-box-shadow</td><td id=\"csscan-value--webkit-box-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-radius\"><td id=\"csscan-property-border-radius\" class=\"csscan-property\">border-radius</td><td id=\"csscan-value-border-radius\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-other\" class=\"csscan-header\">Other</th></tr><tr id=\"csscan-row-overflow\"><td id=\"csscan-property-overflow\" class=\"csscan-property\">overflow</td><td id=\"csscan-value-overflow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-cursor\"><td id=\"csscan-property-cursor\" class=\"csscan-property\">cursor</td><td id=\"csscan-value-cursor\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-visibility\"><td id=\"csscan-property-visibility\" class=\"csscan-property\">visibility</td><td id=\"csscan-value-visibility\" class=\"csscan-value\"></td></tr></tbody></table></div><div id=\"csscan-wrapper\" style=\"display: none; \"><h2 id=\"csscan-header\">element</h2><table id=\"csscan-table\"><tbody><tr><th colspan=\"2\" id=\"csscan-header-font\" class=\"csscan-header\">Font</th></tr><tr id=\"csscan-row-font-family\"><td id=\"csscan-property-font-family\" class=\"csscan-property\">font-family</td><td id=\"csscan-value-font-family\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-size\"><td id=\"csscan-property-font-size\" class=\"csscan-property\">font-size</td><td id=\"csscan-value-font-size\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-style\"><td id=\"csscan-property-font-style\" class=\"csscan-property\">font-style</td><td id=\"csscan-value-font-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-variant\"><td id=\"csscan-property-font-variant\" class=\"csscan-property\">font-variant</td><td id=\"csscan-value-font-variant\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-weight\"><td id=\"csscan-property-font-weight\" class=\"csscan-property\">font-weight</td><td id=\"csscan-value-font-weight\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-letter-spacing\"><td id=\"csscan-property-letter-spacing\" class=\"csscan-property\">letter-spacing</td><td id=\"csscan-value-letter-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-line-height\"><td id=\"csscan-property-line-height\" class=\"csscan-property\">line-height</td><td id=\"csscan-value-line-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-decoration\"><td id=\"csscan-property-text-decoration\" class=\"csscan-property\">text-decoration</td><td id=\"csscan-value-text-decoration\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-align\"><td id=\"csscan-property-text-align\" class=\"csscan-property\">text-align</td><td id=\"csscan-value-text-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-indent\"><td id=\"csscan-property-text-indent\" class=\"csscan-property\">text-indent</td><td id=\"csscan-value-text-indent\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-transform\"><td id=\"csscan-property-text-transform\" class=\"csscan-property\">text-transform</td><td id=\"csscan-value-text-transform\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-white-space\"><td id=\"csscan-property-white-space\" class=\"csscan-property\">white-space</td><td id=\"csscan-value-white-space\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-word-spacing\"><td id=\"csscan-property-word-spacing\" class=\"csscan-property\">word-spacing</td><td id=\"csscan-value-word-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-color\"><td id=\"csscan-property-color\" class=\"csscan-property\">color</td><td id=\"csscan-value-color\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-background\" class=\"csscan-header\">Background</th></tr><tr id=\"csscan-row-background-attachment\"><td id=\"csscan-property-background-attachment\" class=\"csscan-property\">bg-attachment</td><td id=\"csscan-value-background-attachment\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-color\"><td id=\"csscan-property-background-color\" class=\"csscan-property\">bg-color</td><td id=\"csscan-value-background-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-image\"><td id=\"csscan-property-background-image\" class=\"csscan-property\">bg-image</td><td id=\"csscan-value-background-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-position\"><td id=\"csscan-property-background-position\" class=\"csscan-property\">bg-position</td><td id=\"csscan-value-background-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-repeat\"><td id=\"csscan-property-background-repeat\" class=\"csscan-property\">bg-repeat</td><td id=\"csscan-value-background-repeat\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-size\" class=\"csscan-header\">Box</th></tr><tr id=\"csscan-row-width\"><td id=\"csscan-property-width\" class=\"csscan-property\">width</td><td id=\"csscan-value-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-height\"><td id=\"csscan-property-height\" class=\"csscan-property\">height</td><td id=\"csscan-value-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-top\"><td id=\"csscan-property-border-top\" class=\"csscan-property\">border-top</td><td id=\"csscan-value-border-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-right\"><td id=\"csscan-property-border-right\" class=\"csscan-property\">border-right</td><td id=\"csscan-value-border-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-bottom\"><td id=\"csscan-property-border-bottom\" class=\"csscan-property\">border-bottom</td><td id=\"csscan-value-border-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-left\"><td id=\"csscan-property-border-left\" class=\"csscan-property\">border-left</td><td id=\"csscan-value-border-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-margin\"><td id=\"csscan-property-margin\" class=\"csscan-property\">margin</td><td id=\"csscan-value-margin\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-padding\"><td id=\"csscan-property-padding\" class=\"csscan-property\">padding</td><td id=\"csscan-value-padding\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-height\"><td id=\"csscan-property-max-height\" class=\"csscan-property\">max-height</td><td id=\"csscan-value-max-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-height\"><td id=\"csscan-property-min-height\" class=\"csscan-property\">min-height</td><td id=\"csscan-value-min-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-width\"><td id=\"csscan-property-max-width\" class=\"csscan-property\">max-width</td><td id=\"csscan-value-max-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-width\"><td id=\"csscan-property-min-width\" class=\"csscan-property\">min-width</td><td id=\"csscan-value-min-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-color\"><td id=\"csscan-property-outline-color\" class=\"csscan-property\">outline-color</td><td id=\"csscan-value-outline-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-style\"><td id=\"csscan-property-outline-style\" class=\"csscan-property\">outline-style</td><td id=\"csscan-value-outline-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-width\"><td id=\"csscan-property-outline-width\" class=\"csscan-property\">outline-width</td><td id=\"csscan-value-outline-width\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-position\" class=\"csscan-header\">Positioning</th></tr><tr id=\"csscan-row-position\"><td id=\"csscan-property-position\" class=\"csscan-property\">position</td><td id=\"csscan-value-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-top\"><td id=\"csscan-property-top\" class=\"csscan-property\">top</td><td id=\"csscan-value-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-bottom\"><td id=\"csscan-property-bottom\" class=\"csscan-property\">bottom</td><td id=\"csscan-value-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-right\"><td id=\"csscan-property-right\" class=\"csscan-property\">right</td><td id=\"csscan-value-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-left\"><td id=\"csscan-property-left\" class=\"csscan-property\">left</td><td id=\"csscan-value-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-float\"><td id=\"csscan-property-float\" class=\"csscan-property\">float</td><td id=\"csscan-value-float\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-display\"><td id=\"csscan-property-display\" class=\"csscan-property\">display</td><td id=\"csscan-value-display\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-clear\"><td id=\"csscan-property-clear\" class=\"csscan-property\">clear</td><td id=\"csscan-value-clear\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-z-index\"><td id=\"csscan-property-z-index\" class=\"csscan-property\">z-index</td><td id=\"csscan-value-z-index\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-list\" class=\"csscan-header\">List</th></tr><tr id=\"csscan-row-list-style-image\"><td id=\"csscan-property-list-style-image\" class=\"csscan-property\">list-style-image</td><td id=\"csscan-value-list-style-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-type\"><td id=\"csscan-property-list-style-type\" class=\"csscan-property\">list-style-type</td><td id=\"csscan-value-list-style-type\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-position\"><td id=\"csscan-property-list-style-position\" class=\"csscan-property\">list-style-position</td><td id=\"csscan-value-list-style-position\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-table\" class=\"csscan-header\">Table</th></tr><tr id=\"csscan-row-vertical-align\"><td id=\"csscan-property-vertical-align\" class=\"csscan-property\">vertical-align</td><td id=\"csscan-value-vertical-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-collapse\"><td id=\"csscan-property-border-collapse\" class=\"csscan-property\">border-collapse</td><td id=\"csscan-value-border-collapse\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-spacing\"><td id=\"csscan-property-border-spacing\" class=\"csscan-property\">border-spacing</td><td id=\"csscan-value-border-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-caption-side\"><td id=\"csscan-property-caption-side\" class=\"csscan-property\">caption-side</td><td id=\"csscan-value-caption-side\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-empty-cells\"><td id=\"csscan-property-empty-cells\" class=\"csscan-property\">empty-cells</td><td id=\"csscan-value-empty-cells\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-table-layout\"><td id=\"csscan-property-table-layout\" class=\"csscan-property\">table-layout</td><td id=\"csscan-value-table-layout\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-effects\" class=\"csscan-header\">Effects</th></tr><tr id=\"csscan-row-text-shadow\"><td id=\"csscan-property-text-shadow\" class=\"csscan-property\">text-shadow</td><td id=\"csscan-value-text-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row--webkit-box-shadow\"><td id=\"csscan-property--webkit-box-shadow\" class=\"csscan-property\">-webkit-box-shadow</td><td id=\"csscan-value--webkit-box-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-radius\"><td id=\"csscan-property-border-radius\" class=\"csscan-property\">border-radius</td><td id=\"csscan-value-border-radius\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-other\" class=\"csscan-header\">Other</th></tr><tr id=\"csscan-row-overflow\"><td id=\"csscan-property-overflow\" class=\"csscan-property\">overflow</td><td id=\"csscan-value-overflow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-cursor\"><td id=\"csscan-property-cursor\" class=\"csscan-property\">cursor</td><td id=\"csscan-value-cursor\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-visibility\"><td id=\"csscan-property-visibility\" class=\"csscan-property\">visibility</td><td id=\"csscan-value-visibility\" class=\"csscan-value\"></td></tr></tbody></table></div></div></group></body>",
+        "cn:shortestDescription": "",
+        "cn:summary": "",
+        "cn:editedBy": "chelsea.qiao",
+        "cn:createdBy": "migration",
+        "cn:shorterDescription": "CNBC",
+        "name": "Headlines from CNBC",
+        "cn:sectionColor": "#000000",
+        "cn:promoText": "",
+        "cn:showTime": "",
+        "@type": "Collection"
+      },
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01web.cnbc.com",
+      "cn:historicalURL": [
+        "/id/19854910",
+        "/tech/"
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "CreativeWork",
+      "cn:relation": [
+        {
+          "position": 6,
+          "cn:relationType": "tags",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "@id": "1514889",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/1514889",
+      "cn:type": "company",
+      "cn:slug": "Tesla Inc  T:TSLA",
+      "cn:tagName": "Tesla Inc",
+      "cn:title": "Tesla Inc",
+      "url": "/quotes/?symbol=",
+      "cn:liveURL": "",
+      "datePublished": "2012-12-13T15:22:01+0000",
+      "cn:bodyTeaser": "",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes"
+      },
+      "cn:association": [
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "15839215",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15839215",
+          "cn:slug": "Stocks",
+          "cn:subType": "news_section",
+          "url": "http://qa-aws01web.cnbc.com/stocks/",
+          "cn:title": "Stocks",
+          "cn:tagName": "Stocks from tag name",
+          "description": "In-depth market analysis, real-time stock market data, research and earnings from CNBC.com. ",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "section",
+              "cn:isPromoted": "false"
+            }
+          ]
+        }
+      ],
+      "cn:section": {
+        "cn:type": "franchise",
+        "cn:creatorOverwrite": "",
+        "@id": "15839215",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15839215",
+        "cn:slug": "Stocks",
+        "cn:subType": "news_section",
+        "url": "http://qa-aws01web.cnbc.com/stocks/",
+        "cn:title": "Stocks",
+        "cn:tagName": "Stocks from tag name",
+        "cn:subDomain": "Make-It.CNBC.com",
+        "cn:branding": "Make It",
+        "cn:sectionHierarchy": [
+          {
+            "id": 102,
+            "tagName": "Markets",
+            "order": 1
+          },
+          {
+            "id": 10000161,
+            "tagName": "CNBC Global",
+            "order": 2
+          }
+        ],
+        "cn:sectionLabel": "Stocks",
+        "headline": "Stocks",
+        "cn:liveURL": "/stocks/",
+        "cn:settings": {
+          "cn:commentsEnabled": "Yes",
+          "cn:socialtoolsEnabled": "Yes",
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "In-depth market analysis, real-time stock market data, research and earnings from CNBC.com. ",
+        "cn:sectionLinktext": "Stocks",
+        "datePublished": "2012-01-30T01:48:28+0000",
+        "cn:historicalURL": [
+          "/id/15839215"
+        ],
+        "cn:tabLabel": "Stocks",
+        "cn:bodyTeaser": "null",
+        "cn:shortestDescription": "In-depth market analysis and real-time stock market data",
+        "cn:summary": "In-depth market analysis, real-time stock market data, research and earnings from CNBC.com. ",
+        "cn:editedBy": "vitaly",
+        "cn:createdBy": "migration",
+        "cn:shorterDescription": "In-depth market analysis, real-time stock market data, research and earnings from CNBC.com. ",
+        "name": "Stocks",
+        "@type": "Collection"
+      },
+      "cn:sectionHierarchy": [],
+      "cn:editedBy": "ingest",
+      "cn:historicalURL": [],
+      "cn:createdBy": "ingest",
+      "cn:shorterHeadline": "",
+      "headline": "Tesla Inc",
+      "cn:linkHeadline": "",
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "name": "Tesla Inc",
+      "cn:issuerId": 74213,
+      "tickerSymbol": " ",
+      "@type": "Corporation",
+      "cn:relation": [
+        {
+          "position": 5,
+          "cn:relationType": "tags",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "@id": "104590871",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104590871",
+      "cn:type": "cnbcvideo",
+      "cn:slug": "DOTCOM musk sound mashup",
+      "cn:tagName": "",
+      "cn:title": "Elon Musk issues yet another warning against runaway artificial intelligence",
+      "cn:creatorOverwrite": "",
+      "url": "http://qa-aws01web.cnbc.com/video/2017/07/17/elon-musk-issues-yet-another-warning-against-runaway-artificial-intelligence.html",
+      "uploadDate": "2017-07-17T17:04:05+0000",
+      "cn:liveURL": "/video/2017/07/17/elon-musk-issues-yet-another-warning-against-runaway-artificial-intelligence.html",
+      "datePublished": "2017-07-17T17:00:16+0000",
+      "cn:summary": "Speaking at the National Governors Association on Saturday, Tesla founder Elon Musk reiterated his warnings against developing super-intelligent robots or software without proper safeguards. ",
+      "cn:linkHeadline": "",
+      "cn:shorterHeadline": "",
+      "headline": "Elon Musk issues yet another warning against runaway artificial intelligence",
+      "cn:shortestHeadline": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "caption": "Elon Musk, Co-founder and CEO of Tesla",
+        "author": "Bloomberg",
+        "copyrightHolder": "Bloomberg | Getty Images",
+        "@id": "104579476",
+        "height": "1333",
+        "datePublished": "2017-07-11T15:57:02+0000",
+        "description": "Elon Musk, billionaire and chief executive officer of Tesla Motors Inc., speaks during a news conference in Berlin, Germany, on Thursday, Sept. 24, 2015. Tesla Motors Inc. chief executive officer Elon Musk said revelations that Volkswagen AG cheated on diesel emission tests is \"obviously bad,\" but that the issue the world should really be concerned about is carbon dioxide emissions. Photographer: Krisztian Bocsi/Bloomberg via Getty Images ",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104579476-GettyImages-489769566.jpg?v=1499788628"
+      },
+      "thumbnail": "https://qa-aws02capi-img-origin.cnbc.com/image/104579476-GettyImages-489769566.jpg?v=1499788628",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0,
+        "cn:videoGeoRestrictionEnabled": "No",
+        "cn:isHighPriorityVideo": "No"
+      },
+      "cn:association": [
+        {
+          "@type": "ImageObject",
+          "cn:type": "image",
+          "cn:creatorOverwrite": "Bloomberg | Getty Images",
+          "@id": "104579476",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104579476",
+          "cn:slug": "EA: Elon Musk",
+          "cn:title": "",
+          "cn:tagName": "",
+          "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104579476-GettyImages-489769566.jpg?v=1499788628",
+          "description": "Elon Musk, billionaire and chief executive officer of Tesla Motors Inc., speaks during a news conference in Berlin, Germany, on Thursday, Sept. 24, 2015. Tesla Motors Inc. chief executive officer Elon Musk said revelations that Volkswagen AG cheated on diesel emission tests is \"obviously bad,\" but that the issue the world should really be concerned about is carbon dioxide emissions. Photographer: Krisztian Bocsi/Bloomberg via Getty Images ",
+          "author": "Bloomberg",
+          "contentSize": 862317,
+          "caption": "Elon Musk, Co-founder and CEO of Tesla",
+          "copyrightHolder": "Bloomberg | Getty Images",
+          "height": "1333",
+          "width": "2000",
+          "cn:relation": [
+            {
+              "cn:relationType": "promo",
+              "cn:isPromoted": "true"
+            }
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "104266428",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104266428",
+          "cn:slug": "Digital Original",
+          "cn:subType": "original_show",
+          "url": "http://qa-aws01web.cnbc.com/digital-original/",
+          "cn:title": "Digital Original",
+          "cn:tagName": "Digital Original",
+          "description": "Original day-of content created by the business day digital video team.",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "section",
+              "cn:isPromoted": "false"
+            }
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/transportation/",
+          "cn:type": "franchise",
+          "cn:title": "Transportation",
+          "cn:creatorOverwrite": "",
+          "@id": "10000142",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000142",
+          "cn:slug": "Transportation",
+          "cn:tagName": "Transportation",
+          "cn:subType": "section",
+          "description": "Latest news for the transportation industry, including status of America's crumbling roadways and bridges. ",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            }
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "103395579",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103395579",
+          "cn:slug": "Make It",
+          "cn:subType": "special_report",
+          "url": "https://qa-aws01web.cnbc.com/make-it/",
+          "cn:title": "CNBC Make It",
+          "cn:tagName": "Make It",
+          "description": "Summary Field - Get smarter about how you earn, save and spend your money with the latest from CNBC Make It. ",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            }
+          ]
+        }
+      ],
+      "description": "Speaking at the National Governors Association on Saturday, Tesla founder Elon Musk reiterated his warnings against developing super-intelligent robots or software without proper safeguards. ",
+      "cn:section": {
+        "cn:type": "franchise",
+        "cn:creatorOverwrite": "",
+        "@id": "104266428",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104266428",
+        "cn:slug": "Digital Original",
+        "cn:subType": "original_show",
+        "url": "http://qa-aws01web.cnbc.com/digital-original/",
+        "cn:title": "Digital Original",
+        "cn:tagName": "Digital Original",
+        "cn:sectionHierarchy": [
+          {
+            "id": 100004036,
+            "tagName": "U.S. Video",
+            "order": 1
+          },
+          {
+            "id": 100004038,
+            "tagName": "Video: All",
+            "order": 2
+          },
+          {
+            "id": 15839263,
+            "tagName": "Video and TV",
+            "order": 3
+          },
+          {
+            "id": 10000161,
+            "tagName": "CNBC Global",
+            "order": 4
+          }
+        ],
+        "cn:sectionLabel": "Digital Original",
+        "headline": "Digital Original",
+        "cn:liveURL": "/digital-original/",
+        "cn:settings": {
+          "cn:dateline": "Yes",
+          "cn:isFamilyFriendly": "Yes",
+          "cn:displayByline": "Yes",
+          "cn:displaySource": "Yes",
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:outbrainEnabled": "Yes"
+        },
+        "description": "Original day-of content created by the business day digital video team.",
+        "cn:sectionLinktext": "Digital Original",
+        "datePublished": "2017-02-07T15:44:07+0000",
+        "cn:historicalURL": [],
+        "cn:tabLabel": "Digital Original",
+        "cn:bodyTeaser": "null",
+        "cn:shortestDescription": "Original day-of content created by the business day digital video team.",
+        "cn:summary": "Original day-of content created by the business day digital video team.",
+        "cn:editedBy": "jeff.morganteen",
+        "cn:createdBy": "Josephine.Bila",
+        "cn:shorterDescription": "Original day-of content created by the business day digital video team.",
+        "name": "Digital Original",
+        "@type": "Collection"
+      },
+      "cn:sectionHierarchy": [
+        {
+          "id": 104266428,
+          "tagName": "Digital Original",
+          "order": 1
+        },
+        {
+          "id": 100004036,
+          "tagName": "U.S. Video",
+          "order": 2
+        },
+        {
+          "id": 100004038,
+          "tagName": "Video: All",
+          "order": 3
+        },
+        {
+          "id": 15839263,
+          "tagName": "Video and TV",
+          "order": 4
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 5
+        }
+      ],
+      "cn:historicalURL": [],
+      "cn:editedBy": "jeff.morganteen",
+      "cn:createdBy": "jeff.morganteen",
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "cn:keyword": "Elon Musk, Tesla, Model 3, electric car, transportation, artificial intelligence, robots",
+      "cn:vcpsId": 3000636912,
+      "name": "Elon Musk issues yet another warning against runaway artificial intelligence",
+      "cn:show": "Digital Original",
+      "duration": 63,
+      "cn:network": 1,
+      "expireDate": "",
+      "cn:relation": [
+        {
+          "position": 4,
+          "cn:relationType": "related",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "@id": "103775541",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103775541",
+      "cn:type": "franchise",
+      "cn:slug": "Make It - Leadership",
+      "cn:subType": "section",
+      "cn:tagName": "Make It - Leadership",
+      "cn:title": "Make It - Leadership",
+      "cn:creatorOverwrite": "",
+      "url": "http://qa-aws01web.cnbc.com/make-it/leadership/",
+      "cn:liveURL": "/make-it/leadership/",
+      "datePublished": "2016-07-08T20:07:10+0000",
+      "cn:summary": "",
+      "cn:linkHeadline": "Leadership",
+      "cn:shorterHeadline": "Leadership",
+      "headline": "Leadership",
+      "cn:shortestHeadline": "Leadership",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:settings": {
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "cn:association": [
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "103395579",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103395579",
+          "cn:slug": "Make It",
+          "cn:subType": "special_report",
+          "url": "https://qa-aws01web.cnbc.com/make-it/",
+          "cn:title": "CNBC Make It",
+          "cn:tagName": "Make It",
+          "description": "Summary Field - Get smarter about how you earn, save and spend your money with the latest from CNBC Make It. ",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "section",
+              "cn:isPromoted": "false"
+            },
+            [
+              {
+                "cn:relationType": "section",
+                "cn:isPromoted": "false"
+              }
+            ]
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/id/17",
+          "cn:type": "franchise",
+          "cn:title": "Franchise Root",
+          "@id": "17",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/17",
+          "cn:slug": "Franchise Root",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            },
+            [
+              {
+                "cn:relationType": "parent",
+                "cn:isPromoted": "false"
+              }
+            ],
+            [
+              {
+                "cn:relationType": "parent",
+                "cn:isPromoted": "false"
+              }
+            ]
+          ]
+        }
+      ],
+      "description": "",
+      "cn:section": {
+        "cn:type": "franchise",
+        "cn:creatorOverwrite": "",
+        "@id": "103395579",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103395579",
+        "cn:slug": "Make It",
+        "cn:subType": "special_report",
+        "url": "https://qa-aws01web.cnbc.com/make-it/",
+        "cn:title": "CNBC Make It",
+        "cn:tagName": "Make It",
+        "cn:subDomain": "https://qa-aws01web.cnbc.com",
+        "cn:branding": "cnbc",
+        "cn:sectionHierarchy": [
+          {
+            "id": 103395579,
+            "tagName": "Make It",
+            "order": 1
+          },
+          {
+            "id": 10000161,
+            "tagName": "CNBC Global",
+            "order": 2
+          }
+        ],
+        "cn:sectionLabel": "Section Label",
+        "headline": "Section Label",
+        "cn:liveURL": "/make-it/",
+        "cn:settings": {
+          "cn:isFamilyFriendly": "Yes",
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "Summary Field - Get smarter about how you earn, save and spend your money with the latest from CNBC Make It. ",
+        "cn:sectionLinktext": "Section Link Text",
+        "datePublished": "2016-03-02T18:58:48+0000",
+        "cn:historicalURL": [
+          "/makeit/"
+        ],
+        "cn:tabLabel": "Tab Label",
+        "cn:bodyTeaser": "null",
+        "cn:shortestDescription": "Shortest Summary Field - Get smarter about how you earn, save and spend your money with the latest from CNBC Make It. ",
+        "cn:summary": "Summary Field - Get smarter about how you earn, save and spend your money with the latest from CNBC Make It. ",
+        "cn:editedBy": "Devi.Chapidi",
+        "cn:createdBy": "joseph.odell",
+        "cn:shorterDescription": "Shorter Summary Field - Get smarter about how you earn, save and spend your money with the latest from CNBC Make It.  ",
+        "name": "CNBC Make It",
+        "cn:sectionColor": "#a94d4d",
+        "cn:promoText": "Promo Text",
+        "cn:showTime": "",
+        "@type": "Collection"
+      },
+      "cn:sectionHierarchy": [
+        {
+          "id": 103395579,
+          "tagName": "Make It",
+          "order": 1
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 2
+        }
+      ],
+      "cn:historicalURL": [],
+      "cn:editedBy": "Benjamin.Snyder@nbcuni.com",
+      "cn:createdBy": "joseph.odell",
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "CreativeWork",
+      "cn:relation": [
+        {
+          "position": 4,
+          "cn:relationType": "tags",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "@id": "100003343",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100003343",
+      "cn:type": "skin",
+      "cn:slug": "cnbc global skin",
+      "cn:tagName": "",
+      "cn:title": "",
+      "cn:creatorOverwrite": "",
+      "url": "",
+      "cn:liveURL": "",
+      "datePublished": "2012-07-30T19:54:30+0000",
+      "cn:summary": "",
+      "cn:linkHeadline": "",
+      "cn:shorterHeadline": "",
+      "headline": "",
+      "cn:shortestHeadline": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "",
+      "cn:sectionHierarchy": [],
+      "cn:editedBy": "matt.shade",
+      "cn:historicalURL": [],
+      "cn:createdBy": "matt.shade",
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "DigitalDocument",
+      "cn:relation": [
+        {
+          "position": 4,
+          "cn:relationType": "skin",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "@id": "104391939",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104391939",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Kernel the brain chip company CLIFFORD 170407 NY",
+      "cn:tagName": "",
+      "cn:title": "Ahead of Elon Musk, this self-made millionaire already launched a company to merge your brain with computers",
+      "cn:creatorOverwrite": "",
+      "url": "http://qa-aws01web.cnbc.com/2017/04/12/self-made-millionaire-leads-elon-musk-in-fusing-brains-and-computers.html",
+      "cn:liveURL": "/2017/04/12/self-made-millionaire-leads-elon-musk-in-fusing-brains-and-computers.html",
+      "datePublished": "2017-04-12T14:40:24+0000",
+      "cn:summary": "Bryan Johnson launched Kernel to help humans co-evolve with machines.",
+      "cn:linkHeadline": "Ahead of Elon Musk, this self-made millionaire already launched a company to merge your brain with computers",
+      "cn:shorterHeadline": "Elon Musk wants to merge brains and computers. This entrepreneur is a step ahead",
+      "headline": "Elon Musk wants to merge brains and computers. This entrepreneur is a step ahead",
+      "cn:shortestHeadline": "",
+      "cn:shorterDescription": "Bryan Johnson launched Kernel to help humans to co-evolve with machines.",
+      "cn:shortestDescription": "Bryan Johnson launched Kernel to help humans to co-evolve with machines.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p>Silicon Valley titan&#160;<asset_inline nid=\"100987750\" target=\"_self\">Elon Musk</asset_inline>&#160;has announced that he will be launching yet another company, Neuralink, which&#160;will focus on connecting the human brain to computers.</p><p>With his deep pockets and bold ambitions, Musk, the CEO of <asset_inline ext_link=\"http://www.spacex.com/\" ext_title=\"\" target=\"_self\">SpaceX</asset_inline> and <asset_inline ext_link=\"https://www.tesla.com/\" ext_title=\"\" target=\"_self\">Tesla</asset_inline>, attracts attention whatever he tries. But Musk is not the first to experiment with neural prosthetics. In August, self-made millionaire&#160;<asset_inline ext_link=\"http://bryanjohnson.co/\" ext_title=\"\" target=\"_self\">Bryan Johnson</asset_inline>&#160;<asset_inline ext_link=\"http://bryanjohnson.co/kernel-an-hi-company/\" ext_title=\"\" target=\"_self\">launched a company that seeks to connect the brain with computer intelligence</asset_inline>.</p><p>Johnson's company, <asset_inline ext_link=\"http://kernel.co/\" ext_title=\"\" target=\"_self\">Kernel</asset_inline>, <asset_inline ext_link=\"http://kernel.totemapp.net/\" ext_title=\"\" target=\"_self\">a Los Angeles start-up with 20 employees</asset_inline>, is working to make \"chips\" to insert in the human brain. These chips, which are actually neurotechological hardware&#160; designed to read and write neural code, will be used at first for individuals with diseases or deficiencies to restore normal brain function.</p><p>In the future, Johnson expects the technology to progress so that even healthy humans can get chips implanted in their brains&#160;— and become, in effect, superhuman.&#160;</p></div></group></body>",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "cn:association": [
+        {
+          "cn:type": "creator",
+          "cn:creatorOverwrite": "",
+          "@id": "103841821",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103841821",
+          "cn:slug": "Cat Clifford",
+          "url": "http://qa-aws01web.cnbc.com/cat-clifford/",
+          "cn:title": "Cat Clifford",
+          "cn:tagName": "Cat Clifford",
+          "description": "Senior Writer",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "author",
+              "cn:isPromoted": "false"
+            },
+            [
+              {
+                "cn:relationType": "author",
+                "cn:isPromoted": "false"
+              }
+            ],
+            [
+              {
+                "cn:relationType": "author",
+                "cn:isPromoted": "false"
+              }
+            ]
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/make-it/entrepreneurs/",
+          "cn:type": "franchise",
+          "cn:title": "Make It - Entrepreneurs",
+          "cn:creatorOverwrite": "",
+          "@id": "103775527",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103775527",
+          "cn:slug": "Make It - Entrepreneurs ",
+          "cn:tagName": "Make It - Entrepreneurs ",
+          "cn:subType": "section",
+          "description": "",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "section",
+              "cn:isPromoted": "false"
+            },
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            },
+            [
+              {
+                "cn:relationType": "section",
+                "cn:isPromoted": "false"
+              },
+              {
+                "cn:relationType": "tags",
+                "cn:isPromoted": "false"
+              }
+            ],
+            [
+              {
+                "cn:relationType": "section",
+                "cn:isPromoted": "false"
+              },
+              {
+                "cn:relationType": "tags",
+                "cn:isPromoted": "false"
+              }
+            ]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "19854910",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/19854910",
+          "cn:slug": "Technology",
+          "cn:subType": "primetime_show",
+          "url": "https://qa-aws01web.cnbc.com/technology/",
+          "cn:title": "Technology",
+          "cn:tagName": "Technology1",
+          "description": "Find the latest business news pertaining to Technology covering companies, advancements, multimedia, electronics, mobile technologies, and science available on the official CNBC Technology site.",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            },
+            [
+              {
+                "cn:relationType": "tags",
+                "cn:isPromoted": "false"
+              }
+            ],
+            [
+              {
+                "cn:relationType": "tags",
+                "cn:isPromoted": "false"
+              }
+            ]
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/make-it/leadership/",
+          "cn:type": "franchise",
+          "cn:title": "Make It - Leadership",
+          "cn:creatorOverwrite": "",
+          "@id": "103775541",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103775541",
+          "cn:slug": "Make It - Leadership",
+          "cn:tagName": "Make It - Leadership",
+          "cn:subType": "section",
+          "description": "",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            },
+            [
+              {
+                "cn:relationType": "tags",
+                "cn:isPromoted": "false"
+              }
+            ]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "103775547",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103775547",
+          "cn:slug": "Make It - Careers",
+          "cn:subType": "special_report",
+          "url": "https://qa-aws01make-it.cnbc.com/make-it/careers/",
+          "cn:title": "Make It - Careers",
+          "cn:tagName": "Make It - Careers",
+          "description": "",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            },
+            [
+              {
+                "cn:relationType": "tags",
+                "cn:isPromoted": "false"
+              }
+            ]
+          ]
+        },
+        {
+          "url": "http://qa-aws01pub.cnbc.com/video/2017/04/12/this-ceo-wants-to-put-a-computer-chip-in-your-brain.html",
+          "cn:type": "cnbcvideo",
+          "cn:title": "This CEO wants to put a computer chip in your brain",
+          "cn:creatorOverwrite": "",
+          "@id": "104400005",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104400005",
+          "cn:slug": "makeit brain implants 20170412 NY",
+          "cn:tagName": "",
+          "description": "Bryan Johnson, founder of Kernel, shares his vision for the future of neuroscience and human development.",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "related",
+              "cn:isPromoted": "false"
+            },
+            [
+              {
+                "cn:relationType": "related",
+                "cn:isPromoted": "false"
+              }
+            ]
+          ]
+        },
+        {
+          "cn:type": "cnbcvideo",
+          "cn:creatorOverwrite": "",
+          "@id": "104117456",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104117456",
+          "cn:slug": "makeit robots take jobs clifford",
+          "url": "http://qa-aws01web.cnbc.com/video/2016/11/18/if-robots-take-your-job-the-government-might-have-to-pay-you-to-live.html",
+          "cn:title": "If robots take your job, the government might have to pay you to live",
+          "cn:tagName": "",
+          "description": "Some experts say as many lose their jobs, due in part to automation, one solution might be for the government to institute a universal basic income.",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "related",
+              "cn:isPromoted": "false"
+            },
+            [
+              {
+                "cn:relationType": "related",
+                "cn:isPromoted": "false"
+              }
+            ]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "103775554",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103775554",
+          "cn:slug": "Make It - Money",
+          "cn:subType": "special_report",
+          "url": "https://qa-aws01make-it.cnbc.com/make-it/money/",
+          "cn:title": "Make It - Money",
+          "cn:tagName": "Make It - Money",
+          "description": "",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            }
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/video/2016/11/29/gms-self-driving-1956-concept-car-shows-how-far-driverless-tech-has-come.html",
+          "cn:type": "cnbcvideo",
+          "cn:title": "GM's 'self-driving' 1956 concept car shows how far driverless tech has come",
+          "cn:creatorOverwrite": "",
+          "@id": "104078698",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104078698",
+          "cn:slug": "makeit jay's garage self driving cars Tesla",
+          "cn:tagName": "",
+          "description": "GM only made one of the titanium wonders, but the idea was pretty impressive for a concept 60 years ahead of its time.",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "related",
+              "cn:isPromoted": "false"
+            }
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "103395579",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103395579",
+          "cn:slug": "Make It",
+          "cn:subType": "special_report",
+          "url": "https://qa-aws01web.cnbc.com/make-it/",
+          "cn:title": "CNBC Make It",
+          "cn:tagName": "Make It",
+          "description": "Summary Field - Get smarter about how you earn, save and spend your money with the latest from CNBC Make It. ",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            },
+            [
+              {
+                "cn:relationType": "tags",
+                "cn:isPromoted": "false"
+              }
+            ],
+            [
+              {
+                "cn:relationType": "tags",
+                "cn:isPromoted": "false"
+              }
+            ]
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/entrepreneurs/",
+          "cn:type": "franchise",
+          "cn:title": "Entrepreneurs",
+          "cn:creatorOverwrite": "",
+          "@id": "10001275",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10001275",
+          "cn:slug": "Entrepreneurs",
+          "cn:tagName": "Entrepreneurs",
+          "cn:subType": "section",
+          "description": "Latest business news on the entrepreneurial front. ",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            },
+            [
+              {
+                "cn:relationType": "tags",
+                "cn:isPromoted": "false"
+              }
+            ],
+            [
+              {
+                "cn:relationType": "tags",
+                "cn:isPromoted": "false"
+              }
+            ]
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/small-business/",
+          "cn:type": "franchise",
+          "cn:title": "Small Business",
+          "cn:creatorOverwrite": "",
+          "@id": "44877279",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/44877279",
+          "cn:slug": "Small Business",
+          "cn:tagName": "Small Business",
+          "cn:subType": "section",
+          "description": "Find top small business news, headlines, and videos about, entrepreneurs, venture capital, jobs, start-ups, and more from CNBC's Small Business section.",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "related",
+              "cn:isPromoted": "false"
+            },
+            [
+              {
+                "cn:relationType": "related",
+                "cn:isPromoted": "false"
+              }
+            ],
+            [
+              {
+                "cn:relationType": "related",
+                "cn:isPromoted": "false"
+              }
+            ]
+          ]
+        }
+      ],
+      "description": "Bryan Johnson launched Kernel to help humans co-evolve with machines.",
+      "author": [
+        {
+          "@type": "Creator",
+          "@id": "103841821",
+          "name": "Catherine Clifford",
+          "url": "http://qa-aws01web.cnbc.com/cat-clifford/",
+          "cn:tagName": "Cat Clifford",
+          "position": "5000"
+        }
+      ],
+      "cn:section": {
+        "url": "http://qa-aws01web.cnbc.com/make-it/entrepreneurs/",
+        "cn:type": "franchise",
+        "cn:title": "Make It - Entrepreneurs",
+        "cn:creatorOverwrite": "",
+        "@id": "103775527",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103775527",
+        "cn:slug": "Make It - Entrepreneurs ",
+        "cn:tagName": "Make It - Entrepreneurs ",
+        "cn:subType": "section",
+        "cn:shortestDescription": "",
+        "cn:sectionHierarchy": [
+          {
+            "id": 103395579,
+            "tagName": "Make It",
+            "order": 1
+          },
+          {
+            "id": 10000161,
+            "tagName": "CNBC Global",
+            "order": 2
+          }
+        ],
+        "cn:sectionLabel": "Entrepreneurs",
+        "headline": "Entrepreneurs",
+        "cn:liveURL": "/make-it/entrepreneurs/",
+        "cn:summary": "",
+        "cn:settings": {
+          "cn:isFamilyFriendly": "Yes",
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "",
+        "cn:sectionLinktext": "Entrepreneurs ",
+        "cn:editedBy": "matthew.clinch",
+        "datePublished": "2016-07-08T20:07:09+0000",
+        "cn:historicalURL": [],
+        "cn:tabLabel": "Entrepreneurs",
+        "cn:createdBy": "joseph.odell",
+        "cn:bodyTeaser": "null",
+        "cn:shorterDescription": "",
+        "name": "Make It - Entrepreneurs",
+        "@type": "Collection"
+      },
+      "cn:sectionHierarchy": [
+        {
+          "id": 103775527,
+          "tagName": "Make It - Entrepreneurs ",
+          "order": 1
+        },
+        {
+          "id": 103395579,
+          "tagName": "Make It",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "cn:historicalURL": [],
+      "cn:editedBy": "Abigail.Hess",
+      "cn:createdBy": "Cat.Clifford",
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "NewsArticle",
+      "cn:relation": [
+        {
+          "position": 3,
+          "cn:relationType": "related",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "@id": "100236386",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100236386",
+      "cn:type": "skin",
+      "cn:slug": "table fix skin",
+      "cn:tagName": "",
+      "cn:title": "",
+      "cn:creatorOverwrite": "",
+      "url": "",
+      "cn:liveURL": "",
+      "datePublished": "2012-11-21T15:32:10+0000",
+      "cn:summary": "",
+      "cn:linkHeadline": "",
+      "cn:shorterHeadline": "",
+      "headline": "",
+      "cn:shortestHeadline": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Virtual"
+      },
+      "description": "",
+      "cn:sectionHierarchy": [],
+      "cn:editedBy": "joseph.odell",
+      "cn:historicalURL": [],
+      "cn:createdBy": "matt.shade",
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "DigitalDocument",
+      "cn:relation": [
+        {
+          "position": 3,
+          "cn:relationType": "skin",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "@id": "100987750",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100987750",
+      "cn:type": "person",
+      "cn:slug": "Elon Musk",
+      "cn:tagName": "Elon Musk",
+      "cn:title": "Elon Musk",
+      "cn:creatorOverwrite": "",
+      "url": "http://qa-aws01web.cnbc.com/elon-musk/",
+      "cn:liveURL": "/elon-musk/",
+      "datePublished": "2013-08-26T13:45:06+0000",
+      "cn:summary": "Elon Musk, Tesla",
+      "cn:linkHeadline": "Elon Musk",
+      "cn:shorterHeadline": "Elon Musk",
+      "headline": "Elon Musk",
+      "cn:shortestHeadline": "Elon Musk",
+      "cn:shorterDescription": "Elon Musk, Tesla",
+      "cn:shortestDescription": "Elon Musk, Tesla",
+      "cn:bodyTeaser": "null",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Virtual"
+      },
+      "cn:association": [
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "19854910",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/19854910",
+          "cn:slug": "Technology",
+          "cn:subType": "primetime_show",
+          "url": "https://qa-aws01web.cnbc.com/technology/",
+          "cn:title": "Technology",
+          "cn:tagName": "Technology1",
+          "description": "Find the latest business news pertaining to Technology covering companies, advancements, multimedia, electronics, mobile technologies, and science available on the official CNBC Technology site.",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "section",
+              "cn:isPromoted": "false"
+            }
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "15839069",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15839069",
+          "cn:slug": "Investing",
+          "cn:subType": "primetime_show",
+          "url": "https://qa-aws01web.cnbc.com/investing/",
+          "cn:title": "Investing",
+          "cn:tagName": "Investing",
+          "description": "Expert Analysis, Investment Tools, Stock Screeners, and Financial Strategy Information.",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            }
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/autos/",
+          "cn:type": "franchise",
+          "cn:title": "Autos",
+          "cn:creatorOverwrite": "",
+          "@id": "10000101",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000101",
+          "cn:slug": "Automobiles",
+          "cn:tagName": "Autos",
+          "cn:subType": "section",
+          "description": "Find the latest news on car recalls and automobile manufacturers, as well as industry insights from Behind the Wheel, from CNBC.com.",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            }
+          ]
+        }
+      ],
+      "description": "Elon Musk, Tesla",
+      "cn:section": {
+        "cn:type": "franchise",
+        "cn:creatorOverwrite": "",
+        "@id": "19854910",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/19854910",
+        "cn:slug": "Technology",
+        "cn:subType": "primetime_show",
+        "url": "https://qa-aws01web.cnbc.com/technology/",
+        "cn:title": "Technology",
+        "cn:tagName": "Technology1",
+        "cn:subDomain": "https://qa-aws01web.cnbc.com",
+        "cn:branding": "cnbc",
+        "cn:sectionHierarchy": [
+          {
+            "id": 19854910,
+            "tagName": "Technology1",
+            "order": 1
+          },
+          {
+            "id": 10000161,
+            "tagName": "CNBC Global",
+            "order": 2
+          }
+        ],
+        "cn:sectionLabel": "Tech",
+        "headline": "Tech",
+        "cn:liveURL": "/technology/",
+        "cn:settings": {
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "Find the latest business news pertaining to Technology covering companies, advancements, multimedia, electronics, mobile technologies, and science available on the official CNBC Technology site.",
+        "cn:sectionLinktext": "Tech",
+        "datePublished": "2015-12-21T12:51:45+0000",
+        "cn:historicalURL": [
+          "/id/19854910",
+          "/tech/"
+        ],
+        "cn:tabLabel": "Tech",
+        "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><br /></p><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div></div></group></body>",
+        "cn:shortestDescription": "See latest technology news and features",
+        "cn:summary": "Find the latest business news pertaining to Technology covering companies, advancements, multimedia, electronics, mobile technologies, and science available on the official CNBC Technology site.",
+        "cn:editedBy": "vitaly",
+        "cn:createdBy": "migration",
+        "cn:shorterDescription": "Find the latest business news pertaining to Technology available on the official CNBC Technology site.",
+        "name": "Technology",
+        "cn:sectionColor": "#5e1c1c",
+        "cn:promoText": "test promo",
+        "cn:showTime": "12 PM",
+        "@type": "Collection"
+      },
+      "cn:sectionHierarchy": [
+        {
+          "id": 19854910,
+          "tagName": "Technology",
+          "order": 1
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 2
+        }
+      ],
+      "cn:historicalURL": [
+        "/id/100987750"
+      ],
+      "cn:editedBy": "Xinjie.Luo",
+      "cn:createdBy": "Mark.Richards",
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "name": "Elon Musk",
+      "givenName": "Elon",
+      "familyName": "Musk",
+      "jobTitle": "Tesla",
+      "email": "",
+      "telephone": "",
+      "@type": "Person",
+      "cn:relation": [
+        {
+          "position": 3,
+          "cn:relationType": "tags",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "104789984",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104789984",
+      "cn:type": "image",
+      "cn:slug": "PREMIUM Musk with Tesla CLIFFORD 171023 NY",
+      "cn:tagName": "",
+      "cn:title": "Tesla CEO Elon Musk",
+      "cn:creatorOverwrite": "Photo by VCG ",
+      "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104789984-GettyImages-493893254_1.jpg?v=1508770011",
+      "cn:liveURL": "",
+      "datePublished": "2017-10-23T14:47:17+0000",
+      "cn:summary": "BEIJING, CHINA - OCTOBER 23: (CHINA OUT) Elon Musk, Chairman, CEO and Product Architect of Tesla Motors, addresses a press conference to declare that the Tesla Motors releases v7.0 System in China on a limited basis for its Model S, which will enable self-driving features such as Autosteer for a select group of beta testers on October 23, 2015 in Beijing, China. The v7.0 system includes Autosteer, a new Autopilot feature. While it\\'s not absolutely self-driving and the driver still need to hold the steering wheel and be mindful of road conditions and surrounding traffic when using Autosteer. When set to the new Autosteer mode, graphics on the driver\\'s display will show the path the Model S is following, post the current speed limit and indicate if a car is in front of the Tesla. (Photo by ChinaFotoPress)***_***",
+      "cn:linkHeadline": "",
+      "cn:shorterHeadline": "",
+      "headline": "Tesla CEO Elon Musk",
+      "cn:shortestHeadline": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "cn:association": [
+        {
+          "cn:type": "creator",
+          "cn:creatorOverwrite": "",
+          "@id": "103841821",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103841821",
+          "cn:slug": "Cat Clifford",
+          "url": "http://qa-aws01web.cnbc.com/cat-clifford/",
+          "cn:title": "Cat Clifford",
+          "cn:tagName": "Cat Clifford",
+          "description": "Senior Writer",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "author",
+              "cn:isPromoted": "false"
+            }
+          ]
+        }
+      ],
+      "description": "BEIJING, CHINA - OCTOBER 23: (CHINA OUT) Elon Musk, Chairman, CEO and Product Architect of Tesla Motors, addresses a press conference to declare that the Tesla Motors releases v7.0 System in China on a limited basis for its Model S, which will enable self-driving features such as Autosteer for a select group of beta testers on October 23, 2015 in Beijing, China. The v7.0 system includes Autosteer, a new Autopilot feature. While it\\'s not absolutely self-driving and the driver still need to hold the steering wheel and be mindful of road conditions and surrounding traffic when using Autosteer. When set to the new Autosteer mode, graphics on the driver\\'s display will show the path the Model S is following, post the current speed limit and indicate if a car is in front of the Tesla. (Photo by ChinaFotoPress)***_***",
+      "author": [
+        {
+          "@type": "Creator",
+          "@id": "103841821",
+          "name": "Catherine Clifford",
+          "url": "http://qa-aws01web.cnbc.com/cat-clifford/",
+          "cn:tagName": "Cat Clifford",
+          "position": "4999"
+        },
+        "ChinaFotoPress"
+      ],
+      "cn:sectionHierarchy": [],
+      "cn:historicalURL": [],
+      "cn:editedBy": "Cat.Clifford",
+      "cn:createdBy": "Cat.Clifford",
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "contentSize": 128821,
+      "caption": "Tesla CEO Elon Musk",
+      "copyrightHolder": "Photo by VCG ",
+      "height": "709",
+      "width": "1024",
+      "cn:relation": [
+        {
+          "position": 2,
+          "cn:relationType": "tags",
+          "cn:isPromoted": "true"
+        }
+      ]
+    },
+    {
+      "cn:relation": [
+        {
+          "position": 2,
+          "cn:relationType": "skin",
+          "cn:isPromoted": "false"
+        }
+      ],
+      "@id": "100789669"
+    },
+    {
+      "@id": "104678817",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104678817",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Elon Musk AI book recommendation CLIFFORD 170829 NY",
+      "cn:tagName": "",
+      "cn:title": "Elon Musk says ‘A.I. will be the best or worst thing ever for humanity,’ recommends a book on the topic",
+      "cn:creatorOverwrite": "",
+      "url": "http://qa-aws01web.cnbc.com/2017/08/29/elon-musk-recommends-a-book-on-the-future-of-artificial-intelligence.html",
+      "author": [
+        {
+          "@type": "Creator",
+          "@id": "103841821",
+          "name": "Catherine Clifford",
+          "url": "http://qa-aws01web.cnbc.com/cat-clifford/",
+          "cn:tagName": "Cat Clifford",
+          "position": "4999"
+        }
+      ],
+      "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "caption": "Elon Musk, CEO of Tesla",
+        "author": "Bloomberg",
+        "copyrightHolder": "Justin Chin | Bloomberg | Getty Images",
+        "@id": "103991357",
+        "height": "490",
+        "datePublished": "2016-10-04T15:12:17+0000",
+        "description": "Billionaire Elon Musk, chief executive officer of Tesla Motors Inc., listens during the StartmeupHK Venture Forum in Hong Kong, China, on Tuesday, Jan. 26, 2016. Tesla is looking for a Chinese production partner but is \"still trying to figure that out,\" Musk said. Photographer: Justin Chin/Bloomberg via Getty Images ",
+        "width": "735",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/103991357-GettyImages-506802692.jpg?v=1475593938"
+      },
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "cn:association": [
+        {
+          "url": "http://qa-aws01web.cnbc.com/make-it/entrepreneurs/",
+          "cn:type": "franchise",
+          "cn:title": "Make It - Entrepreneurs",
+          "cn:creatorOverwrite": "",
+          "@id": "103775527",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103775527",
+          "cn:slug": "Make It - Entrepreneurs ",
+          "cn:tagName": "Make It - Entrepreneurs ",
+          "cn:subType": "section",
+          "description": "",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "section",
+              "cn:isPromoted": "false"
+            },
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            },
+            [
+              {
+                "cn:relationType": "section",
+                "cn:isPromoted": "false"
+              },
+              {
+                "cn:relationType": "tags",
+                "cn:isPromoted": "false"
+              }
+            ],
+            [
+              {
+                "cn:relationType": "section",
+                "cn:isPromoted": "false"
+              },
+              {
+                "cn:relationType": "tags",
+                "cn:isPromoted": "false"
+              }
+            ]
+          ]
+        },
+        {
+          "cn:type": "creator",
+          "cn:creatorOverwrite": "",
+          "@id": "103841821",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103841821",
+          "cn:slug": "Cat Clifford",
+          "url": "http://qa-aws01web.cnbc.com/cat-clifford/",
+          "cn:title": "Cat Clifford",
+          "cn:tagName": "Cat Clifford",
+          "description": "Senior Writer",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "author",
+              "cn:isPromoted": "false"
+            },
+            [
+              {
+                "cn:relationType": "author",
+                "cn:isPromoted": "false"
+              }
+            ],
+            [
+              {
+                "cn:relationType": "author",
+                "cn:isPromoted": "false"
+              }
+            ]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "19854910",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/19854910",
+          "cn:slug": "Technology",
+          "cn:subType": "primetime_show",
+          "url": "https://qa-aws01web.cnbc.com/technology/",
+          "cn:title": "Technology",
+          "cn:tagName": "Technology1",
+          "description": "Find the latest business news pertaining to Technology covering companies, advancements, multimedia, electronics, mobile technologies, and science available on the official CNBC Technology site.",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            },
+            [
+              {
+                "cn:relationType": "tags",
+                "cn:isPromoted": "false"
+              }
+            ],
+            [
+              {
+                "cn:relationType": "tags",
+                "cn:isPromoted": "false"
+              }
+            ]
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/make-it/leadership/",
+          "cn:type": "franchise",
+          "cn:title": "Make It - Leadership",
+          "cn:creatorOverwrite": "",
+          "@id": "103775541",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103775541",
+          "cn:slug": "Make It - Leadership",
+          "cn:tagName": "Make It - Leadership",
+          "cn:subType": "section",
+          "description": "",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            },
+            [
+              {
+                "cn:relationType": "tags",
+                "cn:isPromoted": "false"
+              }
+            ]
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/video/2016/11/04/elon-musk-robots-will-take-your-jobs-government-will-have-to-pay-your-wage.html",
+          "cn:type": "cnbcvideo",
+          "cn:title": "Elon Musk: Robots will take your jobs, government will have to pay your wage",
+          "cn:creatorOverwrite": "",
+          "@id": "104081980",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104081980",
+          "cn:slug": "musk robots and income MORGANTEEN 161104",
+          "cn:tagName": "",
+          "description": "Tesla and SpaceX founder Elon Musk told CNBC on Friday that economies would most likely need a form of 'universal basic income' as more and more industries become automated.",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "related",
+              "cn:isPromoted": "false"
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "cn:type": "image",
+          "cn:creatorOverwrite": "Justin Chin | Bloomberg | Getty Images",
+          "@id": "103991357",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103991357",
+          "cn:slug": "Premium EA: Elon Musk upset ",
+          "cn:title": "Elon Musk, CEO of Tesla",
+          "cn:tagName": "",
+          "url": "https://qa-aws02capi-img-origin.cnbc.com/image/103991357-GettyImages-506802692.jpg?v=1475593938",
+          "description": "Billionaire Elon Musk, chief executive officer of Tesla Motors Inc., listens during the StartmeupHK Venture Forum in Hong Kong, China, on Tuesday, Jan. 26, 2016. Tesla is looking for a Chinese production partner but is \"still trying to figure that out,\" Musk said. Photographer: Justin Chin/Bloomberg via Getty Images ",
+          "author": "Bloomberg",
+          "contentSize": 206066,
+          "caption": "Elon Musk, CEO of Tesla",
+          "copyrightHolder": "Justin Chin | Bloomberg | Getty Images",
+          "height": "490",
+          "width": "735",
+          "cn:relation": [
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "true"
+            }
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "103395579",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103395579",
+          "cn:slug": "Make It",
+          "cn:subType": "special_report",
+          "url": "https://qa-aws01web.cnbc.com/make-it/",
+          "cn:title": "CNBC Make It",
+          "cn:tagName": "Make It",
+          "description": "Summary Field - Get smarter about how you earn, save and spend your money with the latest from CNBC Make It. ",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            },
+            [
+              {
+                "cn:relationType": "tags",
+                "cn:isPromoted": "false"
+              }
+            ],
+            [
+              {
+                "cn:relationType": "tags",
+                "cn:isPromoted": "false"
+              }
+            ]
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/entrepreneurs/",
+          "cn:type": "franchise",
+          "cn:title": "Entrepreneurs",
+          "cn:creatorOverwrite": "",
+          "@id": "10001275",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10001275",
+          "cn:slug": "Entrepreneurs",
+          "cn:tagName": "Entrepreneurs",
+          "cn:subType": "section",
+          "description": "Latest business news on the entrepreneurial front. ",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            },
+            [
+              {
+                "cn:relationType": "tags",
+                "cn:isPromoted": "false"
+              }
+            ],
+            [
+              {
+                "cn:relationType": "tags",
+                "cn:isPromoted": "false"
+              }
+            ]
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/small-business/",
+          "cn:type": "franchise",
+          "cn:title": "Small Business",
+          "cn:creatorOverwrite": "",
+          "@id": "44877279",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/44877279",
+          "cn:slug": "Small Business",
+          "cn:tagName": "Small Business",
+          "cn:subType": "section",
+          "description": "Find top small business news, headlines, and videos about, entrepreneurs, venture capital, jobs, start-ups, and more from CNBC's Small Business section.",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "related",
+              "cn:isPromoted": "false"
+            },
+            [
+              {
+                "cn:relationType": "related",
+                "cn:isPromoted": "false"
+              }
+            ],
+            [
+              {
+                "cn:relationType": "related",
+                "cn:isPromoted": "false"
+              }
+            ]
+          ]
+        }
+      ],
+      "description": "The billionaire tech titan says \"Life 3.0: Being Human in the Age of Artificial Intelligence\" by MIT professor Max Tegmark is \"worth reading.\"",
+      "cn:section": {
+        "url": "http://qa-aws01web.cnbc.com/make-it/entrepreneurs/",
+        "cn:type": "franchise",
+        "cn:title": "Make It - Entrepreneurs",
+        "cn:creatorOverwrite": "",
+        "@id": "103775527",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103775527",
+        "cn:slug": "Make It - Entrepreneurs ",
+        "cn:tagName": "Make It - Entrepreneurs ",
+        "cn:subType": "section",
+        "cn:shortestDescription": "",
+        "cn:sectionHierarchy": [
+          {
+            "id": 103395579,
+            "tagName": "Make It",
+            "order": 1
+          },
+          {
+            "id": 10000161,
+            "tagName": "CNBC Global",
+            "order": 2
+          }
+        ],
+        "cn:sectionLabel": "Entrepreneurs",
+        "headline": "Entrepreneurs",
+        "cn:liveURL": "/make-it/entrepreneurs/",
+        "cn:summary": "",
+        "cn:settings": {
+          "cn:isFamilyFriendly": "Yes",
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "",
+        "cn:sectionLinktext": "Entrepreneurs ",
+        "cn:editedBy": "matthew.clinch",
+        "datePublished": "2016-07-08T20:07:09+0000",
+        "cn:historicalURL": [],
+        "cn:tabLabel": "Entrepreneurs",
+        "cn:createdBy": "joseph.odell",
+        "cn:bodyTeaser": "null",
+        "cn:shorterDescription": "",
+        "name": "Make It - Entrepreneurs",
+        "@type": "Collection"
+      },
+      "cn:liveURL": "/2017/08/29/elon-musk-recommends-a-book-on-the-future-of-artificial-intelligence.html",
+      "datePublished": "2017-08-29T14:58:26+0000",
+      "cn:summary": "The billionaire tech titan says \"Life 3.0: Being Human in the Age of Artificial Intelligence\" by MIT professor Max Tegmark is \"worth reading.\"",
+      "cn:linkHeadline": "Elon Musk recommends a book on the future of A.I.",
+      "cn:shorterHeadline": "Elon Musk recommends a book on the future of A.I.",
+      "headline": "Elon Musk recommends a book on the future of A.I.",
+      "cn:shortestHeadline": "",
+      "cn:shorterDescription": "The tech titan says ‘Life 3.0: Being Human in the Age of Artificial Intelligence’ by MIT professor Max Tegmark is ‘worth reading.’",
+      "cn:shortestDescription": "Musk says ‘Life 3.0: Being Human in the Age of Artificial Intelligence’ by MIT professor Max Tegmark is ‘worth reading.’",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><asset_inline nid=\"100987750\">Elon Musk</asset_inline>&#160;is warning — yet again — about&#160;the potential power of artificial intelligence.</p><p>\"AI will be the best or worst thing ever for humanity,\" says the billionaire entrepreneur via Twitter on Tuesday.</p><p>He also recommends a book on the subject: \"<asset_inline ext_link=\"https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101946598\" ext_title=\"\">Life 3.0: Being Human in the Age of Artificial Intelligence</asset_inline>\" by MIT professor <asset_inline ext_link=\"http://web.mit.edu/physics/people/faculty/tegmark_max.html\" ext_title=\"\"> Max Tegmark</asset_inline>. Musk says the book is \"worth reading.\"</p></div></group></body>",
+      "cn:sectionHierarchy": [
+        {
+          "id": 103775527,
+          "tagName": "Make It - Entrepreneurs ",
+          "order": 1
+        },
+        {
+          "id": 103395579,
+          "tagName": "Make It",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "cn:historicalURL": [],
+      "cn:editedBy": "auto.webuser",
+      "cn:createdBy": "Cat.Clifford",
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "NewsArticle",
+      "cn:relation": [
+        {
+          "position": 2,
+          "cn:relationType": "related",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "@id": "103804097",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103804097",
+      "cn:type": "skin",
+      "cn:slug": "Make It Skin",
+      "cn:tagName": "",
+      "cn:title": "",
+      "cn:creatorOverwrite": "",
+      "url": "",
+      "cn:liveURL": "",
+      "datePublished": "2016-07-20T20:14:57+0000",
+      "cn:summary": "",
+      "cn:linkHeadline": "",
+      "cn:shorterHeadline": "",
+      "headline": "",
+      "cn:shortestHeadline": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Virtual",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "",
+      "cn:sectionHierarchy": [],
+      "cn:editedBy": "zhao.yu",
+      "cn:historicalURL": [],
+      "cn:createdBy": "joseph.odell",
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "DigitalDocument",
+      "cn:relation": [
+        {
+          "position": 1,
+          "cn:relationType": "skin",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "@id": "10001275",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10001275",
+      "cn:type": "franchise",
+      "cn:slug": "Entrepreneurs",
+      "cn:subType": "section",
+      "cn:tagName": "Entrepreneurs",
+      "cn:title": "Entrepreneurs",
+      "cn:creatorOverwrite": "",
+      "url": "http://qa-aws01web.cnbc.com/entrepreneurs/",
+      "cn:liveURL": "/entrepreneurs/",
+      "datePublished": "2012-04-04T16:46:16+0000",
+      "cn:summary": "Latest business news on the entrepreneurial front. ",
+      "cn:linkHeadline": "Entrepreneurs",
+      "cn:shorterHeadline": "Entrepreneurs",
+      "headline": "Entrepreneurs",
+      "cn:shortestHeadline": "Entrepreneurs",
+      "cn:shorterDescription": "Latest business news on the entrepreneurial front. ",
+      "cn:shortestDescription": "Latest news on the entrepreneurial front. ",
+      "cn:bodyTeaser": "null",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Virtual"
+      },
+      "cn:association": [
+        {
+          "url": "http://qa-aws01web.cnbc.com/business/",
+          "cn:type": "franchise",
+          "cn:title": "Business",
+          "cn:creatorOverwrite": "",
+          "@id": "10001147",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10001147",
+          "cn:slug": "Business",
+          "cn:tagName": "Business",
+          "cn:subType": "section",
+          "description": "Latest headlines for business news around the world. ",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "section",
+              "cn:isPromoted": "false"
+            }
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/id/17",
+          "cn:type": "franchise",
+          "cn:title": "Franchise Root",
+          "@id": "17",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/17",
+          "cn:slug": "Franchise Root",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            },
+            [
+              {
+                "cn:relationType": "parent",
+                "cn:isPromoted": "false"
+              }
+            ],
+            [
+              {
+                "cn:relationType": "parent",
+                "cn:isPromoted": "false"
+              }
+            ]
+          ]
+        }
+      ],
+      "description": "Latest business news on the entrepreneurial front. ",
+      "cn:section": {
+        "url": "http://qa-aws01web.cnbc.com/business/",
+        "cn:type": "franchise",
+        "cn:title": "Business",
+        "cn:creatorOverwrite": "",
+        "@id": "10001147",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10001147",
+        "cn:slug": "Business",
+        "cn:tagName": "Business",
+        "cn:subType": "section",
+        "cn:shortestDescription": "Latest headlines for business news around the world. ",
+        "cn:sectionHierarchy": [
+          {
+            "id": 10000161,
+            "tagName": "CNBC Global",
+            "order": 1
+          }
+        ],
+        "cn:sectionLabel": "Business",
+        "headline": "Business",
+        "cn:liveURL": "/business/",
+        "cn:summary": "Latest headlines for business news around the world. ",
+        "cn:settings": {
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "Latest headlines for business news around the world. ",
+        "cn:sectionLinktext": "Business",
+        "cn:editedBy": "Josephine.Bila",
+        "datePublished": "2012-01-30T01:51:35+0000",
+        "cn:historicalURL": [
+          "/id/10001147"
+        ],
+        "cn:tabLabel": "Business",
+        "cn:createdBy": "migration",
+        "cn:bodyTeaser": "null",
+        "cn:shorterDescription": "Latest headlines for business news around the world. ",
+        "name": "Business",
+        "@type": "Collection"
+      },
+      "cn:sectionHierarchy": [
+        {
+          "id": 10000668,
+          "tagName": "Leadership",
+          "order": 1
+        },
+        {
+          "id": 10001147,
+          "tagName": "Business",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "cn:historicalURL": [
+        "/id/10001275"
+      ],
+      "cn:editedBy": "brian.beers",
+      "cn:createdBy": "migration",
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "CreativeWork",
+      "cn:relation": [
+        {
+          "position": 1,
+          "cn:relationType": "tags",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "@id": "104590595",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104590595",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Elon Musk robots will do everything better CLIFFORD 170717 NY",
+      "cn:tagName": "",
+      "cn:title": "Elon Musk: ‘Robots will be able to do everything better than us’",
+      "cn:creatorOverwrite": "",
+      "url": "http://qa-aws01web.cnbc.com/2017/07/17/elon-musk-robots-will-be-able-to-do-everything-better-than-us.html",
+      "author": [
+        {
+          "@type": "Creator",
+          "@id": "103841821",
+          "name": "Catherine Clifford",
+          "url": "http://qa-aws01web.cnbc.com/cat-clifford/",
+          "cn:tagName": "Cat Clifford",
+          "position": "4999"
+        }
+      ],
+      "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "caption": "Elon Musk, CEO of SpaceX and Tesla",
+        "author": "Justin Chin",
+        "copyrightHolder": "Photo by Bloomberg",
+        "@id": "104590576",
+        "height": "683",
+        "datePublished": "2017-07-17T14:53:01+0000",
+        "description": "Billionaire Elon Musk, chief executive officer of Tesla Motors Inc., listens during the StartmeupHK Venture Forum in Hong Kong, China, on Tuesday, Jan. 26, 2016. Tesla is looking for a Chinese production partner but is \"still trying to figure that out,\" Musk said. Photographer: Justin Chin/Bloomberg *** Local Caption *** Elon Musk",
+        "width": "1024",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104590576-GettyImages-506802692.jpg?v=1500303184"
+      },
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "cn:association": [
+        {
+          "url": "http://qa-aws01web.cnbc.com/make-it/entrepreneurs/",
+          "cn:type": "franchise",
+          "cn:title": "Make It - Entrepreneurs",
+          "cn:creatorOverwrite": "",
+          "@id": "103775527",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103775527",
+          "cn:slug": "Make It - Entrepreneurs ",
+          "cn:tagName": "Make It - Entrepreneurs ",
+          "cn:subType": "section",
+          "description": "",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "section",
+              "cn:isPromoted": "false"
+            },
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            },
+            [
+              {
+                "cn:relationType": "section",
+                "cn:isPromoted": "false"
+              },
+              {
+                "cn:relationType": "tags",
+                "cn:isPromoted": "false"
+              }
+            ],
+            [
+              {
+                "cn:relationType": "section",
+                "cn:isPromoted": "false"
+              },
+              {
+                "cn:relationType": "tags",
+                "cn:isPromoted": "false"
+              }
+            ]
+          ]
+        },
+        {
+          "cn:type": "creator",
+          "cn:creatorOverwrite": "",
+          "@id": "103841821",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103841821",
+          "cn:slug": "Cat Clifford",
+          "url": "http://qa-aws01web.cnbc.com/cat-clifford/",
+          "cn:title": "Cat Clifford",
+          "cn:tagName": "Cat Clifford",
+          "description": "Senior Writer",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "author",
+              "cn:isPromoted": "false"
+            },
+            [
+              {
+                "cn:relationType": "author",
+                "cn:isPromoted": "false"
+              }
+            ],
+            [
+              {
+                "cn:relationType": "author",
+                "cn:isPromoted": "false"
+              }
+            ]
+          ]
+        },
+        {
+          "cn:type": "cnbcvideo",
+          "cn:creatorOverwrite": "",
+          "@id": "104590871",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104590871",
+          "cn:slug": "DOTCOM musk sound mashup",
+          "url": "http://qa-aws01web.cnbc.com/video/2017/07/17/elon-musk-issues-yet-another-warning-against-runaway-artificial-intelligence.html",
+          "cn:title": "Elon Musk issues yet another warning against runaway artificial intelligence",
+          "cn:tagName": "",
+          "description": "Speaking at the National Governors Association on Saturday, Tesla founder Elon Musk reiterated his warnings against developing super-intelligent robots or software without proper safeguards. ",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "related",
+              "cn:isPromoted": "false"
+            }
+          ]
+        },
+        {
+          "cn:type": "cnbcvideo",
+          "cn:creatorOverwrite": "",
+          "@id": "104338146",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104338146",
+          "cn:slug": "makeit sxsw mark cuban AI trillionaires",
+          "url": "http://qa-aws01web.cnbc.com/video/2017/03/13/mark-cuban-ai-will-produce-the-worlds-first-trillionaires.html",
+          "cn:title": "Mark Cuban: AI will produce the world’s first trillionaires",
+          "cn:tagName": "",
+          "description": "The self-made billionaire believes great profits await entrepreneurs working with artificial intelligence.",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "related",
+              "cn:isPromoted": "false"
+            }
+          ]
+        },
+        {
+          "cn:type": "cnbcvideo",
+          "cn:creatorOverwrite": "",
+          "@id": "104117456",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104117456",
+          "cn:slug": "makeit robots take jobs clifford",
+          "url": "http://qa-aws01web.cnbc.com/video/2016/11/18/if-robots-take-your-job-the-government-might-have-to-pay-you-to-live.html",
+          "cn:title": "If robots take your job, the government might have to pay you to live",
+          "cn:tagName": "",
+          "description": "Some experts say as many lose their jobs, due in part to automation, one solution might be for the government to institute a universal basic income.",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "related",
+              "cn:isPromoted": "false"
+            },
+            [
+              {
+                "cn:relationType": "related",
+                "cn:isPromoted": "false"
+              }
+            ]
+          ]
+        },
+        {
+          "url": "http://qa-aws01pub.cnbc.com/video/2017/07/17/elon-musk-talks-cars--and-humanitys-fate--with-governors.html",
+          "cn:type": "cnbcvideo",
+          "cn:title": "Elon Musk talks cars - and humanity's fate - with governors",
+          "cn:creatorOverwrite": "",
+          "@id": "104590282",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104590282",
+          "cn:slug": "BL Musk AI 071717 hoyt ec",
+          "cn:tagName": "",
+          "description": "Musk spoke at a question-and-answer session at the summer conference of the National Governors Association in Rhode Island.",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "related",
+              "cn:isPromoted": "false"
+            }
+          ]
+        },
+        {
+          "url": "http://qa-aws01pub.cnbc.com/video/2017/07/06/elon-musk-the-worlds-population-is-accelerating-toward-collapse-and-nobody-cares.html",
+          "cn:type": "cnbcvideo",
+          "cn:title": "Elon Musk: The world's population is accelerating toward collapse and nobody cares",
+          "cn:creatorOverwrite": "",
+          "@id": "104570876",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104570876",
+          "cn:slug": "BL Musk Tweet 070617 hoyt ec",
+          "cn:tagName": "",
+          "description": "Musk tweeted Thursday to his nearly 10 million followers: \"The world's population is accelerating towards collapse, but few seem to notice or care.\"",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "related",
+              "cn:isPromoted": "false"
+            }
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "103775547",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103775547",
+          "cn:slug": "Make It - Careers",
+          "cn:subType": "special_report",
+          "url": "https://qa-aws01make-it.cnbc.com/make-it/careers/",
+          "cn:title": "Make It - Careers",
+          "cn:tagName": "Make It - Careers",
+          "description": "",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            },
+            [
+              {
+                "cn:relationType": "tags",
+                "cn:isPromoted": "false"
+              }
+            ]
+          ]
+        },
+        {
+          "url": "http://qa-aws01pub.cnbc.com/video/2017/04/12/this-ceo-wants-to-put-a-computer-chip-in-your-brain.html",
+          "cn:type": "cnbcvideo",
+          "cn:title": "This CEO wants to put a computer chip in your brain",
+          "cn:creatorOverwrite": "",
+          "@id": "104400005",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104400005",
+          "cn:slug": "makeit brain implants 20170412 NY",
+          "cn:tagName": "",
+          "description": "Bryan Johnson, founder of Kernel, shares his vision for the future of neuroscience and human development.",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "related",
+              "cn:isPromoted": "false"
+            },
+            [
+              {
+                "cn:relationType": "related",
+                "cn:isPromoted": "false"
+              }
+            ]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "19854910",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/19854910",
+          "cn:slug": "Technology",
+          "cn:subType": "primetime_show",
+          "url": "https://qa-aws01web.cnbc.com/technology/",
+          "cn:title": "Technology",
+          "cn:tagName": "Technology1",
+          "description": "Find the latest business news pertaining to Technology covering companies, advancements, multimedia, electronics, mobile technologies, and science available on the official CNBC Technology site.",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            },
+            [
+              {
+                "cn:relationType": "tags",
+                "cn:isPromoted": "false"
+              }
+            ],
+            [
+              {
+                "cn:relationType": "tags",
+                "cn:isPromoted": "false"
+              }
+            ]
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "cn:type": "image",
+          "cn:creatorOverwrite": "Photo by Bloomberg",
+          "@id": "104590576",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104590576",
+          "cn:slug": "PREMIUM Elon Musk serious",
+          "cn:title": "",
+          "cn:tagName": "",
+          "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104590576-GettyImages-506802692.jpg?v=1500303184",
+          "description": "Billionaire Elon Musk, chief executive officer of Tesla Motors Inc., listens during the StartmeupHK Venture Forum in Hong Kong, China, on Tuesday, Jan. 26, 2016. Tesla is looking for a Chinese production partner but is \"still trying to figure that out,\" Musk said. Photographer: Justin Chin/Bloomberg *** Local Caption *** Elon Musk",
+          "author": "Justin Chin",
+          "contentSize": 78056,
+          "caption": "Elon Musk, CEO of SpaceX and Tesla",
+          "copyrightHolder": "Photo by Bloomberg",
+          "height": "683",
+          "width": "1024",
+          "cn:relation": [
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "true"
+            }
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "103395579",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103395579",
+          "cn:slug": "Make It",
+          "cn:subType": "special_report",
+          "url": "https://qa-aws01web.cnbc.com/make-it/",
+          "cn:title": "CNBC Make It",
+          "cn:tagName": "Make It",
+          "description": "Summary Field - Get smarter about how you earn, save and spend your money with the latest from CNBC Make It. ",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            },
+            [
+              {
+                "cn:relationType": "tags",
+                "cn:isPromoted": "false"
+              }
+            ],
+            [
+              {
+                "cn:relationType": "tags",
+                "cn:isPromoted": "false"
+              }
+            ]
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/small-business/",
+          "cn:type": "franchise",
+          "cn:title": "Small Business",
+          "cn:creatorOverwrite": "",
+          "@id": "44877279",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/44877279",
+          "cn:slug": "Small Business",
+          "cn:tagName": "Small Business",
+          "cn:subType": "section",
+          "description": "Find top small business news, headlines, and videos about, entrepreneurs, venture capital, jobs, start-ups, and more from CNBC's Small Business section.",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "related",
+              "cn:isPromoted": "false"
+            },
+            [
+              {
+                "cn:relationType": "related",
+                "cn:isPromoted": "false"
+              }
+            ],
+            [
+              {
+                "cn:relationType": "related",
+                "cn:isPromoted": "false"
+              }
+            ]
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/entrepreneurs/",
+          "cn:type": "franchise",
+          "cn:title": "Entrepreneurs",
+          "cn:creatorOverwrite": "",
+          "@id": "10001275",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10001275",
+          "cn:slug": "Entrepreneurs",
+          "cn:tagName": "Entrepreneurs",
+          "cn:subType": "section",
+          "description": "Latest business news on the entrepreneurial front. ",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            },
+            [
+              {
+                "cn:relationType": "tags",
+                "cn:isPromoted": "false"
+              }
+            ],
+            [
+              {
+                "cn:relationType": "tags",
+                "cn:isPromoted": "false"
+              }
+            ]
+          ]
+        }
+      ],
+      "description": "Speaking to the National Governors Association, the CEO of Tesla and SpaceX fears the potential of artificial intelligence growing unchecked.\r\n",
+      "cn:section": {
+        "url": "http://qa-aws01web.cnbc.com/make-it/entrepreneurs/",
+        "cn:type": "franchise",
+        "cn:title": "Make It - Entrepreneurs",
+        "cn:creatorOverwrite": "",
+        "@id": "103775527",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103775527",
+        "cn:slug": "Make It - Entrepreneurs ",
+        "cn:tagName": "Make It - Entrepreneurs ",
+        "cn:subType": "section",
+        "cn:shortestDescription": "",
+        "cn:sectionHierarchy": [
+          {
+            "id": 103395579,
+            "tagName": "Make It",
+            "order": 1
+          },
+          {
+            "id": 10000161,
+            "tagName": "CNBC Global",
+            "order": 2
+          }
+        ],
+        "cn:sectionLabel": "Entrepreneurs",
+        "headline": "Entrepreneurs",
+        "cn:liveURL": "/make-it/entrepreneurs/",
+        "cn:summary": "",
+        "cn:settings": {
+          "cn:isFamilyFriendly": "Yes",
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "",
+        "cn:sectionLinktext": "Entrepreneurs ",
+        "cn:editedBy": "matthew.clinch",
+        "datePublished": "2016-07-08T20:07:09+0000",
+        "cn:historicalURL": [],
+        "cn:tabLabel": "Entrepreneurs",
+        "cn:createdBy": "joseph.odell",
+        "cn:bodyTeaser": "null",
+        "cn:shorterDescription": "",
+        "name": "Make It - Entrepreneurs",
+        "@type": "Collection"
+      },
+      "cn:liveURL": "/2017/07/17/elon-musk-robots-will-be-able-to-do-everything-better-than-us.html",
+      "datePublished": "2017-07-17T16:23:24+0000",
+      "cn:summary": "Speaking to the National Governors Association, the CEO of Tesla and SpaceX fears the potential of artificial intelligence growing unchecked.\r\n",
+      "cn:linkHeadline": "Elon Musk: ‘Robots will be able to do everything better than us’ ",
+      "cn:shorterHeadline": "Elon Musk: ‘Robots will be able to do everything better than us’ ",
+      "headline": "Elon Musk: ‘Robots will be able to do everything better than us’ ",
+      "cn:shortestHeadline": "",
+      "cn:shorterDescription": "No job is safe, he says.\r\n",
+      "cn:shortestDescription": "No job is safe, he says.\r\n",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><asset_inline nid=\"100987750\">Elon Musk</asset_inline> is certain that robots will be able to do your job better than you.</p><p>And even the billionaire CEO of <asset_inline nid=\"1514889\">Tesla</asset_inline> and SpaceX is not sure what to do about that.</p><p>\"There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us. ... I mean all of us,\" says <asset_inline ext_link=\"https://www.c-span.org/video/?431119-6/elon-musk-address-nga&amp;start=5049\" ext_title=\"\"> Musk, speaking to the National Governors Association on Saturday</asset_inline>.</p><p>\"Yeah, I am not sure exactly what to do about this. This is really the scariest problem to me, I will tell you.\"</p><p>Transportation operators will be the first to lose their jobs, says Musk. The U.S. Department of Transportation says <asset_inline ext_link=\"https://www.rita.dot.gov/bts/programs/freight_transportation/html/transportation.html\" ext_title=\"https://www.rita.dot.gov/bts/programs/freight_transportation/html/transportation.html\">one in seven jobs in the U.S.</asset_inline> is transportation-related.</p><p>But no job is safe, he says. \"Transport will be one of the first to go fully autonomous. But when I say everything — the robots will be able to do everything, bar nothing.\"&#160;</p></div></group></body>",
+      "cn:sectionHierarchy": [
+        {
+          "id": 103775527,
+          "tagName": "Make It - Entrepreneurs ",
+          "order": 1
+        },
+        {
+          "id": 103395579,
+          "tagName": "Make It",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "cn:historicalURL": [],
+      "cn:editedBy": "jeff.morganteen",
+      "cn:createdBy": "Cat.Clifford",
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "NewsArticle",
+      "cn:relation": [
+        {
+          "position": 1,
+          "cn:relationType": "related",
+          "cn:isPromoted": "false"
+        }
+      ]
+    }
+  ]
+}

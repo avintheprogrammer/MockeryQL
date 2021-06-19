@@ -1,0 +1,1668 @@
+{
+  "@type": "Collection",
+  "@id": "101283714",
+  "cn:type": "franchise",
+  "cn:slug": "Your Money Your Future Financial Literacy special report",
+  "cn:title": "Your Money, Your Future",
+  "headline": "Your Money, Your Future",
+  "cn:creatorOverwrite": "",
+  "cn:historicalURL": [],
+  "cn:editedBy": "Alex.Dao",
+  "cn:createdBy": "rosy.ngo",
+  "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/101283714",
+  "cn:settings": {
+    "cn:commentsEnabled": "Yes",
+    "cn:socialtoolsEnabled": "Yes",
+    "cn:listType": "Manual and/or populated by feeds",
+    "cn:tweetOnPublish": 0
+  },
+  "url": "http://qa-aws01web.cnbc.com/your-money-your-future/",
+  "datePublished": "2016-01-07T15:51:53 GMT",
+  "cn:section": [{
+      "id": 21324812,
+      "tagName": "Personal Finance",
+      "order": 1
+    },
+    {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 2
+    }
+  ],
+  "cn:subtype": "special_report",
+  "description": "CNBC wants you to have the keys to building a successful long-term financial plan: manage your money, grow and protect it.",
+  "publisher": {
+    "name": "CNBC",
+    "@type": "Organization",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "@context": {
+    "@vocab": "http://schema.org/",
+    "cn": "http://cnbc.com/schema/"
+  },
+  "cn:pagination": {
+    "cn:link": {
+      "cn:self": "https://qa-aws02capi-bl.cnbc.com/list/id/101283714?page=1&pagesize=20",
+      "cn:next": "https://qa-aws02capi-bl.cnbc.com/list/id/101283714?page=2&pagesize=20",
+      "cn:previous": "https://qa-aws02capi-bl.cnbc.com/list/id/101283714?page=1&pagesize=20",
+      "cn:last": "https://qa-aws02capi-bl.cnbc.com/list/id/101283714?page=17&pagesize=20"
+    },
+    "cn:page": 1,
+    "cn:totalCount": 337,
+    "cn:pageSize": 20
+  },
+  "cn:listItem": [{
+      "@id": "104844382",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "stock sale taxes OBRIEN",
+      "cn:createdBy": "auto.videouser",
+      "cn:editedBy": "brian.clark",
+      "cn:title": "Senate bill boosts taxes on stock sales",
+      "headline": "Senate tax plan boosts taxes on stock sales",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104844382",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/15/senate-tax-bill-boosts-taxes-on-stock-sales.html",
+      "datePublished": "2017-11-15T17:03:41 GMT",
+      "cn:section": [{
+          "id": 101283714,
+          "tagName": "Your Money Your Future",
+          "order": 1
+        },
+        {
+          "id": 21324812,
+          "tagName": "Personal Finance",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "The Senate draft of tax legislation would eliminate your ability to pick and choose which stock shares to sell.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "101589622",
+        "name": "Sarah O'Brien",
+        "url": "http://qa-aws01web.cnbc.com/sarah-obrien/",
+        "position": "5000",
+        "sameAs": [
+          "https://www.twitter.com/@sarahtgobrien"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/@sarahtgobrien",
+          "cn:displayText": "@sarahtgobrien",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104829252,
+        "author": "",
+        "datePublished": "2017-11-08T16:47:12 GMT",
+        "caption": "Senate majority Leader Mitch McConnell (R-KY) (R) talks to reporters following the weekly Republican policy luncheon in the U.S. Capitol November 7, 2017 in Washington, DC.",
+        "description": "",
+        "copyrightHolder": "Getty Images",
+        "height": "1333",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104829252-GettyImages-871378922.jpg?v=1510159607"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "NewsArticle"
+    },
+    {
+      "@id": "104842763",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Cap gains 171115 EC MERCADO",
+      "cn:createdBy": "darla.mercado@nbcuni.com",
+      "cn:editedBy": "darla.mercado@nbcuni.com",
+      "cn:title": "Congrats on your market gains. Here’s a tax bill",
+      "headline": "If your market picks are winners, expect to pay this tax",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104842763",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/15/congrats-on-your-market-gains-heres-a-tax-bill.html",
+      "datePublished": "2017-11-15T15:05:06 GMT",
+      "cn:section": [{
+          "id": 101283714,
+          "tagName": "Your Money Your Future",
+          "order": 1
+        },
+        {
+          "id": 21324812,
+          "tagName": "Personal Finance",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "Good news: Your portfolio probably fared well this year. Bad news: Mutual funds are distributing big capital gains. ",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "103768819",
+        "name": "Darla Mercado",
+        "url": "http://qa-aws01web.cnbc.com/darla-mercado/",
+        "position": "5000",
+        "sameAs": [
+          "https://www.twitter.com/darla_mercado"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/darla_mercado",
+          "cn:displayText": "darla_mercado",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104761622,
+        "author": "Josep M Rovirosa",
+        "datePublished": "2017-10-09T19:31:31 GMT",
+        "caption": "For long-term investors, daily headlines are distractions.",
+        "description": "Retired man reads newspaper with concern.",
+        "copyrightHolder": "Westend61 / Josep Rovirosa | Getty Images",
+        "height": "768",
+        "width": "1152",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/Paper?v=1507577496"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "NewsArticle"
+    },
+    {
+      "@id": "104839429",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Medicare plan changes OBRIEN",
+      "cn:createdBy": "auto.videouser",
+      "cn:editedBy": "Rick.Levinson",
+      "cn:title": "With Medicare enrollment winding down, most retirees don't shop around",
+      "headline": "Most retirees don't shop around for best Medicare plan",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104839429",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/14/with-medicare-enrollment-winding-down-most-retirees-dont-shop-around.html",
+      "datePublished": "2017-11-14T19:37:06 GMT",
+      "cn:section": [{
+          "id": 101283714,
+          "tagName": "Your Money Your Future",
+          "order": 1
+        },
+        {
+          "id": 21324812,
+          "tagName": "Personal Finance",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "Older Americans consider health care their most burdensome expense, yet the majority do not comparison shop for the best plan.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 1
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "101589622",
+        "name": "Sarah O'Brien",
+        "url": "http://qa-aws01web.cnbc.com/sarah-obrien/",
+        "position": "5000",
+        "sameAs": [
+          "https://www.twitter.com/@sarahtgobrien"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/@sarahtgobrien",
+          "cn:displayText": "@sarahtgobrien",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104841150,
+        "author": "",
+        "datePublished": "2017-11-14T13:40:25 GMT",
+        "caption": "",
+        "description": "",
+        "copyrightHolder": "Getty Images | Universal Images Group Editorial",
+        "height": "683",
+        "width": "1024",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104841150-GettyImages-625163124.jpg?v=1510666773"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "NewsArticle"
+    },
+    {
+      "@id": "104839350",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Inheritance and goals 171113 EC MERCADO ",
+      "cn:createdBy": "darla.mercado@nbcuni.com",
+      "cn:editedBy": "Rick.Levinson",
+      "cn:title": "Don’t hold out for that inheritance from your rich grandpa",
+      "headline": "Grandpa would rather spend your inheritance",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104839350",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/14/dont-hold-out-for-that-inheritance-from-your-rich-grandpa.html",
+      "datePublished": "2017-11-14T15:23:50 GMT",
+      "cn:section": [{
+          "id": 101283714,
+          "tagName": "Your Money Your Future",
+          "order": 1
+        },
+        {
+          "id": 21324812,
+          "tagName": "Personal Finance",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "Baby boomers would rather enjoy their cash now as opposed to hoarding it for future generations, according to a survey from PNC. ",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 1
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "103768819",
+        "name": "Darla Mercado",
+        "url": "http://qa-aws01web.cnbc.com/darla-mercado/",
+        "position": "5000",
+        "sameAs": [
+          "https://www.twitter.com/darla_mercado"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/darla_mercado",
+          "cn:displayText": "darla_mercado",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104839370,
+        "author": "",
+        "datePublished": "2017-11-13T20:44:12 GMT",
+        "caption": "",
+        "description": "",
+        "copyrightHolder": "FatCamera | Getty Images",
+        "height": "1414",
+        "width": "2120",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104839370-GettyImages-868818880.jpg?v=1510605845"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "NewsArticle"
+    },
+    {
+      "@id": "104839102",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "holiday shopping credit cards DICKLER 111317 EC",
+      "cn:createdBy": "jessica.dickler",
+      "cn:editedBy": "martin.steinberg",
+      "cn:title": "The best credit cards for holiday shopping",
+      "headline": "Best credit cards for holiday shopping",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104839102",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/14/the-best-credit-cards-for-holiday-shopping.html",
+      "datePublished": "2017-11-14T14:03:40 GMT",
+      "cn:section": [{
+          "id": 101283714,
+          "tagName": "Your Money Your Future",
+          "order": 1
+        },
+        {
+          "id": 21324812,
+          "tagName": "Personal Finance",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "Before braving the mall, arm yourself with the right plastic. These are the best credit cards for holiday shopping, according to WalletHub. ",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "103125331",
+        "name": "Jessica Dickler",
+        "url": "http://qa-aws01web.cnbc.com/jessica-dickler/",
+        "position": "4999",
+        "sameAs": [
+          "https://www.twitter.com/jdickler"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/jdickler",
+          "cn:displayText": "jdickler",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 103013039,
+        "author": "Peter Foley",
+        "datePublished": "2015-09-21T14:56:57 GMT",
+        "caption": "Shoppers pay for items at a Macy's store in New York.",
+        "description": "Shoppers pay for items at a Macy's Inc. store in New York, U.S., on Friday, Nov. 23, 2012. Discount store shoppers are prepared to wait in long lines on Black Friday, though they are skeptical about whether they'll get the best deals of the season. Photographer: Peter Foley/Bloomberg \r\n",
+        "copyrightHolder": "Peter Foley | Bloomberg | Getty Images",
+        "height": "2019",
+        "width": "3000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/103013039-GettyImages-156846619.jpg?v=1506369732"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "NewsArticle"
+    },
+    {
+      "@id": "104838656",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "second homes MID OBRIEN",
+      "cn:createdBy": "auto.videouser",
+      "cn:editedBy": "auto.videouser",
+      "cn:title": "Do this if you want to escape the GOP cap on mortgages",
+      "headline": "Do this if you want to escape the GOP cap on mortgages",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104838656",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/13/do-this-if-you-want-to-ecape-the-gop-cap-on-mortgages.html",
+      "datePublished": "2017-11-13T19:36:02 GMT",
+      "cn:section": [{
+          "id": 101283714,
+          "tagName": "Your Money Your Future",
+          "order": 1
+        },
+        {
+          "id": 21324812,
+          "tagName": "Personal Finance",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "If the mortgage interest deductibility disappears for second homes, renting them out can deliver tax breaks.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "101589622",
+        "name": "Sarah O'Brien",
+        "url": "http://qa-aws01web.cnbc.com/sarah-obrien/",
+        "position": "5000",
+        "sameAs": [
+          "https://www.twitter.com/@sarahtgobrien"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/@sarahtgobrien",
+          "cn:displayText": "@sarahtgobrien",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104838722,
+        "author": "JeffGreenberg",
+        "datePublished": "2017-11-13T15:32:24 GMT",
+        "caption": "",
+        "description": "Massachusetts, Cape Cod, Hyannis, tidal mash, cedar shingle, house, houses, beach homes, rental, ",
+        "copyrightHolder": "",
+        "height": "683",
+        "width": "1024",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104838722-GettyImages-635713830.jpg?v=1510587071"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "NewsArticle"
+    },
+    {
+      "@id": "104829047",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Holiday shopping survey CAMPO 171108 EC",
+      "cn:createdBy": "Beatriz.BajuelosCastillo@nbcuni.com",
+      "cn:editedBy": "Rick.Levinson",
+      "cn:title": "What's on shoppers' wish lists for the holidays",
+      "headline": "The No. 1 gift holiday shoppers want",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104829047",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/13/holiday-shoppers-plan-to-spend-less-buy-gift-cards.html",
+      "datePublished": "2017-11-13T14:42:51 GMT",
+      "cn:section": [{
+          "id": 101283714,
+          "tagName": "Your Money Your Future",
+          "order": 1
+        },
+        {
+          "id": 21324812,
+          "tagName": "Personal Finance",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "This year, a third of American consumers plan to spend $501 or more buying gifts, according to a WalletHub survey. That's down 4 percent from last year.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 1
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "104702659",
+        "name": "Catherine Campo",
+        "url": "http://qa-aws01web.cnbc.com/catherine-campo/",
+        "position": "5000",
+        "sameAs": [
+          "https://www.twitter.com/cathymcampo"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/cathymcampo",
+          "cn:displayText": "cathymcampo",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 101231880,
+        "author": "Patrick Fallon",
+        "datePublished": "2013-11-27T14:30:00 GMT",
+        "caption": "Children pose for pictures with Santa Claus at a Sears store during the Family and Friends evening sale inside the Del Amo shopping mall in Torrance, California.",
+        "description": "Children pose for pictures with Santa Claus at the Sears store during the Family and Friends evening sale inside the Del Amo shopping mall in Torrance, California, U.S., on Sunday, Nov. 11, 2012. The sale offered additional discounts of 10-15 percent throughout the store. Photographer: Patrick Fallon/Bloomberg",
+        "copyrightHolder": "Patrick Fallon | Bloomberg | Getty Images",
+        "height": "2000",
+        "width": "3000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/101231880-156388563.jpg?v=1510260445"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "NewsArticle"
+    },
+    {
+      "@id": "104835573",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Fraud 171110 Konish EC",
+      "cn:createdBy": "kelsey.kats",
+      "cn:editedBy": "Rick.Levinson",
+      "cn:title": "How to avoid getting defrauded on your investments",
+      "headline": "How to avoid investment fraud",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104835573",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/13/how-to-avoid-getting-defrauded-on-your-investments.html",
+      "datePublished": "2017-11-13T13:41:09 GMT",
+      "cn:section": [{
+          "id": 101283714,
+          "tagName": "Your Money Your Future",
+          "order": 1
+        },
+        {
+          "id": 21324812,
+          "tagName": "Personal Finance",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "Before it's too late, these tips can help you detect whether you're working with a dishonest financial professional.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 1
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "104749518",
+        "name": "Lorie Konish",
+        "url": "http://qa-aws01web.cnbc.com/lorie-konish/",
+        "position": "5000",
+        "sameAs": [
+          "https://www.twitter.com/LorieKonish"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/LorieKonish",
+          "cn:displayText": "LorieKonish",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 100804365,
+        "author": "",
+        "datePublished": "2013-06-10T21:08:37 GMT",
+        "caption": "",
+        "description": "",
+        "copyrightHolder": "Daniel Grill | Getty Images",
+        "height": "1331",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/100804365-149262689r.jpg?v=1370898521"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "NewsArticle"
+    },
+    {
+      "@id": "104832791",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "black friday deals DICKLER 110917",
+      "cn:createdBy": "jessica.dickler",
+      "cn:editedBy": "javier.david",
+      "cn:title": "Tricks to save big on Black Friday and Cyber Monday",
+      "headline": "How to save big bucks on Black Friday and Cyber Monday",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104832791",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/10/tricks-to-save-big-on-black-friday-and-cyber-monday.html",
+      "datePublished": "2017-11-12T16:00:00 GMT",
+      "cn:section": [{
+          "id": 101283714,
+          "tagName": "Your Money Your Future",
+          "order": 1
+        },
+        {
+          "id": 21324812,
+          "tagName": "Personal Finance",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "Forget getting up at dawn, or even skipping out on pumpkin pie so you can queue up at the mall — this year's deals are just as good online.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "103125331",
+        "name": "Jessica Dickler",
+        "url": "http://qa-aws01web.cnbc.com/jessica-dickler/",
+        "position": "4999",
+        "sameAs": [
+          "https://www.twitter.com/jdickler"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/jdickler",
+          "cn:displayText": "jdickler",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104183243,
+        "author": "",
+        "datePublished": "2016-12-22T18:16:24 GMT",
+        "caption": "People carry shopping bags outside Macy's Herald Square in New York.",
+        "description": "",
+        "copyrightHolder": "Andrew Kelly | Reuters",
+        "height": "1333",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104183243-RTX2W79V.jpg?v=1485804427"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "NewsArticle"
+    },
+    {
+      "@id": "104835338",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "open enrollment DICKLER 111017 EC",
+      "cn:createdBy": "jessica.dickler",
+      "cn:editedBy": "James.Pavia",
+      "cn:title": "What to watch out for during open enrollment",
+      "headline": "Avoid these open enrollment mistakes",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104835338",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/10/key-open-enrollment-decisions-to-make.html",
+      "datePublished": "2017-11-11T18:00:00 GMT",
+      "cn:section": [{
+          "id": 101283714,
+          "tagName": "Your Money Your Future",
+          "order": 1
+        },
+        {
+          "id": 21324812,
+          "tagName": "Personal Finance",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "Here are four things to look out for during this open enrollment period, all of which could yield significant savings.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "103125331",
+        "name": "Jessica Dickler",
+        "url": "http://qa-aws01web.cnbc.com/jessica-dickler/",
+        "position": "4999",
+        "sameAs": [
+          "https://www.twitter.com/jdickler"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/jdickler",
+          "cn:displayText": "jdickler",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 102013701,
+        "author": "Joe Raedle",
+        "datePublished": "2014-09-18T17:25:01 GMT",
+        "caption": "More than 7 million people are currently signed up for health insurance plans under the Affordable Care Act.",
+        "description": "MIAMI, FL - FEBRUARY 13:  Hisham Uadadeh enrolls in a health insurance plan under the Affordable Care Act with the help of A. Michael Khoury at Leading Insurance Agency on February 13, 2014 in Miami, Florida. Numbers released by the government showed that about 3.3 million people signed up for health insurance plans under the Affordable Care Act through the end of January.  (Photo by Joe Raedle/Getty Images)",
+        "copyrightHolder": "Getty Images",
+        "height": "1125",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/102013701-health-care-enrollment.jpg?v=1411137024"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "NewsArticle"
+    },
+    {
+      "@id": "104825476",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "same-sex divorces OBRIEN",
+      "cn:createdBy": "auto.videouser",
+      "cn:editedBy": "auto.videouser",
+      "cn:title": "Same-sex divorce poses complications for some splitting couples",
+      "headline": "Same-sex divorce gets complicated for some couples",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104825476",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/10/same-sex-divorce-poses-complications-for-some-splitting-couples.html",
+      "datePublished": "2017-11-10T15:24:03 GMT",
+      "cn:section": [{
+          "id": 101283714,
+          "tagName": "Your Money Your Future",
+          "order": 1
+        },
+        {
+          "id": 21324812,
+          "tagName": "Personal Finance",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "The details of divorce, which can be more clear-cut with heterosexual marriages, are creating complications for same-sex couples.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "101589622",
+        "name": "Sarah O'Brien",
+        "url": "http://qa-aws01web.cnbc.com/sarah-obrien/",
+        "position": "5000",
+        "sameAs": [
+          "https://www.twitter.com/@sarahtgobrien"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/@sarahtgobrien",
+          "cn:displayText": "@sarahtgobrien",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104825583,
+        "author": "Santiago Felipe",
+        "datePublished": "2017-11-07T13:11:08 GMT",
+        "caption": "",
+        "description": "",
+        "copyrightHolder": "",
+        "height": "683",
+        "width": "1024",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104825583-GettyImages-541894292_1.jpg?v=1510060220"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "NewsArticle"
+    },
+    {
+      "@id": "104832781",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Last call deductions 171109 EC MERCADO",
+      "cn:createdBy": "darla.mercado@nbcuni.com",
+      "cn:editedBy": "brian.clark",
+      "cn:title": "Last call: The clock is ticking on these tax breaks",
+      "headline": "Use these tax breaks while you still can",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104832781",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/09/last-call-the-clock-is-ticking-on-these-tax-breaks.html",
+      "datePublished": "2017-11-09T19:26:32 GMT",
+      "cn:section": [{
+          "id": 101283714,
+          "tagName": "Your Money Your Future",
+          "order": 1
+        },
+        {
+          "id": 21324812,
+          "tagName": "Personal Finance",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "The GOP's tax overhaul would toss out a number of key deductions and credits. Here's what you can maximize now.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "103768819",
+        "name": "Darla Mercado",
+        "url": "http://qa-aws01web.cnbc.com/darla-mercado/",
+        "position": "5000",
+        "sameAs": [
+          "https://www.twitter.com/darla_mercado"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/darla_mercado",
+          "cn:displayText": "darla_mercado",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104829297,
+        "author": "",
+        "datePublished": "2017-11-08T17:07:36 GMT",
+        "caption": "Speaker of House Paul Ryan and Senate Majority Leader Mitch McConnell announce the Republican tax reform initiative accompanied by members of the Senate Finance Committee and House Ways and Means Committee on Capitol Hill in Washington DC Wednesday September 27, 2017.",
+        "description": "",
+        "copyrightHolder": "Melina Mara | The Washington Post | Getty Images",
+        "height": "1258",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104829297-GettyImages-868032146.jpg?v=1510160831"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "NewsArticle"
+    },
+    {
+      "@id": "104832609",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Student loans 171109 Konish EC",
+      "cn:createdBy": "kelsey.kats",
+      "cn:editedBy": "Rick.Levinson",
+      "cn:title": "Getting your student loan forgiven is a high-wire act. Here's how to do it right",
+      "headline": "Getting your student loan forgiven is cumbersome. Here's how to do it right",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104832609",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/09/getting-your-student-loan-forgiven-is-a-high-wire-act-heres-how-to-do-it-right.html",
+      "datePublished": "2017-11-09T18:58:16 GMT",
+      "cn:section": [{
+          "id": 101283714,
+          "tagName": "Your Money Your Future",
+          "order": 1
+        },
+        {
+          "id": 21324812,
+          "tagName": "Personal Finance",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "A federal program allows borrowers who work in public service to have their debts forgiven after 10 years. Some students fail to meet all of the requirements to qualify.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 1
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "104749518",
+        "name": "Lorie Konish",
+        "url": "http://qa-aws01web.cnbc.com/lorie-konish/",
+        "position": "5000",
+        "sameAs": [
+          "https://www.twitter.com/LorieKonish"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/LorieKonish",
+          "cn:displayText": "LorieKonish",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 103452351,
+        "author": "SIphotography",
+        "datePublished": "2016-03-08T18:16:08 GMT",
+        "caption": "",
+        "description": "Student loan debt concept. Young woman with heavy box full of debt carrying it up the education ladder",
+        "copyrightHolder": "Slphotography | Getty Images",
+        "height": "3000",
+        "width": "3852",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/103452351-GettyImages-507373294.jpg?v=1510252365"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "NewsArticle"
+    },
+    {
+      "@id": "104829687",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Adoption credits 171108 EC MERCADO ",
+      "cn:createdBy": "darla.mercado@nbcuni.com",
+      "cn:editedBy": "scott.mlyn",
+      "cn:title": "Google developer explains the pain losing adoption credit will cause",
+      "headline": "Google developer explains the pain of losing adoption credit",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104829687",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/08/google-developer-explains-the-pain-losing-adoption-credit-will-cause.html",
+      "datePublished": "2017-11-08T20:32:40 GMT",
+      "cn:section": [{
+          "id": 101283714,
+          "tagName": "Your Money Your Future",
+          "order": 1
+        },
+        {
+          "id": 21324812,
+          "tagName": "Personal Finance",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "The adoption tax credit of $13,570 per child is hanging in the balance. Here's what it means for families.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "103768819",
+        "name": "Darla Mercado",
+        "url": "http://qa-aws01web.cnbc.com/darla-mercado/",
+        "position": "5000",
+        "sameAs": [
+          "https://www.twitter.com/darla_mercado"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/darla_mercado",
+          "cn:displayText": "darla_mercado",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104818965,
+        "author": "",
+        "datePublished": "2017-11-03T15:12:35 GMT",
+        "caption": "President Donald Trump holds sample tax forms as he promotes a newly unveiled Republican tax plan with House Republican leaders in the Cabinet Room of the White House in Washington, November 2, 2017.",
+        "description": "",
+        "copyrightHolder": "Carlos Barria | Reuters",
+        "height": "1333",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104818965-RTS1I9DW-trump-brady-ryan.jpg?v=1509721936"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "NewsArticle"
+    },
+    {
+      "@id": "104829456",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "LTC premium deductions OBRIEN",
+      "cn:createdBy": "auto.videouser",
+      "cn:editedBy": "Rick.Levinson",
+      "cn:title": "What to do if Congress kills the medical deduction",
+      "headline": "What to do if Congress kills the medical deduction",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104829456",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/08/do-this-now-in-case-the-medical-deduction-tax-break-disappears.html",
+      "datePublished": "2017-11-08T19:34:48 GMT",
+      "cn:section": [{
+          "id": 101283714,
+          "tagName": "Your Money Your Future",
+          "order": 1
+        },
+        {
+          "id": 21324812,
+          "tagName": "Personal Finance",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "For taxpayers who will take the medical deduction this year, it might be worthwhile to prepay some of your 2018 long-term-care premiums.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 1
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "101589622",
+        "name": "Sarah O'Brien",
+        "url": "http://qa-aws01web.cnbc.com/sarah-obrien/",
+        "position": "5000",
+        "sameAs": [
+          "https://www.twitter.com/@sarahtgobrien"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/@sarahtgobrien",
+          "cn:displayText": "@sarahtgobrien",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 102165764,
+        "author": "Hinterhaus Productions",
+        "datePublished": "2014-11-07T21:13:56 GMT",
+        "caption": "",
+        "description": "Senior Couple Senior Home",
+        "copyrightHolder": "Hinterhaus Productions | Getty Images",
+        "height": "1178",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/102165764-senior-care.jpg?v=1435247550"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "NewsArticle"
+    },
+    {
+      "@id": "104829359",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Millennials vs gen xers 171108 EC MERCADO",
+      "cn:createdBy": "darla.mercado@nbcuni.com",
+      "cn:editedBy": "Rick.Levinson",
+      "cn:title": "Here’s how millennials are outsmarting older savers at retirement",
+      "headline": "Millennials are outsmarting older savers at retirement",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104829359",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/08/heres-how-millennials-are-outsmarting-older-savers-at-retirement.html",
+      "datePublished": "2017-11-08T18:44:54 GMT",
+      "cn:section": [{
+          "id": 101283714,
+          "tagName": "Your Money Your Future",
+          "order": 1
+        },
+        {
+          "id": 21324812,
+          "tagName": "Personal Finance",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "The youngest employees have the edge over older workers and near-retirees when it comes to their 401(k), a Charles Schwab survey found.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 1
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "103768819",
+        "name": "Darla Mercado",
+        "url": "http://qa-aws01web.cnbc.com/darla-mercado/",
+        "position": "5000",
+        "sameAs": [
+          "https://www.twitter.com/darla_mercado"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/darla_mercado",
+          "cn:displayText": "darla_mercado",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104618302,
+        "author": "Matt Porteous",
+        "datePublished": "2017-07-28T20:43:37 GMT",
+        "caption": "",
+        "description": "Cuban models on the streets of Havana cuba",
+        "copyrightHolder": "Matt Porteous | Getty Images",
+        "height": "1333",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104618302-Millennials_laughing.jpg?v=1507311463"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "NewsArticle"
+    },
+    {
+      "@id": "104826239",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Couples 171107 Konish EC",
+      "cn:createdBy": "kelsey.kats",
+      "cn:editedBy": "Rick.Levinson",
+      "cn:title": "How couples can overcome financial incompatibility",
+      "headline": "How couples can beat financial incompatibility",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104826239",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/07/how-couples-can-overcome-financial-incompatibility.html",
+      "datePublished": "2017-11-07T19:31:30 GMT",
+      "cn:section": [{
+          "id": 101283714,
+          "tagName": "Your Money Your Future",
+          "order": 1
+        },
+        {
+          "id": 21324812,
+          "tagName": "Personal Finance",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "Financial differences between couples are common, but there are ways to combat these issues.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 1
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "104749518",
+        "name": "Lorie Konish",
+        "url": "http://qa-aws01web.cnbc.com/lorie-konish/",
+        "position": "5000",
+        "sameAs": [
+          "https://www.twitter.com/LorieKonish"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/LorieKonish",
+          "cn:displayText": "LorieKonish",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104809333,
+        "author": "",
+        "datePublished": "2017-10-31T16:08:09 GMT",
+        "caption": "",
+        "description": "",
+        "copyrightHolder": "Bettman Collection | Getty Images",
+        "height": "1448",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104809333-GettyImages-517725880.jpg?v=1509466091"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "NewsArticle"
+    },
+    {
+      "@id": "104826161",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Six numbers healthcare 171107 EC MERCADO",
+      "cn:createdBy": "darla.mercado@nbcuni.com",
+      "cn:editedBy": "Rick.Levinson",
+      "cn:title": "Six numbers that could bust your health-care budget next year",
+      "headline": "These six numbers could bust your health-care budget ",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104826161",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/07/six-figures-that-will-make-or-break-your-healthcare-budget-in-2018.html",
+      "datePublished": "2017-11-07T18:56:06 GMT",
+      "cn:section": [{
+          "id": 101283714,
+          "tagName": "Your Money Your Future",
+          "order": 1
+        },
+        {
+          "id": 21324812,
+          "tagName": "Personal Finance",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "Your health insurance premiums are only part of the story when it comes to medical expenses. These figures can ruin your finances if you aren't careful.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "103768819",
+        "name": "Darla Mercado",
+        "url": "http://qa-aws01web.cnbc.com/darla-mercado/",
+        "position": "4999",
+        "sameAs": [
+          "https://www.twitter.com/darla_mercado"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/darla_mercado",
+          "cn:displayText": "darla_mercado",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104332326,
+        "author": "",
+        "datePublished": "2017-03-09T19:47:34 GMT",
+        "caption": "A patient gets a checkup from infectious disease doctor Fadi Al Akhrass, at the Pikeville Medical Center in Pikeville, KY.",
+        "description": "",
+        "copyrightHolder": "Jahi Chikwendiu | The Washington Post | Getty Images",
+        "height": "1334",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104332326-GettyImages-496472608.jpg?v=1490795473"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "NewsArticle"
+    },
+    {
+      "@id": "104823199",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "money stress DICKLER 110617 EC",
+      "cn:createdBy": "jessica.dickler",
+      "cn:editedBy": "jessica.dickler",
+      "cn:title": "This is what your brain does when you have money woes",
+      "headline": "This is your brain on financial stress",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104823199",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/07/this-is-what-your-brain-does-when-you-have-money-woes.html",
+      "datePublished": "2017-11-07T14:01:00 GMT",
+      "cn:section": [{
+          "id": 101283714,
+          "tagName": "Your Money Your Future",
+          "order": 1
+        },
+        {
+          "id": 21324812,
+          "tagName": "Personal Finance",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "Weighing whether to buy a house or a car doesn't just take a mental toll – those decisions actually impact brain function.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "103125331",
+        "name": "Jessica Dickler",
+        "url": "http://qa-aws01web.cnbc.com/jessica-dickler/",
+        "position": "4999",
+        "sameAs": [
+          "https://www.twitter.com/jdickler"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/jdickler",
+          "cn:displayText": "jdickler",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104792634,
+        "author": "PM Images",
+        "datePublished": "2017-10-24T14:29:26 GMT",
+        "caption": "We are often consuming information much more quickly than our brains can process.",
+        "description": "Brain cerebrum lit up with simulated electrical pulses",
+        "copyrightHolder": "PM Images | Getty Images",
+        "height": "1393",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/rsz_brain.jpg?v=1509455063"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "NewsArticle"
+    },
+    {
+      "@id": "104823523",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Childcare FSA GRANT 20171106 PF",
+      "cn:title": "Tax reform triggers an open enrollment dilemma for families",
+      "headline": "How tax reform could drive up child-care costs",
+      "cn:creatorOverwrite": "",
+      "cn:editedBy": "Rick.Levinson",
+      "cn:historicalURL": [],
+      "cn:createdBy": "kelli.grant",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104823523",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/06/dependent-care-fsas-could-be-eliminated-under-tax-reform.html",
+      "datePublished": "2017-11-06T20:43:10 GMT",
+      "cn:section": [{
+          "id": 101283714,
+          "tagName": "Your Money Your Future",
+          "order": 1
+        },
+        {
+          "id": 21324812,
+          "tagName": "Personal Finance",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "Flexible spending accounts to cover dependent care could be eliminated under tax reform. Here's how to navigate open enrollment amid that uncertainty.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "100770389",
+        "name": "Kelli B. Grant",
+        "url": "http://qa-aws01web.cnbc.com/kelli-b-grant/",
+        "position": "1",
+        "sameAs": [
+          "https://www.facebook.com/KelliGrant.money",
+          "https://www.twitter.com/kelligrant",
+          "https://www.plus.google.com/116379376975025392080"
+        ],
+        "cn:socialMediaInfo": [{
+            "cn:url": "https://facebook.com/KelliGrant.money",
+            "cn:displayText": "KelliGrant.money",
+            "cn:type": "facebook"
+          },
+          {
+            "cn:url": "https://twitter.com/kelligrant",
+            "cn:displayText": "kelligrant",
+            "cn:type": "twitter"
+          },
+          {
+            "cn:url": "https://plus.google.com/116379376975025392080",
+            "cn:displayText": "116379376975025392080",
+            "cn:type": "googlePlus"
+          }
+        ]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104823590,
+        "author": "",
+        "datePublished": "2017-11-06T20:27:15 GMT",
+        "caption": "",
+        "description": "Smiling teacher and little girls talking and playing with educational toys at preschool. Other children are in the background.",
+        "copyrightHolder": "skynesher | Getty Images",
+        "height": "1333",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104823590-rsz_1gettyimages-520648150.jpg?v=1510000031"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "NewsArticle"
+    }
+  ]
+}

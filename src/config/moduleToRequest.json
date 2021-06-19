@@ -1,0 +1,182 @@
+{
+  "articleBody": {
+    "storeType": "Article"
+  },
+  "articleHeader": {
+    "storeType": "Article"
+  },
+  "articleInlineMedia": {
+    "storeType": "Article"
+  },
+  "articleTicker": {
+    "storeType": "ArticleTicker"
+  },
+  "buffettAbout": {
+    "storeType": "CAPI"
+  },
+  "buffettArticleBody": {
+    "storeType": "Article"
+  },
+  "buffettArticleHeader": {
+    "storeType": "Article"
+  },
+  "buffettArticleHeaderEyebrow": {
+    "storeType": "Article"
+  },
+  "buffettClip": {
+    "storeType": "CAPI"
+  },
+  "buffettClipDark": {
+    "storeType": "CAPI"
+  },
+  "buffettDynamicContentFeedContainer": {
+    "storeType": "AssetList"
+  },
+  "buffettTimeline": {
+    "storeType": "BuffettTimeline"
+  },
+  "buffettQuote": {
+    "storeType": "BuffettQuote"
+  },
+  "cardCollection": {
+    "storeType": "AssetList"
+  },
+  "carousel": {
+    "storeType": "CAPI"
+  },
+  "clipPlayer": {
+    "storeType": "Video"
+  },
+  "dynamicContentFeed": {
+    "storeType": "AssetList"
+  },
+  "featuredBreaker": {
+    "storeType": "CAPI"
+  },
+  "featuredPerson": {
+    "storeType": "CAPI"
+  },
+  "fourUp": {
+    "storeType": "AssetList"
+  },
+  "hero": {
+    "storeType": "CAPI"
+  },
+  "heroLedePlusThree": {
+    "storeType": "CAPI"
+  },
+  "marketsBanner": {
+    "storeType": "MarketBanner"
+  },
+  "imageDenseWithoutLabels": {
+    "storeType": "CAPI"
+  },
+  "twoColumnImageDense": {
+    "storeType": "CAPI"
+  },
+  "keyPoints": {
+    "storeType": "Article"
+  },
+  "longFormFeaturedVideos": {
+    "storeType": "CAPI"
+  },
+  "longFormPlayer": {
+    "storeType": "Video"
+  },
+  "longFormSectionIntro": {
+    "storeType": "CAPI"
+  },
+  "makeItFeaturedStories": {
+    "storeType": "AssetList"
+  },
+  "makeItRelatedVideo": {
+    "storeType": "Article"
+  },
+  "marketsModule": {
+    "storeType": "CAPI"
+  },
+  "makeItAbout": {
+    "storeType": "CAPI"
+  },
+  "mostPopular": {
+    "storeType": "MostPopular"
+  },
+  "pageTitle": {
+    "storeType": "CAPI"
+  },
+  "relatedTags": {
+    "storeType": "Article"
+  },
+  "relatedVideos": {
+    "storeType": "Video"
+  },
+  "search": {
+    "storeType": "AssetList"
+  },
+  "sectionHeader": {
+    "storeType": "Article"
+  },
+  "sectionIntro": {
+    "storeType": "CAPI"
+  },
+  "sectionTiles": {
+    "storeType": "AssetList"
+  },
+  "sectionVideoPlayer": {
+    "storeType": "AssetList"
+  },
+  "sectionVideoIntro": {
+    "storeType": "AssetList"
+  },
+  "singleStoryHeroWithTopStoriesTitle": {
+    "storeType": "CAPI"
+  },
+  "slideshowGrid": {
+    "storeType": "AssetList"
+  },
+  "slideshowHighlight": {
+    "storeType": "AssetList"
+  },
+  "slideshowIntro": {
+    "storeType": "Article"
+  },
+  "storiesTwoThird": {
+    "storeType": "AssetList"
+  },
+  "threeUp": {
+    "storeType": "AssetList"
+  },
+  "threeUpStack": {
+    "storeType": "AssetList"
+  },
+  "transporterArticle": {
+    "storeType": "Article"
+  },
+  "transporterSection": {
+    "storeType": "AssetList"
+  },
+  "trendingNowBreaker": {
+    "storeType": "MostPopular"
+  },
+  "ultraDenseDefault": {
+    "storeType": "CAPI"
+  },
+  "videoBreakerFeatured": {
+    "storeType": "AssetList"
+  },
+  "videoGridDate": {
+    "storeType": "AssetList"
+  },
+  "videoHero": {
+    "storeType": "CAPI"
+  },
+  "videoIntro": {
+    "storeType": "CAPI"
+  },
+  "videoTranscript": {
+    "storeType": "Video"
+  },
+  "WildcardPage": {
+    "storeType": "CAPI"
+  }
+}

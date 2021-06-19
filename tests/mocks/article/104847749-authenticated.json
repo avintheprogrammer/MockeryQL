@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {
+      "body": {
+        "isAuthenticated": true,
+        "content": [
+          {
+            "tagName": "cnbcvideo",
+            "attributes": {
+              "id": 104846005,
+              "type": "cnbcvideo",
+              "headline": "Huge potential in Zimbabwe for much stronger growth path: Exotix",
+              "title": "Huge potential in Zimbabwe for much stronger growth path: Exotix",
+              "description": "Stuart Culverhouse, chief economist and head of fixed income research at Exotix Capital, discusses the knock-on effects of a military takeover in Zimbabwe.",
+              "thumbnail": "https://qa-aws02capi-img-origin.cnbc.com/api/v1/image/104846084-5ED3-SBEU-111617-StuartCulverhouse.jpg?v=1510817241",
+              "duration": 221,
+              "uploadDate": "2017-11-16T06:48:05+0000",
+              "autoPlay": false
+            },
+            "children": []
+          },
+          {
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": [
+              {
+                "tagName": "p",
+                "children": [
+                  "Once known as the  \"breadbasket of Africa\", Zimbabwe may once again have a chance at genuine economic growth after decades of decline, according to analysts."
+                ]
+              }
+            ]
+          },
+          {
+            "tagName": "chart",
+            "attributes": {
+              "type": "chart",
+              "headline": "Pre-Markets: Key Sectors",
+              "datePublished": "2012-07-25T19:02:15+0000",
+              "chartType": "stock",
+              "headers": [
+                "Price",
+                "Change",
+                "%Change"
+              ],
+              "timeFrame": "3 Months",
+              "tickerIssueIDs": [
+                "603229",
+                "604342",
+                "588905",
+                "588248",
+                "583165"
+              ],
+              "tickerIssueDetails": [
+                {
+                  "symbol": ".SPLRCT",
+                  "issueId": "603229",
+                  "issueType": "INDEX",
+                  "companyName": "S&P 500 Information Technology Sector",
+                  "companyShortName": "TECHNOLOGY",
+                  "exchangeName": "CME:Chicago Mercantile Exchange",
+                  "countryCode": "US"
+                },
+                {
+                  "symbol": ".SPLRCS",
+                  "issueId": "604342",
+                  "issueType": "INDEX",
+                  "companyName": "S&P 500 Consumer Staples Sector",
+                  "companyShortName": "CONS STPL",
+                  "exchangeName": "CME:Chicago Mercantile Exchange",
+                  "countryCode": "US"
+                },
+                {
+                  "symbol": ".SPLRCD",
+                  "issueId": "588905",
+                  "issueType": "INDEX",
+                  "companyName": "S&P 500 Consumer Discretionary Sector",
+                  "companyShortName": "CONS DISC",
+                  "exchangeName": "CME:Chicago Mercantile Exchange",
+                  "countryCode": "US"
+                },
+                {
+                  "symbol": ".SPNY",
+                  "issueId": "588248",
+                  "issueType": "INDEX",
+                  "companyName": "S&P 500 Energy Sector",
+                  "companyShortName": "ENERGY",
+                  "exchangeName": "CME:Chicago Mercantile Exchange",
+                  "countryCode": "US"
+                },
+                {
+                  "symbol": ".SPSY",
+                  "issueId": "583165",
+                  "issueType": "INDEX",
+                  "companyName": "S&P 500 Financials Sector",
+                  "companyShortName": "FINANCIALS",
+                  "exchangeName": "CME:Chicago Mercantile Exchange",
+                  "countryCode": "US"
+                }
+              ]
+            },
+            "children": []
+          },
+          {
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": [
+              {
+                "tagName": "p",
+                "children": [
+                  " \"If we see it put on a better trajectory, there's huge potential in Zimbabwe,\" Stuart Culverhouse, director at investment bank Exotix Limited, told CNBC on Thursday."
+                ]
+              }
+            ]
+          },
+          {
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": [
+              {
+                "tagName": "p",
+                "children": [
+                  "Known more recently for its poor human rights record and crippled economy — inflation currently exceeds 200 percent and unemployment is above 90 percent — the country of 16 million was rocked by what appeared to be a military takeover ",
+                  {
+                    "tagName": "a",
+                    "attributes": {
+                      "href": "#",
+                      "type": "cnbcnewsstory",
+                      "section": {
+                        "subType": "section"
+                      }
+                    },
+                    "children": [
+                      "Wednesday"
+                    ]
+                  },
+                  "."
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  "Zimbabwe's army claimed it has detained longtime ruler Robert Mugabe  \"for his own safety\" as it seeks to target so-called \"criminals\" around him. Amid the frenzied international reaction, many observers are cautiously suggesting the dawn of a new era post-Mugabe."
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  " \"There has been decay, obviously, through the policies of the last 20 years, but it could be on a much stronger growth path, and that could transform the country and the southern region,\" Culverhouse said."
+                ]
+              }
+            ]
+          },
+          {
+            "tagName": "image",
+            "attributes": {
+              "id": "104132499",
+              "type": "image",
+              "creatorOverwrite": "Wilfred Kajese | AFP | Getty Images",
+              "headline": "Getty premium: Zimbabwe bond note 161128",
+              "url": "https://qa-aws02capi-img-origin.cnbc.com/api/v1/image/104132499-GettyImages-626221994.jpg?v=1518711299",
+              "datePublished": "2016-11-28T16:08:02+0000",
+              "caption": "A man holds a two dollar Zimbabwean 'bond note' withdrawn in Harare, Zimbabwe on November 28, 2016.",
+              "copyrightHolder": "Wilfred Kajese | AFP | Getty Images",
+              "width": "3600",
+              "height": "2400"
+            },
+            "children": []
+          },
+          {
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": [
+              {
+                "tagName": "p",
+                "children": [
+                  "Zimbabwe was a significant agricultural exporter up until 2000, when Mugabe encouraged the violent seizure of white-owned farms, triggering food production shortages and widespread famine. Now, over half of the country's irrigable land — once lush with maize, cotton, tobacco, roses and sugarcane — is underutilized due to poorly-managed agricultural reforms, according to a 2016 report by Zimbabwe's auditor general."
+                ]
+              }
+            ]
+          },
+          {
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": [
+              {
+                "tagName": "p",
+                "children": [
+                  "The nation also has the world's third largest reserves of platinum, the precious metal used in electronic and medical equipment, and is the fifth-largest producer of lithium, essential for rechargeable batteries. With the mounting global demand for smartphones and electric cars, Zimbabwe is attracting increasing interest from mining companies, analyst Ryan Turner at Protection Group International said Thursday."
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  "However, he added:  \"Investors are likely to remain cautious on Zimbabwe. The country has huge potential but equally large challenges. Corruption, an uncompetitive workforce, poor infrastructure and onerous regulations are likely to persist for the foreseeable future.\""
+                ]
+              }
+            ]
+          },
+          {
+            "tagName": "image",
+            "attributes": {
+              "id": "104844149",
+              "type": "image",
+              "creatorOverwrite": "Stringer | Anadolu Agency | Getty Images",
+              "headline": "Premium: Zimbabwe coup 2 171115",
+              "url": "https://qa-aws02capi-img-origin.cnbc.com/api/v1/image/104844149-GettyImages-874355048.jpg?v=1517604601",
+              "datePublished": "2017-11-15T14:00:58+0000",
+              "caption": "A military tank seals off a main road to the presidential office within the military activities taking place in Harare, Zimbabwe on November 15, 2017",
+              "copyrightHolder": "Stringer | Anadolu Agency | Getty Images",
+              "width": "2736",
+              "height": "1824"
+            },
+            "children": []
+          },
+          {
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": [
+              {
+                "tagName": "p",
+                "children": [
+                  "Much hope lies in the return of Emmerson Mnangagwa to power, the former vice president who Mugabe sacked one week prior to the military's seizure of the country, and to whom Zimbabwe's military appears loyal."
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  " \"Early indications that the military hopes to improve the economic situation and Mnangagwa's apparent support for pro-business reforms are cause for cautious optimism after decades of mismanagement under Mugabe,\" Turner said. Indeed, the military's statement Wednesday announced that it was targeting those \"committing crimes... that are causing social and economic suffering in the country.\""
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  "A Reuters investigation in September found documents indicating that Mnangagwa had planned to mend relations with white farmers to help revive the agricultural industry.  \"Mnangagwa and former prime minister Morgan Tsvangirai are rumored to be in talks over a potential power sharing deal,\" Turner said."
+                ]
+              }
+            ]
+          },
+          {
+            "tagName": "cnbcvideo",
+            "attributes": {
+              "id": 104846315,
+              "type": "cnbcvideo",
+              "headline": "Why sub-Saharan Africa is looking at Zimbabwe with trepidation",
+              "title": "Why sub-Saharan Africa is looking at Zimbabwe with trepidation",
+              "description": "CNBC Africa's Chris Bishop discusses the military takeover in Zimbabwe and how it could impact politics beyond the country.",
+              "thumbnail": "https://qa-aws02capi-img-origin.cnbc.com/api/v1/image/104846343-5ED3-SBEU-111617-ChrisBishop.jpg?v=1510823677",
+              "duration": 209,
+              "uploadDate": "2017-11-16T08:48:41+0000",
+              "autoPlay": true
+            },
+            "children": []
+          },
+          {
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": [
+              {
+                "tagName": "p",
+                "children": [
+                  "Still, the short-term economic picture appears bleak.  \"For the majority of the population living in poverty, nothing will change in the near-term to improve their standard of living,\" said Alisha Patel, Africa analyst at AKE. \"There are significant uncertainties over a transitional government and a time frame for elections. Before talk of IMF funding and a resumption of ties with Western donors can even begin, the victors of this coup will need to restore the constitutional order.\""
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  "As a pariah state, Zimbabwe has turned east and relied on ",
+                  {
+                    "tagName": "a",
+                    "attributes": {
+                      "href": "#",
+                      "type": "place",
+                      "section": {
+                        "subType": "section"
+                      }
+                    },
+                    "children": [
+                      "China"
+                    ]
+                  },
+                  " for billions in funding and loans — Beijing invested in more than 128 projects in the African country between 2000 and 2012, according to the South China Morning Post. China's ambassador to Zimbabwe told CNBC that Beijing is concerned about the situation, and wants it ended quietly."
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  "Ultimately, Zimbabwe's growth depends on what kind of government results from the current upheaval, said Theophilus Acheampong, Zimbabwe analyst at IHS Markit."
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  {
+                    "tagName": "br"
+                  },
+                  "  \"Improvement in the liquidity and FX flows over the medium-term, possibly driven by increased agricultural output, (could) improve electricity supply and minerals production,\" Acheampong told CNBC. \"Mwangagwa's allies coming back to government means that these proposals are likely to go ahead as the country carves a new image for itself on the political and economic front with various pro-business reforms that will attract FDI into the country.\""
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  "Chart Images"
+                ]
+              }
+            ]
+          },
+          {
+            "tagName": "chart",
+            "attributes": {
+              "type": "chart",
+              "headline": "Fraudster Wishlist Mercado 161212",
+              "datePublished": "2016-12-12T19:18:52+0000",
+              "chartType": "image",
+              "file": "2016/12/12/FraudsterWishlist_01.png",
+              "image": {
+                "id": "104161861",
+                "url": "https://qa-aws02capi-img-origin.cnbc.com/api/v1/image/104161861-FraudsterWishlist_01.png?v=1517607021",
+                "width": "951",
+                "height": "1442"
+              }
+            },
+            "children": []
+          },
+          {
+            "tagName": "chart",
+            "attributes": {
+              "type": "chart",
+              "headline": "Guppy chart 161213 Asia ",
+              "datePublished": "2016-12-13T03:36:11+0000",
+              "chartType": "image",
+              "file": "2016/12/12/guppyCNBC20161213outlook1.jpg",
+              "image": {
+                "id": "104162538",
+                "url": "https://qa-aws02capi-img-origin.cnbc.com/api/v1/image/104162538-guppyCNBC20161213outlook1.jpg?v=1517606956",
+                "width": "656",
+                "height": "846"
+              }
+            },
+            "children": []
+          },
+          {
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": [
+              {
+                "tagName": "p",
+                "children": [
+                  "Chart Image 2"
+                ]
+              }
+            ]
+          },
+          {
+            "tagName": "chart",
+            "attributes": {
+              "type": "chart",
+              "headline": "DJIPoints CHART FAHEY 161212 DC ",
+              "datePublished": "2016-12-12T18:39:02+0000",
+              "chartType": "image",
+              "file": "2016/12/12/DJIpoints-01.png",
+              "image": {
+                "id": "104161786",
+                "url": "https://qa-aws02capi-img-origin.cnbc.com/api/v1/image/104161786-DJIpoints-01.png?v=1517853095",
+                "datePublished": "2018-02-05T17:51:32+0000",
+                "width": "2208",
+                "height": "3338"
+              }
+            },
+            "children": []
+          },
+          {
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": []
+          },
+          {
+            "tagName": "chart",
+            "attributes": {
+              "type": "chart",
+              "headline": "chart12122016ungarino",
+              "datePublished": "2016-12-12T23:52:49+0000",
+              "chartType": "image",
+              "file": "2016/12/12/ChartCapture.JPG",
+              "image": {
+                "id": "104162354",
+                "url": "https://qa-aws02capi-img-origin.cnbc.com/api/v1/image/104162354-ChartCapture.JPG?v=1481638027",
+                "width": "733",
+                "height": "406"
+              }
+            },
+            "children": []
+          },
+          {
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": []
+          }
+        ]
+      }
+    }
+  }
+}

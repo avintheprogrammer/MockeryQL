@@ -1,0 +1,10 @@
+{
+  "data": {
+    "buffettQuote": {
+      "date": "2006",
+      "label": "this is the label",
+      "text": "It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you'll do things differently.",
+      "link": "cnbc.com"
+    }
+  }
+}

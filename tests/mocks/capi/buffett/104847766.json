@@ -1,0 +1,830 @@
+{
+    "@type": "VideoObject",
+    "cn:branding": "buffett",
+    "cn:subDomain": "https://qa-aws03buffett.cnbc.com",
+    "url": "https://qa-aws03buffett.cnbc.com/video/2002/02/23/buffett-annual-meeting-2002-morning-session.html",
+    "cn:type": "cnbcvideo",
+    "cn:creatorOverwrite": "",
+    "@id": "104847766",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104847766",
+    "cn:slug": "Buffett Annual Meeting 2002 Morning Session 1",
+    "cn:subType": "full_length",
+    "cn:title": "Buffett Annual Meeting 2002 - Morning Session",
+    "cn:tagName": "",
+    "uploadDate": "2018-02-23T20:30:07+0000",
+    "cn:sectionHierarchy": [
+        {
+            "id": 104847551,
+            "tagName": "",
+            "order": 1
+        },
+        {
+            "id": 104847528,
+            "tagName": "",
+            "order": 2
+        },
+        {
+            "id": 104847371,
+            "tagName": "Buffett Archive",
+            "order": 3
+        }
+    ],
+    "cn:shorterHeadline": "",
+    "cn:liveURL": "/video/2002/02/23/buffett-annual-meeting-2002-morning-session.html",
+    "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:isHighPriorityVideo": "No",
+        "cn:dateline": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:videoGeoRestrictionEnabled": "No",
+        "cn:listType": "Virtual",
+        "cn:outbrainEnabled": "Yes",
+        "cn:tweetOnPublish": 0,
+        "cn:nsfw": "Yes",
+        "cn:syndicate": "No",
+        "cn:verifyAge": "Yes",
+        "cn:none": "Yes"
+    },
+    "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "@id": "104847825",
+        "datePublished": "2018-03-02T19:11:39+0000",
+        "description": "",
+        "copyrightHolder": "",
+        "author": "",
+        "height": "1080",
+        "width": "1920",
+        "caption": "",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/api/v1/image/104847825-2002-BAM-1.jpg?v=1520017936"
+    },
+    "thumbnail": "https://qa-aws02capi-img-origin.cnbc.com/api/v1/image/104847825-2002-BAM-1.jpg?v=1520017936",
+    "sourceOrganization": [
+        {
+            "@type": "Organization",
+            "@id": "104847769",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104847769",
+            "cn:type": "source",
+            "cn:slug": "Berkshire Hathaway",
+            "cn:tagName": "Berkshire Hathaway",
+            "cn:title": "Berkshire Hathaway",
+            "cn:creatorOverwrite": "",
+            "cn:sourceType": "Partner",
+            "cn:sourceName": "",
+            "description": "",
+            "name": "Berkshire Hathaway"
+        }
+    ],
+    "description": "Morning session of 2002 Annual Shareholder meeting.",
+    "cn:section": {
+        "@id": "104847551",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104847551",
+        "cn:type": "franchise",
+        "cn:slug": "2013 Berkshire Hathaway Annual Meeting",
+        "cn:subType": "section",
+        "cn:tagName": "",
+        "cn:title": "2013 Berkshire Hathaway Annual Meeting",
+        "cn:creatorOverwrite": "",
+        "cn:branding": "buffett",
+        "cn:subDomain": "https://qa-aws03buffett.cnbc.com",
+        "url": "https://qa-aws03buffett.cnbc.com/2013-berkshire-hathaway-annual-meeting/",
+        "cn:liveURL": "/2013-berkshire-hathaway-annual-meeting/",
+        "cn:createdBy": "Lisa.Steiger@nbcuni.com",
+        "cn:editedBy": "rekha.ponnur",
+        "datePublished": "2018-01-31T18:25:32+0000",
+        "cn:summary": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lor",
+        "cn:sectionLinktext": "2013 Berkshire Hathaway Annual Meeting",
+        "headline": "2013 Berkshire Hathaway Annual Meeting",
+        "cn:sectionLabel": "2013 Annual Meeting",
+        "cn:tabLabel": "2013",
+        "cn:shorterDescription": "",
+        "cn:shortestDescription": "",
+        "cn:bodyTeaser": "null",
+        "cn:sectionHierarchy": [
+            {
+                "id": 104847551,
+                "tagName": "",
+                "order": 1
+            },
+            {
+                "id": 104847528,
+                "tagName": "",
+                "order": 2
+            },
+            {
+                "id": 104847371,
+                "tagName": "Buffett Archive",
+                "order": 3
+            }
+        ],
+        "cn:featuredMedia": {
+            "cn:isPromoted": "false"
+        },
+        "cn:settings": {
+            "cn:commentsEnabled": "Yes",
+            "cn:socialtoolsEnabled": "Yes",
+            "cn:dateline": "Yes",
+            "cn:displayByline": "Yes",
+            "cn:displaySource": "Yes",
+            "cn:outbrainEnabled": "Yes",
+            "cn:isFamilyFriendly": "Yes",
+            "cn:listType": "Virtual",
+            "cn:tweetOnPublish": 0
+        },
+        "description": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lor",
+        "cn:historicalURL": [],
+        "name": "2013 Berkshire Hathaway Annual Meeting",
+        "cn:sectionColor": "#000000",
+        "cn:promoText": "",
+        "cn:showTime": "",
+        "cn:sectionHeader": {
+            "@type": "ImageObject",
+            "cn:type": "image",
+            "cn:creatorOverwrite": "",
+            "@id": "104847562",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104847562",
+            "cn:slug": "New Image 2021",
+            "cn:title": "",
+            "cn:tagName": "",
+            "url": "https://qa-aws02capi-img-origin.cnbc.com/api/v1/image/104847562-angular-reactive-chart-hero-copy.jpg?v=1517608800",
+            "description": "",
+            "author": "",
+            "contentSize": 289227,
+            "caption": "",
+            "copyrightHolder": "",
+            "height": "900",
+            "width": "1200"
+        },
+        "cn:sectionLogo": {
+            "@type": "ImageObject",
+            "cn:type": "image",
+            "cn:creatorOverwrite": "",
+            "@id": "104847526",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104847526",
+            "cn:slug": "test image 15",
+            "cn:title": "test image 15",
+            "cn:tagName": "",
+            "url": "https://qa-aws02capi-img-origin.cnbc.com/api/v1/image/104847526-imag4.jpg?v=1517329608",
+            "description": "",
+            "author": "",
+            "contentSize": 289227,
+            "caption": "",
+            "copyrightHolder": "",
+            "height": "900",
+            "width": "1200"
+        },
+        "@type": "Collection"
+    },
+    "cn:linkHeadline": "",
+    "headline": "Buffett Annual Meeting 2002 - Morning Session",
+    "datePublished": "2002-02-23T21:25:07+0000",
+    "cn:historicalURL": [],
+    "cn:shortestHeadline": "",
+    "cn:bodyTeaser": "<body></body>",
+    "cn:shortestDescription": "",
+    "cn:summary": "Morning session of 2002 Annual Shareholder meeting.",
+    "cn:editedBy": "roshan.varghese",
+    "cn:createdBy": "nilesh.thakur",
+    "cn:shorterDescription": "",
+    "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+    },
+    "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "cn:keyword": "Buffett Shareholder Meeting 2001",
+    "cn:vcpsId": 5000001400,
+    "cn:transcriptUrl": "http://stg-pa01fm.cnbc.com/applications/cnbc.com/resources/videoman/transcripts/2002-BAM-1.json",
+    "cn:closedCaptionUrl": "",
+    "name": "Buffett Annual Meeting 2002 - Morning Session",
+    "cn:show": "",
+    "duration": 111,
+    "cn:network": 0,
+    "encodings": [
+        {
+            "@type": "VideoObject",
+            "url": "http://cnbcmbr-vh.akamaihd.net/i/mp4/VCPSQA/Y2002/M02D23/5000001400/918c56a0-18de-11e8-8d8c-df7bf34d9dc6/2002-BAM-1_MBR_,0240,0300,0500,0700,0900,1300,1700,.mp4.csmil/master.m3u8",
+            "encodingFormat": "mpeg4",
+            "bitrate": 1,
+            "cn:protocol": "HLSMBRStreaming",
+            "cn:formatName": "mpeg4_1_HLSMBRStreaming"
+        },
+        {
+            "@type": "VideoObject",
+            "url": "http://pdl.iphone.cnbc.com/VCPSQA/Y2002/M02D23/5000001400/918c56a0-18de-11e8-8d8c-df7bf34d9dc6/2002-BAM-1_H264_126K.mp4",
+            "encodingFormat": "mpeg4",
+            "bitrate": 200000,
+            "cn:protocol": "Download",
+            "cn:formatName": "mpeg4_200000_Download"
+        },
+        {
+            "@type": "VideoObject",
+            "url": "http://pdl.iphone.cnbc.com/VCPSQA/Y2002/M02D23/5000001400/2002-BAM-1_L.mp4",
+            "encodingFormat": "mpeg4",
+            "bitrate": 500000,
+            "cn:protocol": "Download",
+            "cn:formatName": "mpeg4_500000_Download"
+        },
+        {
+            "@type": "VideoObject",
+            "url": "http://videoman-ec-dev.cnbc.com/vcps/media/content?id=NTAwMDAwMTQwMAptcGVnNF81MDAwMDAKU3RyZWFtaW5n&UserName=cmsguest@cnbc.com&key=NA",
+            "encodingFormat": "mpeg4",
+            "bitrate": 500000,
+            "cn:protocol": "Streaming",
+            "cn:formatName": "mpeg4_500000_Streaming"
+        },
+        {
+            "@type": "VideoObject",
+            "url": "http://cnbcmbr-vh.akamaihd.net/z/mp4/VCPSQA/Y2002/M02D23/5000001400/918c56a0-18de-11e8-8d8c-df7bf34d9dc6/2002-BAM-1_MBR_,0240,0300,0500,0700,0900,1300,1700,.mp4.csmil/manifest.f4m",
+            "encodingFormat": "mpeg4",
+            "bitrate": 1,
+            "cn:protocol": "HDNMBRStreaming",
+            "cn:formatName": "mpeg4_1_HDNMBRStreaming"
+        },
+        {
+            "@type": "VideoObject",
+            "url": "http://pdl.iphone.cnbc.com/VCPSQA/Y2002/M02D23/5000001400/918c56a0-18de-11e8-8d8c-df7bf34d9dc6/2002-BAM-1_H264_1M_720x405.mp4",
+            "encodingFormat": "mpeg4",
+            "bitrate": 1100000,
+            "cn:protocol": "Download",
+            "cn:formatName": "mpeg4_1100000_Download"
+        },
+        {
+            "@type": "VideoObject",
+            "url": "http://pdl.iphone.cnbc.com/VCPSQA/Y2002/M02D23/5000001400/918c56a0-18de-11e8-8d8c-df7bf34d9dc6/2002-BAM-1.vtt",
+            "encodingFormat": "WebVTT",
+            "bitrate": 0,
+            "cn:protocol": "Download",
+            "cn:formatName": "WebVTT_0_Download"
+        },
+        {
+            "@type": "VideoObject",
+            "url": "http://pdl.iphone.cnbc.com/VCPSQA/Y2002/M02D23/5000001400/918c56a0-18de-11e8-8d8c-df7bf34d9dc6/2002-BAM-1_H264_480x270_25p_500K.mp4",
+            "encodingFormat": "mpeg4",
+            "bitrate": 600000,
+            "cn:protocol": "Download",
+            "cn:formatName": "mpeg4_600000_Download"
+        },
+        {
+            "@type": "VideoObject",
+            "url": "http://cnbcmbr-vh.akamaihd.net/z/mp4/VCPSQA/Y2002/M02D23/5000001400/918c56a0-18de-11e8-8d8c-df7bf34d9dc6/2002-BAM-1_MBR_0500.mp4/manifest.f4m",
+            "encodingFormat": "mpeg4",
+            "bitrate": 500000,
+            "cn:protocol": "HDNSBRStreaming",
+            "cn:formatName": "mpeg4_500000_HDNSBRStreaming"
+        },
+        {
+            "@type": "VideoObject",
+            "url": "http://cnbcmbr-vh.akamaihd.net/i/mp4/VCPSQA/Y2002/M02D23/5000001400/918c56a0-18de-11e8-8d8c-df7bf34d9dc6/2002-BAM-1_MBR_0500.mp4/master.m3u8",
+            "encodingFormat": "mpeg4",
+            "bitrate": 500000,
+            "cn:protocol": "HLSSBRStreaming",
+            "cn:formatName": "mpeg4_500000_HLSSBRStreaming"
+        }
+    ],
+    "cn:usagePlans": [
+        "MobilePhones",
+        "IPTV_PDL",
+        "CNBCNews.com Website",
+        "CNBCNews.com Direct",
+        "CNBC Business Video"
+    ],
+    "cn:xmlArticleBody": "",
+    "articlebody": "",
+    "cn:xmlKeyPoints": "",
+    "dateModified": "2018-03-09T17:01:27+0000",
+    "cn:dateLastPublished": "2018-03-09T17:01:53+0000",
+    "cn:unpublishDate": "",
+    "cn:dateFirstPublished": "2018-02-23T21:48:51+0000",
+    "expires": "",
+    "cn:association": [
+        {
+            "@type": "Organization",
+            "@id": "104847769",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104847769",
+            "cn:type": "source",
+            "cn:slug": "Berkshire Hathaway",
+            "cn:tagName": "Berkshire Hathaway",
+            "cn:title": "Berkshire Hathaway",
+            "cn:creatorOverwrite": "",
+            "cn:sourceType": "Partner",
+            "cn:sourceName": "",
+            "cn:liveURL": "",
+            "cn:createdBy": "Lisa.Steiger@nbcuni.com",
+            "cn:editedBy": "Lisa.Steiger@nbcuni.com",
+            "datePublished": "2018-02-26T14:39:08+0000",
+            "cn:summary": "",
+            "cn:linkHeadline": "",
+            "headline": "Berkshire Hathaway",
+            "cn:shorterHeadline": "",
+            "cn:shortestHeadline": "",
+            "cn:shorterDescription": "",
+            "cn:shortestDescription": "",
+            "cn:bodyTeaser": "null",
+            "cn:sectionHierarchy": [],
+            "cn:settings": {
+                "cn:commentsEnabled": "Yes",
+                "cn:isFamilyFriendly": "Yes",
+                "cn:listType": "Manual and/or populated by feeds",
+                "cn:socialtoolsEnabled": "Yes",
+                "cn:dateline": "Yes",
+                "cn:displayByline": "Yes",
+                "cn:displaySource": "Yes",
+                "cn:outbrainEnabled": "Yes",
+                "cn:tweetOnPublish": 0
+            },
+            "description": "",
+            "cn:historicalURL": [],
+            "@context": {
+                "cn": "http://cnbc.com/schema/",
+                "@vocab": "http://schema.org/"
+            },
+            "publisher": {
+                "name": "CNBC",
+                "@type": "Organization",
+                "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+            },
+            "name": "Berkshire Hathaway",
+            "cn:relation": [
+                {
+                    "position": 5000,
+                    "cn:relationType": "source",
+                    "cn:isPromoted": "false"
+                }
+            ]
+        },
+        {
+            "@type": "ImageObject",
+            "@id": "104847825",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104847825",
+            "cn:type": "image",
+            "cn:slug": "Buffett 2012 annual meeting image clone",
+            "cn:tagName": "",
+            "cn:title": "",
+            "cn:creatorOverwrite": "",
+            "cn:branding": "cnbc",
+            "cn:subDomain": "https://qa-aws03web.cnbc.com",
+            "url": "https://qa-aws02capi-img-origin.cnbc.com/api/v1/image/104847825-2002-BAM-1.jpg?v=1520017936",
+            "cn:liveURL": "",
+            "cn:createdBy": "yogen.patel",
+            "cn:editedBy": "yogen.patel",
+            "datePublished": "2018-03-02T19:11:39+0000",
+            "cn:summary": "",
+            "cn:linkHeadline": "Buffett Annual meeting 2002 Morning Session",
+            "headline": "Buffett Annual meeting 2002 Morning Session",
+            "cn:shorterHeadline": "",
+            "cn:shortestHeadline": "",
+            "cn:shorterDescription": "",
+            "cn:shortestDescription": "",
+            "cn:sectionHierarchy": [],
+            "cn:settings": {
+                "cn:commentsEnabled": "Yes",
+                "cn:socialtoolsEnabled": "Yes",
+                "cn:dateline": "Yes",
+                "cn:displayByline": "Yes",
+                "cn:displaySource": "Yes",
+                "cn:outbrainEnabled": "Yes",
+                "cn:isFamilyFriendly": "Yes",
+                "cn:listType": "Virtual",
+                "cn:tweetOnPublish": 0
+            },
+            "description": "",
+            "cn:historicalURL": [],
+            "cn:bodyTeaser": "null",
+            "@context": {
+                "cn": "http://cnbc.com/schema/",
+                "@vocab": "http://schema.org/"
+            },
+            "publisher": {
+                "name": "CNBC",
+                "@type": "Organization",
+                "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+            },
+            "author": "",
+            "contentSize": 492085,
+            "caption": "",
+            "copyrightHolder": "",
+            "height": "1080",
+            "width": "1920",
+            "cn:relation": [
+                {
+                    "position": 5000,
+                    "cn:relationType": "promo",
+                    "cn:isPromoted": "true"
+                }
+            ]
+        },
+        {
+            "@id": "104847551",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104847551",
+            "cn:type": "franchise",
+            "cn:slug": "2013 Berkshire Hathaway Annual Meeting",
+            "cn:subType": "section",
+            "cn:tagName": "",
+            "cn:title": "2013 Berkshire Hathaway Annual Meeting",
+            "cn:creatorOverwrite": "",
+            "cn:branding": "buffett",
+            "cn:subDomain": "https://qa-aws03buffett.cnbc.com",
+            "url": "https://qa-aws03buffett.cnbc.com/2013-berkshire-hathaway-annual-meeting/",
+            "cn:liveURL": "/2013-berkshire-hathaway-annual-meeting/",
+            "cn:createdBy": "Lisa.Steiger@nbcuni.com",
+            "cn:editedBy": "rekha.ponnur",
+            "datePublished": "2018-01-31T18:25:32+0000",
+            "cn:summary": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lor",
+            "cn:sectionLinktext": "2013 Berkshire Hathaway Annual Meeting",
+            "headline": "2013 Berkshire Hathaway Annual Meeting",
+            "cn:sectionLabel": "2013 Annual Meeting",
+            "cn:tabLabel": "2013",
+            "cn:shorterDescription": "",
+            "cn:shortestDescription": "",
+            "cn:bodyTeaser": "null",
+            "cn:sectionHierarchy": [
+                {
+                    "id": 104847551,
+                    "tagName": "",
+                    "order": 1
+                },
+                {
+                    "id": 104847528,
+                    "tagName": "",
+                    "order": 2
+                },
+                {
+                    "id": 104847371,
+                    "tagName": "Buffett Archive",
+                    "order": 3
+                }
+            ],
+            "cn:featuredMedia": {
+                "cn:isPromoted": "false"
+            },
+            "cn:settings": {
+                "cn:commentsEnabled": "Yes",
+                "cn:socialtoolsEnabled": "Yes",
+                "cn:dateline": "Yes",
+                "cn:displayByline": "Yes",
+                "cn:displaySource": "Yes",
+                "cn:outbrainEnabled": "Yes",
+                "cn:isFamilyFriendly": "Yes",
+                "cn:listType": "Virtual",
+                "cn:tweetOnPublish": 0
+            },
+            "cn:association": [
+                {
+                    "@type": "ImageObject",
+                    "cn:branding": "buffett",
+                    "cn:subDomain": "https://qa-aws03buffett.cnbc.com",
+                    "cn:type": "franchise",
+                    "cn:creatorOverwrite": "",
+                    "@id": "104847528",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104847528",
+                    "cn:slug": "Buffett Annual Meetings",
+                    "cn:subType": "primetime_show",
+                    "cn:title": "Annual Meetings",
+                    "cn:tagName": "",
+                    "url": "https://qa-aws02capi-img-origin.cnbc.com/api/v1/image/",
+                    "description": "Berkshire Hathaway’s annual meetings are a financial pilgrimage, drawing throngs of Warren Buffett’s admirers from around the globe to witness him and his vice chairman, Charlie Munger, take questions from journalists, analysts, and shareholders for seven hours in Omaha, Nebraska.",
+                    "copyrightHolder": "",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "section",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "@type": "ImageObject",
+                    "cn:type": "image",
+                    "cn:creatorOverwrite": "",
+                    "@id": "104847562",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104847562",
+                    "cn:slug": "New Image 2021",
+                    "cn:title": "",
+                    "cn:tagName": "",
+                    "url": "https://qa-aws02capi-img-origin.cnbc.com/api/v1/image/104847562-angular-reactive-chart-hero-copy.jpg?v=1517608800",
+                    "description": "",
+                    "author": "",
+                    "contentSize": 289227,
+                    "caption": "",
+                    "copyrightHolder": "",
+                    "height": "900",
+                    "width": "1200",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "sectionHeader",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "@type": "ImageObject",
+                    "cn:type": "image",
+                    "cn:creatorOverwrite": "",
+                    "@id": "104847526",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104847526",
+                    "cn:slug": "test image 15",
+                    "cn:title": "test image 15",
+                    "cn:tagName": "",
+                    "url": "https://qa-aws02capi-img-origin.cnbc.com/api/v1/image/104847526-imag4.jpg?v=1517329608",
+                    "description": "",
+                    "author": "",
+                    "contentSize": 289227,
+                    "caption": "",
+                    "copyrightHolder": "",
+                    "height": "900",
+                    "width": "1200",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "sectionLogo",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                }
+            ],
+            "description": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lor",
+            "cn:section": {
+                "cn:branding": "buffett",
+                "cn:subDomain": "https://qa-aws03buffett.cnbc.com",
+                "url": "https://qa-aws03buffett.cnbc.com/annual-meetings/",
+                "cn:type": "franchise",
+                "cn:creatorOverwrite": "",
+                "@id": "104847528",
+                "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104847528",
+                "cn:slug": "Buffett Annual Meetings",
+                "cn:subType": "primetime_show",
+                "cn:title": "Annual Meetings",
+                "cn:tagName": "",
+                "cn:sectionHierarchy": [
+                    {
+                        "id": 104847528,
+                        "tagName": "",
+                        "order": 1
+                    },
+                    {
+                        "id": 104847371,
+                        "tagName": "Buffett Archive",
+                        "order": 2
+                    }
+                ],
+                "cn:sectionLabel": "Annual Meetings",
+                "cn:liveURL": "/annual-meetings/",
+                "cn:settings": {
+                    "cn:commentsEnabled": "Yes",
+                    "cn:dateline": "Yes",
+                    "cn:isFamilyFriendly": "Yes",
+                    "cn:socialtoolsEnabled": "Yes",
+                    "cn:displayByline": "Yes",
+                    "cn:displaySource": "Yes",
+                    "cn:listType": "Manual and/or populated by feeds",
+                    "cn:outbrainEnabled": "Yes",
+                    "cn:tweetOnPublish": 0
+                },
+                "description": "Berkshire Hathaway’s annual meetings are a financial pilgrimage, drawing throngs of Warren Buffett’s admirers from around the globe to witness him and his vice chairman, Charlie Munger, take questions from journalists, analysts, and shareholders for seven hours in Omaha, Nebraska.",
+                "cn:sectionLinktext": "Annual Meetings",
+                "headline": "Annual Meetings",
+                "datePublished": "2018-01-31T17:13:28+0000",
+                "cn:historicalURL": [],
+                "cn:tabLabel": "Annual Meetings",
+                "cn:bodyTeaser": "null",
+                "cn:shortestDescription": "",
+                "cn:summary": "Berkshire Hathaway’s annual meetings are a financial pilgrimage, drawing throngs of Warren Buffett’s admirers from around the globe to witness him and his vice chairman, Charlie Munger, take questions from journalists, analysts, and shareholders for seven hours in Omaha, Nebraska.",
+                "cn:editedBy": "chelsea.qiao",
+                "cn:createdBy": "Lisa.Steiger@nbcuni.com",
+                "cn:shorterDescription": "",
+                "name": "Annual Meetings",
+                "cn:sectionColor": "#000000",
+                "cn:promoText": "",
+                "cn:showTime": "",
+                "@type": "Collection"
+            },
+            "cn:historicalURL": [],
+            "@context": {
+                "cn": "http://cnbc.com/schema/",
+                "@vocab": "http://schema.org/"
+            },
+            "publisher": {
+                "name": "CNBC",
+                "@type": "Organization",
+                "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+            },
+            "name": "2013 Berkshire Hathaway Annual Meeting",
+            "cn:sectionColor": "#000000",
+            "cn:promoText": "",
+            "cn:showTime": "",
+            "cn:sectionHeader": {
+                "@type": "ImageObject",
+                "cn:type": "image",
+                "cn:creatorOverwrite": "",
+                "@id": "104847562",
+                "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104847562",
+                "cn:slug": "New Image 2021",
+                "cn:title": "",
+                "cn:tagName": "",
+                "url": "https://qa-aws02capi-img-origin.cnbc.com/api/v1/image/104847562-angular-reactive-chart-hero-copy.jpg?v=1517608800",
+                "description": "",
+                "author": "",
+                "contentSize": 289227,
+                "caption": "",
+                "copyrightHolder": "",
+                "height": "900",
+                "width": "1200"
+            },
+            "cn:sectionLogo": {
+                "@type": "ImageObject",
+                "cn:type": "image",
+                "cn:creatorOverwrite": "",
+                "@id": "104847526",
+                "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104847526",
+                "cn:slug": "test image 15",
+                "cn:title": "test image 15",
+                "cn:tagName": "",
+                "url": "https://qa-aws02capi-img-origin.cnbc.com/api/v1/image/104847526-imag4.jpg?v=1517329608",
+                "description": "",
+                "author": "",
+                "contentSize": 289227,
+                "caption": "",
+                "copyrightHolder": "",
+                "height": "900",
+                "width": "1200"
+            },
+            "@type": "Collection",
+            "cn:relation": [
+                {
+                    "position": 5000,
+                    "cn:relationType": "section",
+                    "cn:isPromoted": "false"
+                }
+            ]
+        },
+        {
+            "@id": "104847588",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104847588",
+            "cn:type": "usage_rule",
+            "cn:slug": "Buffett Videos",
+            "cn:tagName": "Buffett Videos",
+            "cn:title": "",
+            "cn:creatorOverwrite": "",
+            "cn:branding": "cnbc",
+            "cn:subDomain": "https://qa-aws03web.cnbc.com",
+            "url": "https://qa-aws03web.cnbc.com",
+            "cn:liveURL": "",
+            "cn:createdBy": "admin",
+            "cn:editedBy": "admin",
+            "datePublished": "2018-02-06T16:01:07+0000",
+            "cn:summary": "",
+            "cn:linkHeadline": "",
+            "headline": "",
+            "cn:shorterHeadline": "",
+            "cn:shortestHeadline": "",
+            "cn:shorterDescription": "",
+            "cn:shortestDescription": "",
+            "cn:bodyTeaser": "null",
+            "cn:sectionHierarchy": [],
+            "cn:settings": {
+                "cn:commentsEnabled": "Yes",
+                "cn:socialtoolsEnabled": "Yes",
+                "cn:dateline": "Yes",
+                "cn:displayByline": "Yes",
+                "cn:displaySource": "Yes",
+                "cn:outbrainEnabled": "Yes",
+                "cn:isFamilyFriendly": "Yes",
+                "cn:listType": "Virtual",
+                "cn:nsfw": "Yes",
+                "cn:syndicate": "No",
+                "cn:verifyAge": "Yes",
+                "cn:none": "Yes",
+                "cn:tweetOnPublish": 0
+            },
+            "description": "",
+            "cn:historicalURL": [],
+            "@context": {
+                "cn": "http://cnbc.com/schema/",
+                "@vocab": "http://schema.org/"
+            },
+            "publisher": {
+                "name": "CNBC",
+                "@type": "Organization",
+                "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+            },
+            "@type": "Intangible",
+            "cn:relation": [
+                {
+                    "position": 5000,
+                    "cn:relationType": "usageRule",
+                    "cn:isPromoted": "false"
+                }
+            ]
+        },
+        {
+            "@id": "101961777",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/101961777",
+            "cn:type": "skin",
+            "cn:slug": "video gallery skin",
+            "cn:tagName": "",
+            "cn:title": "video gallery css skin",
+            "cn:creatorOverwrite": "",
+            "cn:liveURL": "",
+            "datePublished": "2014-09-02T02:13:36+0000",
+            "cn:summary": "",
+            "cn:linkHeadline": "",
+            "headline": "video gallery css skin",
+            "cn:shorterHeadline": "",
+            "cn:shortestHeadline": "",
+            "cn:shorterDescription": "",
+            "cn:shortestDescription": "",
+            "cn:bodyTeaser": "null",
+            "cn:settings": {
+                "cn:commentsEnabled": "Yes",
+                "cn:socialtoolsEnabled": "Yes",
+                "cn:dateline": "Yes",
+                "cn:displayByline": "Yes",
+                "cn:displaySource": "Yes",
+                "cn:outbrainEnabled": "Yes",
+                "cn:isFamilyFriendly": "Yes",
+                "cn:listType": "Virtual",
+                "cn:tweetOnPublish": 0
+            },
+            "description": "",
+            "cn:sectionHierarchy": [],
+            "cn:editedBy": "yogen.patel",
+            "cn:historicalURL": [],
+            "cn:createdBy": "roshan.varghese",
+            "@context": {
+                "cn": "http://cnbc.com/schema/",
+                "@vocab": "http://schema.org/"
+            },
+            "publisher": {
+                "name": "CNBC",
+                "@type": "Organization",
+                "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+            },
+            "@type": "DigitalDocument",
+            "cn:relation": [
+                {
+                    "position": 1,
+                    "cn:relationType": "skin",
+                    "cn:isPromoted": "false"
+                }
+            ]
+        },
+        {
+            "fileFormat": "text/tpl",
+            "@id": "101816772",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/101816772",
+            "cn:type": "markup_template",
+            "cn:slug": "Video Gallery Page Template",
+            "cn:tagName": "",
+            "cn:title": "Video Gallery Page Template",
+            "cn:creatorOverwrite": "",
+            "cn:liveURL": "",
+            "cn:createdBy": "yogen.patel",
+            "cn:editedBy": "yogen.patel",
+            "datePublished": "2014-07-07T18:29:06+0000",
+            "cn:summary": "",
+            "cn:linkHeadline": "",
+            "headline": "Video Gallery Page Template",
+            "cn:shorterHeadline": "",
+            "cn:shortestHeadline": "",
+            "cn:shorterDescription": "",
+            "cn:shortestDescription": "",
+            "cn:bodyTeaser": "null",
+            "cn:sectionHierarchy": [],
+            "cn:settings": {
+                "cn:commentsEnabled": "Yes",
+                "cn:socialtoolsEnabled": "Yes",
+                "cn:dateline": "Yes",
+                "cn:displayByline": "Yes",
+                "cn:displaySource": "Yes",
+                "cn:outbrainEnabled": "Yes",
+                "cn:listType": "Virtual"
+            },
+            "description": "",
+            "cn:historicalURL": [],
+            "@context": {
+                "cn": "http://cnbc.com/schema/",
+                "@vocab": "http://schema.org/"
+            },
+            "publisher": {
+                "name": "CNBC",
+                "@type": "Organization",
+                "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+            },
+            "name": "video_gallery.tpl",
+            "url": "file://video_gallery.tpl",
+            "@type": "DigitalDocument",
+            "cn:relation": [
+                {
+                    "position": 1,
+                    "cn:relationType": "template",
+                    "cn:isPromoted": "false"
+                }
+            ]
+        }
+    ]
+}

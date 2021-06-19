@@ -1,0 +1,1890 @@
+{
+  "cn:branding": "cnbc",
+  "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+  "url": "https://qa-aws01pub.cnbc.com/2017/10/06/money-in-the-banks-financials-stocks-rocket-to-pre-crisis-levels.html",
+  "cn:type": "cnbcnewsstory",
+  "cn:creatorOverwrite": "",
+  "cn:liveURL": "/2017/10/06/money-in-the-banks-financials-stocks-rocket-to-pre-crisis-levels.html",
+  "@id": "104757404",
+  "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104757404",
+  "cn:slug": "KBE Bank Stocks Rise TN 17106 UNGARINO",
+  "cn:title": "Money in the banks: Financials stocks rocket to pre-crisis levels",
+  "cn:tagName": "",
+  "cn:sectionHierarchy": [
+    {
+      "id": 102356916,
+      "tagName": "Trading Nation",
+      "order": 1
+    },
+    {
+      "id": 15839069,
+      "tagName": "Investing",
+      "order": 2
+    },
+    {
+      "id": 10000664,
+      "tagName": "Finance",
+      "order": 3
+    },
+    {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 4
+    }
+  ],
+  "cn:shorterHeadline": "Money in the banks: Financials stocks rocket to pre-crisis levels",
+  "cn:state": "Publish",
+  "cn:settings": {
+    "cn:commentsEnabled": "Yes",
+    "cn:dateline": "Yes",
+    "cn:isFamilyFriendly": "Yes",
+    "cn:socialtoolsEnabled": "Yes",
+    "cn:displayByline": "Yes",
+    "cn:displaySource": "Yes",
+    "cn:listType": "Virtual",
+    "cn:outbrainEnabled": "No",
+    "cn:tweetOnPublish": 1
+  },
+  "image": {
+    "@type": "ImageObject",
+    "representativeOfPage": "true",
+    "caption": "Pedestrians pass the New York Stock Exchange in New York.",
+    "author": "",
+    "copyrightHolder": "Michael Nagle | Bloomberg | Getty Images",
+    "@id": "104442288",
+    "height": "1333",
+    "datePublished": "2017-05-02T15:49:39+0000",
+    "description": "",
+    "width": "2000",
+    "url": "https://qa-aws02image-origin.cnbcfm.com/api/v1/image/104442288-GettyImages-675489814-1.jpg?v=1507309626"
+  },
+  "author": [
+    {
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+      "url": "https://qa-aws01pub.cnbc.com/rebecca-ungarino/",
+      "cn:type": "creator",
+      "cn:creatorOverwrite": "",
+      "cn:liveURL": "/rebecca-ungarino/",
+      "@id": "102394087",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/102394087",
+      "cn:slug": "Rebecca Ungarino",
+      "cn:title": "Rebecca Ungarino",
+      "cn:tagName": "Rebecca Ungarino",
+      "name": "Rebecca Ungarino",
+      "givenName": "Rebecca",
+      "familyName": "Ungarino",
+      "email": "rebecca.ungarino@nbcuni.com",
+      "telephone": "",
+      "sameAs": [
+        "https://www.twitter.com/ungarino"
+      ],
+      "cn:socialMediaInfo": [
+        {
+          "cn:url": "https://twitter.com/ungarino",
+          "cn:displayText": "ungarino",
+          "cn:type": "twitter"
+        }
+      ],
+      "@type": "Person"
+    }
+  ],
+  "sourceOrganization": [
+    {
+      "@type": "Organization",
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+      "url": "https://qa-aws01pub.cnbc.com",
+      "cn:type": "source",
+      "cn:creatorOverwrite": "",
+      "cn:liveURL": "",
+      "@id": "80000022",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/80000022",
+      "cn:slug": "CNBC US Source",
+      "cn:title": "CNBC US",
+      "cn:tagName": "CNBC US Source",
+      "cn:sourceLogo": "https://qa-aws01fm.cnbc.com/applications/cnbc.com/resources/source_logo/2018/04/30/133403971-flowers.JPG",
+      "cn:sourceName": "CNBC.com",
+      "cn:linkHeadline": "",
+      "description": "CNBC.com",
+      "name": "CNBC US"
+    }
+  ],
+  "description": "Bank stocks are showing some signs of life after moving sideways for the bulk of this year.",
+  "cn:section": {
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+    "url": "https://qa-aws01pub.cnbc.com/trading-nation/",
+    "cn:type": "franchise",
+    "cn:creatorOverwrite": "",
+    "cn:liveURL": "/trading-nation/",
+    "@id": "102356916",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/102356916",
+    "cn:slug": "Trading Nation",
+    "cn:subType": "special_report",
+    "cn:title": "Trading Nation",
+    "cn:tagName": "Trading Nation",
+    "cn:sectionHierarchy": [
+      {
+        "id": 102356916,
+        "tagName": "Trading Nation",
+        "order": 1
+      },
+      {
+        "id": 15839069,
+        "tagName": "Investing",
+        "order": 2
+      },
+      {
+        "id": 10000664,
+        "tagName": "Finance",
+        "order": 3
+      },
+      {
+        "id": 10000161,
+        "tagName": "CNBC Global",
+        "order": 4
+      }
+    ],
+    "cn:sectionLabel": "Trading Nation",
+    "cn:state": "Publish",
+    "cn:settings": {
+      "cn:commentsEnabled": "No",
+      "cn:dateline": "Yes",
+      "cn:isFamilyFriendly": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:displayByline": "Yes",
+      "cn:displaySource": "Yes",
+      "cn:listType": "Manual and/or populated by feeds",
+      "cn:outbrainEnabled": "No",
+      "cn:tweetOnPublish": 0
+    },
+    "image": {
+      "@type": "ImageObject",
+      "representativeOfPage": "true",
+      "caption": "",
+      "author": "",
+      "copyrightHolder": "SAEED KHAN AFP/ | Getty Images",
+      "@id": "102496952",
+      "height": "300",
+      "datePublished": "2015-03-11T18:56:29+0000",
+      "description": "",
+      "width": "600",
+      "url": "https://qa-aws02image-origin.cnbcfm.com/api/v1/image/102496952-trading-nation-600-ns.jpeg?v=1464025101"
+    },
+    "description": "Trading Nation brings together experts from across the financial world to capitalize on recent developments in the market. ",
+    "cn:sectionLinktext": "Trading Nation",
+    "headline": "Trading Nation",
+    "datePublished": "2015-03-10T18:35:32+0000",
+    "cn:dateLastPublished": "2018-05-24T13:36:54+0000",
+    "cn:dateFirstPublished": "2015-03-10T18:35:32+0000",
+    "expires": "",
+    "cn:historicalURL": [],
+    "cn:tabLabel": "Trading Nation",
+    "cn:bodyTeaser": "",
+    "cn:shortestDescription": "Where headlines become opportunities. ",
+    "cn:seoTitle": "Trading Nation",
+    "cn:summary": "Trading Nation brings together experts from across the financial world to capitalize on recent developments in the market. ",
+    "cn:editedBy": "Devi.Chapidi",
+    "cn:createdBy": "Josephine.Bila",
+    "cn:shorterDescription": "Where headlines become opportunities. ",
+    "name": "Trading Nation",
+    "cn:sectionColor": "#000000",
+    "cn:promoText": "",
+    "cn:showTime": "",
+    "cn:sectionHeader": {
+      "@type": "ImageObject",
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+      "cn:type": "image",
+      "cn:creatorOverwrite": "Biddiboo | Photographer's Choice | Getty Images",
+      "cn:liveURL": "",
+      "@id": "100017410",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100017410",
+      "cn:slug": "global market asia globe with stock numbers",
+      "cn:title": "",
+      "cn:tagName": "",
+      "url": "https://qa-aws02image-origin.cnbcfm.com/api/v1/image/100017410-global-market-asia-region-gettyp.jpg?v=1350410874",
+      "description": "",
+      "cn:imgCreator": "",
+      "contentSize": 525502,
+      "caption": "",
+      "copyrightHolder": "Biddiboo | Photographer's Choice | Getty Images",
+      "height": "1365",
+      "width": "2048"
+    },
+    "cn:sectionLogo": {
+      "@type": "ImageObject",
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+      "cn:type": "image",
+      "cn:creatorOverwrite": "",
+      "cn:liveURL": "",
+      "@id": "105158679",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/105158679",
+      "cn:slug": "Modern_Medicine_Section_Logo",
+      "url": "https://qa-aws02image-origin.cnbcfm.com/api/v1/image/105158679-Squarelogo_modern_medicineCropped.jpg?v=1527168937",
+      "cn:imgCreator": "",
+      "contentSize": 7881,
+      "caption": "",
+      "copyrightHolder": "",
+      "height": "120",
+      "width": "120"
+    },
+    "@type": "Collection"
+  },
+  "cn:linkHeadline": "Money in the banks: Financials stocks rocket to pre-crisis levels",
+  "headline": "Money in the banks: Financials stocks rocket to pre-crisis levels",
+  "datePublished": "2017-10-06T17:33:47+0000",
+  "cn:dateLastPublished": "2017-10-06T17:33:47+0000",
+  "cn:dateFirstPublished": "2017-10-06T17:33:47+0000",
+  "expires": "",
+  "cn:historicalURL": [],
+  "cn:shortestHeadline": "",
+  "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets group_asset=\"1\"><asset nid=\"104755370\" autoplay_flag=\"true\"/></assets><div class=\"group\"><p>Bank stocks are showing some signs of life after moving sideways for the bulk of this year. While some strategists are counting the ways the upside could continue, others are more cautionary on the group.</p><p>Large exchange-traded funds that track bank and financials stocks have been on a tear as the likelihood rises for another Federal Reserve rate hike this year, and responding to the potential for higher interest rates across the board.</p><p>The S&P Financials exchange-traded fund, the <asset_inline nid=\"1516109\">XLF</asset_inline>, hit its highest level in nearly 10 years in Friday trading. A large bank stock-tracking ETF, the <asset_inline nid=\"1509355\">KBE</asset_inline>, has surged over 10 percent in the last month alone.</p><p>This bullish movement comes as Treasury note <asset_inline nid=\"3032077\">yields</asset_inline> have taken a leg higher, adding to a healthy outlook for banks' lending activity and the institutions' net interest margins. Strategists also point to a broader theme of a strong underlying economy and a more well-positioned consumer.</p><p>More broadly, the financial sector has thrived and outperformed as expectations for tax reform and higher interest rates \"keep investors bullish on banks,\" Clara Miles, derivatives strategist at Macro Risk Advisors, wrote Friday in a report to clients.</p><p>Her tone was cautionary, however, pointing to the potential for a change in anticipated policy giving way to meaningful downside for the group.</p><p>\"Although [volatility] is relatively muted across the sector, we think the outsize rally in financials offers a selling opportunity, as any contradiction to current policy expectations could catalyze a significant reversal,\" Miles wrote.</p><p>Bank stocks are responding to what has been perceived as a rising chance of another interest rate hike <asset_inline ext_link=\"https://www.cnbc.com/2017/09/19/majority-on-wall-street-still-expect-a-december-rate-hike-survey.html\" ext_title=\"https://www.cnbc.com/2017/09/19/majority-on-wall-street-still-expect-a-december-rate-hike-survey.html\">announcement</asset_inline> to come this year, and the move also reflects underlying strength in the economy, said Eddy Elfenbein, portfolio manager at AdvisorShares. That would be even more beneficial for regional banks than large ones, Elfenbein said. He recommended Signature Bank, a New York-based commercial bank, and owns shares of it in his fund.</p><p>Indeed, the market-implied probability of a December rate hike announcement from the Federal Open Market Committee has risen to <asset_inline ext_link=\"http://www.cmegroup.com/trading/interest-rates/countdown-to-fomc.html\" ext_title=\"http://www.cmegroup.com/trading/interest-rates/countdown-to-fomc.html\">nearly 90 percent</asset_inline>, according to the CME Group FedWatch Tool.</p><p>On a technical level, the financials overall have recently shown signs of strength after consolidating this year as a \"disappointing trade for a lot of investors,\" said Craig Johnson, chief market technician at Piper Jaffray.</p><p>The financials saw <asset_inline nid=\"104464736\">massive upside</asset_inline> following the U.S. presidential election last November, but languished for much of this year as the likelihood of President Trump's pro-growth agenda passing was called into question and bond yields withered.</p><p>\"Now that they're starting to work again, it's a positive sign that perhaps inflation expectations are finally rising, and we're finally going to get that net interest margin to improve,\" he said Thursday on CNBC's \"<asset_inline nid=\"102356916\">Trading Nation</asset_inline>.\"</p><p>He echoed Elfenbein's sentiment that the regional banks as measured by the S&P regional banks exchange-traded fund, the <asset_inline nid=\"1509518\">KRE</asset_inline>, looks better positioned than the KBE. The smaller banks are outperforming the large banks on a relative basis after seeing a downward trend for much of this year, he pointed out.</p><p>\"While financials are interesting and working, I'd rather buy the mid- and small-cap banks than the larger-cap banks at this point in time,\" he said.</p><p>The XLF and KBE were modestly lower in Friday trading, while the KRE was barely positive.</p></div></group></body>",
+  "cn:shortestDescription": "Bank stocks are showing some signs of life after moving sideways for the bulk of this year.",
+  "cn:seoTitle": "Money in the banks: Financials stocks rocket to pre-crisis levels",
+  "cn:summary": "Bank stocks are showing some signs of life after moving sideways for the bulk of this year.",
+  "cn:editedBy": "lynne.pate",
+  "cn:createdBy": "Rebecca.Ungarino",
+  "cn:shorterDescription": "Bank stocks are showing some signs of life after moving sideways for the bulk of this year.",
+  "@context": {
+    "cn": "http://cnbc.com/schema/",
+    "@vocab": "http://schema.org/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "CNBC",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "@type": "NewsArticle",
+  "cn:xmlArticleBody": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets group_asset=\"1\"><asset nid=\"104755370\" autoplay_flag=\"true\"/></assets><div class=\"group\"><p>Bank stocks are showing&#160;some signs of life after moving sideways for the bulk of this year. While some strategists are counting the ways the upside could continue, others are more cautionary on the group.</p><p>Large exchange-traded funds that track bank and financials stocks have been on a tear as the likelihood rises for another Federal Reserve rate hike this year, and responding to the potential for higher interest rates across the board.</p><p>The S&P Financials exchange-traded fund, the <asset_inline nid=\"1516109\">XLF</asset_inline>, hit its highest level in nearly 10 years in Friday trading. A large bank stock-tracking ETF, the <asset_inline nid=\"1509355\">KBE</asset_inline>, has surged over 10 percent in the last month alone.</p><p>This bullish movement comes as Treasury note <asset_inline nid=\"3032077\">yields</asset_inline> have taken a leg higher, adding to a healthy outlook for banks' lending activity and the institutions' net interest margins. Strategists also point to a broader theme of a strong underlying economy and a more well-positioned consumer.</p><p>More broadly, the financial sector has thrived and outperformed as expectations for tax reform and higher interest rates \"keep investors bullish on banks,\" Clara Miles, derivatives strategist at Macro Risk Advisors, wrote Friday in a report to clients.</p><p>Her tone was cautionary, however, pointing to the potential for a change in anticipated policy giving way to meaningful downside for the group.</p><p>\"Although [volatility] is relatively muted across the sector, we think the outsize rally in financials offers a selling opportunity, as any contradiction to current policy expectations could catalyze a significant reversal,\" Miles wrote.</p><p>Bank stocks are responding to what has been perceived as a rising chance of another interest rate hike <asset_inline ext_link=\"https://www.cnbc.com/2017/09/19/majority-on-wall-street-still-expect-a-december-rate-hike-survey.html\" ext_title=\"https://www.cnbc.com/2017/09/19/majority-on-wall-street-still-expect-a-december-rate-hike-survey.html\">announcement</asset_inline> to come this year, and the move also reflects underlying strength in the economy, said Eddy Elfenbein, portfolio manager at AdvisorShares. That would be even more beneficial for regional banks than large ones, Elfenbein said. He recommended Signature Bank, a New York-based commercial bank, and owns shares of it in his fund.</p><p>Indeed, the market-implied probability of a December rate hike announcement from the Federal Open Market Committee has risen to <asset_inline ext_link=\"http://www.cmegroup.com/trading/interest-rates/countdown-to-fomc.html\" ext_title=\"http://www.cmegroup.com/trading/interest-rates/countdown-to-fomc.html\">nearly 90 percent</asset_inline>, according to the CME Group FedWatch Tool.</p><p>On a technical level, the financials overall have recently shown signs of strength after consolidating this year as a \"disappointing trade for a lot of investors,\" said Craig Johnson, chief market technician at Piper Jaffray.</p><p>The financials saw <asset_inline nid=\"104464736\">massive upside</asset_inline> following the U.S. presidential election last November, but languished for much of this year as the likelihood of President Trump's pro-growth agenda passing was called into question and bond yields withered.</p><p>\"Now that they're starting to work again, it's a positive sign that perhaps inflation expectations are finally rising, and we're finally going to get that net interest margin to improve,\" he said Thursday on CNBC's \"<asset_inline nid=\"102356916\">Trading Nation</asset_inline>.\"</p><p>He echoed Elfenbein's sentiment that the regional banks as measured by the S&P regional banks exchange-traded fund, the <asset_inline nid=\"1509518\">KRE</asset_inline>, looks better positioned than the KBE. The smaller banks are outperforming the large banks on a relative basis after seeing a downward trend for much of this year, he pointed out.</p><p>\"While financials are interesting and working, I'd rather buy the mid- and small-cap banks than the larger-cap banks at this point in time,\" he said.</p><p>The XLF and KBE were modestly lower in Friday trading, while the KRE was barely positive.</p></div></group></body>",
+  "articlebody": "Bank stocks are showing some signs of life after moving sideways for the bulk of this year. While some strategists are counting the ways the upside could continue, others are more cautionary on the group.Large exchange-traded funds that track bank and financials stocks have been on a tear as the likelihood rises for another Federal Reserve rate hike this year, and responding to the potential for higher interest rates across the board.The S&P Financials exchange-traded fund, the XLF, hit its highest level in nearly 10 years in Friday trading. A large bank stock-tracking ETF, the KBE, has surged over 10 percent in the last month alone.This bullish movement comes as Treasury note yields have taken a leg higher, adding to a healthy outlook for banks' lending activity and the institutions' net interest margins. Strategists also point to a broader theme of a strong underlying economy and a more well-positioned consumer.More broadly, the financial sector has thrived and outperformed as expectations for tax reform and higher interest rates \"keep investors bullish on banks,\" Clara Miles, derivatives strategist at Macro Risk Advisors, wrote Friday in a report to clients.Her tone was cautionary, however, pointing to the potential for a change in anticipated policy giving way to meaningful downside for the group.\"Although [volatility] is relatively muted across the sector, we think the outsize rally in financials offers a selling opportunity, as any contradiction to current policy expectations could catalyze a significant reversal,\" Miles wrote.Bank stocks are responding to what has been perceived as a rising chance of another interest rate hike announcement to come this year, and the move also reflects underlying strength in the economy, said Eddy Elfenbein, portfolio manager at AdvisorShares. That would be even more beneficial for regional banks than large ones, Elfenbein said. He recommended Signature Bank, a New York-based commercial bank, and owns shares of it in his fund.Indeed, the market-implied probability of a December rate hike announcement from the Federal Open Market Committee has risen to nearly 90 percent, according to the CME Group FedWatch Tool.On a technical level, the financials overall have recently shown signs of strength after consolidating this year as a \"disappointing trade for a lot of investors,\" said Craig Johnson, chief market technician at Piper Jaffray.The financials saw massive upside following the U.S. presidential election last November, but languished for much of this year as the likelihood of President Trump's pro-growth agenda passing was called into question and bond yields withered.\"Now that they're starting to work again, it's a positive sign that perhaps inflation expectations are finally rising, and we're finally going to get that net interest margin to improve,\" he said Thursday on CNBC's \"Trading Nation.\"He echoed Elfenbein's sentiment that the regional banks as measured by the S&P regional banks exchange-traded fund, the KRE, looks better positioned than the KBE. The smaller banks are outperforming the large banks on a relative basis after seeing a downward trend for much of this year, he pointed out.\"While financials are interesting and working, I'd rather buy the mid- and small-cap banks than the larger-cap banks at this point in time,\" he said.The XLF and KBE were modestly lower in Friday trading, while the KRE was barely positive.",
+  "cn:xmlKeyPoints": "null",
+  "cn:keyword": "KBE, bank ETF, S&P, interest rates",
+  "dateModified": "2017-10-06T17:33:46+0000",
+  "cn:unpublishDate": "",
+  "cn:association": [
+    {
+      "@type": "Organization",
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+      "url": "https://qa-aws01pub.cnbc.com",
+      "cn:type": "source",
+      "cn:creatorOverwrite": "",
+      "cn:liveURL": "",
+      "@id": "80000022",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/80000022",
+      "cn:slug": "CNBC US Source",
+      "cn:title": "CNBC US",
+      "cn:tagName": "CNBC US Source",
+      "cn:sourceLogo": "https://qa-aws01fm.cnbc.com/applications/cnbc.com/resources/source_logo/2018/04/30/133403971-flowers.JPG",
+      "cn:sourceName": "CNBC.com",
+      "cn:sectionHierarchy": [],
+      "cn:shorterHeadline": " ",
+      "cn:state": "Publish",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "CNBC.com",
+      "cn:linkHeadline": "",
+      "headline": "CNBC US",
+      "datePublished": "2011-10-06T17:33:47+0000",
+      "cn:dateLastPublished": "2018-06-05T20:12:22+0000",
+      "cn:dateFirstPublished": "2011-10-06T17:33:47+0000",
+      "expires": "",
+      "cn:historicalURL": [],
+      "cn:shortestHeadline": "CNBC",
+      "cn:bodyTeaser": "",
+      "cn:shortestDescription": "",
+      "cn:summary": "",
+      "cn:editedBy": "darshini.oza",
+      "cn:createdBy": "migration",
+      "cn:shorterDescription": "CNBC.com",
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "CNBC US",
+      "cn:relation": [
+        {
+          "position": 5000,
+          "cn:relationType": "source",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+      "url": "https://qa-aws01pub.cnbc.com/trading-nation/",
+      "cn:type": "franchise",
+      "cn:creatorOverwrite": "",
+      "cn:liveURL": "/trading-nation/",
+      "@id": "102356916",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/102356916",
+      "cn:slug": "Trading Nation",
+      "cn:subType": "special_report",
+      "cn:title": "Trading Nation",
+      "cn:tagName": "Trading Nation",
+      "cn:sectionHierarchy": [
+        {
+          "id": 102356916,
+          "tagName": "Trading Nation",
+          "order": 1
+        },
+        {
+          "id": 15839069,
+          "tagName": "Investing",
+          "order": 2
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "cn:sectionLabel": "Trading Nation",
+      "cn:state": "Publish",
+      "cn:settings": {
+        "cn:commentsEnabled": "No",
+        "cn:dateline": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:outbrainEnabled": "No",
+        "cn:tweetOnPublish": 0
+      },
+      "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "caption": "",
+        "author": "",
+        "copyrightHolder": "SAEED KHAN AFP/ | Getty Images",
+        "@id": "102496952",
+        "height": "300",
+        "datePublished": "2015-03-11T18:56:29+0000",
+        "description": "",
+        "width": "600",
+        "url": "https://qa-aws02image-origin.cnbcfm.com/api/v1/image/102496952-trading-nation-600-ns.jpeg?v=1464025101"
+      },
+      "cn:association": [
+        {
+          "@type": "ImageObject",
+          "cn:branding": "cnbc",
+          "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+          "cn:type": "image",
+          "cn:creatorOverwrite": "Biddiboo | Photographer's Choice | Getty Images",
+          "cn:liveURL": "",
+          "@id": "100017410",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100017410",
+          "cn:slug": "global market asia globe with stock numbers",
+          "cn:title": "",
+          "cn:tagName": "",
+          "url": "https://qa-aws02image-origin.cnbcfm.com/api/v1/image/100017410-global-market-asia-region-gettyp.jpg?v=1350410874",
+          "description": "",
+          "cn:imgCreator": "",
+          "contentSize": 525502,
+          "caption": "",
+          "copyrightHolder": "Biddiboo | Photographer's Choice | Getty Images",
+          "height": "1365",
+          "width": "2048",
+          "cn:relation": [
+            {
+              "cn:relationType": "sectionHeader",
+              "cn:isPromoted": "false"
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "cn:branding": "cnbc",
+          "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+          "cn:type": "image",
+          "cn:creatorOverwrite": "",
+          "cn:liveURL": "",
+          "@id": "105158679",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/105158679",
+          "cn:slug": "Modern_Medicine_Section_Logo",
+          "url": "https://qa-aws02image-origin.cnbcfm.com/api/v1/image/105158679-Squarelogo_modern_medicineCropped.jpg?v=1527168937",
+          "cn:imgCreator": "",
+          "contentSize": 7881,
+          "caption": "",
+          "copyrightHolder": "",
+          "height": "120",
+          "width": "120",
+          "cn:relation": [
+            {
+              "cn:relationType": "sectionLogo",
+              "cn:isPromoted": "false"
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "cn:branding": "cnbc",
+          "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+          "cn:type": "image",
+          "cn:creatorOverwrite": "SAEED KHAN AFP/ | Getty Images",
+          "cn:liveURL": "",
+          "@id": "102496952",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/102496952",
+          "cn:slug": "Trading Nation Mezz",
+          "cn:title": "Trading Nation",
+          "cn:tagName": "",
+          "url": "https://qa-aws02image-origin.cnbcfm.com/api/v1/image/102496952-trading-nation-600-ns.jpeg?v=1464025101",
+          "description": "",
+          "cn:imgCreator": "",
+          "contentSize": 89082,
+          "caption": "",
+          "copyrightHolder": "SAEED KHAN AFP/ | Getty Images",
+          "height": "300",
+          "width": "600",
+          "cn:relation": [
+            {
+              "cn:relationType": "promo",
+              "cn:isPromoted": "true"
+            }
+          ]
+        }
+      ],
+      "description": "Trading Nation brings together experts from across the financial world to capitalize on recent developments in the market. ",
+      "cn:sectionLinktext": "Trading Nation",
+      "headline": "Trading Nation",
+      "datePublished": "2015-03-10T18:35:32+0000",
+      "cn:dateLastPublished": "2018-05-24T13:36:54+0000",
+      "cn:dateFirstPublished": "2015-03-10T18:35:32+0000",
+      "expires": "",
+      "cn:historicalURL": [],
+      "cn:tabLabel": "Trading Nation",
+      "cn:bodyTeaser": "",
+      "cn:shortestDescription": "Where headlines become opportunities. ",
+      "cn:seoTitle": "Trading Nation",
+      "cn:summary": "Trading Nation brings together experts from across the financial world to capitalize on recent developments in the market. ",
+      "cn:editedBy": "Devi.Chapidi",
+      "cn:createdBy": "Josephine.Bila",
+      "cn:shorterDescription": "Where headlines become opportunities. ",
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "Trading Nation",
+      "cn:sectionColor": "#000000",
+      "cn:promoText": "",
+      "cn:showTime": "",
+      "cn:sectionHeader": {
+        "@type": "ImageObject",
+        "cn:branding": "cnbc",
+        "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+        "cn:type": "image",
+        "cn:creatorOverwrite": "Biddiboo | Photographer's Choice | Getty Images",
+        "cn:liveURL": "",
+        "@id": "100017410",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100017410",
+        "cn:slug": "global market asia globe with stock numbers",
+        "cn:title": "",
+        "cn:tagName": "",
+        "url": "https://qa-aws02image-origin.cnbcfm.com/api/v1/image/100017410-global-market-asia-region-gettyp.jpg?v=1350410874",
+        "description": "",
+        "cn:imgCreator": "",
+        "contentSize": 525502,
+        "caption": "",
+        "copyrightHolder": "Biddiboo | Photographer's Choice | Getty Images",
+        "height": "1365",
+        "width": "2048"
+      },
+      "cn:sectionLogo": {
+        "@type": "ImageObject",
+        "cn:branding": "cnbc",
+        "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+        "cn:type": "image",
+        "cn:creatorOverwrite": "",
+        "cn:liveURL": "",
+        "@id": "105158679",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/105158679",
+        "cn:slug": "Modern_Medicine_Section_Logo",
+        "url": "https://qa-aws02image-origin.cnbcfm.com/api/v1/image/105158679-Squarelogo_modern_medicineCropped.jpg?v=1527168937",
+        "cn:imgCreator": "",
+        "contentSize": 7881,
+        "caption": "",
+        "copyrightHolder": "",
+        "height": "120",
+        "width": "120"
+      },
+      "@type": "Collection",
+      "cn:relation": [
+        {
+          "position": 5000,
+          "cn:relationType": "section",
+          "cn:isPromoted": "false"
+        },
+        {
+          "position": 98,
+          "cn:relationType": "additional_sections",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+      "url": "https://qa-aws01pub.cnbc.com/rebecca-ungarino/",
+      "cn:type": "creator",
+      "cn:creatorOverwrite": "",
+      "cn:liveURL": "/rebecca-ungarino/",
+      "@id": "102394087",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/102394087",
+      "cn:slug": "Rebecca Ungarino",
+      "cn:title": "Rebecca Ungarino",
+      "cn:tagName": "Rebecca Ungarino",
+      "cn:sectionHierarchy": [],
+      "cn:shorterHeadline": "Rebecca Ungarino",
+      "cn:state": "Publish",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:listType": "Virtual",
+        "cn:outbrainEnabled": "Yes",
+        "cn:tweetOnPublish": 0
+      },
+      "cn:association": [
+        {
+          "cn:branding": "cnbc",
+          "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+          "url": "https://qa-aws01pub.cnbc.com/id/33",
+          "cn:type": "creator",
+          "cn:title": "Creator Root",
+          "cn:liveURL": "/id/33",
+          "@id": "33",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/33",
+          "cn:slug": "Creator Root",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }
+          ]
+        }
+      ],
+      "description": " Associate Producer",
+      "cn:linkHeadline": "Rebecca Ungarino",
+      "headline": "Rebecca Ungarino",
+      "datePublished": "2015-02-03T20:11:08+0000",
+      "cn:dateLastPublished": "2017-11-15T15:29:01+0000",
+      "cn:dateFirstPublished": "2015-02-03T20:11:09+0000",
+      "expires": "",
+      "cn:historicalURL": [],
+      "cn:shortestHeadline": "Rebecca Ungarino",
+      "cn:bodyTeaser": "",
+      "cn:shortestDescription": "Associate Producer",
+      "cn:seoTitle": "Rebecca Ungarino Profile - CNBC",
+      "cn:summary": " Associate Producer",
+      "cn:editedBy": "Elisabeth.Cordova",
+      "cn:createdBy": "joseph.odell",
+      "cn:shorterDescription": "Associate Producer",
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "Rebecca Ungarino",
+      "givenName": "Rebecca",
+      "familyName": "Ungarino",
+      "jobTitle": "Associate Producer",
+      "email": "rebecca.ungarino@nbcuni.com",
+      "telephone": "",
+      "sameAs": [
+        "https://www.twitter.com/ungarino"
+      ],
+      "cn:socialMediaInfo": [
+        {
+          "cn:url": "https://twitter.com/ungarino",
+          "cn:displayText": "ungarino",
+          "cn:type": "twitter"
+        }
+      ],
+      "@type": "Person",
+      "cn:relation": [
+        {
+          "position": 4999,
+          "cn:relationType": "author",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+      "url": "https://qa-aws01pub.cnbc.com",
+      "cn:type": "cnbcteam",
+      "cn:title": "CNBC US Team",
+      "cn:creatorOverwrite": "",
+      "cn:liveURL": "",
+      "@id": "100002766",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100002766",
+      "cn:slug": "CNBC US Team",
+      "cn:tagName": "CNBC US Team",
+      "cn:shortestDescription": "",
+      "cn:sectionHierarchy": [],
+      "cn:shorterHeadline": "",
+      "cn:state": "Publish",
+      "cn:summary": "",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "",
+      "cn:linkHeadline": "",
+      "headline": "CNBC US Team",
+      "cn:editedBy": "Devi.Chapidi",
+      "datePublished": "2012-07-20T19:39:35+0000",
+      "cn:dateLastPublished": "2018-05-24T15:15:32+0000",
+      "cn:dateFirstPublished": "2012-07-20T19:39:35+0000",
+      "expires": "",
+      "cn:historicalURL": [],
+      "cn:shortestHeadline": "",
+      "cn:createdBy": "brian.beers",
+      "cn:bodyTeaser": "",
+      "cn:shorterDescription": "",
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@type": "CreativeWork",
+      "cn:relation": [
+        {
+          "position": 4999,
+          "cn:relationType": "team",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "cn:relation": [
+        {
+          "position": 4998,
+          "cn:relationType": "template",
+          "cn:isPromoted": "false"
+        }
+      ],
+      "@id": "10001"
+    },
+    {
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+      "url": "https://qa-aws01pub.cnbc.com",
+      "cn:type": "cnbcproject",
+      "cn:title": "Special Reports Project",
+      "cn:creatorOverwrite": "",
+      "cn:liveURL": "",
+      "@id": "103998641",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/103998641",
+      "cn:slug": "Special Reports Project",
+      "cn:tagName": "Special Reports Project",
+      "cn:shortestDescription": "",
+      "cn:sectionHierarchy": [],
+      "cn:seoTitle": "",
+      "cn:shorterHeadline": "",
+      "cn:state": "Publish",
+      "cn:summary": "",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:listType": "Virtual",
+        "cn:outbrainEnabled": "Yes"
+      },
+      "description": "",
+      "cn:linkHeadline": "Special Reports Project",
+      "headline": "Special Reports Project",
+      "cn:editedBy": "joseph.odell",
+      "datePublished": "2016-10-06T15:31:40+0000",
+      "cn:dateLastPublished": "2016-10-06T15:31:40+0000",
+      "cn:dateFirstPublished": "2016-10-06T15:31:40+0000",
+      "expires": "",
+      "cn:historicalURL": [],
+      "cn:shortestHeadline": "",
+      "cn:createdBy": "joseph.odell",
+      "cn:bodyTeaser": "null",
+      "cn:shorterDescription": "",
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@type": "CreativeWork",
+      "cn:relation": [
+        {
+          "position": 4998,
+          "cn:relationType": "project",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+      "url": "https://qa-aws01pub.cnbc.com/special-reports/",
+      "cn:type": "franchise",
+      "cn:creatorOverwrite": "",
+      "cn:liveURL": "/special-reports/",
+      "@id": "16903222",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/16903222",
+      "cn:slug": "Special Reports",
+      "cn:subType": "special_report",
+      "cn:title": "Special Reports",
+      "cn:tagName": "Special Reports",
+      "cn:sectionHierarchy": [
+        {
+          "id": 16903222,
+          "tagName": "Special Reports",
+          "order": 1
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 2
+        }
+      ],
+      "cn:sectionLabel": "Latest Special Reports",
+      "cn:state": "Publish",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "Find CNBC Special Reports with News and Analysis on Investing, Technology, Real Estate, Breaking News and Special Events.\r\n",
+      "cn:sectionLinktext": "Special Reports",
+      "headline": "Special Reports",
+      "datePublished": "2017-04-12T14:17:56+0000",
+      "cn:dateLastPublished": "2018-06-05T17:17:59+0000",
+      "cn:dateFirstPublished": "2012-01-30T01:47:06+0000",
+      "expires": "",
+      "cn:historicalURL": [
+        "/id/16903222"
+      ],
+      "cn:tabLabel": "Special Reports",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><br /></p><div id=\"csscan-wrapper\" style=\"display: none; \"><h2 id=\"csscan-header\">element</h2><table id=\"csscan-table\"><tbody><tr><th colspan=\"2\" id=\"csscan-header-font\" class=\"csscan-header\">Font</th></tr><tr id=\"csscan-row-font-family\"><td id=\"csscan-property-font-family\" class=\"csscan-property\">font-family</td></tr><tr id=\"csscan-row-font-size\"><td id=\"csscan-property-font-size\" class=\"csscan-property\">font-size</td></tr><tr id=\"csscan-row-font-style\"><td id=\"csscan-property-font-style\" class=\"csscan-property\">font-style</td></tr><tr id=\"csscan-row-font-variant\"><td id=\"csscan-property-font-variant\" class=\"csscan-property\">font-variant</td></tr><tr id=\"csscan-row-font-weight\"><td id=\"csscan-property-font-weight\" class=\"csscan-property\">font-weight</td></tr><tr id=\"csscan-row-letter-spacing\"><td id=\"csscan-property-letter-spacing\" class=\"csscan-property\">letter-spacing</td></tr><tr id=\"csscan-row-line-height\"><td id=\"csscan-property-line-height\" class=\"csscan-property\">line-height</td></tr><tr id=\"csscan-row-text-decoration\"><td id=\"csscan-property-text-decoration\" class=\"csscan-property\">text-decoration</td></tr><tr id=\"csscan-row-text-align\"><td id=\"csscan-property-text-align\" class=\"csscan-property\">text-align</td></tr><tr id=\"csscan-row-text-indent\"><td id=\"csscan-property-text-indent\" class=\"csscan-property\">text-indent</td></tr><tr id=\"csscan-row-text-transform\"><td id=\"csscan-property-text-transform\" class=\"csscan-property\">text-transform</td></tr><tr id=\"csscan-row-white-space\"><td id=\"csscan-property-white-space\" class=\"csscan-property\">white-space</td></tr><tr id=\"csscan-row-word-spacing\"><td id=\"csscan-property-word-spacing\" class=\"csscan-property\">word-spacing</td></tr><tr id=\"csscan-row-color\"><td id=\"csscan-property-color\" class=\"csscan-property\">color</td></tr><tr><th colspan=\"2\" id=\"csscan-header-background\" class=\"csscan-header\">Background</th></tr><tr id=\"csscan-row-background-attachment\"><td id=\"csscan-property-background-attachment\" class=\"csscan-property\">bg-attachment</td></tr><tr id=\"csscan-row-background-color\"><td id=\"csscan-property-background-color\" class=\"csscan-property\">bg-color</td></tr><tr id=\"csscan-row-background-image\"><td id=\"csscan-property-background-image\" class=\"csscan-property\">bg-image</td></tr><tr id=\"csscan-row-background-position\"><td id=\"csscan-property-background-position\" class=\"csscan-property\">bg-position</td></tr><tr id=\"csscan-row-background-repeat\"><td id=\"csscan-property-background-repeat\" class=\"csscan-property\">bg-repeat</td></tr><tr><th colspan=\"2\" id=\"csscan-header-size\" class=\"csscan-header\">Box</th></tr><tr id=\"csscan-row-width\"><td id=\"csscan-property-width\" class=\"csscan-property\">width</td></tr><tr id=\"csscan-row-height\"><td id=\"csscan-property-height\" class=\"csscan-property\">height</td></tr><tr id=\"csscan-row-border-top\"><td id=\"csscan-property-border-top\" class=\"csscan-property\">border-top</td></tr><tr id=\"csscan-row-border-right\"><td id=\"csscan-property-border-right\" class=\"csscan-property\">border-right</td></tr><tr id=\"csscan-row-border-bottom\"><td id=\"csscan-property-border-bottom\" class=\"csscan-property\">border-bottom</td></tr><tr id=\"csscan-row-border-left\"><td id=\"csscan-property-border-left\" class=\"csscan-property\">border-left</td></tr><tr id=\"csscan-row-margin\"><td id=\"csscan-property-margin\" class=\"csscan-property\">margin</td></tr><tr id=\"csscan-row-padding\"><td id=\"csscan-property-padding\" class=\"csscan-property\">padding</td></tr><tr id=\"csscan-row-max-height\"><td id=\"csscan-property-max-height\" class=\"csscan-property\">max-height</td></tr><tr id=\"csscan-row-min-height\"><td id=\"csscan-property-min-height\" class=\"csscan-property\">min-height</td></tr><tr id=\"csscan-row-max-width\"><td id=\"csscan-property-max-width\" class=\"csscan-property\">max-width</td></tr><tr id=\"csscan-row-min-width\"><td id=\"csscan-property-min-width\" class=\"csscan-property\">min-width</td></tr><tr id=\"csscan-row-outline-color\"><td id=\"csscan-property-outline-color\" class=\"csscan-property\">outline-color</td></tr><tr id=\"csscan-row-outline-style\"><td id=\"csscan-property-outline-style\" class=\"csscan-property\">outline-style</td></tr><tr id=\"csscan-row-outline-width\"><td id=\"csscan-property-outline-width\" class=\"csscan-property\">outline-width</td></tr><tr><th colspan=\"2\" id=\"csscan-header-position\" class=\"csscan-header\">Positioning</th></tr><tr id=\"csscan-row-position\"><td id=\"csscan-property-position\" class=\"csscan-property\">position</td></tr><tr id=\"csscan-row-top\"><td id=\"csscan-property-top\" class=\"csscan-property\">top</td></tr><tr id=\"csscan-row-bottom\"><td id=\"csscan-property-bottom\" class=\"csscan-property\">bottom</td></tr><tr id=\"csscan-row-right\"><td id=\"csscan-property-right\" class=\"csscan-property\">right</td></tr><tr id=\"csscan-row-left\"><td id=\"csscan-property-left\" class=\"csscan-property\">left</td></tr><tr id=\"csscan-row-float\"><td id=\"csscan-property-float\" class=\"csscan-property\">float</td></tr><tr id=\"csscan-row-display\"><td id=\"csscan-property-display\" class=\"csscan-property\">display</td></tr><tr id=\"csscan-row-clear\"><td id=\"csscan-property-clear\" class=\"csscan-property\">clear</td></tr><tr id=\"csscan-row-z-index\"><td id=\"csscan-property-z-index\" class=\"csscan-property\">z-index</td></tr><tr><th colspan=\"2\" id=\"csscan-header-list\" class=\"csscan-header\">List</th></tr><tr id=\"csscan-row-list-style-image\"><td id=\"csscan-property-list-style-image\" class=\"csscan-property\">list-style-image</td></tr><tr id=\"csscan-row-list-style-type\"><td id=\"csscan-property-list-style-type\" class=\"csscan-property\">list-style-type</td></tr><tr id=\"csscan-row-list-style-position\"><td id=\"csscan-property-list-style-position\" class=\"csscan-property\">list-style-position</td></tr><tr><th colspan=\"2\" id=\"csscan-header-table\" class=\"csscan-header\">Table</th></tr><tr id=\"csscan-row-vertical-align\"><td id=\"csscan-property-vertical-align\" class=\"csscan-property\">vertical-align</td></tr><tr id=\"csscan-row-border-collapse\"><td id=\"csscan-property-border-collapse\" class=\"csscan-property\">border-collapse</td></tr><tr id=\"csscan-row-border-spacing\"><td id=\"csscan-property-border-spacing\" class=\"csscan-property\">border-spacing</td></tr><tr id=\"csscan-row-caption-side\"><td id=\"csscan-property-caption-side\" class=\"csscan-property\">caption-side</td></tr><tr id=\"csscan-row-empty-cells\"><td id=\"csscan-property-empty-cells\" class=\"csscan-property\">empty-cells</td></tr><tr id=\"csscan-row-table-layout\"><td id=\"csscan-property-table-layout\" class=\"csscan-property\">table-layout</td></tr><tr><th colspan=\"2\" id=\"csscan-header-effects\" class=\"csscan-header\">Effects</th></tr><tr id=\"csscan-row-text-shadow\"><td id=\"csscan-property-text-shadow\" class=\"csscan-property\">text-shadow</td></tr><tr id=\"csscan-row--webkit-box-shadow\"><td id=\"csscan-property--webkit-box-shadow\" class=\"csscan-property\">-webkit-box-shadow</td></tr><tr id=\"csscan-row-border-radius\"><td id=\"csscan-property-border-radius\" class=\"csscan-property\">border-radius</td></tr><tr><th colspan=\"2\" id=\"csscan-header-other\" class=\"csscan-header\">Other</th></tr><tr id=\"csscan-row-overflow\"><td id=\"csscan-property-overflow\" class=\"csscan-property\">overflow</td></tr><tr id=\"csscan-row-cursor\"><td id=\"csscan-property-cursor\" class=\"csscan-property\">cursor</td></tr><tr id=\"csscan-row-visibility\"><td id=\"csscan-property-visibility\" class=\"csscan-property\">visibility</td></tr></tbody></table></div><div id=\"csscan-wrapper\" style=\"display: none; \"><h2 id=\"csscan-header\">element</h2><table id=\"csscan-table\"><tbody><tr><th colspan=\"2\" id=\"csscan-header-font\" class=\"csscan-header\">Font</th></tr><tr id=\"csscan-row-font-family\"><td id=\"csscan-property-font-family\" class=\"csscan-property\">font-family</td></tr><tr id=\"csscan-row-font-size\"><td id=\"csscan-property-font-size\" class=\"csscan-property\">font-size</td></tr><tr id=\"csscan-row-font-style\"><td id=\"csscan-property-font-style\" class=\"csscan-property\">font-style</td></tr><tr id=\"csscan-row-font-variant\"><td id=\"csscan-property-font-variant\" class=\"csscan-property\">font-variant</td></tr><tr id=\"csscan-row-font-weight\"><td id=\"csscan-property-font-weight\" class=\"csscan-property\">font-weight</td></tr><tr id=\"csscan-row-letter-spacing\"><td id=\"csscan-property-letter-spacing\" class=\"csscan-property\">letter-spacing</td></tr><tr id=\"csscan-row-line-height\"><td id=\"csscan-property-line-height\" class=\"csscan-property\">line-height</td></tr><tr id=\"csscan-row-text-decoration\"><td id=\"csscan-property-text-decoration\" class=\"csscan-property\">text-decoration</td></tr><tr id=\"csscan-row-text-align\"><td id=\"csscan-property-text-align\" class=\"csscan-property\">text-align</td></tr><tr id=\"csscan-row-text-indent\"><td id=\"csscan-property-text-indent\" class=\"csscan-property\">text-indent</td></tr><tr id=\"csscan-row-text-transform\"><td id=\"csscan-property-text-transform\" class=\"csscan-property\">text-transform</td></tr><tr id=\"csscan-row-white-space\"><td id=\"csscan-property-white-space\" class=\"csscan-property\">white-space</td></tr><tr id=\"csscan-row-word-spacing\"><td id=\"csscan-property-word-spacing\" class=\"csscan-property\">word-spacing</td></tr><tr id=\"csscan-row-color\"><td id=\"csscan-property-color\" class=\"csscan-property\">color</td></tr><tr><th colspan=\"2\" id=\"csscan-header-background\" class=\"csscan-header\">Background</th></tr><tr id=\"csscan-row-background-attachment\"><td id=\"csscan-property-background-attachment\" class=\"csscan-property\">bg-attachment</td></tr><tr id=\"csscan-row-background-color\"><td id=\"csscan-property-background-color\" class=\"csscan-property\">bg-color</td></tr><tr id=\"csscan-row-background-image\"><td id=\"csscan-property-background-image\" class=\"csscan-property\">bg-image</td></tr><tr id=\"csscan-row-background-position\"><td id=\"csscan-property-background-position\" class=\"csscan-property\">bg-position</td></tr><tr id=\"csscan-row-background-repeat\"><td id=\"csscan-property-background-repeat\" class=\"csscan-property\">bg-repeat</td></tr><tr><th colspan=\"2\" id=\"csscan-header-size\" class=\"csscan-header\">Box</th></tr><tr id=\"csscan-row-width\"><td id=\"csscan-property-width\" class=\"csscan-property\">width</td></tr><tr id=\"csscan-row-height\"><td id=\"csscan-property-height\" class=\"csscan-property\">height</td></tr><tr id=\"csscan-row-border-top\"><td id=\"csscan-property-border-top\" class=\"csscan-property\">border-top</td></tr><tr id=\"csscan-row-border-right\"><td id=\"csscan-property-border-right\" class=\"csscan-property\">border-right</td></tr><tr id=\"csscan-row-border-bottom\"><td id=\"csscan-property-border-bottom\" class=\"csscan-property\">border-bottom</td></tr><tr id=\"csscan-row-border-left\"><td id=\"csscan-property-border-left\" class=\"csscan-property\">border-left</td></tr><tr id=\"csscan-row-margin\"><td id=\"csscan-property-margin\" class=\"csscan-property\">margin</td></tr><tr id=\"csscan-row-padding\"><td id=\"csscan-property-padding\" class=\"csscan-property\">padding</td></tr><tr id=\"csscan-row-max-height\"><td id=\"csscan-property-max-height\" class=\"csscan-property\">max-height</td></tr><tr id=\"csscan-row-min-height\"><td id=\"csscan-property-min-height\" class=\"csscan-property\">min-height</td></tr><tr id=\"csscan-row-max-width\"><td id=\"csscan-property-max-width\" class=\"csscan-property\">max-width</td></tr><tr id=\"csscan-row-min-width\"><td id=\"csscan-property-min-width\" class=\"csscan-property\">min-width</td></tr><tr id=\"csscan-row-outline-color\"><td id=\"csscan-property-outline-color\" class=\"csscan-property\">outline-color</td></tr><tr id=\"csscan-row-outline-style\"><td id=\"csscan-property-outline-style\" class=\"csscan-property\">outline-style</td></tr><tr id=\"csscan-row-outline-width\"><td id=\"csscan-property-outline-width\" class=\"csscan-property\">outline-width</td></tr><tr><th colspan=\"2\" id=\"csscan-header-position\" class=\"csscan-header\">Positioning</th></tr><tr id=\"csscan-row-position\"><td id=\"csscan-property-position\" class=\"csscan-property\">position</td></tr><tr id=\"csscan-row-top\"><td id=\"csscan-property-top\" class=\"csscan-property\">top</td></tr><tr id=\"csscan-row-bottom\"><td id=\"csscan-property-bottom\" class=\"csscan-property\">bottom</td></tr><tr id=\"csscan-row-right\"><td id=\"csscan-property-right\" class=\"csscan-property\">right</td></tr><tr id=\"csscan-row-left\"><td id=\"csscan-property-left\" class=\"csscan-property\">left</td></tr><tr id=\"csscan-row-float\"><td id=\"csscan-property-float\" class=\"csscan-property\">float</td></tr><tr id=\"csscan-row-display\"><td id=\"csscan-property-display\" class=\"csscan-property\">display</td></tr><tr id=\"csscan-row-clear\"><td id=\"csscan-property-clear\" class=\"csscan-property\">clear</td></tr><tr id=\"csscan-row-z-index\"><td id=\"csscan-property-z-index\" class=\"csscan-property\">z-index</td></tr><tr><th colspan=\"2\" id=\"csscan-header-list\" class=\"csscan-header\">List</th></tr><tr id=\"csscan-row-list-style-image\"><td id=\"csscan-property-list-style-image\" class=\"csscan-property\">list-style-image</td></tr><tr id=\"csscan-row-list-style-type\"><td id=\"csscan-property-list-style-type\" class=\"csscan-property\">list-style-type</td></tr><tr id=\"csscan-row-list-style-position\"><td id=\"csscan-property-list-style-position\" class=\"csscan-property\">list-style-position</td></tr><tr><th colspan=\"2\" id=\"csscan-header-table\" class=\"csscan-header\">Table</th></tr><tr id=\"csscan-row-vertical-align\"><td id=\"csscan-property-vertical-align\" class=\"csscan-property\">vertical-align</td></tr><tr id=\"csscan-row-border-collapse\"><td id=\"csscan-property-border-collapse\" class=\"csscan-property\">border-collapse</td></tr><tr id=\"csscan-row-border-spacing\"><td id=\"csscan-property-border-spacing\" class=\"csscan-property\">border-spacing</td></tr><tr id=\"csscan-row-caption-side\"><td id=\"csscan-property-caption-side\" class=\"csscan-property\">caption-side</td></tr><tr id=\"csscan-row-empty-cells\"><td id=\"csscan-property-empty-cells\" class=\"csscan-property\">empty-cells</td></tr><tr id=\"csscan-row-table-layout\"><td id=\"csscan-property-table-layout\" class=\"csscan-property\">table-layout</td></tr><tr><th colspan=\"2\" id=\"csscan-header-effects\" class=\"csscan-header\">Effects</th></tr><tr id=\"csscan-row-text-shadow\"><td id=\"csscan-property-text-shadow\" class=\"csscan-property\">text-shadow</td></tr><tr id=\"csscan-row--webkit-box-shadow\"><td id=\"csscan-property--webkit-box-shadow\" class=\"csscan-property\">-webkit-box-shadow</td></tr><tr id=\"csscan-row-border-radius\"><td id=\"csscan-property-border-radius\" class=\"csscan-property\">border-radius</td></tr><tr><th colspan=\"2\" id=\"csscan-header-other\" class=\"csscan-header\">Other</th></tr><tr id=\"csscan-row-overflow\"><td id=\"csscan-property-overflow\" class=\"csscan-property\">overflow</td></tr><tr id=\"csscan-row-cursor\"><td id=\"csscan-property-cursor\" class=\"csscan-property\">cursor</td></tr><tr id=\"csscan-row-visibility\"><td id=\"csscan-property-visibility\" class=\"csscan-property\">visibility</td></tr></tbody></table></div><div id=\"csscan-wrapper\" style=\"display: none; \"><h2 id=\"csscan-header\">element</h2><table id=\"csscan-table\"><tbody><tr><th colspan=\"2\" id=\"csscan-header-font\" class=\"csscan-header\">Font</th></tr><tr id=\"csscan-row-font-family\"><td id=\"csscan-property-font-family\" class=\"csscan-property\">font-family</td></tr><tr id=\"csscan-row-font-size\"><td id=\"csscan-property-font-size\" class=\"csscan-property\">font-size</td></tr><tr id=\"csscan-row-font-style\"><td id=\"csscan-property-font-style\" class=\"csscan-property\">font-style</td></tr><tr id=\"csscan-row-font-variant\"><td id=\"csscan-property-font-variant\" class=\"csscan-property\">font-variant</td></tr><tr id=\"csscan-row-font-weight\"><td id=\"csscan-property-font-weight\" class=\"csscan-property\">font-weight</td></tr><tr id=\"csscan-row-letter-spacing\"><td id=\"csscan-property-letter-spacing\" class=\"csscan-property\">letter-spacing</td></tr><tr id=\"csscan-row-line-height\"><td id=\"csscan-property-line-height\" class=\"csscan-property\">line-height</td></tr><tr id=\"csscan-row-text-decoration\"><td id=\"csscan-property-text-decoration\" class=\"csscan-property\">text-decoration</td></tr><tr id=\"csscan-row-text-align\"><td id=\"csscan-property-text-align\" class=\"csscan-property\">text-align</td></tr><tr id=\"csscan-row-text-indent\"><td id=\"csscan-property-text-indent\" class=\"csscan-property\">text-indent</td></tr><tr id=\"csscan-row-text-transform\"><td id=\"csscan-property-text-transform\" class=\"csscan-property\">text-transform</td></tr><tr id=\"csscan-row-white-space\"><td id=\"csscan-property-white-space\" class=\"csscan-property\">white-space</td></tr><tr id=\"csscan-row-word-spacing\"><td id=\"csscan-property-word-spacing\" class=\"csscan-property\">word-spacing</td></tr><tr id=\"csscan-row-color\"><td id=\"csscan-property-color\" class=\"csscan-property\">color</td></tr><tr><th colspan=\"2\" id=\"csscan-header-background\" class=\"csscan-header\">Background</th></tr><tr id=\"csscan-row-background-attachment\"><td id=\"csscan-property-background-attachment\" class=\"csscan-property\">bg-attachment</td></tr><tr id=\"csscan-row-background-color\"><td id=\"csscan-property-background-color\" class=\"csscan-property\">bg-color</td></tr><tr id=\"csscan-row-background-image\"><td id=\"csscan-property-background-image\" class=\"csscan-property\">bg-image</td></tr><tr id=\"csscan-row-background-position\"><td id=\"csscan-property-background-position\" class=\"csscan-property\">bg-position</td></tr><tr id=\"csscan-row-background-repeat\"><td id=\"csscan-property-background-repeat\" class=\"csscan-property\">bg-repeat</td></tr><tr><th colspan=\"2\" id=\"csscan-header-size\" class=\"csscan-header\">Box</th></tr><tr id=\"csscan-row-width\"><td id=\"csscan-property-width\" class=\"csscan-property\">width</td></tr><tr id=\"csscan-row-height\"><td id=\"csscan-property-height\" class=\"csscan-property\">height</td></tr><tr id=\"csscan-row-border-top\"><td id=\"csscan-property-border-top\" class=\"csscan-property\">border-top</td></tr><tr id=\"csscan-row-border-right\"><td id=\"csscan-property-border-right\" class=\"csscan-property\">border-right</td></tr><tr id=\"csscan-row-border-bottom\"><td id=\"csscan-property-border-bottom\" class=\"csscan-property\">border-bottom</td></tr><tr id=\"csscan-row-border-left\"><td id=\"csscan-property-border-left\" class=\"csscan-property\">border-left</td></tr><tr id=\"csscan-row-margin\"><td id=\"csscan-property-margin\" class=\"csscan-property\">margin</td></tr><tr id=\"csscan-row-padding\"><td id=\"csscan-property-padding\" class=\"csscan-property\">padding</td></tr><tr id=\"csscan-row-max-height\"><td id=\"csscan-property-max-height\" class=\"csscan-property\">max-height</td></tr><tr id=\"csscan-row-min-height\"><td id=\"csscan-property-min-height\" class=\"csscan-property\">min-height</td></tr><tr id=\"csscan-row-max-width\"><td id=\"csscan-property-max-width\" class=\"csscan-property\">max-width</td></tr><tr id=\"csscan-row-min-width\"><td id=\"csscan-property-min-width\" class=\"csscan-property\">min-width</td></tr><tr id=\"csscan-row-outline-color\"><td id=\"csscan-property-outline-color\" class=\"csscan-property\">outline-color</td></tr><tr id=\"csscan-row-outline-style\"><td id=\"csscan-property-outline-style\" class=\"csscan-property\">outline-style</td></tr><tr id=\"csscan-row-outline-width\"><td id=\"csscan-property-outline-width\" class=\"csscan-property\">outline-width</td></tr><tr><th colspan=\"2\" id=\"csscan-header-position\" class=\"csscan-header\">Positioning</th></tr><tr id=\"csscan-row-position\"><td id=\"csscan-property-position\" class=\"csscan-property\">position</td></tr><tr id=\"csscan-row-top\"><td id=\"csscan-property-top\" class=\"csscan-property\">top</td></tr><tr id=\"csscan-row-bottom\"><td id=\"csscan-property-bottom\" class=\"csscan-property\">bottom</td></tr><tr id=\"csscan-row-right\"><td id=\"csscan-property-right\" class=\"csscan-property\">right</td></tr><tr id=\"csscan-row-left\"><td id=\"csscan-property-left\" class=\"csscan-property\">left</td></tr><tr id=\"csscan-row-float\"><td id=\"csscan-property-float\" class=\"csscan-property\">float</td></tr><tr id=\"csscan-row-display\"><td id=\"csscan-property-display\" class=\"csscan-property\">display</td></tr><tr id=\"csscan-row-clear\"><td id=\"csscan-property-clear\" class=\"csscan-property\">clear</td></tr><tr id=\"csscan-row-z-index\"><td id=\"csscan-property-z-index\" class=\"csscan-property\">z-index</td></tr><tr><th colspan=\"2\" id=\"csscan-header-list\" class=\"csscan-header\">List</th></tr><tr id=\"csscan-row-list-style-image\"><td id=\"csscan-property-list-style-image\" class=\"csscan-property\">list-style-image</td></tr><tr id=\"csscan-row-list-style-type\"><td id=\"csscan-property-list-style-type\" class=\"csscan-property\">list-style-type</td></tr><tr id=\"csscan-row-list-style-position\"><td id=\"csscan-property-list-style-position\" class=\"csscan-property\">list-style-position</td></tr><tr><th colspan=\"2\" id=\"csscan-header-table\" class=\"csscan-header\">Table</th></tr><tr id=\"csscan-row-vertical-align\"><td id=\"csscan-property-vertical-align\" class=\"csscan-property\">vertical-align</td></tr><tr id=\"csscan-row-border-collapse\"><td id=\"csscan-property-border-collapse\" class=\"csscan-property\">border-collapse</td></tr><tr id=\"csscan-row-border-spacing\"><td id=\"csscan-property-border-spacing\" class=\"csscan-property\">border-spacing</td></tr><tr id=\"csscan-row-caption-side\"><td id=\"csscan-property-caption-side\" class=\"csscan-property\">caption-side</td></tr><tr id=\"csscan-row-empty-cells\"><td id=\"csscan-property-empty-cells\" class=\"csscan-property\">empty-cells</td></tr><tr id=\"csscan-row-table-layout\"><td id=\"csscan-property-table-layout\" class=\"csscan-property\">table-layout</td></tr><tr><th colspan=\"2\" id=\"csscan-header-effects\" class=\"csscan-header\">Effects</th></tr><tr id=\"csscan-row-text-shadow\"><td id=\"csscan-property-text-shadow\" class=\"csscan-property\">text-shadow</td></tr><tr id=\"csscan-row--webkit-box-shadow\"><td id=\"csscan-property--webkit-box-shadow\" class=\"csscan-property\">-webkit-box-shadow</td></tr><tr id=\"csscan-row-border-radius\"><td id=\"csscan-property-border-radius\" class=\"csscan-property\">border-radius</td></tr><tr><th colspan=\"2\" id=\"csscan-header-other\" class=\"csscan-header\">Other</th></tr><tr id=\"csscan-row-overflow\"><td id=\"csscan-property-overflow\" class=\"csscan-property\">overflow</td></tr><tr id=\"csscan-row-cursor\"><td id=\"csscan-property-cursor\" class=\"csscan-property\">cursor</td></tr><tr id=\"csscan-row-visibility\"><td id=\"csscan-property-visibility\" class=\"csscan-property\">visibility</td></tr></tbody></table></div><div id=\"csscan-wrapper\" style=\"display: none; \"><h2 id=\"csscan-header\">element</h2><table id=\"csscan-table\"><tbody><tr><th colspan=\"2\" id=\"csscan-header-font\" class=\"csscan-header\">Font</th></tr><tr id=\"csscan-row-font-family\"><td id=\"csscan-property-font-family\" class=\"csscan-property\">font-family</td></tr><tr id=\"csscan-row-font-size\"><td id=\"csscan-property-font-size\" class=\"csscan-property\">font-size</td></tr><tr id=\"csscan-row-font-style\"><td id=\"csscan-property-font-style\" class=\"csscan-property\">font-style</td></tr><tr id=\"csscan-row-font-variant\"><td id=\"csscan-property-font-variant\" class=\"csscan-property\">font-variant</td></tr><tr id=\"csscan-row-font-weight\"><td id=\"csscan-property-font-weight\" class=\"csscan-property\">font-weight</td></tr><tr id=\"csscan-row-letter-spacing\"><td id=\"csscan-property-letter-spacing\" class=\"csscan-property\">letter-spacing</td></tr><tr id=\"csscan-row-line-height\"><td id=\"csscan-property-line-height\" class=\"csscan-property\">line-height</td></tr><tr id=\"csscan-row-text-decoration\"><td id=\"csscan-property-text-decoration\" class=\"csscan-property\">text-decoration</td></tr><tr id=\"csscan-row-text-align\"><td id=\"csscan-property-text-align\" class=\"csscan-property\">text-align</td></tr><tr id=\"csscan-row-text-indent\"><td id=\"csscan-property-text-indent\" class=\"csscan-property\">text-indent</td></tr><tr id=\"csscan-row-text-transform\"><td id=\"csscan-property-text-transform\" class=\"csscan-property\">text-transform</td></tr><tr id=\"csscan-row-white-space\"><td id=\"csscan-property-white-space\" class=\"csscan-property\">white-space</td></tr><tr id=\"csscan-row-word-spacing\"><td id=\"csscan-property-word-spacing\" class=\"csscan-property\">word-spacing</td></tr><tr id=\"csscan-row-color\"><td id=\"csscan-property-color\" class=\"csscan-property\">color</td></tr><tr><th colspan=\"2\" id=\"csscan-header-background\" class=\"csscan-header\">Background</th></tr><tr id=\"csscan-row-background-attachment\"><td id=\"csscan-property-background-attachment\" class=\"csscan-property\">bg-attachment</td></tr><tr id=\"csscan-row-background-color\"><td id=\"csscan-property-background-color\" class=\"csscan-property\">bg-color</td></tr><tr id=\"csscan-row-background-image\"><td id=\"csscan-property-background-image\" class=\"csscan-property\">bg-image</td></tr><tr id=\"csscan-row-background-position\"><td id=\"csscan-property-background-position\" class=\"csscan-property\">bg-position</td></tr><tr id=\"csscan-row-background-repeat\"><td id=\"csscan-property-background-repeat\" class=\"csscan-property\">bg-repeat</td></tr><tr><th colspan=\"2\" id=\"csscan-header-size\" class=\"csscan-header\">Box</th></tr><tr id=\"csscan-row-width\"><td id=\"csscan-property-width\" class=\"csscan-property\">width</td></tr><tr id=\"csscan-row-height\"><td id=\"csscan-property-height\" class=\"csscan-property\">height</td></tr><tr id=\"csscan-row-border-top\"><td id=\"csscan-property-border-top\" class=\"csscan-property\">border-top</td></tr><tr id=\"csscan-row-border-right\"><td id=\"csscan-property-border-right\" class=\"csscan-property\">border-right</td></tr><tr id=\"csscan-row-border-bottom\"><td id=\"csscan-property-border-bottom\" class=\"csscan-property\">border-bottom</td></tr><tr id=\"csscan-row-border-left\"><td id=\"csscan-property-border-left\" class=\"csscan-property\">border-left</td></tr><tr id=\"csscan-row-margin\"><td id=\"csscan-property-margin\" class=\"csscan-property\">margin</td></tr><tr id=\"csscan-row-padding\"><td id=\"csscan-property-padding\" class=\"csscan-property\">padding</td></tr><tr id=\"csscan-row-max-height\"><td id=\"csscan-property-max-height\" class=\"csscan-property\">max-height</td></tr><tr id=\"csscan-row-min-height\"><td id=\"csscan-property-min-height\" class=\"csscan-property\">min-height</td></tr><tr id=\"csscan-row-max-width\"><td id=\"csscan-property-max-width\" class=\"csscan-property\">max-width</td></tr><tr id=\"csscan-row-min-width\"><td id=\"csscan-property-min-width\" class=\"csscan-property\">min-width</td></tr><tr id=\"csscan-row-outline-color\"><td id=\"csscan-property-outline-color\" class=\"csscan-property\">outline-color</td></tr><tr id=\"csscan-row-outline-style\"><td id=\"csscan-property-outline-style\" class=\"csscan-property\">outline-style</td></tr><tr id=\"csscan-row-outline-width\"><td id=\"csscan-property-outline-width\" class=\"csscan-property\">outline-width</td></tr><tr><th colspan=\"2\" id=\"csscan-header-position\" class=\"csscan-header\">Positioning</th></tr><tr id=\"csscan-row-position\"><td id=\"csscan-property-position\" class=\"csscan-property\">position</td></tr><tr id=\"csscan-row-top\"><td id=\"csscan-property-top\" class=\"csscan-property\">top</td></tr><tr id=\"csscan-row-bottom\"><td id=\"csscan-property-bottom\" class=\"csscan-property\">bottom</td></tr><tr id=\"csscan-row-right\"><td id=\"csscan-property-right\" class=\"csscan-property\">right</td></tr><tr id=\"csscan-row-left\"><td id=\"csscan-property-left\" class=\"csscan-property\">left</td></tr><tr id=\"csscan-row-float\"><td id=\"csscan-property-float\" class=\"csscan-property\">float</td></tr><tr id=\"csscan-row-display\"><td id=\"csscan-property-display\" class=\"csscan-property\">display</td></tr><tr id=\"csscan-row-clear\"><td id=\"csscan-property-clear\" class=\"csscan-property\">clear</td></tr><tr id=\"csscan-row-z-index\"><td id=\"csscan-property-z-index\" class=\"csscan-property\">z-index</td></tr><tr><th colspan=\"2\" id=\"csscan-header-list\" class=\"csscan-header\">List</th></tr><tr id=\"csscan-row-list-style-image\"><td id=\"csscan-property-list-style-image\" class=\"csscan-property\">list-style-image</td></tr><tr id=\"csscan-row-list-style-type\"><td id=\"csscan-property-list-style-type\" class=\"csscan-property\">list-style-type</td></tr><tr id=\"csscan-row-list-style-position\"><td id=\"csscan-property-list-style-position\" class=\"csscan-property\">list-style-position</td></tr><tr><th colspan=\"2\" id=\"csscan-header-table\" class=\"csscan-header\">Table</th></tr><tr id=\"csscan-row-vertical-align\"><td id=\"csscan-property-vertical-align\" class=\"csscan-property\">vertical-align</td></tr><tr id=\"csscan-row-border-collapse\"><td id=\"csscan-property-border-collapse\" class=\"csscan-property\">border-collapse</td></tr><tr id=\"csscan-row-border-spacing\"><td id=\"csscan-property-border-spacing\" class=\"csscan-property\">border-spacing</td></tr><tr id=\"csscan-row-caption-side\"><td id=\"csscan-property-caption-side\" class=\"csscan-property\">caption-side</td></tr><tr id=\"csscan-row-empty-cells\"><td id=\"csscan-property-empty-cells\" class=\"csscan-property\">empty-cells</td></tr><tr id=\"csscan-row-table-layout\"><td id=\"csscan-property-table-layout\" class=\"csscan-property\">table-layout</td></tr><tr><th colspan=\"2\" id=\"csscan-header-effects\" class=\"csscan-header\">Effects</th></tr><tr id=\"csscan-row-text-shadow\"><td id=\"csscan-property-text-shadow\" class=\"csscan-property\">text-shadow</td></tr><tr id=\"csscan-row--webkit-box-shadow\"><td id=\"csscan-property--webkit-box-shadow\" class=\"csscan-property\">-webkit-box-shadow</td></tr><tr id=\"csscan-row-border-radius\"><td id=\"csscan-property-border-radius\" class=\"csscan-property\">border-radius</td></tr><tr><th colspan=\"2\" id=\"csscan-header-other\" class=\"csscan-header\">Other</th></tr><tr id=\"csscan-row-overflow\"><td id=\"csscan-property-overflow\" class=\"csscan-property\">overflow</td></tr><tr id=\"csscan-row-cursor\"><td id=\"csscan-property-cursor\" class=\"csscan-property\">cursor</td></tr><tr id=\"csscan-row-visibility\"><td id=\"csscan-property-visibility\" class=\"csscan-property\">visibility</td></tr></tbody></table></div></div></group></body>",
+      "cn:shortestDescription": "Exclusive in-depth reports on business events, global investing, retirement and more.",
+      "cn:seoTitle": "Exclusive In-depth Reporting",
+      "cn:summary": "Find CNBC Special Reports with News and Analysis on Investing, Technology, Real Estate, Breaking News and Special Events.\r\n",
+      "cn:editedBy": "Kesavan",
+      "cn:createdBy": "migration",
+      "cn:shorterDescription": "Exclusive in-depth reports on business events, global investing, retirement, and more.",
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "Special Reports",
+      "cn:sectionColor": "#000000",
+      "cn:promoText": "",
+      "cn:showTime": "",
+      "@type": "Collection",
+      "cn:relation": [
+        {
+          "position": 99,
+          "cn:relationType": "additional_sections",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+      "cn:type": "image",
+      "cn:creatorOverwrite": "Michael Nagle | Bloomberg | Getty Images",
+      "cn:liveURL": "",
+      "@id": "104442288",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104442288",
+      "cn:slug": "Premium EA: NYSE Wall Street man briefcase markets 170501",
+      "cn:title": "Pedestrians pass the New York Stock Exchange (NYSE) in New York, U.S., on Monday, May 1, 2017.",
+      "cn:tagName": "",
+      "url": "https://qa-aws02image-origin.cnbcfm.com/api/v1/image/104442288-GettyImages-675489814-1.jpg?v=1507309626",
+      "cn:sectionHierarchy": [],
+      "cn:shorterHeadline": "",
+      "cn:state": "Publish",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:listType": "Virtual",
+        "cn:outbrainEnabled": "Yes",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "",
+      "cn:linkHeadline": "",
+      "headline": "Pedestrians pass the New York Stock Exchange (NYSE) in New York, U.S., on Monday, May 1, 2017.",
+      "datePublished": "2017-05-02T15:49:39+0000",
+      "cn:dateLastPublished": "2017-10-06T17:07:06+0000",
+      "cn:dateFirstPublished": "2017-05-02T15:49:50+0000",
+      "expires": "",
+      "cn:historicalURL": [],
+      "cn:shortestHeadline": "",
+      "cn:bodyTeaser": "null",
+      "cn:shortestDescription": "",
+      "cn:seoTitle": "",
+      "cn:summary": "",
+      "cn:editedBy": "scott.mlyn",
+      "cn:createdBy": "adam.jeffery",
+      "cn:shorterDescription": "",
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:imgCreator": "",
+      "contentSize": 774474,
+      "caption": "Pedestrians pass the New York Stock Exchange in New York.",
+      "copyrightHolder": "Michael Nagle | Bloomberg | Getty Images",
+      "height": "1333",
+      "width": "2000",
+      "cn:relation": [
+        {
+          "position": 99,
+          "cn:relationType": "promo",
+          "cn:isPromoted": "true"
+        }
+      ]
+    },
+    {
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+      "url": "https://qa-aws01pub.cnbc.com/investing/",
+      "cn:type": "franchise",
+      "cn:creatorOverwrite": "",
+      "cn:liveURL": "/investing/",
+      "@id": "15839069",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/15839069",
+      "cn:slug": "Investing",
+      "cn:subType": "news_section",
+      "cn:title": "Investing Title",
+      "cn:tagName": "Investing",
+      "cn:sectionHierarchy": [
+        {
+          "id": 15839069,
+          "tagName": "Investing",
+          "order": 1
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "cn:sectionLabel": "Investing SH",
+      "cn:state": "Publish",
+      "cn:settings": {
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "Expert Analysis, Investment Tools, Stock Screeners, and Financial Strategy Information.",
+      "cn:sectionLinktext": "Investing LH",
+      "headline": "Investing LH",
+      "datePublished": "2012-01-30T01:52:25+0000",
+      "cn:dateLastPublished": "2018-06-11T15:02:11+0000",
+      "cn:dateFirstPublished": "2012-01-30T01:52:25+0000",
+      "expires": "",
+      "cn:historicalURL": [
+        "/id/15839069"
+      ],
+      "cn:tabLabel": "Investing SSH",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"100243441\"/></assets><div class=\"group\"/></group></body>",
+      "cn:shortestDescription": "Investment Tools and Financial Strategy Coverage",
+      "cn:seoTitle": "Investing",
+      "cn:summary": "Expert Analysis, Investment Tools, Stock Screeners, and Financial Strategy Information.",
+      "cn:editedBy": "NagarajaNaick.Bukke@nbcuni.com",
+      "cn:createdBy": "migration",
+      "cn:shorterDescription": "Expert Analysis, Investment Tools, Stock Screeners, and Financial Strategy Information.",
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "Investing Title",
+      "cn:sectionColor": "#000000",
+      "cn:promoText": "",
+      "cn:showTime": "",
+      "@type": "Collection",
+      "cn:relation": [
+        {
+          "position": 97,
+          "cn:relationType": "additional_sections",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+      "url": "https://qa-aws01pub.cnbc.com/quotes/?symbol=KRE",
+      "cn:type": "security",
+      "cn:title": "SPDR S&P Regional Banking ETF",
+      "cn:liveURL": "",
+      "@id": "1509518",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/1509518",
+      "cn:slug": "SPDR S&P Regional Banking ETF  T:KRE",
+      "cn:tagName": "SPDR S&P Regional Banking ETF",
+      "cn:subType": "etf",
+      "cn:sectionHierarchy": [],
+      "cn:state": "Publish",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes"
+      },
+      "cn:editedBy": "ingest",
+      "datePublished": "2014-12-15T17:04:32+0000",
+      "cn:dateLastPublished": "2014-12-15T17:04:39+0000",
+      "cn:dateFirstPublished": "2014-12-15T17:04:39+0000",
+      "expires": "",
+      "cn:historicalURL": [],
+      "cn:createdBy": "ingest",
+      "cn:bodyTeaser": "",
+      "cn:shorterHeadline": "",
+      "cn:linkHeadline": "",
+      "headline": "SPDR S&P Regional Banking ETF",
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "SPDR S&P Regional Banking ETF",
+      "cn:symbol": "KRE",
+      "cn:exchangeName": "NYSE Arca",
+      "cn:issueId": 5064447,
+      "cn:chartSymbol": "KRE",
+      "tickerSymbol": "NYSE Arca KRE",
+      "@type": "FinancialProduct",
+      "cn:relation": [
+        {
+          "position": 7,
+          "cn:relationType": "tags",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+      "url": "https://qa-aws01pub.cnbc.com/quotes/?symbol=US10Y",
+      "cn:type": "security",
+      "cn:creatorOverwrite": "",
+      "cn:liveURL": "",
+      "@id": "3032077",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/3032077",
+      "cn:slug": "US 10-YR  T:US10Y",
+      "cn:subType": "bond",
+      "cn:title": "US 10-YR",
+      "cn:tagName": "US 10-YR",
+      "cn:sectionHierarchy": [],
+      "cn:shorterHeadline": "",
+      "cn:state": "Publish",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes"
+      },
+      "description": "",
+      "cn:linkHeadline": "",
+      "headline": "US 10-YR",
+      "datePublished": "2012-06-30T03:16:39+0000",
+      "cn:dateLastPublished": "2015-11-10T15:57:17+0000",
+      "cn:dateFirstPublished": "2012-06-30T03:16:39+0000",
+      "expires": "",
+      "cn:historicalURL": [],
+      "cn:shortestHeadline": "10-YR",
+      "cn:bodyTeaser": "",
+      "cn:shortestDescription": "",
+      "cn:summary": "",
+      "cn:editedBy": "Josephine.Bila",
+      "cn:createdBy": "migration",
+      "cn:shorterDescription": "",
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "US 10-YR",
+      "cn:symbol": "US10Y",
+      "cn:exchangeName": "U.S.",
+      "cn:issueId": 5093160,
+      "cn:chartSymbol": "US10YT=XX",
+      "tickerSymbol": "U.S. US10Y",
+      "@type": "FinancialProduct",
+      "cn:relation": [
+        {
+          "position": 6,
+          "cn:relationType": "tags",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+      "url": "https://qa-aws01pub.cnbc.com/quotes/?symbol=KBE",
+      "cn:type": "security",
+      "cn:title": "SPDR S&P Bank ETF",
+      "cn:liveURL": "",
+      "@id": "1509355",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/1509355",
+      "cn:slug": "SPDR S&P Bank ETF  T:KBE",
+      "cn:tagName": "SPDR S&P Bank ETF",
+      "cn:subType": "etf",
+      "cn:sectionHierarchy": [],
+      "cn:state": "Publish",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes"
+      },
+      "cn:editedBy": "ingest",
+      "datePublished": "2014-11-07T14:49:09+0000",
+      "cn:dateLastPublished": "2014-11-07T14:49:12+0000",
+      "cn:dateFirstPublished": "2014-11-07T14:49:12+0000",
+      "expires": "",
+      "cn:historicalURL": [],
+      "cn:createdBy": "ingest",
+      "cn:bodyTeaser": "",
+      "cn:shorterHeadline": "",
+      "cn:linkHeadline": "",
+      "headline": "SPDR S&P Bank ETF",
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "SPDR S&P Bank ETF",
+      "cn:symbol": "KBE",
+      "cn:exchangeName": "NYSE Arca",
+      "cn:issueId": 3585851,
+      "cn:chartSymbol": "KBE",
+      "tickerSymbol": "NYSE Arca KBE",
+      "@type": "FinancialProduct",
+      "cn:relation": [
+        {
+          "position": 5,
+          "cn:relationType": "tags",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+      "url": "https://qa-aws01pub.cnbc.com",
+      "cn:type": "skin",
+      "cn:title": "",
+      "cn:creatorOverwrite": "",
+      "cn:liveURL": "",
+      "@id": "100003343",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100003343",
+      "cn:slug": "cnbc global skin",
+      "cn:tagName": "",
+      "cn:shortestDescription": "",
+      "cn:sectionHierarchy": [],
+      "cn:shorterHeadline": "",
+      "cn:state": "Publish",
+      "cn:summary": "",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "",
+      "cn:linkHeadline": "",
+      "headline": "",
+      "cn:editedBy": "matt.shade",
+      "datePublished": "2012-07-30T19:54:30+0000",
+      "cn:dateLastPublished": "2018-03-26T19:49:51+0000",
+      "cn:dateFirstPublished": "2012-07-30T19:54:30+0000",
+      "expires": "",
+      "cn:historicalURL": [],
+      "cn:shortestHeadline": "",
+      "cn:createdBy": "matt.shade",
+      "cn:bodyTeaser": "",
+      "cn:shorterDescription": "",
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@type": "DigitalDocument",
+      "cn:relation": [
+        {
+          "position": 5,
+          "cn:relationType": "skin",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+      "url": "https://qa-aws01pub.cnbc.com/quotes/?symbol=XLF",
+      "cn:type": "security",
+      "cn:creatorOverwrite": "",
+      "cn:liveURL": "",
+      "@id": "1516109",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/1516109",
+      "cn:slug": "Financial Select Sector SPDR Fund  T:XLF",
+      "cn:subType": "etf",
+      "cn:title": "Financial Select Sector SPDR Fund",
+      "cn:tagName": "Financial Select Sector SPDR Fund",
+      "cn:sectionHierarchy": [],
+      "cn:shorterHeadline": "Financial Select Sector SPDR Fund",
+      "cn:state": "Publish",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "",
+      "cn:linkHeadline": "Financial Select Sector SPDR Fund",
+      "headline": "Financial Select Sector SPDR Fund",
+      "datePublished": "2012-06-30T03:19:18+0000",
+      "cn:dateLastPublished": "2017-08-21T23:09:00+0000",
+      "cn:dateFirstPublished": "2012-06-30T03:19:18+0000",
+      "expires": "",
+      "cn:historicalURL": [],
+      "cn:shortestHeadline": "SPDR FIN SEL",
+      "cn:bodyTeaser": "",
+      "cn:shortestDescription": "",
+      "cn:summary": "",
+      "cn:editedBy": "jitesh.behl",
+      "cn:createdBy": "migration",
+      "cn:shorterDescription": "",
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "Financial Select Sector SPDR Fund",
+      "cn:symbol": "XLF",
+      "cn:exchangeName": "NYSE Arca",
+      "cn:issueId": 289759,
+      "cn:chartSymbol": "XLF",
+      "tickerSymbol": "NYSE Arca XLF",
+      "@type": "FinancialProduct",
+      "cn:relation": [
+        {
+          "position": 4,
+          "cn:relationType": "tags",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+      "url": "https://qa-aws01pub.cnbc.com",
+      "cn:type": "skin",
+      "cn:title": "",
+      "cn:creatorOverwrite": "",
+      "cn:liveURL": "",
+      "@id": "100236386",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100236386",
+      "cn:slug": "table fix skin",
+      "cn:tagName": "",
+      "cn:shortestDescription": "",
+      "cn:sectionHierarchy": [],
+      "cn:shorterHeadline": "",
+      "cn:state": "Publish",
+      "cn:summary": "",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Virtual"
+      },
+      "description": "",
+      "cn:linkHeadline": "",
+      "headline": "",
+      "cn:editedBy": "joseph.odell",
+      "datePublished": "2012-11-21T15:32:10+0000",
+      "cn:dateLastPublished": "2013-07-30T19:04:58+0000",
+      "cn:dateFirstPublished": "2012-11-21T15:32:10+0000",
+      "expires": "",
+      "cn:historicalURL": [],
+      "cn:shortestHeadline": "",
+      "cn:createdBy": "matt.shade",
+      "cn:bodyTeaser": "",
+      "cn:shorterDescription": "",
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@type": "DigitalDocument",
+      "cn:relation": [
+        {
+          "position": 4,
+          "cn:relationType": "skin",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "cn:relation": [
+        {
+          "position": 3,
+          "cn:relationType": "skin",
+          "cn:isPromoted": "false"
+        }
+      ],
+      "@id": "100789669"
+    },
+    {
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+      "url": "https://qa-aws01pub.cnbc.com",
+      "cn:type": "skin",
+      "cn:creatorOverwrite": "",
+      "cn:liveURL": "",
+      "@id": "104377634",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104377634",
+      "cn:slug": "Trading Nation Story 2017 Skin",
+      "cn:title": "",
+      "cn:tagName": "",
+      "cn:sectionHierarchy": [],
+      "cn:shorterHeadline": "",
+      "cn:state": "Publish",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:listType": "Virtual",
+        "cn:outbrainEnabled": "Yes",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "",
+      "cn:linkHeadline": "",
+      "headline": "",
+      "datePublished": "2017-03-31T18:45:10+0000",
+      "cn:dateLastPublished": "2017-03-31T18:45:10+0000",
+      "cn:dateFirstPublished": "2017-03-31T18:45:10+0000",
+      "expires": "",
+      "cn:historicalURL": [],
+      "cn:shortestHeadline": "",
+      "cn:bodyTeaser": "null",
+      "cn:shortestDescription": "",
+      "cn:seoTitle": "",
+      "cn:summary": "",
+      "cn:editedBy": "Josephine.Bila",
+      "cn:createdBy": "Josephine.Bila",
+      "cn:shorterDescription": "",
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@type": "DigitalDocument",
+      "cn:relation": [
+        {
+          "position": 2,
+          "cn:relationType": "skin",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+      "url": "https://qa-aws01pub.cnbc.com/2017/05/11/core-part-of-the-trump-trade-is-languishing.html",
+      "cn:type": "cnbcnewsstory",
+      "cn:creatorOverwrite": "",
+      "cn:liveURL": "/2017/05/11/core-part-of-the-trump-trade-is-languishing.html",
+      "@id": "104464736",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104464736",
+      "cn:slug": "Financials Flat TN 170511 UNGARINO",
+      "cn:title": "Core part of the ‘Trump trade’ is languishing",
+      "cn:tagName": "",
+      "cn:sectionHierarchy": [
+        {
+          "id": 102356916,
+          "tagName": "Trading Nation",
+          "order": 1
+        },
+        {
+          "id": 15839069,
+          "tagName": "Investing",
+          "order": 2
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "cn:shorterHeadline": "Core part of the ‘Trump trade’ is languishing",
+      "cn:state": "Publish",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:listType": "Virtual",
+        "cn:outbrainEnabled": "No",
+        "cn:tweetOnPublish": 1
+      },
+      "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "caption": "",
+        "author": "",
+        "copyrightHolder": "Bryan R. Smith | AFP | Getty Images",
+        "@id": "104407559",
+        "height": "703",
+        "datePublished": "2017-04-17T16:42:06+0000",
+        "description": "",
+        "width": "1024",
+        "url": "https://qa-aws02image-origin.cnbcfm.com/api/v1/image/104407559-GettyImages-653588236.jpg?v=1492447332"
+      },
+      "author": [
+        {
+          "cn:branding": "cnbc",
+          "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+          "url": "https://qa-aws01pub.cnbc.com/rebecca-ungarino/",
+          "cn:type": "creator",
+          "cn:creatorOverwrite": "",
+          "cn:liveURL": "/rebecca-ungarino/",
+          "@id": "102394087",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/102394087",
+          "cn:slug": "Rebecca Ungarino",
+          "cn:title": "Rebecca Ungarino",
+          "cn:tagName": "Rebecca Ungarino",
+          "name": "Rebecca Ungarino",
+          "givenName": "Rebecca",
+          "familyName": "Ungarino",
+          "email": "rebecca.ungarino@nbcuni.com",
+          "telephone": "",
+          "sameAs": [
+            "https://www.twitter.com/ungarino"
+          ],
+          "cn:socialMediaInfo": [
+            {
+              "cn:url": "https://twitter.com/ungarino",
+              "cn:displayText": "ungarino",
+              "cn:type": "twitter"
+            }
+          ],
+          "@type": "Person"
+        }
+      ],
+      "cn:association": [
+        {
+          "cn:branding": "cnbc",
+          "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+          "url": "https://qa-aws01pub.cnbc.com/rebecca-ungarino/",
+          "cn:type": "creator",
+          "cn:creatorOverwrite": "",
+          "cn:liveURL": "/rebecca-ungarino/",
+          "@id": "102394087",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/102394087",
+          "cn:slug": "Rebecca Ungarino",
+          "cn:title": "Rebecca Ungarino",
+          "cn:tagName": "Rebecca Ungarino",
+          "description": " Associate Producer",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "author",
+              "cn:isPromoted": "false"
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "cn:branding": "cnbc",
+          "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+          "cn:type": "image",
+          "cn:creatorOverwrite": "Bryan R. Smith | AFP | Getty Images",
+          "cn:liveURL": "",
+          "@id": "104407559",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104407559",
+          "cn:slug": "Premium: Wall Street, NYSE Trader with Donald Trump hat ",
+          "cn:title": "",
+          "cn:tagName": "",
+          "url": "https://qa-aws02image-origin.cnbcfm.com/api/v1/image/104407559-GettyImages-653588236.jpg?v=1492447332",
+          "description": "",
+          "cn:imgCreator": "",
+          "contentSize": 89609,
+          "caption": "",
+          "copyrightHolder": "Bryan R. Smith | AFP | Getty Images",
+          "height": "703",
+          "width": "1024",
+          "cn:relation": [
+            {
+              "cn:relationType": "promo",
+              "cn:isPromoted": "true"
+            }
+          ]
+        }
+      ],
+      "description": "Financial stocks have barely budged year to date.",
+      "cn:linkHeadline": "Core part of the ‘Trump trade’ is languishing",
+      "headline": "Core part of the ‘Trump trade’ is languishing",
+      "datePublished": "2017-05-12T11:00:00+0000",
+      "cn:dateLastPublished": "2017-05-12T11:01:53+0000",
+      "cn:dateFirstPublished": "2017-05-12T11:01:53+0000",
+      "expires": "",
+      "cn:historicalURL": [],
+      "cn:shortestHeadline": "",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets group_asset=\"1\"><asset nid=\"104464042\" autoplay_flag=\"true\"/></assets><div class=\"group\"><p>After surging in the weeks following the U.S. presidential election and becoming a defining facet of the so-called Trump trade, financial stocks have languished this year, having barely budged year to date.</p><p>Still, some strategists see meaningful upside on the horizon for the group.</p><p>\"I think there's still some hopes for some of the banks, and the diversified financials, as well. They've both been sort of struggling for this year,\" Erin Gibbs, equity chief investment officer at S&P Global, said Thursday on CNBC's \"<asset_inline ext_link=\"http://www.cnbc.com/power-lunch-cnbc/\" ext_title=\"http://www.cnbc.com/power-lunch-cnbc/\" target=\"_self\">Power Lunch</asset_inline>.\"</p><p>Financials posted one of their best quarters of earnings ever for the first quarter — over 20 percent earnings growth — Gibbs said, and forecasted about 13 percent earnings growth going forward.</p><p>\"Normally, we see estimates start to contract. So we're just looking at overall good strength for growth here for this sector,\" she added.</p><p>Furthermore, Gibbs said, \"One of the big things we've seen is concerns about just how quickly we might see some of the reforms when it comes to Dodd-Frank. But the fundamentals are still looking great.\"</p><p>Concrete details have been relatively thin surrounding how exactly the Trump administration will go about reforming regulation in the financial services industry. President Donald Trump has said he plans to reduce and perhaps replace parts of the Dodd-Frank financial reform act, which more stringently regulated the industry after the financial crisis.</p><p>At the same time, Trump said he has looked into breaking up the big banks, therein reviving part of the now-repealed Glass-Steagall act that essentially separated commercial and investment banking activity.</p><p>At this juncture, it appears several crucial themes are stirring the banks, according to Max Wolff, market strategist at 55 Capital. The space is \"exciting,\" he said, but also \"fraught with a certain type of uncertainty.\"</p><p>\"There's a big portion of the banking space that's going to become the next travel agents. They're going to get wiped out by technology; that makes people nervous,\" he said.</p><p>And the environment has been tough on a regulatory basis — but it's set to shift.</p><p>\"We have the same administration saying we want to get all of these regulations off the banks' back, and the other one that we're going to push old-fashioned regulations and chop them into little pieces,\" he said, so it's hard to figure out what is going to happen.</p></div></group></body>",
+      "cn:shortestDescription": "Financial stocks have barely budged year to date.",
+      "cn:seoTitle": "Core part of the ‘Trump trade’ is languishing",
+      "cn:summary": "Financial stocks have barely budged year to date.",
+      "cn:editedBy": "lynne.pate",
+      "cn:createdBy": "Rebecca.Ungarino",
+      "cn:shorterDescription": "Financial stocks have barely budged year to date.",
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@type": "NewsArticle",
+      "cn:relation": [
+        {
+          "position": 2,
+          "cn:relationType": "more",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+      "url": "https://qa-aws01pub.cnbc.com/investing/",
+      "cn:type": "tag",
+      "cn:title": "Investment strategy",
+      "cn:liveURL": "/investing/",
+      "@id": "105056683",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/105056683",
+      "cn:slug": "Investment strategy",
+      "cn:tagName": "Investment strategy",
+      "cn:subType": "topic",
+      "cn:sectionHierarchy": [
+        {
+          "id": 15839069,
+          "tagName": "Investing",
+          "order": 1
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "cn:seoTitle": "Investing",
+      "cn:state": "Publish",
+      "cn:editedBy": "ingest",
+      "datePublished": "2018-05-15T18:17:58+0000",
+      "cn:dateLastPublished": "",
+      "cn:dateFirstPublished": "",
+      "expires": "",
+      "cn:historicalURL": [],
+      "cn:createdBy": "ingest",
+      "cn:bodyTeaser": "",
+      "cn:shorterHeadline": "",
+      "cn:linkHeadline": "",
+      "headline": "Investment strategy",
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@type": "CreativeWork",
+      "cn:relation": [
+        {
+          "position": 1,
+          "cn:relationType": "tags",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+      "url": "https://qa-aws01pub.cnbc.com/video/2017/10/05/why-the-bank-rally-could-continue.html",
+      "cn:type": "cnbcvideo",
+      "cn:creatorOverwrite": "",
+      "cn:liveURL": "/video/2017/10/05/why-the-bank-rally-could-continue.html",
+      "@id": "104755370",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104755370",
+      "cn:slug": "KBE TN 17105",
+      "cn:subType": "clips",
+      "cn:title": "Why the bank rally could continue",
+      "cn:tagName": "",
+      "uploadDate": "2017-10-05T19:28:49+0000",
+      "cn:sectionHierarchy": [
+        {
+          "id": 102356916,
+          "tagName": "Trading Nation",
+          "order": 1
+        },
+        {
+          "id": 15839069,
+          "tagName": "Investing",
+          "order": 2
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "cn:shorterHeadline": "Why the bank rally could continue",
+      "cn:state": "Publish",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:isHighPriorityVideo": "No",
+        "cn:dateline": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:videoGeoRestrictionEnabled": "No",
+        "cn:listType": "Virtual",
+        "cn:outbrainEnabled": "Yes",
+        "cn:tweetOnPublish": 0
+      },
+      "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "caption": "",
+        "author": "",
+        "copyrightHolder": "",
+        "@id": "104755381",
+        "height": "1080",
+        "datePublished": "",
+        "description": "",
+        "width": "1920",
+        "url": "https://qa-aws02image-origin.cnbcfm.com/api/v1/image/104755381-5ED1-REQ-Segment1TN-100517.jpg?v=1507232153"
+      },
+      "thumbnail": "https://qa-aws02image-origin.cnbcfm.com/api/v1/image/104755381-5ED1-REQ-Segment1TN-100517.jpg?v=1507232153",
+      "cn:association": [
+        {
+          "@type": "ImageObject",
+          "cn:branding": "cnbc",
+          "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+          "cn:type": "image",
+          "cn:creatorOverwrite": "",
+          "cn:liveURL": "",
+          "@id": "104755381",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104755381",
+          "cn:slug": "KBE TN 17105_1507232151",
+          "cn:title": "Why the bank rally could continue",
+          "cn:tagName": "",
+          "url": "https://qa-aws02image-origin.cnbcfm.com/api/v1/image/104755381-5ED1-REQ-Segment1TN-100517.jpg?v=1507232153",
+          "description": "",
+          "cn:imgCreator": "",
+          "contentSize": 509207,
+          "caption": "",
+          "copyrightHolder": "",
+          "height": "1080",
+          "width": "1920",
+          "cn:relation": [
+            {
+              "cn:relationType": "promo",
+              "cn:isPromoted": "true"
+            }
+          ]
+        },
+        {
+          "cn:branding": "cnbc",
+          "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+          "url": "https://qa-aws01pub.cnbc.com/eric-chemi/",
+          "cn:type": "creator",
+          "cn:creatorOverwrite": "",
+          "cn:liveURL": "/eric-chemi/",
+          "@id": "102233109",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/102233109",
+          "cn:slug": "Eric Chemi",
+          "cn:title": "Eric Chemi",
+          "cn:tagName": "Eric Chemi",
+          "description": "Eric Chemi is CNBC's Sports Business Reporter",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "related",
+              "cn:isPromoted": "false"
+            }
+          ]
+        }
+      ],
+      "description": "Bank stocks are on quite the tear. Eddy Elfenbein of AdvisorShares and Craig Johnson of Piper Jaffray discuss with Eric Chemi.",
+      "cn:linkHeadline": "Why the bank rally could continue",
+      "headline": "Why the bank rally could continue",
+      "datePublished": "2017-10-05T19:28:15+0000",
+      "cn:dateLastPublished": "2017-10-10T18:24:40+0000",
+      "cn:dateFirstPublished": "2017-10-05T19:44:03+0000",
+      "expires": "",
+      "cn:historicalURL": [],
+      "cn:shortestHeadline": "Why the bank rally could continue",
+      "cn:bodyTeaser": "null",
+      "cn:shortestDescription": "Bank stocks are on quite the tear. Eddy Elfenbein of AdvisorShares and Craig Johnson of Piper Jaffray discuss with Eric Chemi.",
+      "cn:seoTitle": "Why the bank rally could continue",
+      "cn:summary": "Bank stocks are on quite the tear. Eddy Elfenbein of AdvisorShares and Craig Johnson of Piper Jaffray discuss with Eric Chemi.",
+      "cn:editedBy": "eric.chemi",
+      "cn:createdBy": "Rebecca.Ungarino",
+      "cn:shorterDescription": "Bank stocks are on quite the tear. Eddy Elfenbein of AdvisorShares and Craig Johnson of Piper Jaffray discuss with Eric Chemi.",
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:keyword": "Banks, KBE, KRE, bank ETF, trading, stocks",
+      "cn:vcpsId": 3000660537,
+      "cn:transcriptUrl": "",
+      "cn:closedCaptionUrl": "",
+      "name": "Why the bank rally could continue",
+      "cn:show": "Trading Nation",
+      "duration": 214,
+      "cn:network": 1,
+      "encodings": [
+        {
+          "@type": "VideoObject",
+          "url": "http://vcps.cnbc.com/vcps/media/content?id=MzAwMDY2MDUzNwptcGVnNF81MDAwMDAKU3RyZWFtaW5n&UserName=cmsguest@cnbc.com&key=NA",
+          "encodingFormat": "mpeg4",
+          "bitrate": 500000,
+          "cn:protocol": "Streaming",
+          "cn:formatName": "mpeg4_500000_Streaming"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M10D05/3000660537/5ED1-REQ-Segment1TN-NEW-100517_Updated_L.mp4",
+          "encodingFormat": "mpeg4",
+          "bitrate": 500000,
+          "cn:protocol": "Download",
+          "cn:formatName": "mpeg4_500000_Download"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://vcps.cnbc.com/vcps/media/content?id=MzAwMDY2MDUzNwptcGVnNHdfNDUwMEsKU3RyZWFtaW5n&UserName=cmsguest@cnbc.com&key=NA",
+          "encodingFormat": "mpeg4",
+          "bitrate": 4500000,
+          "cn:protocol": "Streaming",
+          "cn:formatName": "mpeg4_4500000_Streaming"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M10D05/3000660537/5ED1-REQ-Segment1TN-NEW-100517_Updated_MBR_4500.mp4",
+          "encodingFormat": "mpeg4",
+          "bitrate": 4500000,
+          "cn:protocol": "Download",
+          "cn:formatName": "mpeg4_4500000_Download"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://vcps.cnbc.com/vcps/media/content?id=MzAwMDY2MDUzNwpGTFZfNDMyeDI0MF8zMHBfNTAwSwpTdHJlYW1pbmc&UserName=cmsguest@cnbc.com&key=NA",
+          "encodingFormat": "flv",
+          "bitrate": 500000,
+          "cn:protocol": "Streaming",
+          "cn:formatName": "flv_500000_Streaming"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "ftp://cnbc.upload.akamai.com/23727/flash/VCPS/Y2017/M10D05/3000660537/5ED1-REQ-Segment1TN-NEW-100517_Updated_FLV_432x240_30p_500K.flv",
+          "encodingFormat": "flv",
+          "bitrate": 500000,
+          "cn:protocol": "Download",
+          "cn:formatName": "flv_500000_Download"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M10D05/3000660537/5ED1-REQ-Segment1TN-NEW-100517_Updated_H264_720x405_30p_1M.mp4",
+          "encodingFormat": "mpeg4",
+          "bitrate": 1100000,
+          "cn:protocol": "Download",
+          "cn:formatName": "mpeg4_1100000_Download"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://cnbcmbr-vh.akamaihd.net/i/mp4/VCPS/Y2017/M10D05/3000660537/5ED1-REQ-Segment1TN-NEW-100517_Updated_MBR_0500.mp4/master.m3u8",
+          "encodingFormat": "mpeg4",
+          "bitrate": 500000,
+          "cn:protocol": "HLSSBRStreaming",
+          "cn:formatName": "mpeg4_500000_HLSSBRStreaming"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://cnbcmbr-vh.akamaihd.net/z/mp4/VCPS/Y2017/M10D05/3000660537/5ED1-REQ-Segment1TN-NEW-100517_Updated_MBR_0500.mp4/manifest.f4m",
+          "encodingFormat": "mpeg4",
+          "bitrate": 500000,
+          "cn:protocol": "HDNSBRStreaming",
+          "cn:formatName": "mpeg4_500000_HDNSBRStreaming"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M10D05/3000660537/5ED1-REQ-Segment1TN-NEW-100517_Updated_H264_126K.mp4",
+          "encodingFormat": "mpeg4",
+          "bitrate": 200000,
+          "cn:protocol": "Download",
+          "cn:formatName": "mpeg4_200000_Download"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M10D05/3000660537/5ED1-REQ-Segment1TN-NEW-100517_Updated_H264_480x270_25p_500K.mp4",
+          "encodingFormat": "mpeg4",
+          "bitrate": 600000,
+          "cn:protocol": "Download",
+          "cn:formatName": "mpeg4_600000_Download"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://cnbcmbr-vh.akamaihd.net/i/mp4/VCPS/Y2017/M10D05/3000660537/5ED1-REQ-Segment1TN-NEW-100517_Updated_MBR_,0240,0300,0500,0700,0900,1300,1700,4500,.mp4.csmil/master.m3u8",
+          "encodingFormat": "mpeg4",
+          "bitrate": 1,
+          "cn:protocol": "HLSMBRStreaming",
+          "cn:formatName": "mpeg4_1_HLSMBRStreaming"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://cnbcmbr-vh.akamaihd.net/z/mp4/VCPS/Y2017/M10D05/3000660537/5ED1-REQ-Segment1TN-NEW-100517_Updated_MBR_,0240,0300,0500,0700,0900,1300,1700,4500,.mp4.csmil/manifest.f4m",
+          "encodingFormat": "mpeg4",
+          "bitrate": 1,
+          "cn:protocol": "HDNMBRStreaming",
+          "cn:formatName": "mpeg4_1_HDNMBRStreaming"
+        }
+      ],
+      "cn:relation": [
+        {
+          "position": 1,
+          "cn:relationType": "related",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "cn:relation": [
+        {
+          "position": 1,
+          "cn:relationType": "skin",
+          "cn:isPromoted": "false"
+        }
+      ],
+      "@id": "102464033"
+    }
+  ]
+}

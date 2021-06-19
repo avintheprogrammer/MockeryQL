@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {
+      "id": 104757404,
+      "type": "cnbcnewsstory",
+      "url": "https://qa-aws01pub.cnbc.com/2017/10/06/money-in-the-banks-financials-stocks-rocket-to-pre-crisis-levels.html",
+      "summary": "Bank stocks are showing some signs of life after moving sideways for the bulk of this year.",
+      "outbrainEnabled": false,
+      "commentsEnabled": true,
+      "dateline": true,
+      "displayByline": true,
+      "displaySource": true,
+      "datePublishedFormatted": "Published Fri, Oct 6 2017 • 1:33 PM EDT",
+      "dateLastPublishedFormatted": null,
+      "dateLastPublishedSixHr": "",
+      "socialtoolsEnabled": true,
+      "listType": "Virtual",
+      "tweetOnPublish": 1,
+      "shorterDescription": "Bank stocks are showing some signs of life after moving sideways for the bulk of this year.",
+      "brand": "cnbc",
+      "slug": "KBE Bank Stocks Rise TN 17106 UNGARINO",
+      "creatorOverwrite": null,
+      "headline": "Money in the banks: Financials stocks rocket to pre-crisis levels",
+      "title": "Money in the banks: Financials stocks rocket to pre-crisis levels",
+      "description": "Bank stocks are showing some signs of life after moving sideways for the bulk of this year.",
+      "premium": false,
+      "native": false,
+      "body": {
+        "content": [
+          {
+            "tagName": "cnbcvideo",
+            "attributes": {
+              "id": 104755370,
+              "type": "cnbcvideo",
+              "headline": "Why the bank rally could continue",
+              "title": "Why the bank rally could continue",
+              "url": "https://qa-aws01pub.cnbc.com/video/2017/10/05/why-the-bank-rally-could-continue.html",
+              "show": "Trading Nation",
+              "description": "Bank stocks are on quite the tear. Eddy Elfenbein of AdvisorShares and Craig Johnson of Piper Jaffray discuss with Eric Chemi.",
+              "thumbnail": "https://qa-aws02image-origin.cnbcfm.com/api/v1/image/104755381-5ED1-REQ-Segment1TN-100517.jpg?v=1507232153",
+              "duration": 214,
+              "uploadDate": "2017-10-05T19:28:49+0000",
+              "autoPlay": true
+            },
+            "children": []
+          },
+          {
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": [
+              {
+                "tagName": "p",
+                "children": [
+                  "Bank stocks are showing some signs of life after moving sideways for the bulk of this year. While some strategists are counting the ways the upside could continue, others are more cautionary on the group."
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  "Large exchange-traded funds that track bank and financials stocks have been on a tear as the likelihood rises for another Federal Reserve rate hike this year, and responding to the potential for higher interest rates across the board."
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  "The S&P Financials exchange-traded fund, the ",
+                  {
+                    "tagName": "a",
+                    "attributes": {
+                      "href": "https://qa-aws01pub.cnbc.com/quotes/?symbol=XLF",
+                      "type": "security",
+                      "brand": "cnbc",
+                      "section": {}
+                    },
+                    "children": [
+                      "XLF"
+                    ]
+                  },
+                  ", hit its highest level in nearly 10 years in Friday trading. A large bank stock-tracking ETF, the ",
+                  {
+                    "tagName": "a",
+                    "attributes": {
+                      "href": "https://qa-aws01pub.cnbc.com/quotes/?symbol=KBE",
+                      "type": "security",
+                      "brand": "cnbc",
+                      "section": {}
+                    },
+                    "children": [
+                      "KBE"
+                    ]
+                  },
+                  ", has surged over 10 percent in the last month alone."
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  "This bullish movement comes as Treasury note ",
+                  {
+                    "tagName": "a",
+                    "attributes": {
+                      "href": "https://qa-aws01pub.cnbc.com/quotes/?symbol=US10Y",
+                      "type": "security",
+                      "brand": "cnbc",
+                      "section": {}
+                    },
+                    "children": [
+                      "yields"
+                    ]
+                  },
+                  " have taken a leg higher, adding to a healthy outlook for banks' lending activity and the institutions' net interest margins. Strategists also point to a broader theme of a strong underlying economy and a more well-positioned consumer."
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  "More broadly, the financial sector has thrived and outperformed as expectations for tax reform and higher interest rates  \"keep investors bullish on banks,\" Clara Miles, derivatives strategist at Macro Risk Advisors, wrote Friday in a report to clients."
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  "Her tone was cautionary, however, pointing to the potential for a change in anticipated policy giving way to meaningful downside for the group."
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  " \"Although [volatility] is relatively muted across the sector, we think the outsize rally in financials offers a selling opportunity, as any contradiction to current policy expectations could catalyze a significant reversal,\" Miles wrote."
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  "Bank stocks are responding to what has been perceived as a rising chance of another interest rate hike ",
+                  {
+                    "tagName": "a",
+                    "attributes": {
+                      "href": "https://www.cnbc.com/2017/09/19/majority-on-wall-street-still-expect-a-december-rate-hike-survey.html",
+                      "section": {}
+                    },
+                    "children": [
+                      "announcement"
+                    ]
+                  },
+                  " to come this year, and the move also reflects underlying strength in the economy, said Eddy Elfenbein, portfolio manager at AdvisorShares. That would be even more beneficial for regional banks than large ones, Elfenbein said. He recommended Signature Bank, a New York-based commercial bank, and owns shares of it in his fund."
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  "Indeed, the market-implied probability of a December rate hike announcement from the Federal Open Market Committee has risen to ",
+                  {
+                    "tagName": "a",
+                    "attributes": {
+                      "href": "http://www.cmegroup.com/trading/interest-rates/countdown-to-fomc.html",
+                      "section": {}
+                    },
+                    "children": [
+                      "nearly 90 percent"
+                    ]
+                  },
+                  ", according to the CME Group FedWatch Tool."
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  "On a technical level, the financials overall have recently shown signs of strength after consolidating this year as a  \"disappointing trade for a lot of investors,\" said Craig Johnson, chief market technician at Piper Jaffray."
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  "The financials saw ",
+                  {
+                    "tagName": "a",
+                    "attributes": {
+                      "href": "https://qa-aws01pub.cnbc.com/2017/05/11/core-part-of-the-trump-trade-is-languishing.html",
+                      "type": "cnbcnewsstory",
+                      "brand": "cnbc",
+                      "section": {}
+                    },
+                    "children": [
+                      "massive upside"
+                    ]
+                  },
+                  " following the U.S. presidential election last November, but languished for much of this year as the likelihood of President Trump's pro-growth agenda passing was called into question and bond yields withered."
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  " \"Now that they're starting to work again, it's a positive sign that perhaps inflation expectations are finally rising, and we're finally going to get that net interest margin to improve,\" he said Thursday on CNBC's \"",
+                  {
+                    "tagName": "a",
+                    "attributes": {
+                      "href": "https://qa-aws01pub.cnbc.com/trading-nation/",
+                      "type": "franchise",
+                      "brand": "cnbc",
+                      "section": {}
+                    },
+                    "children": [
+                      "Trading Nation"
+                    ]
+                  },
+                  ". \""
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  "He echoed Elfenbein's sentiment that the regional banks as measured by the S&P regional banks exchange-traded fund, the ",
+                  {
+                    "tagName": "a",
+                    "attributes": {
+                      "href": "https://qa-aws01pub.cnbc.com/quotes/?symbol=KRE",
+                      "type": "security",
+                      "brand": "cnbc",
+                      "section": {}
+                    },
+                    "children": [
+                      "KRE"
+                    ]
+                  },
+                  ", looks better positioned than the KBE. The smaller banks are outperforming the large banks on a relative basis after seeing a downward trend for much of this year, he pointed out."
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  " \"While financials are interesting and working, I'd rather buy the mid- and small-cap banks than the larger-cap banks at this point in time,\" he said."
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  "The XLF and KBE were modestly lower in Friday trading, while the KRE was barely positive."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "keyPoints": [],
+      "relatedContent": {
+        "id": 104464736,
+        "type": "cnbcnewsstory",
+        "url": "https://qa-aws01pub.cnbc.com/2017/05/11/core-part-of-the-trump-trade-is-languishing.html"
+      },
+      "featuredMedia": null,
+      "promoImage": {
+        "id": 104442288,
+        "type": "image",
+        "contentSize": null
+      },
+      "datePublished": "2017-10-06T17:33:47+0000",
+      "dateModified": "2017-10-06T17:33:46+0000",
+      "publisher": {
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "section": {
+        "id": 102356916,
+        "color": "#000000",
+        "name": "Trading Nation",
+        "url": "https://qa-aws01pub.cnbc.com/trading-nation/",
+        "image": {
+          "url": "https://qa-aws02image-origin.cnbcfm.com/api/v1/image/102496952-trading-nation-600-ns.jpeg?v=1464025101"
+        },
+        "logo": {
+          "url": "https://qa-aws02image-origin.cnbcfm.com/api/v1/image/105158679-Squarelogo_modern_medicineCropped.jpg?v=1527168937"
+        },
+        "headerImage": {
+          "url": "https://qa-aws02image-origin.cnbcfm.com/api/v1/image/100017410-global-market-asia-region-gettyp.jpg?v=1350410874"
+        }
+      },
+      "relatedTags": [
+        {
+          "id": 1509518,
+          "name": "SPDR S&P Regional Banking ETF",
+          "url": "https://qa-aws01pub.cnbc.com/quotes/?symbol=KRE"
+        },
+        {
+          "id": 3032077,
+          "name": "US 10-YR",
+          "url": "https://qa-aws01pub.cnbc.com/quotes/?symbol=US10Y"
+        },
+        {
+          "id": 1509355,
+          "name": "SPDR S&P Bank ETF",
+          "url": "https://qa-aws01pub.cnbc.com/quotes/?symbol=KBE"
+        },
+        {
+          "id": 1516109,
+          "name": "Financial Select Sector SPDR Fund",
+          "url": "https://qa-aws01pub.cnbc.com/quotes/?symbol=XLF"
+        },
+        {
+          "id": 105056683,
+          "name": "Investment strategy",
+          "url": "https://qa-aws01pub.cnbc.com/investing/"
+        }
+      ],
+      "author": [
+        {
+          "id": 102394087,
+          "url": "https://qa-aws01pub.cnbc.com/rebecca-ungarino/",
+          "name": "Rebecca Ungarino",
+          "image": null,
+          "sameAs": [
+            "https://www.twitter.com/ungarino"
+          ],
+          "socialMediaInfo": [
+            {
+              "url": "https://twitter.com/ungarino",
+              "displayText": "ungarino",
+              "type": "twitter"
+            }
+          ]
+        }
+      ],
+      "sourceOrganization": [
+        {
+          "id": 80000022,
+          "type": "source",
+          "slug": "CNBC US Source",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/80000022",
+          "url": "https://qa-aws01pub.cnbc.com",
+          "description": "CNBC.com",
+          "logo": "https://qa-aws01fm.cnbc.com/applications/cnbc.com/resources/source_logo/2018/04/30/133403971-flowers.JPG",
+          "name": "CNBC.com",
+          "creatorOverwrite": null
+        }
+      ],
+      "sectionHierarchy": [
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 3
+        },
+        {
+          "id": 15839069,
+          "tagName": "Investing",
+          "order": 2
+        },
+        {
+          "id": 102356916,
+          "tagName": "Trading Nation",
+          "order": 1
+        }
+      ]
+    }
+  }
+}

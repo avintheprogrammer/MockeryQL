@@ -1,0 +1,354 @@
+{
+  "data": {
+    "page": {
+      "id": 104846992,
+      "brand": "cnbc",
+      "native": false,
+      "premium": false,
+      "template": "Regular Article",
+      "seoTitle": "Cisco (CSCO) stock up after earnings for Q1 2018",
+      "liveURL": "/2017/11/16/cisco-csco-stock-up-after-earnings-for-q1-2018.html",
+      "pageName": "104846992|2017/11/16/cisco-csco-stock-up-after-earnings-for-q1-2018",
+      "shortDatePublished": "11/16/2017",
+      "shortDateLastPublished": "03/20/2018",
+      "shortDateFirstPublished": "11/16/2017",
+      "layout": [
+        {
+          "columns": [
+            {
+              "modules": [
+                {
+                  "name": "articleTicker",
+                  "source": "10000113",
+                  "canChangeLayout": false,
+                  "canChangeSource": false,
+                  "serverRenderPolicy": "ssr"
+                }
+              ],
+              "span": "12",
+              "editable": false
+            }
+          ],
+          "editable": false
+        },
+        {
+          "columns": [
+            {
+              "modules": [
+                {
+                  "name": "adTopBanner",
+                  "source": null,
+                  "canChangeLayout": false,
+                  "canChangeSource": false,
+                  "serverRenderPolicy": "ssr"
+                }
+              ],
+              "span": "12",
+              "editable": false
+            }
+          ],
+          "editable": false
+        },
+        {
+          "columns": [
+            {
+              "modules": [
+                {
+                  "name": "articleHeaderEyebrow",
+                  "source": "104846992",
+                  "canChangeLayout": false,
+                  "canChangeSource": false,
+                  "serverRenderPolicy": "ssr"
+                }
+              ],
+              "span": "12",
+              "editable": true
+            }
+          ],
+          "editable": true
+        },
+        {
+          "columns": [
+            {
+              "modules": [
+                {
+                  "name": "articleInlineMedia",
+                  "source": "104846992",
+                  "canChangeLayout": false,
+                  "canChangeSource": false,
+                  "serverRenderPolicy": "ssr"
+                },
+                {
+                  "name": "keyPoints",
+                  "source": "104846992",
+                  "canChangeLayout": false,
+                  "canChangeSource": false,
+                  "serverRenderPolicy": "ssr"
+                },
+                {
+                  "name": "articleBody",
+                  "source": "104846992",
+                  "canChangeLayout": false,
+                  "canChangeSource": false,
+                  "serverRenderPolicy": "ssr"
+                },
+                {
+                  "name": "relatedTags",
+                  "source": "104846992",
+                  "canChangeLayout": false,
+                  "canChangeSource": false,
+                  "serverRenderPolicy": "ssr"
+                },
+                {
+                  "name": "taboola",
+                  "source": null,
+                  "canChangeLayout": false,
+                  "canChangeSource": false,
+                  "serverRenderPolicy": "client"
+                }
+              ],
+              "span": "8",
+              "editable": true
+            },
+            {
+              "modules": [
+                {
+                  "name": "adFlexBox",
+                  "source": null,
+                  "canChangeLayout": false,
+                  "canChangeSource": false,
+                  "serverRenderPolicy": "ssr"
+                },
+                {
+                  "name": "mostPopular",
+                  "source": "104846992",
+                  "canChangeLayout": false,
+                  "canChangeSource": false,
+                  "serverRenderPolicy": "ssr"
+                }
+              ],
+              "span": "4",
+              "editable": true
+            }
+          ],
+          "editable": true
+        },
+        {
+          "columns": [
+            {
+              "modules": [
+                {
+                  "name": "transporterArticle",
+                  "source": "104846992",
+                  "canChangeLayout": false,
+                  "canChangeSource": false,
+                  "serverRenderPolicy": "client"
+                }
+              ],
+              "span": "12",
+              "editable": true
+            }
+          ],
+          "editable": false
+        },
+        {
+          "columns": [
+            {
+              "modules": [
+                {
+                  "name": "adFlexBox",
+                  "source": null,
+                  "canChangeLayout": false,
+                  "canChangeSource": false,
+                  "serverRenderPolicy": "ssr"
+                }
+              ],
+              "span": "4",
+              "editable": true
+            },
+            {
+              "modules": [
+                {
+                  "name": "transporterSection",
+                  "source": "104846992",
+                  "canChangeLayout": false,
+                  "canChangeSource": false,
+                  "serverRenderPolicy": "ssr"
+                }
+              ],
+              "span": "8",
+              "editable": true
+            }
+          ],
+          "editable": true
+        }
+      ],
+      "tagName": "Cisco- $stock_pops@",
+      "projectTeamContent": [
+        {
+          "id": 100002766,
+          "headline": "CNBC US Team",
+          "tagName": "CNBC US Team from tag name"
+        }
+      ],
+      "relatedTags": [
+        {
+          "id": 1505169,
+          "headline": "Cisco Systems Inc",
+          "tagName": "Cisco Systems Inc",
+          "type": "company"
+        },
+        {
+          "id": 104847532,
+          "headline": "Buffett A-Z",
+          "tagName": "Buffett A-Z",
+          "type": "franchise"
+        },
+        {
+          "id": 100646105,
+          "headline": "FBI",
+          "tagName": "FBI",
+          "type": "organization"
+        },
+        {
+          "id": 104845386,
+          "headline": "Carbon Minerals Ltd",
+          "tagName": "Carbon Minerals Ltd",
+          "type": "company"
+        },
+        {
+          "id": 104847094,
+          "headline": "Bernstein Global Research Fund",
+          "tagName": "Bernstein Global Research Fund",
+          "type": "security"
+        },
+        {
+          "id": 104847444,
+          "headline": "Bank of Japan",
+          "tagName": "Bank of Japan",
+          "type": "tag"
+        },
+        {
+          "id": 15839215,
+          "headline": "Stocks",
+          "tagName": "Stocks from tag name",
+          "type": "franchise"
+        },
+        {
+          "id": 104847437,
+          "headline": "Dow Jones Industrial Average",
+          "tagName": "Dow Jones Industrial Average",
+          "type": "tag"
+        },
+        {
+          "id": 104847445,
+          "headline": "Marijuana",
+          "tagName": "Marijuana",
+          "type": "tag"
+        },
+        {
+          "id": 15838421,
+          "headline": "Closing Bell",
+          "tagName": "Closing Bell",
+          "type": "franchise"
+        },
+        {
+          "id": 19854910,
+          "headline": "Tech",
+          "tagName": "Technology1",
+          "type": "franchise"
+        },
+        {
+          "id": 15837362,
+          "headline": "U.S. News",
+          "tagName": "US: News",
+          "type": "franchise"
+        },
+        {
+          "id": 15839135,
+          "headline": "Earnings",
+          "tagName": "Earnings",
+          "type": "franchise"
+        },
+        {
+          "id": 10000064,
+          "headline": "Software",
+          "tagName": "Software",
+          "type": "franchise"
+        },
+        {
+          "id": 101004656,
+          "headline": "Enterprise",
+          "tagName": "Enterprise",
+          "type": "franchise"
+        },
+        {
+          "id": 1501792,
+          "headline": "Alphabet Class A",
+          "tagName": "Alphabet Class A from tag name",
+          "type": "company"
+        }
+      ],
+      "additionalSectionContent": [
+        {
+          "id": 10000066,
+          "headline": "Mobile",
+          "tagName": "Mobile tag 2",
+          "type": "franchise"
+        },
+        {
+          "id": 104832964,
+          "headline": "From Our Sponsor",
+          "tagName": null,
+          "type": "franchise"
+        }
+      ],
+      "relatedContent": [
+        {
+          "id": 104847465,
+          "headline": "Davos 2018",
+          "tagName": null,
+          "type": "event"
+        },
+        {
+          "id": 104847445,
+          "headline": "Marijuana",
+          "tagName": "Marijuana",
+          "type": "tag"
+        },
+        {
+          "id": 104847365,
+          "headline": "Dynamic Menu",
+          "tagName": null,
+          "type": "franchise"
+        },
+        {
+          "id": 104847459,
+          "headline": "The Job Interview Full Episodes",
+          "tagName": null,
+          "type": "franchise"
+        }
+      ],
+      "sectionHierarchy": [
+        {
+          "id": 19854910,
+          "tagName": "Technology1",
+          "order": 2
+        },
+        {
+          "id": 10000066,
+          "tagName": "Mobile tag 2",
+          "order": 1
+        }
+      ],
+      "creatorOverwrite": "Creator overwrite",
+      "projectContent": [
+        {
+          "id": 103544958,
+          "headline": "CNBC Pro Talks project Link Headline:",
+          "tagName": "CNBC Pro Talks project from Tag Name"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,435 @@
+{
+  "@id": "104769518",
+  "cn:type": "pressrelease",
+  "cn:slug": "EFI to Report Third Quarter 2017 Earnings Results on October 26, 2017 - 1507838780",
+  "cn:title": "EFI to Report Third Quarter 2017 Earnings Results on October 26, 2017",
+  "headline": "EFI to Report Third Quarter 2017 Earnings Results on October 26, 2017",
+  "cn:creatorOverwrite": "",
+  "cn:editedBy": "Anusha.Gogineni",
+  "cn:historicalURL": [],
+  "cn:createdBy": "ingest",
+  "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104769518",
+  "url": "http://qa-aws01web.cnbc.com/2017/10/12/globe-newswire-efi-to-report-third-quarter-2017-earnings-results-on-october-26-2017.html",
+  "datePublished": "2017-10-12T20:06:00+0000",
+  "sourceOrganization": [{
+    "@type": "Organization",
+    "@id": "100008963",
+    "cn:type": "source",
+    "cn:slug": "Globe Newswire",
+    "cn:createdBy": "ashish.gupta",
+    "cn:editedBy": "joseph.odell",
+    "cn:title": "",
+    "headline": "GlobeNewswire",
+    "cn:creatorOverwrite": "",
+    "cn:historicalURL": [],
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100008963",
+    "url": "",
+    "cn:sourceName": "Globe Newswire",
+    "description": "Globe Newswire"
+  }],
+  "cn:section": [{
+    "id": 10000027,
+    "tagName": "Press Releases",
+    "order": 1
+  }, {
+    "id": 17362414,
+    "tagName": "CNBC: News Releases",
+    "order": 2
+  }, {
+    "id": 10000025,
+    "tagName": "CNBC Information and Policies",
+    "order": 3
+  }, {
+    "id": 101041678,
+    "tagName": "CNBC feeds",
+    "order": 4
+  }],
+  "description": "FREMONT, Calif., Oct. 12, 2017-- Electronics For Imaging, Inc., a world leader in customer-focused digital printing innovation, will host its quarterly conference call to discuss third quarter results on Thursday, October 26, 2017 at 5:00 p.m. Eastern Time.. The Electronics For Imaging, Inc. logo is available at http://www.globenewswire.com/newsroom/prs/?",
+  "cn:settings": {
+    "cn:commentsEnabled": "No",
+    "cn:socialtoolsEnabled": "Yes",
+    "cn:tweetOnPublish": 0
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "CNBC",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "@context": {
+    "cn": "http://cnbc.com/schema/",
+    "@vocab": "http://schema.org/"
+  },
+  "@type": "NewsArticle",
+  "cn:xmlArticleBody": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p>FREMONT, Calif., Oct. 12, 2017 (GLOBE NEWSWIRE) -- Electronics For Imaging, Inc. (Nasdaq:EFII), a world leader in customer-focused digital printing innovation, will host its quarterly conference call to discuss third quarter results on Thursday, October 26, 2017 at 5:00 p.m. Eastern Time (2:00 p.m. Pacific Time).</p><p>The conference call will be webcast and investors will be able to access the webcast and slide presentation at the Investor Relations, Events &amp; Presentations portion of EFI's web site at&#160;<asset_inline ext_link=\"https://www.globenewswire.com/Tracker?data=xqUfYaOUhNQJKU4D4xO-WIR8yr3LsJbpMf-uOHHGfwCy02Cvoy_g463qhmptpkUtblRhb5Opf58c44Nuq_zzWw==\" ext_title=\"undefined\">http://ir.efi.com/</asset_inline>.</p><p>A replay of the webcast will be available online at the aforementioned web site following the conclusion of the conference call.</p><p><strong>About EFI</strong></p><p>EFI™ is a global technology company, based in Silicon Valley, and is leading the worldwide transformation from analog to digital imaging. We are passionate about fueling customer success with products that increase competitiveness and boost productivity. To do that, we develop breakthrough technologies for the manufacturing of signage, packaging, textiles, ceramic tiles, and personalized documents, with a wide range of printers, inks, digital front ends, and a comprehensive business and production workflow suite that transforms and streamlines the entire production process. (<asset_inline ext_link=\"http://www.efi.com\" ext_title=\"undefined\">www.efi.com</asset_inline>)</p><p><strong>Follow EFI Online</strong>:</p><p>Follow us on Twitter:&#160;<asset_inline ext_link=\"https://www.globenewswire.com/Tracker?data=JrMTm4CwbGiUL5pOImycrajXCZ7Ar2XvrqcJ6-01vlqgaZGy1_8zKY6C8UEsu5xnEWZ_valbWqS6FS-GTc3fNWcgz4GS9if_ObZNO1ohJRs=\" ext_title=\"undefined\">https://twitter.com/EFIPrint</asset_inline><br /> Follow us on Instagram:&#160;<asset_inline ext_link=\"https://www.globenewswire.com/Tracker?data=JrMTm4CwbGiUL5pOImycrQXrDaf_Kpt0jc0HDF3D8gSlu_8kErRevlWKWNpYdyZqIvjfdJ-_i_IcPHgCWhCFiopaWVx4Nl8--ZdTr9MD7IkGobrRPskT3rvajgmRRoUs\" ext_title=\"undefined\">https://www.instagram.com/efiprint</asset_inline><br /> Find us on Facebook:&#160;<asset_inline ext_link=\"https://www.globenewswire.com/Tracker?data=uOz5Ob0dN6mSYAS3kQYFTbgwKFYDYihTyE6ZzF6WddavO641NyslhsfyzWMW_XaxoRb52x59-h_C4ViaDWoeYhBBcW_t-qyr2eODZqkkPQg=\" ext_title=\"undefined\">www.facebook.com/EFIPrint</asset_inline><br /> View us on YouTube:&#160;<asset_inline ext_link=\"https://www.globenewswire.com/Tracker?data=Hb49zgH2vuMaSU4UgqdfbNAcdWg3pALKYoGdxoymgzqo59RvtPHPfNvSJ4hW3tiwflrz9tnCutZ1skC3a6qGSKSpSdcUXbufzUNRsxJZdxvl2oPRU-rwMVpzvpWsNUPywqWtbxJi2DBcGC1y4Uac8g==\" ext_title=\"undefined\">www.youtube.com/EFIDigitalPrintTech</asset_inline></p><p>The Electronics For Imaging, Inc. logo is available at&#160;<asset_inline ext_link=\"https://www.globenewswire.com/Tracker?data=xqUfYaOUhNQJKU4D4xO-WOZp1LFSknUB6ApLywM32Kz_zD3TyCxa0U853rqHPJxfIUHaqGjEhAdqv_JLXIH7kDnb6ivuXBQoVh-Oc53g7GzJTRwzOmK9kj-0bm5jJm5ODDWytsYV620Tr602p5RolxTyH8wfLpbZCSw259q6JVAQp_vyFY5X26YPvndDMhB3\" ext_title=\"undefined\">http://www.globenewswire.com/newsroom/prs/?pkgid=15847</asset_inline></p><p><strong>Contact Information:</strong></p><p><strong>Investor Relations</strong><br />JoAnn Horne<br />Market Street Partners<br /><asset_inline ext_link=\"https://www.globenewswire.com/Tracker?data=tBjlVXsqNK30G0gJkrv0rmVzAUVXhxZw6n1-ccNfLUN7EJ8ea0FfQidVFG_eU779G4AEmMqb-3gnTI5xkwtbJg==\" ext_title=\"undefined\">ir@efi.com</asset_inline> <br />415-445-3233</p><p></p><p></p><p>Source:Electronics For Imaging, Inc.</p></div></group></body>",
+  "articlebody": "FREMONT, Calif., Oct. 12, 2017 (GLOBE NEWSWIRE) -- Electronics For Imaging, Inc. (Nasdaq:EFII), a world leader in customer-focused digital printing innovation, will host its quarterly conference call to discuss third quarter results on Thursday, October 26, 2017 at 5:00 p.m. Eastern Time (2:00 p.m. Pacific Time).The conference call will be webcast and investors will be able to access the webcast and slide presentation at the Investor Relations, Events &amp; Presentations portion of EFI's web site at&#160;http://ir.efi.com/.A replay of the webcast will be available online at the aforementioned web site following the conclusion of the conference call.About EFIEFI™ is a global technology company, based in Silicon Valley, and is leading the worldwide transformation from analog to digital imaging. We are passionate about fueling customer success with products that increase competitiveness and boost productivity. To do that, we develop breakthrough technologies for the manufacturing of signage, packaging, textiles, ceramic tiles, and personalized documents, with a wide range of printers, inks, digital front ends, and a comprehensive business and production workflow suite that transforms and streamlines the entire production process. (www.efi.com)Follow EFI Online:Follow us on Twitter:&#160;https://twitter.com/EFIPrint Follow us on Instagram:&#160;https://www.instagram.com/efiprint Find us on Facebook:&#160;www.facebook.com/EFIPrint View us on YouTube:&#160;www.youtube.com/EFIDigitalPrintTechThe Electronics For Imaging, Inc. logo is available at&#160;http://www.globenewswire.com/newsroom/prs/?pkgid=15847Contact Information:Investor RelationsJoAnn HorneMarket Street Partnersir@efi.com 415-445-3233Source:Electronics For Imaging, Inc.",
+  "cn:xmlKeyPoints": "null",
+  "dateModified": "2018-01-05T19:12:50+0000",
+  "cn:association": [{
+    "@type": "CreativeWork",
+    "@id": "10000027",
+    "cn:type": "franchise",
+    "cn:slug": "Press Releases Auto-Assigned Franchise",
+    "cn:title": "Press Releases23",
+    "headline": "Press Releases5",
+    "cn:creatorOverwrite": "",
+    "cn:historicalURL": ["/id/10000027"],
+    "cn:editedBy": "sekhar.badugu",
+    "cn:createdBy": "migration",
+    "cn:subDomain": "Make-It.CNBC.com",
+    "cn:branding": "Make It",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000027",
+    "url": "http://qa-aws01web.cnbc.com/press-releases/",
+    "datePublished": "2012-01-30T01:47:48+0000",
+    "cn:section": [{
+      "id": 17362414,
+      "tagName": "CNBC: News Releases",
+      "order": 1
+    }, {
+      "id": 10000025,
+      "tagName": "CNBC Information and Policies",
+      "order": 2
+    }, {
+      "id": 101041678,
+      "tagName": "CNBC feeds",
+      "order": 3
+    }],
+    "description": "Latest news hot off the presses from CNBC. ",
+    "cn:settings": {
+      "cn:listType": "Manual and/or populated by feeds",
+      "cn:tweetOnPublish": 0
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:subtype": "special_report",
+    "cn:relation": [{
+      "position": 5000,
+      "cn:relationType": "section",
+      "cn:isPromoted": "true"
+    }]
+  }, {
+    "@type": "Organization",
+    "@id": "100008963",
+    "cn:type": "source",
+    "cn:slug": "Globe Newswire",
+    "cn:createdBy": "ashish.gupta",
+    "cn:editedBy": "joseph.odell",
+    "cn:title": "",
+    "headline": "GlobeNewswire",
+    "cn:creatorOverwrite": "",
+    "cn:historicalURL": [],
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100008963",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes"
+    },
+    "url": "",
+    "cn:sourceName": "Globe Newswire",
+    "datePublished": "2012-08-21T02:19:41+0000",
+    "cn:section": [],
+    "description": "Globe Newswire",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 4999,
+      "cn:relationType": "source",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@type": "DigitalDocument",
+    "fileFormat": "text/tpl",
+    "@id": "10001",
+    "cn:type": "markup_template",
+    "cn:slug": "Story Template",
+    "cn:title": "Story Template",
+    "headline": "Story Template",
+    "cn:creatorOverwrite": "",
+    "cn:editedBy": "srinivas.maroju",
+    "cn:historicalURL": [],
+    "cn:createdBy": "ingest",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Virtual"
+    },
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10001",
+    "cn:brand": 4,
+    "datePublished": "2012-08-09T14:57:55+0000",
+    "cn:section": [],
+    "name": "story.tpl",
+    "url": "file://story.tpl",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 4998,
+      "cn:relationType": "template",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@type": "CreativeWork",
+    "@id": "10001228",
+    "cn:type": "franchise",
+    "cn:slug": "Innovation",
+    "cn:title": "Innovation",
+    "headline": "Innovation",
+    "cn:creatorOverwrite": "",
+    "cn:editedBy": "jill.weinberger",
+    "cn:historicalURL": ["/innovation/"],
+    "cn:createdBy": "migration",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10001228",
+    "url": "http://qa-aws01web.cnbc.com/id/10001228",
+    "datePublished": "2012-03-01T21:44:46+0000",
+    "cn:section": [{
+      "id": 101004656,
+      "tagName": "Enterprise",
+      "order": 1
+    }, {
+      "id": 19854910,
+      "tagName": "Technology",
+      "order": 2
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 3
+    }],
+    "description": "Innovation",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Virtual"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:subtype": "section",
+    "cn:relation": [{
+      "position": 3,
+      "cn:relationType": "tags",
+      "cn:isPromoted": "true"
+    }]
+  }, {
+    "@type": "CreativeWork",
+    "@id": "19854910",
+    "cn:type": "franchise",
+    "cn:slug": "Technology",
+    "cn:title": "Technology",
+    "headline": "Tech",
+    "cn:creatorOverwrite": "",
+    "cn:historicalURL": ["/id/19854910", "/tech/"],
+    "cn:editedBy": "sekhar.badugu",
+    "cn:createdBy": "migration",
+    "cn:subDomain": "CNBC.com",
+    "cn:branding": "CNBC",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/19854910",
+    "url": "http://qa-aws01web.cnbc.com/technology/",
+    "datePublished": "2015-12-21T12:51:45+0000",
+    "cn:section": [{
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 1
+    }],
+    "description": "Find the latest business news pertaining to Technology covering companies, advancements, multimedia, electronics, mobile technologies, and science available on the official CNBC Technology site.",
+    "cn:settings": {
+      "cn:listType": "Manual and/or populated by feeds",
+      "cn:tweetOnPublish": 0
+    },
+    "image": {
+      "representativeOfPage": "true",
+      "@type": "ImageObject",
+      "@id": 102672478,
+      "author": "",
+      "datePublished": "2015-05-12T18:46:46+0000",
+      "caption": "",
+      "description": "",
+      "copyrightHolder": "",
+      "height": "1999",
+      "width": "2000",
+      "url": "https://qa-aws02capi-img-origin.cnbc.com/image/102672478-Tech-at-1Market-mezz.jpg?v=1431456504"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:subtype": "news_section",
+    "cn:relation": [{
+      "position": 2,
+      "cn:relationType": "tags",
+      "cn:isPromoted": "true"
+    }]
+  }, {
+    "@type": "DigitalDocument",
+    "@id": "100003343",
+    "cn:type": "skin",
+    "cn:slug": "cnbc global skin",
+    "cn:title": "",
+    "headline": "",
+    "cn:creatorOverwrite": "",
+    "cn:editedBy": "matt.shade",
+    "cn:historicalURL": [],
+    "cn:createdBy": "matt.shade",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100003343",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:tweetOnPublish": 0
+    },
+    "datePublished": "2012-07-30T19:54:30+0000",
+    "cn:section": [],
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 2,
+      "cn:relationType": "skin",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@type": "Corporation",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes"
+    },
+    "@id": "1506124",
+    "cn:type": "company",
+    "cn:slug": "Electronics for Imaging Inc T:EFII",
+    "cn:createdBy": "ingest",
+    "cn:editedBy": "ingest",
+    "cn:title": "Electronics for Imaging Inc",
+    "cn:historicalURL": [],
+    "headline": "Electronics for Imaging Inc",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/1506124",
+    "url": "/quotes/?symbol=EFII",
+    "datePublished": "2017-04-20T21:12:58+0000",
+    "cn:section": [],
+    "cn:symbol": "EFII",
+    "cn:exchangeName": "NASDAQ",
+    "cn:issuerId": 16035,
+    "tickerSymbol": "NASDAQ EFII",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 1,
+      "cn:relationType": "tags",
+      "cn:isPromoted": "true"
+    }]
+  }, {
+    "@type": "Place",
+    "@id": "10000385",
+    "cn:type": "place",
+    "cn:slug": "United States",
+    "cn:title": "United States",
+    "headline": "United States",
+    "cn:creatorOverwrite": "",
+    "cn:editedBy": "Xinjie.Luo",
+    "cn:historicalURL": ["/id/10000385"],
+    "cn:createdBy": "migration",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes"
+    },
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000385",
+    "url": "http://qa-aws01web.cnbc.com/united-states/",
+    "datePublished": "2012-05-02T04:25:50+0000",
+    "cn:section": [{
+      "id": 100003114,
+      "tagName": "US Top News and Analysis",
+      "order": 1
+    }],
+    "description": "United States - Regional ",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 1,
+      "cn:relationType": "related",
+      "cn:isPromoted": "true"
+    }]
+  }, {
+    "@type": "DigitalDocument",
+    "@id": "101588857",
+    "cn:type": "skin",
+    "cn:slug": "Hide embedded images Skin",
+    "cn:title": "Hide embedded images Skin",
+    "headline": "Hide embedded images Skin",
+    "cn:creatorOverwrite": "",
+    "cn:editedBy": "viktor.cea",
+    "cn:historicalURL": [],
+    "cn:createdBy": "viktor.cea",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/101588857",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:dateline": "Yes",
+      "cn:displayByline": "Yes",
+      "cn:displaySource": "Yes",
+      "cn:outbrainEnabled": "Yes",
+      "cn:listType": "Virtual"
+    },
+    "datePublished": "2014-04-16T15:02:44+0000",
+    "cn:section": [],
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 1,
+      "cn:relationType": "skin",
+      "cn:isPromoted": "false"
+    }]
+  }]
+}

@@ -1,0 +1,24 @@
+{
+  "data": {
+    "creator": {
+      "id": 103944451,
+      "type": "creator",
+      "brand": "cnbc",
+      "summary": null,
+      "shorterDescription": null,
+      "slug": "Test 2",
+      "datePublished": "2016-09-15T20:27:08+0000",
+      "description": null,
+      "headline": "Test",
+      "url": "http://qa-aws01web.cnbc.com/testcreator/",
+      "name": null,
+      "premium": false,
+      "native": false,
+      "image": null,
+      "sameAs": null,
+      "socialMediaInfo": null,
+      "body": [],
+      "keyPoints": []
+    }
+  }
+}

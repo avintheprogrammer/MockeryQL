@@ -1,0 +1,31 @@
+{
+  "playerConfig": {
+    "sticky": true,
+    "workflow": "VOD",
+    "endCard": false,
+    "embedURL":"https://player.cnbc.com/p/gZWlPC/cnbc_global_qa?playertype=synd&byGuid=",
+    "hlshtml": true,
+    "primary": "html5",
+    "playbackRateControls": false,
+    "fwassetId": "cnbc_",
+    "mediaid": "cnbc_",
+    "key": "kUNttoq2/4rWpvnQfp8li9YuepHLyGaDTdYfyFRSQAx2uiaN",
+    "advertising": {
+      "client": "freewheel",
+      "creativeTimeout": "1000",
+      "freewheel": {
+        "networkid": 169843,
+        "profileid": "169843:nbcu_mobileweb_js_cs_moat_https",
+        "adManagerURL": "https://mssl.fwmrm.net/p/vitest-js/AdManager.js",
+        "sectionid": "cnbc_inline_vod",
+        "serverid": "//29773.v.fwmrm.net/ad/p/1"
+      },
+      "schedule": {
+        "adbreak": {
+          "offset": "pre",
+          "tag": "placeholder_preroll"
+        }
+      }
+    }
+  }
+}

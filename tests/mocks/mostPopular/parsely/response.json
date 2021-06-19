@@ -1,0 +1,46 @@
+{
+  "data": [{
+    "_hits": 106122,
+    "author": "Christine Wang",
+    "authors": ["Christine Wang"],
+    "full_content_word_count": 299,
+    "image_url": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2016/04/20/103564490-GettyImages-509081376.720x405.jpg",
+    "link": "https://www.cnbc.com/2018/01/22/trump-to-impose-30-percent-tariff-on-solar-cell-imports.html",
+    "metadata": "{\"nodeid\": \"104937964\",\"originalImage\": \"https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2016/04/20/103564490-GettyImages-509081376.jpg\"}",
+    "metrics": {
+      "views": 106122
+    },
+    "pub_date": "2018-01-22T21:48:46",
+    "section": "Economy",
+    "tags": ["Articles", "Business", "Economy", "Manufacturing", "Politics", "Trade", "US Economy", "US: News", "source:tagname:CNBC Asia Source"],
+    "thumb_url_medium": "https://images.parsely.com/uTCt02thKT0qWEkXszShA2PExbc=/85x85/smart/https%3A//fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2016/04/20/103564490-GettyImages-509081376.720x405.jpg",
+    "title": "Trump to impose 30 percent tariff on solar cell imports",
+    "url": "https://www.cnbc.com/2018/01/22/trump-to-impose-30-percent-tariff-on-solar-cell-imports.html"
+  }, {
+    "_hits": 99945,
+    "author": "Holly Ellyatt",
+    "authors": ["Holly Ellyatt"],
+    "full_content_word_count": 557,
+    "image_url": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/01/24/104964763-GettyImages-909650128.720x405.jpg",
+    "link": "https://www.cnbc.com/2018/01/24/germany-has-difficulties-and-polarization-that-we-havent-seen-for-decades-merkel-tells-davos.html",
+    "metadata": "{\"nodeid\": \"104964343\",\"originalImage\": \"https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/01/24/104964763-GettyImages-909650128.jpg\"}",
+    "metrics": {
+      "views": 99945
+    },
+    "pub_date": "2018-01-24T13:35:59",
+    "section": "Economy",
+    "tags": ["Angela Merkel", "Articles", "Banks", "Davos WEF", "Donald Trump", "Economy", "Germany", "Politics", "Special Reports", "Switzerland", "World Economy", "source:tagname:CNBC Europe Source"],
+    "thumb_url_medium": "https://images.parsely.com/zVpHrvhJI0OOKuDlUfLNpjJE8og=/85x85/smart/https%3A//fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/01/24/104964763-GettyImages-909650128.720x405.jpg",
+    "title": "German leader Merkel says the current world order is under threat",
+    "url": "https://www.cnbc.com/2018/01/24/germany-has-difficulties-and-polarization-that-we-havent-seen-for-decades-merkel-tells-davos.html"
+  }],
+  "links": {
+    "first": "https://api.parsely.com/v2/analytics/posts?apikey=cnbc.com&limit=2&secret=4My3Yx2fikHTQZdaTf8v4SJpPgElYCidyv7YuXFSWrg&section=Economy&page=1",
+    "next": "https://api.parsely.com/v2/analytics/posts?apikey=cnbc.com&limit=2&secret=4My3Yx2fikHTQZdaTf8v4SJpPgElYCidyv7YuXFSWrg&section=Economy&page=2"
+  },
+  "meta": {
+    "metrics": ["views"],
+    "sort": "views"
+  },
+  "success": true
+}

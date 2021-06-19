@@ -1,0 +1,2812 @@
+{
+  "@id": "15839069",
+  "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15839069",
+  "cn:type": "franchise",
+  "cn:slug": "Investing",
+  "cn:subType": "primetime_show",
+  "cn:tagName": "Investing",
+  "cn:title": "Investing",
+  "cn:creatorOverwrite": "",
+  "url": "https://qa-aws01web.cnbc.com/investing/",
+  "cn:liveURL": "/investing/",
+  "cn:createdBy": "migration",
+  "cn:editedBy": "Anusha.Gogineni",
+  "datePublished": "2012-01-30T01:52:25+0000",
+  "cn:summary": "Expert Analysis, Investment Tools, Stock Screeners, and Financial Strategy Information.",
+  "cn:sectionLinktext": "Investing",
+  "headline": "Investing",
+  "cn:sectionLabel": "Investing",
+  "cn:tabLabel": "Investing",
+  "cn:shorterDescription": "Expert Analysis, Investment Tools, Stock Screeners, and Financial Strategy Information.",
+  "cn:shortestDescription": "Investment Tools and Financial Strategy Coverage",
+  "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"100243441\"/></assets><div class=\"group\"/></group></body>",
+  "cn:sectionHierarchy": [{
+      "id": 15839069,
+      "tagName": "Investing",
+      "order": 1
+    },
+    {
+      "id": 10000664,
+      "tagName": "Finance",
+      "order": 2
+    },
+    {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 3
+    }
+  ],
+  "cn:featuredMedia": {
+    "cn:isPromoted": "false",
+    "cn:isHighTouch": "false",
+    "@type": "ImageObject",
+    "cn:type": "image",
+    "cn:creatorOverwrite": "Photographer | CNBC ",
+    "@id": "104397217",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104397217",
+    "cn:slug": "Investing in Megatrends promo image",
+    "cn:title": "",
+    "cn:tagName": "",
+    "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104397217-INVESTING_IN_MEGATRENDS.jpg?v=1517641447",
+    "description": "this is an investing image",
+    "author": "nathaniel quashie",
+    "contentSize": 609072,
+    "caption": "investing done right",
+    "copyrightHolder": "Photographer | CNBC ",
+    "height": "1080",
+    "width": "1920"
+  },
+  "cn:settings": {
+    "cn:listType": "Manual and/or populated by feeds",
+    "cn:tweetOnPublish": 0
+  },
+  "cn:association": [{
+      "@type": "ImageObject",
+      "cn:type": "image",
+      "cn:creatorOverwrite": "Photographer | CNBC ",
+      "@id": "104397217",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104397217",
+      "cn:slug": "Investing in Megatrends promo image",
+      "cn:title": "",
+      "cn:tagName": "",
+      "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104397217-INVESTING_IN_MEGATRENDS.jpg?v=1517641447",
+      "description": "this is an investing image",
+      "author": "nathaniel quashie",
+      "contentSize": 609072,
+      "caption": "investing done right",
+      "copyrightHolder": "Photographer | CNBC ",
+      "height": "1080",
+      "width": "1920",
+      "cn:relation": [{
+        "cn:relationType": "featured_media",
+        "cn:isPromoted": "false",
+        "cn:isHighTouch": "false"
+      }]
+    },
+    {
+      "cn:type": "franchise",
+      "cn:creatorOverwrite": "",
+      "@id": "10000664",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000664",
+      "cn:slug": "Finance",
+      "cn:subType": "news_section",
+      "url": "https://qa-aws01web.cnbc.com/finance/",
+      "cn:title": "Finance",
+      "cn:tagName": "Finance",
+      "description": "Latest investing news and finance headlines straight from Wall Street.",
+      "name": "Finance",
+      "cn:sectionColor": "#000000",
+      "cn:promoText": "",
+      "cn:showTime": "",
+      "@type": "Collection",
+      "cn:relation": [{
+          "cn:relationType": "section",
+          "cn:isPromoted": "false"
+        },
+        {
+          "cn:relationType": "navigation",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "url": "http://qa-aws01web.cnbc.com/banks/",
+      "cn:type": "franchise",
+      "cn:title": "Banks",
+      "cn:creatorOverwrite": "",
+      "@id": "10000876",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000876",
+      "cn:slug": "Banks",
+      "cn:tagName": "Banks",
+      "cn:subType": "section",
+      "description": "Banking news, banks, online banking services, electronic banking, loans, and overall banking industry coverage. ",
+      "name": "Banks",
+      "@type": "Collection",
+      "cn:relation": [{
+        "cn:relationType": "navigation",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "cn:type": "franchise",
+      "cn:creatorOverwrite": "",
+      "@id": "15839069",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15839069",
+      "cn:slug": "Investing",
+      "cn:subType": "primetime_show",
+      "url": "https://qa-aws01web.cnbc.com/investing/",
+      "cn:title": "Investing",
+      "cn:tagName": "Investing",
+      "description": "Expert Analysis, Investment Tools, Stock Screeners, and Financial Strategy Information.",
+      "name": "Investing",
+      "cn:sectionColor": "#000000",
+      "cn:promoText": "",
+      "cn:showTime": "",
+      "@type": "Collection",
+      "cn:relation": [{
+        "cn:relationType": "navigation",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "url": "http://qa-aws01web.cnbc.com/wall-street/",
+      "cn:type": "franchise",
+      "cn:title": "Wall Street",
+      "cn:creatorOverwrite": "",
+      "@id": "10000958",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000958",
+      "cn:slug": "Wall Street",
+      "cn:tagName": "Wall Street",
+      "cn:subType": "section",
+      "description": "Breaking news and latest headlines from Wall Street including articles, videos, photos, and blogs. ",
+      "name": "Wall Street",
+      "@type": "Collection",
+      "cn:relation": [{
+        "cn:relationType": "navigation",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "cn:type": "franchise",
+      "cn:creatorOverwrite": "",
+      "@id": "10000293",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000293",
+      "cn:slug": "Hedge Funds",
+      "cn:subType": "news_section",
+      "url": "https://qa-aws01web.cnbc.com/hedge-funds/",
+      "cn:title": "Hedge Fundsssss",
+      "cn:tagName": "Hedge Funds Tag",
+      "description": "Latest news on hedge funds, private equity firms, and investing from CNBC.com.\r\n",
+      "name": "Hedge Fundsssss",
+      "cn:sectionColor": "#000000",
+      "cn:promoText": "",
+      "cn:showTime": "",
+      "@type": "Collection",
+      "cn:relation": [{
+        "cn:relationType": "navigation",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "cn:type": "franchise",
+      "cn:creatorOverwrite": "",
+      "@id": "10000621",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000621",
+      "cn:slug": "Mergers and Acquisitions",
+      "cn:subType": "section",
+      "url": "https://qa-aws01web.cnbc.com/mergers-and-acquisitions/",
+      "cn:title": "Mergers and Acquisitions",
+      "cn:tagName": "Mergers and Acquisitions",
+      "description": "Find the latest news about mergers and acquisitions, buyouts, takeovers and companies from CNBC.com.\r\n",
+      "name": "Mergers and Acquisitions",
+      "cn:sectionColor": "#000000",
+      "cn:promoText": "",
+      "cn:showTime": "",
+      "@type": "Collection",
+      "cn:relation": [{
+        "cn:relationType": "navigation",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "cn:type": "franchise",
+      "cn:creatorOverwrite": "",
+      "@id": "100003114",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100003114",
+      "cn:slug": "US Top News and Analysis",
+      "cn:subType": "section",
+      "url": "/us-top-news-and-analysis/",
+      "cn:title": "US Top News and Analysis",
+      "cn:tagName": "US Top News and Analysis",
+      "description": "",
+      "name": "US Top News and Analysis",
+      "cn:sectionColor": "#000000",
+      "cn:promoText": "",
+      "cn:showTime": "",
+      "@type": "Collection",
+      "cn:relation": [{
+        "cn:relationType": "content_queue",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "cn:type": "franchise",
+      "cn:creatorOverwrite": "",
+      "@id": "15839215",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15839215",
+      "cn:slug": "Stocks",
+      "cn:subType": "news_section",
+      "url": "http://qa-aws01web.cnbc.com/stocks/",
+      "cn:title": "Stocks",
+      "cn:tagName": "Stocks from tag name",
+      "description": "In-depth market analysis, real-time stock market data, research and earnings from CNBC.com. ",
+      "name": "Stocks",
+      "@type": "Collection",
+      "cn:relation": [{
+        "cn:relationType": "content_queue",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "url": "http://qa-aws01web.cnbc.com/insurance/",
+      "cn:type": "franchise",
+      "cn:title": "Insurance",
+      "cn:creatorOverwrite": "",
+      "@id": "10000878",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000878",
+      "cn:slug": "Insurance",
+      "cn:tagName": "Insurance",
+      "cn:subType": "section",
+      "description": "Latest news on financial services and insurance resources on CNBC.com. ",
+      "name": "Insurance",
+      "@type": "Collection",
+      "cn:relation": [{
+        "cn:relationType": "navigation",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "url": "http://qa-aws01web.cnbc.com/venture-capital/",
+      "cn:type": "franchise",
+      "cn:title": "Venture Capital",
+      "cn:creatorOverwrite": "",
+      "@id": "10001015",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10001015",
+      "cn:slug": "Venture Capital",
+      "cn:tagName": "Venture Capital",
+      "cn:subType": "section",
+      "description": "Latest headlines on venture capital, startups, and crowdfunding from CNBC.com. ",
+      "name": "Venture Capital",
+      "@type": "Collection",
+      "cn:relation": [{
+        "cn:relationType": "navigation",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "url": "http://qa-aws01web.cnbc.com/id/10000864",
+      "cn:type": "franchise",
+      "cn:title": "NYSE",
+      "cn:creatorOverwrite": "",
+      "@id": "10000864",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000864",
+      "cn:slug": "NYSE",
+      "cn:tagName": "NYSE",
+      "cn:subType": "section",
+      "description": "NYSE",
+      "name": "NYSE",
+      "@type": "Collection",
+      "cn:relation": [{
+        "cn:relationType": "content_queue",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "cn:type": "franchise",
+      "cn:creatorOverwrite": "",
+      "@id": "15838459",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15838459",
+      "cn:slug": "Mad Money",
+      "cn:subType": "news_show",
+      "url": "https://qa-aws01web.cnbc.com/mad-money/",
+      "cn:title": "Mad Money with Jim Cramer",
+      "cn:tagName": "Mad Money",
+      "description": "Mad Money seeks to help people like you, who own stocks and feel like they're on the outside looking in, become better investors. To teach you how to think about the market like a pro. This show is not about picking stocks. It's not about giving you tips that will make you money overnight. Our mission is educational, to teach you how to analyze stocks and the market through the prism of events.",
+      "name": "Mad Money with Jim Cramer",
+      "cn:sectionColor": "#000000",
+      "cn:promoText": "",
+      "cn:showTime": "6p ET",
+      "@type": "Collection",
+      "cn:relation": [{
+        "cn:relationType": "related",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "url": "http://qa-aws01web.cnbc.com/id/17",
+      "cn:type": "franchise",
+      "cn:title": "Franchise Root",
+      "@id": "17",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/17",
+      "cn:slug": "Franchise Root",
+      "name": "Franchise Root",
+      "@type": "Collection",
+      "cn:relation": [{
+        "cn:relationType": "parent",
+        "cn:isPromoted": "false"
+      }]
+    }
+  ],
+  "description": "Expert Analysis, Investment Tools, Stock Screeners, and Financial Strategy Information.",
+  "cn:section": {
+    "cn:type": "franchise",
+    "cn:creatorOverwrite": "",
+    "@id": "10000664",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000664",
+    "cn:slug": "Finance",
+    "cn:subType": "news_section",
+    "url": "https://qa-aws01web.cnbc.com/finance/",
+    "cn:title": "Finance",
+    "cn:tagName": "Finance",
+    "cn:subDomain": "https://qa-aws01web.cnbc.com",
+    "cn:branding": "cnbc",
+    "cn:sectionHierarchy": [{
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 1
+    }],
+    "cn:sectionLabel": "Finance",
+    "cn:liveURL": "/finance/",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Manual and/or populated by feeds",
+      "cn:tweetOnPublish": 0
+    },
+    "description": "Latest investing news and finance headlines straight from Wall Street.",
+    "cn:sectionLinktext": "Finance",
+    "headline": "Finance",
+    "datePublished": "2012-01-30T01:49:02+0000",
+    "cn:historicalURL": [
+      "/id/10000664"
+    ],
+    "cn:tabLabel": "Finance",
+    "cn:bodyTeaser": "null",
+    "cn:shortestDescription": "Latest investing news and finance headlines straight from Wall Street.",
+    "cn:summary": "Latest investing news and finance headlines straight from Wall Street.",
+    "cn:editedBy": "Devi.Chapidi",
+    "cn:createdBy": "migration",
+    "cn:shorterDescription": "Latest investing news and finance headlines straight from Wall Street.",
+    "name": "Finance",
+    "cn:sectionColor": "#000000",
+    "cn:promoText": "",
+    "cn:showTime": "",
+    "@type": "Collection"
+  },
+  "cn:branding": "cnbc",
+  "cn:subDomain": "https://qa-aws01web.cnbc.com",
+  "cn:historicalURL": [
+    "/id/15839069"
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "CNBC",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "@context": {
+    "cn": "http://cnbc.com/schema/",
+    "@vocab": "http://schema.org/"
+  },
+  "name": "Investing",
+  "cn:sectionColor": "#000000",
+  "cn:promoText": "",
+  "cn:showTime": "",
+  "@type": "Collection",
+  "cn:pagination": {
+    "cn:link": {
+      "cn:self": "https://qa-aws02capi-bl.cnbc.com/list/id/15839069?page=1&pagesize=5",
+      "cn:next": "https://qa-aws02capi-bl.cnbc.com/list/id/15839069?page=2&pagesize=5",
+      "cn:previous": "https://qa-aws02capi-bl.cnbc.com/list/id/15839069?page=1&pagesize=5",
+      "cn:last": "https://qa-aws02capi-bl.cnbc.com/list/id/15839069?page=1807&pagesize=5"
+    },
+    "cn:page": 1,
+    "cn:totalCount": 9034,
+    "cn:pageSize": 5
+  },
+  "cn:listItem": [{
+      "@id": "104847196",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847196",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Malone charter KIM 171116 EC ",
+      "cn:tagName": "",
+      "cn:title": "John Malone: There have been 'four different approaches’ for Charter",
+      "cn:creatorOverwrite": "",
+      "url": "/2017/11/16/john-malone-there-have-been-four-different-approaches-for-charter.html",
+      "author": [{
+          "@type": "Creator",
+          "@id": "102870727",
+          "name": "Tae Kim",
+          "url": "https://qa-aws01make-it.cnbc.com/tae-kim/",
+          "cn:tagName": "Tae Kim",
+          "position": "5000",
+          "sameAs": [
+            "https://www.twitter.com/firstadopter"
+          ],
+          "cn:socialMediaInfo": [{
+            "cn:url": "https://twitter.com/firstadopter",
+            "cn:displayText": "firstadopter",
+            "cn:type": "twitter"
+          }]
+        },
+        {
+          "@type": "Creator",
+          "@id": "104775715",
+          "name": "Joe Lonsdale",
+          "url": "http://qa-aws01pub.cnbc.com/joe-lonsdale/",
+          "cn:tagName": "Joe Lonsdale",
+          "position": "4999"
+        }
+      ],
+      "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "caption": "John Malone",
+        "author": "Bloomberg",
+        "copyrightHolder": "Matthew Staver | Bloomberg | Getty Images",
+        "@id": "104112420",
+        "height": "618",
+        "datePublished": "2016-11-16T17:17:47+0000",
+        "description": "UNITED STATES - JULY 08:  John Malone, chairman of Liberty Media Corp., speaks to the media as he arrives for a session during the Allen & Co. Media and Technology Conference in Sun Valley, Idaho, U.S., on Wednesday, July 8, 2009. Malone said television, film and publishing companies must find a way to charge Internet users for the content they provide.  (Photo by Matthew Staver/Bloomberg via Getty Images)",
+        "width": "880",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104112420-GettyImages-94968911.jpg?v=1516649960"
+      },
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "cn:association": [{
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "102356916",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/102356916",
+          "cn:slug": "Trading Nation",
+          "cn:subType": "special_report",
+          "url": "https://qa-aws01web.cnbc.com/trading-nation/",
+          "cn:title": "Trading Nation",
+          "cn:tagName": "Trading Nation",
+          "description": "Trading Nation brings together experts from across the financial world to capitalize on recent developments in the market. ",
+          "name": "Trading Nation",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "section",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "creator",
+          "cn:creatorOverwrite": "",
+          "@id": "102870727",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/102870727",
+          "cn:slug": "Tae Kim",
+          "url": "https://qa-aws01make-it.cnbc.com/tae-kim/",
+          "cn:title": "Tae Kim",
+          "cn:tagName": "Tae Kim",
+          "description": "Investing Journalist",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+            "cn:relationType": "author",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "creator",
+          "cn:creatorOverwrite": "",
+          "@id": "104775715",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104775715",
+          "cn:slug": "Joe Lonsdale",
+          "url": "http://qa-aws01pub.cnbc.com/joe-lonsdale/",
+          "cn:title": "Joe Lonsdale",
+          "cn:tagName": "Joe Lonsdale",
+          "description": "",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+            "cn:relationType": "author",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "@type": "ImageObject",
+          "cn:type": "image",
+          "cn:creatorOverwrite": "",
+          "@id": "104847282",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847282",
+          "cn:slug": "The Job Interview 105 Carousel",
+          "cn:title": "",
+          "cn:tagName": "",
+          "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104847282-jobinterview-s1-hdr-1900x750-105-03.jpg?v=1510850858",
+          "description": "",
+          "author": "",
+          "contentSize": 238948,
+          "caption": "",
+          "copyrightHolder": "",
+          "height": "750",
+          "width": "1900",
+          "cn:relation": [{
+            "cn:relationType": "tags",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "@type": "ImageObject",
+          "cn:type": "image",
+          "cn:creatorOverwrite": "",
+          "@id": "104847369",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847369",
+          "cn:slug": "test-ddqa24",
+          "cn:title": "test-ddqa24",
+          "cn:tagName": "",
+          "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104847369-liberty_island_516281.jpg?v=1515099476",
+          "description": "",
+          "author": "",
+          "contentSize": 81827,
+          "caption": "",
+          "copyrightHolder": "",
+          "height": "368",
+          "width": "552",
+          "cn:relation": [{
+            "cn:relationType": "tags",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "@type": "ImageObject",
+          "cn:type": "image",
+          "cn:creatorOverwrite": "",
+          "@id": "104847463",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847463",
+          "cn:slug": "test image 5",
+          "cn:title": "",
+          "cn:tagName": "",
+          "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104847463-imag4.jpg?v=1518202759",
+          "description": "",
+          "author": "",
+          "contentSize": 289227,
+          "caption": "",
+          "copyrightHolder": "",
+          "height": "900",
+          "width": "1200",
+          "cn:relation": [{
+            "cn:relationType": "tags",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "@type": "ImageObject",
+          "cn:type": "image",
+          "cn:creatorOverwrite": "",
+          "@id": "104847468",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847468",
+          "cn:slug": "test-imagedd1",
+          "cn:title": "test-imagedd1",
+          "cn:tagName": "",
+          "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104847468-tropical_beach_204377.jpg?v=1518202755",
+          "description": "",
+          "author": "",
+          "contentSize": 103323,
+          "caption": "",
+          "copyrightHolder": "",
+          "height": "368",
+          "width": "552",
+          "cn:relation": [{
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "cn:type": "image",
+          "cn:creatorOverwrite": "Matthew Staver | Bloomberg | Getty Images",
+          "@id": "104112420",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104112420",
+          "cn:slug": "Premium EA: John Malone",
+          "cn:title": "John Malone",
+          "cn:tagName": "",
+          "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104112420-GettyImages-94968911.jpg?v=1516649960",
+          "description": "UNITED STATES - JULY 08:  John Malone, chairman of Liberty Media Corp., speaks to the media as he arrives for a session during the Allen & Co. Media and Technology Conference in Sun Valley, Idaho, U.S., on Wednesday, July 8, 2009. Malone said television, film and publishing companies must find a way to charge Internet users for the content they provide.  (Photo by Matthew Staver/Bloomberg via Getty Images)",
+          "author": "Bloomberg",
+          "contentSize": 362112,
+          "caption": "John Malone",
+          "copyrightHolder": "Matthew Staver | Bloomberg | Getty Images",
+          "height": "618",
+          "width": "880",
+          "cn:relation": [{
+            "cn:relationType": "tags",
+            "cn:isPromoted": "true"
+          }]
+        },
+        {
+          "cn:type": "creator",
+          "cn:creatorOverwrite": "",
+          "@id": "15838155",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15838155",
+          "cn:slug": "David Faber",
+          "url": "http://qa-aws01web.cnbc.com/david-faber/",
+          "cn:title": "David Faber",
+          "cn:tagName": "David Faber",
+          "description": "David Faber is a co-anchor of CNBC's \"Squawk on the Street\" and an anchor and co-producer of CNBC's acclaimed original documentaries and long-form programming. During the day, Faber breaks news and provides in-depth analysis on a range of business topics during the \"Faber Report.\" ",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+            "cn:relationType": "tags",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/investment-strategy/",
+          "cn:type": "franchise",
+          "cn:title": "Investment Strategy",
+          "cn:creatorOverwrite": "",
+          "@id": "10000953",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000953",
+          "cn:slug": "Investment Strategy",
+          "cn:tagName": "Investment Strategy",
+          "cn:subType": "section",
+          "description": "Investment Strategy",
+          "name": "Investment Strategy",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "tags",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/id/10001007",
+          "cn:type": "franchise",
+          "cn:title": "Cable and Satellite",
+          "cn:creatorOverwrite": "",
+          "@id": "10001007",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10001007",
+          "cn:slug": "Cable and Satellite",
+          "cn:tagName": "Cable and Satellite",
+          "cn:subType": "section",
+          "description": "Cable and Satellite",
+          "name": "Cable and Satellite",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "tags",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/media/",
+          "cn:type": "franchise",
+          "cn:title": "Media",
+          "cn:creatorOverwrite": "",
+          "@id": "10000110",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000110",
+          "cn:slug": "Media",
+          "cn:tagName": "Media",
+          "cn:subType": "section",
+          "description": "Latest news on media, communications, broadcast media, media companies, social media, and advertising from CNBC.com.",
+          "name": "Media",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "tags",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "15839069",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15839069",
+          "cn:slug": "Investing",
+          "cn:subType": "primetime_show",
+          "url": "https://qa-aws01web.cnbc.com/investing/",
+          "cn:title": "Investing",
+          "cn:tagName": "Investing",
+          "description": "Expert Analysis, Investment Tools, Stock Screeners, and Financial Strategy Information.",
+          "name": "Investing",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "related",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        }
+      ],
+      "description": "Charter director John Malone shares his views in an exclusive interview with CNBC’s David Faber Thursday.",
+      "cn:section": {
+        "cn:type": "franchise",
+        "cn:creatorOverwrite": "",
+        "@id": "102356916",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/102356916",
+        "cn:slug": "Trading Nation",
+        "cn:subType": "special_report",
+        "url": "https://qa-aws01web.cnbc.com/trading-nation/",
+        "cn:title": "Trading Nation",
+        "cn:tagName": "Trading Nation",
+        "cn:subDomain": "https://qa-aws01web.cnbc.com",
+        "cn:branding": "cnbc",
+        "cn:sectionHierarchy": [{
+            "id": 102356916,
+            "tagName": "Trading Nation",
+            "order": 1
+          },
+          {
+            "id": 15839069,
+            "tagName": "Investing",
+            "order": 2
+          },
+          {
+            "id": 10000664,
+            "tagName": "Finance",
+            "order": 3
+          },
+          {
+            "id": 10000161,
+            "tagName": "CNBC Global",
+            "order": 4
+          }
+        ],
+        "cn:sectionLabel": "Trading Nation",
+        "cn:liveURL": "/trading-nation/",
+        "cn:settings": {
+          "cn:commentsEnabled": "No",
+          "cn:dateline": "Yes",
+          "cn:isFamilyFriendly": "Yes",
+          "cn:socialtoolsEnabled": "Yes",
+          "cn:displayByline": "Yes",
+          "cn:displaySource": "Yes",
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:outbrainEnabled": "No",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "Trading Nation brings together experts from across the financial world to capitalize on recent developments in the market. ",
+        "cn:sectionLinktext": "Trading Nation",
+        "headline": "Trading Nation",
+        "datePublished": "2015-03-10T18:35:32+0000",
+        "cn:historicalURL": [],
+        "cn:tabLabel": "Trading Nation",
+        "cn:bodyTeaser": "null",
+        "cn:shortestDescription": "Where headlines become opportunities. ",
+        "cn:summary": "Trading Nation brings together experts from across the financial world to capitalize on recent developments in the market. ",
+        "cn:editedBy": "Ying.Zhao",
+        "cn:createdBy": "Josephine.Bila",
+        "cn:shorterDescription": "Where headlines become opportunities. ",
+        "name": "Trading Nation",
+        "cn:sectionColor": "#000000",
+        "cn:promoText": "",
+        "cn:showTime": "",
+        "@type": "Collection"
+      },
+      "cn:liveURL": "/2017/11/16/john-malone-there-have-been-four-different-approaches-for-charter.html",
+      "cn:createdBy": "tae.kim1",
+      "cn:editedBy": "rekha.ponnur",
+      "datePublished": "2017-11-16T16:39:57+0000",
+      "cn:summary": "Charter director John Malone shares his views in an exclusive interview with CNBC’s David Faber Thursday.",
+      "cn:linkHeadline": "John Malone: There have been 'four different approaches’ for Charter",
+      "headline": "John Malone: There have been 'four different approaches’ for Charter",
+      "cn:shorterHeadline": "John Malone: There have been 'four different approaches’ for Charter",
+      "cn:shortestHeadline": "",
+      "cn:shorterDescription": "Charter director John Malone shares his views in an exclusive interview with CNBC’s David Faber Thursday.",
+      "cn:shortestDescription": "Charter director John Malone shares his views in an exclusive interview with CNBC’s David Faber Thursday.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104112420\"/></assets><div class=\"group\"><p>Charter Communications director John Malone tells CNBC several firms have talked to the cable company about a potential merger or acquisition.</p><p>The company has received \"four different approaches,\" Malone said in an exclusive interview with CNBC's David Faber Thursday at the Liberty Media annual investor meeting.</p><p>\"The problem is none of them at this point have made a pitch that was worthy of bringing it to the board and proposing it seriously to the board.\"</p><p>He mentioned the names of executives from Altice, Softbank and Verizon as potential acquirers of <asset_inline nid=\"1504598\">Charter</asset_inline>. When Faber asked for the identity of the fourth company, Malone said \"I'm not going to tell ya.\"</p><p>The investor explained the company has valued Charter's business using growth projections for the next four to five years. The company would need to see a bid above this internal estimate on a risk-adjusted basis to consider a sale.</p><p>\"We have a wonderful business and wonderful business plan,\" he said. \"Anything I'm involved in is for sale every day of the week. The store is always open … Have we seen anything yet that gets even close to ringing the bell? No.\"</p><p>Charter shares rose off its low after Malone's remarks aired on CNBC. The stock is up 1 percent Thursday morning.</p><p>Image</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 102356916,
+          "tagName": "Trading Nation",
+          "order": 1
+        },
+        {
+          "id": 15839069,
+          "tagName": "Investing",
+          "order": 2
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "cn:subDomain": "",
+      "cn:historicalURL": [],
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 23807
+      }]
+    },
+    {
+      "@id": "104847117",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847117",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Geopolitics oil ELLYATT 171116",
+      "cn:tagName": "",
+      "cn:title": "Geopolitics is the wildcard for oil right now, says Energy Aspects’ chief oil analyst",
+      "cn:creatorOverwrite": "",
+      "url": "/2017/11/16/geopolitics-is-the-wildcard-for-oil-right-now-energy-aspects-analyst.html",
+      "author": [{
+        "@type": "Creator",
+        "@id": "47723405",
+        "name": "Holly Ellyatt",
+        "url": "http://qa-aws01web.cnbc.com/holly-ellyatt/",
+        "cn:tagName": "Holly Ellyatt",
+        "position": "4999",
+        "sameAs": [
+          "https://www.twitter.com/@HollyEllyatt"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/@HollyEllyatt",
+          "cn:displayText": "@HollyEllyatt",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "caption": "Pumpjacks in an oil field.",
+        "author": "Paul Giamou",
+        "copyrightHolder": "Paul Giamou | Aurora | Getty Images",
+        "@id": "104748027",
+        "height": "1414",
+        "datePublished": "2017-10-03T01:38:10+0000",
+        "description": "A nodding donkey pumps crude up from the ground on an oil field",
+        "width": "2121",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104748027-GettyImages-158924758.jpg?v=1506994696"
+      },
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "cn:association": [{
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "104847472",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847472",
+          "cn:slug": "Special Report Rectangle",
+          "cn:subType": "special_report",
+          "url": "/special-report-logo-with-rectangle/",
+          "cn:title": "Special Report Logo with Rectangle",
+          "cn:tagName": "special_report",
+          "description": "Get latest business news on stock markets, financial & earnings on CNBC. View world markets streaming charts & video; check stock tickers and quotes.",
+          "name": "Special Report Logo with Rectangle",
+          "cn:sectionColor": "#984949",
+          "cn:promoText": "test promo text",
+          "cn:showTime": "test show time",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "section",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "creator",
+          "cn:creatorOverwrite": "",
+          "@id": "47723405",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/47723405",
+          "cn:slug": "Holly Ellyatt",
+          "url": "http://qa-aws01web.cnbc.com/holly-ellyatt/",
+          "cn:title": "Holly Ellyatt",
+          "cn:tagName": "Holly Ellyatt",
+          "description": "Correspondent at CNBC International.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+            "cn:relationType": "author",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/commodities/",
+          "cn:type": "franchise",
+          "cn:title": "Commodities",
+          "cn:creatorOverwrite": "",
+          "@id": "15839171",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15839171",
+          "cn:slug": "Commodity Trading Prices",
+          "cn:tagName": "Commodities",
+          "cn:subType": "section",
+          "description": "The latest commodity trading prices for oil, natural gas, gold, silver, wheat, corn and more on the U.S. commodities & futures market.",
+          "name": "Commodities",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "tags",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/world-markets/",
+          "cn:type": "franchise",
+          "cn:title": "World Markets",
+          "cn:creatorOverwrite": "",
+          "@id": "100003241",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100003241",
+          "cn:slug": "Global Markets",
+          "cn:tagName": "World Markets",
+          "cn:subType": "section",
+          "description": "Market headlines from across the globe. ",
+          "name": "World Markets",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "15839069",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15839069",
+          "cn:slug": "Investing",
+          "cn:subType": "primetime_show",
+          "url": "https://qa-aws01web.cnbc.com/investing/",
+          "cn:title": "Investing",
+          "cn:tagName": "Investing",
+          "description": "Expert Analysis, Investment Tools, Stock Screeners, and Financial Strategy Information.",
+          "name": "Investing",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "related",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/oil-gas/",
+          "cn:type": "franchise",
+          "cn:title": "Oil and Gas",
+          "cn:creatorOverwrite": "",
+          "@id": "10000030",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000030",
+          "cn:slug": "Oil and Gas",
+          "cn:tagName": "Oil and Gas",
+          "cn:subType": "section",
+          "description": "Latest news on oil prices, fracking, drilling, refining, and processing for gas. ",
+          "name": "Oil and Gas",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "tags",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "102",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/102",
+          "cn:slug": "Markets Redesign",
+          "cn:subType": "markets",
+          "url": "https://qa-aws01web.cnbc.com/markets/",
+          "cn:title": "Markets",
+          "cn:tagName": "Markets",
+          "description": "View up-to-date U.S. market and world market charts. Get the latest on world economy news and global markets in our Market Overview.",
+          "name": "Markets",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/energy/",
+          "cn:type": "franchise",
+          "cn:title": "Energy",
+          "cn:creatorOverwrite": "",
+          "@id": "19836768",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/19836768",
+          "cn:slug": "Energy",
+          "cn:tagName": "Energy",
+          "cn:subType": "section",
+          "description": "Find the latest news and analysis, headlines, blogs and videos about energy markets, gas, oil, coal, commodities, nuclear power from CNBC.com.",
+          "name": "Energy",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "tags",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/business/",
+          "cn:type": "franchise",
+          "cn:title": "Business",
+          "cn:creatorOverwrite": "",
+          "@id": "10001147",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10001147",
+          "cn:slug": "Business",
+          "cn:tagName": "Business",
+          "cn:subType": "section",
+          "description": "Latest headlines for business news around the world. ",
+          "name": "Business",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "tags",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "104847551",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847551",
+          "cn:slug": "2013 Berkshire Hathaway Annual Meeting",
+          "cn:subType": "section",
+          "url": "https://qa-aws01buffett.cnbc.com/2013-berkshire-hathaway-annual-meeting/",
+          "cn:title": "2013 Berkshire Hathaway Annual Meeting",
+          "cn:tagName": "",
+          "description": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lor",
+          "name": "2013 Berkshire Hathaway Annual Meeting",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "additional_sections",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "@type": "ImageObject",
+          "cn:type": "image",
+          "cn:creatorOverwrite": "Paul Giamou | Aurora | Getty Images",
+          "@id": "104748027",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104748027",
+          "cn:slug": "Premium: Oil field 171003 ",
+          "cn:title": "Pumpjacks in an oil field.",
+          "cn:tagName": "",
+          "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104748027-GettyImages-158924758.jpg?v=1506994696",
+          "description": "A nodding donkey pumps crude up from the ground on an oil field",
+          "author": "Paul Giamou",
+          "contentSize": 1655558,
+          "caption": "Pumpjacks in an oil field.",
+          "copyrightHolder": "Paul Giamou | Aurora | Getty Images",
+          "height": "1414",
+          "width": "2121",
+          "cn:relation": [{
+            "cn:relationType": "tags",
+            "cn:isPromoted": "true"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "104829126",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104829126",
+          "cn:slug": "Tech Holiday Gift Guide ",
+          "cn:subType": "special_report",
+          "url": "https://qa-aws01web.cnbc.com/the-best-gadgets-of-the-year-to-give-as-holiday-gifts/",
+          "cn:title": "The best gadgets of the year to give as holiday gifts",
+          "cn:tagName": "Tech Holiday Gift Guide",
+          "description": "Gift guides for the gadget lovers in your life",
+          "name": "The best gadgets of the year to give as holiday gifts",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "additional_sections",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "104823511",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104823511",
+          "cn:slug": "Alexa: Mad Money Lightning Round",
+          "cn:subType": "collection",
+          "url": "http://qa-aws01web.cnbc.com/104823511/",
+          "cn:title": "",
+          "cn:tagName": "Alexa: Mad Money Lightning Round",
+          "description": "",
+          "name": "",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "additional_sections",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "104266428",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104266428",
+          "cn:slug": "Digital Original",
+          "cn:subType": "original_show",
+          "url": "http://qa-aws01web.cnbc.com/digital-original/",
+          "cn:title": "Digital Original",
+          "cn:tagName": "Digital Original",
+          "description": "Original day-of content created by the business day digital video team.",
+          "name": "Digital Original",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "content_queue",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "cnbcvideo",
+          "cn:creatorOverwrite": "",
+          "@id": "104846350",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104846350",
+          "cn:slug": "171116 Amrita Sen EU",
+          "url": "/video/2017/11/16/geopolitical-risks-support-oil-prices-analyst-says.html",
+          "cn:title": "Geopolitical risks support oil prices, analyst says",
+          "cn:tagName": "",
+          "description": "Iraq is a bigger issue for oil markets than Iran, Amrita Sen, chief oil analyst at Energy Aspects, said.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+            "cn:relationType": "related",
+            "cn:isPromoted": "false"
+          }]
+        }
+      ],
+      "description": "Energy Aspects' Amrita Sen said that $60 to $65 per barrel range for oil was the \"new range for Brent.\"",
+      "cn:section": {
+        "cn:type": "franchise",
+        "cn:creatorOverwrite": "",
+        "@id": "104847472",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847472",
+        "cn:slug": "Special Report Rectangle",
+        "cn:subType": "special_report",
+        "url": "/special-report-logo-with-rectangle/",
+        "cn:title": "Special Report Logo with Rectangle",
+        "cn:tagName": "special_report",
+        "cn:subDomain": "",
+        "cn:sectionHierarchy": [{
+            "id": 104847472,
+            "tagName": "special_report",
+            "order": 1
+          },
+          {
+            "id": 100000233,
+            "tagName": "",
+            "order": 2
+          },
+          {
+            "id": 101050794,
+            "tagName": "CNBC Utilities Page",
+            "order": 3
+          },
+          {
+            "id": 10000161,
+            "tagName": "CNBC Global",
+            "order": 4
+          }
+        ],
+        "cn:sectionLabel": "CNBC",
+        "cn:liveURL": "/special-report-logo-with-rectangle/",
+        "cn:settings": {
+          "cn:commentsEnabled": "No",
+          "cn:dateline": "Yes",
+          "cn:isFamilyFriendly": "Yes",
+          "cn:socialtoolsEnabled": "No",
+          "cn:displayByline": "Yes",
+          "cn:displaySource": "Yes",
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:outbrainEnabled": "Yes",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "Get latest business news on stock markets, financial & earnings on CNBC. View world markets streaming charts & video; check stock tickers and quotes.",
+        "cn:sectionLinktext": "CNBC US Home",
+        "headline": "CNBC US Home",
+        "datePublished": "2018-01-24T05:01:22+0000",
+        "cn:historicalURL": [],
+        "cn:tabLabel": "CNBC",
+        "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><br /></p><div id=\"csscan-wrapper\" style=\"display: none; \"><h2 id=\"csscan-header\">element</h2><table id=\"csscan-table\"><tbody><tr><th colspan=\"2\" id=\"csscan-header-font\" class=\"csscan-header\">Font</th></tr><tr id=\"csscan-row-font-family\"><td id=\"csscan-property-font-family\" class=\"csscan-property\">font-family</td><td id=\"csscan-value-font-family\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-size\"><td id=\"csscan-property-font-size\" class=\"csscan-property\">font-size</td><td id=\"csscan-value-font-size\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-style\"><td id=\"csscan-property-font-style\" class=\"csscan-property\">font-style</td><td id=\"csscan-value-font-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-variant\"><td id=\"csscan-property-font-variant\" class=\"csscan-property\">font-variant</td><td id=\"csscan-value-font-variant\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-weight\"><td id=\"csscan-property-font-weight\" class=\"csscan-property\">font-weight</td><td id=\"csscan-value-font-weight\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-letter-spacing\"><td id=\"csscan-property-letter-spacing\" class=\"csscan-property\">letter-spacing</td><td id=\"csscan-value-letter-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-line-height\"><td id=\"csscan-property-line-height\" class=\"csscan-property\">line-height</td><td id=\"csscan-value-line-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-decoration\"><td id=\"csscan-property-text-decoration\" class=\"csscan-property\">text-decoration</td><td id=\"csscan-value-text-decoration\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-align\"><td id=\"csscan-property-text-align\" class=\"csscan-property\">text-align</td><td id=\"csscan-value-text-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-indent\"><td id=\"csscan-property-text-indent\" class=\"csscan-property\">text-indent</td><td id=\"csscan-value-text-indent\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-transform\"><td id=\"csscan-property-text-transform\" class=\"csscan-property\">text-transform</td><td id=\"csscan-value-text-transform\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-white-space\"><td id=\"csscan-property-white-space\" class=\"csscan-property\">white-space</td><td id=\"csscan-value-white-space\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-word-spacing\"><td id=\"csscan-property-word-spacing\" class=\"csscan-property\">word-spacing</td><td id=\"csscan-value-word-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-color\"><td id=\"csscan-property-color\" class=\"csscan-property\">color</td><td id=\"csscan-value-color\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-background\" class=\"csscan-header\">Background</th></tr><tr id=\"csscan-row-background-attachment\"><td id=\"csscan-property-background-attachment\" class=\"csscan-property\">bg-attachment</td><td id=\"csscan-value-background-attachment\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-color\"><td id=\"csscan-property-background-color\" class=\"csscan-property\">bg-color</td><td id=\"csscan-value-background-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-image\"><td id=\"csscan-property-background-image\" class=\"csscan-property\">bg-image</td><td id=\"csscan-value-background-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-position\"><td id=\"csscan-property-background-position\" class=\"csscan-property\">bg-position</td><td id=\"csscan-value-background-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-repeat\"><td id=\"csscan-property-background-repeat\" class=\"csscan-property\">bg-repeat</td><td id=\"csscan-value-background-repeat\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-size\" class=\"csscan-header\">Box</th></tr><tr id=\"csscan-row-width\"><td id=\"csscan-property-width\" class=\"csscan-property\">width</td><td id=\"csscan-value-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-height\"><td id=\"csscan-property-height\" class=\"csscan-property\">height</td><td id=\"csscan-value-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-top\"><td id=\"csscan-property-border-top\" class=\"csscan-property\">border-top</td><td id=\"csscan-value-border-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-right\"><td id=\"csscan-property-border-right\" class=\"csscan-property\">border-right</td><td id=\"csscan-value-border-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-bottom\"><td id=\"csscan-property-border-bottom\" class=\"csscan-property\">border-bottom</td><td id=\"csscan-value-border-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-left\"><td id=\"csscan-property-border-left\" class=\"csscan-property\">border-left</td><td id=\"csscan-value-border-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-margin\"><td id=\"csscan-property-margin\" class=\"csscan-property\">margin</td><td id=\"csscan-value-margin\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-padding\"><td id=\"csscan-property-padding\" class=\"csscan-property\">padding</td><td id=\"csscan-value-padding\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-height\"><td id=\"csscan-property-max-height\" class=\"csscan-property\">max-height</td><td id=\"csscan-value-max-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-height\"><td id=\"csscan-property-min-height\" class=\"csscan-property\">min-height</td><td id=\"csscan-value-min-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-width\"><td id=\"csscan-property-max-width\" class=\"csscan-property\">max-width</td><td id=\"csscan-value-max-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-width\"><td id=\"csscan-property-min-width\" class=\"csscan-property\">min-width</td><td id=\"csscan-value-min-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-color\"><td id=\"csscan-property-outline-color\" class=\"csscan-property\">outline-color</td><td id=\"csscan-value-outline-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-style\"><td id=\"csscan-property-outline-style\" class=\"csscan-property\">outline-style</td><td id=\"csscan-value-outline-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-width\"><td id=\"csscan-property-outline-width\" class=\"csscan-property\">outline-width</td><td id=\"csscan-value-outline-width\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-position\" class=\"csscan-header\">Positioning</th></tr><tr id=\"csscan-row-position\"><td id=\"csscan-property-position\" class=\"csscan-property\">position</td><td id=\"csscan-value-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-top\"><td id=\"csscan-property-top\" class=\"csscan-property\">top</td><td id=\"csscan-value-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-bottom\"><td id=\"csscan-property-bottom\" class=\"csscan-property\">bottom</td><td id=\"csscan-value-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-right\"><td id=\"csscan-property-right\" class=\"csscan-property\">right</td><td id=\"csscan-value-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-left\"><td id=\"csscan-property-left\" class=\"csscan-property\">left</td><td id=\"csscan-value-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-float\"><td id=\"csscan-property-float\" class=\"csscan-property\">float</td><td id=\"csscan-value-float\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-display\"><td id=\"csscan-property-display\" class=\"csscan-property\">display</td><td id=\"csscan-value-display\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-clear\"><td id=\"csscan-property-clear\" class=\"csscan-property\">clear</td><td id=\"csscan-value-clear\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-z-index\"><td id=\"csscan-property-z-index\" class=\"csscan-property\">z-index</td><td id=\"csscan-value-z-index\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-list\" class=\"csscan-header\">List</th></tr><tr id=\"csscan-row-list-style-image\"><td id=\"csscan-property-list-style-image\" class=\"csscan-property\">list-style-image</td><td id=\"csscan-value-list-style-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-type\"><td id=\"csscan-property-list-style-type\" class=\"csscan-property\">list-style-type</td><td id=\"csscan-value-list-style-type\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-position\"><td id=\"csscan-property-list-style-position\" class=\"csscan-property\">list-style-position</td><td id=\"csscan-value-list-style-position\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-table\" class=\"csscan-header\">Table</th></tr><tr id=\"csscan-row-vertical-align\"><td id=\"csscan-property-vertical-align\" class=\"csscan-property\">vertical-align</td><td id=\"csscan-value-vertical-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-collapse\"><td id=\"csscan-property-border-collapse\" class=\"csscan-property\">border-collapse</td><td id=\"csscan-value-border-collapse\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-spacing\"><td id=\"csscan-property-border-spacing\" class=\"csscan-property\">border-spacing</td><td id=\"csscan-value-border-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-caption-side\"><td id=\"csscan-property-caption-side\" class=\"csscan-property\">caption-side</td><td id=\"csscan-value-caption-side\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-empty-cells\"><td id=\"csscan-property-empty-cells\" class=\"csscan-property\">empty-cells</td><td id=\"csscan-value-empty-cells\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-table-layout\"><td id=\"csscan-property-table-layout\" class=\"csscan-property\">table-layout</td><td id=\"csscan-value-table-layout\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-effects\" class=\"csscan-header\">Effects</th></tr><tr id=\"csscan-row-text-shadow\"><td id=\"csscan-property-text-shadow\" class=\"csscan-property\">text-shadow</td><td id=\"csscan-value-text-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row--webkit-box-shadow\"><td id=\"csscan-property--webkit-box-shadow\" class=\"csscan-property\">-webkit-box-shadow</td><td id=\"csscan-value--webkit-box-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-radius\"><td id=\"csscan-property-border-radius\" class=\"csscan-property\">border-radius</td><td id=\"csscan-value-border-radius\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-other\" class=\"csscan-header\">Other</th></tr><tr id=\"csscan-row-overflow\"><td id=\"csscan-property-overflow\" class=\"csscan-property\">overflow</td><td id=\"csscan-value-overflow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-cursor\"><td id=\"csscan-property-cursor\" class=\"csscan-property\">cursor</td><td id=\"csscan-value-cursor\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-visibility\"><td id=\"csscan-property-visibility\" class=\"csscan-property\">visibility</td><td id=\"csscan-value-visibility\" class=\"csscan-value\"></td></tr></tbody></table></div><div id=\"csscan-wrapper\" style=\"display: none; \"><h2 id=\"csscan-header\">element</h2><table id=\"csscan-table\"><tbody><tr><th colspan=\"2\" id=\"csscan-header-font\" class=\"csscan-header\">Font</th></tr><tr id=\"csscan-row-font-family\"><td id=\"csscan-property-font-family\" class=\"csscan-property\">font-family</td><td id=\"csscan-value-font-family\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-size\"><td id=\"csscan-property-font-size\" class=\"csscan-property\">font-size</td><td id=\"csscan-value-font-size\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-style\"><td id=\"csscan-property-font-style\" class=\"csscan-property\">font-style</td><td id=\"csscan-value-font-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-variant\"><td id=\"csscan-property-font-variant\" class=\"csscan-property\">font-variant</td><td id=\"csscan-value-font-variant\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-weight\"><td id=\"csscan-property-font-weight\" class=\"csscan-property\">font-weight</td><td id=\"csscan-value-font-weight\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-letter-spacing\"><td id=\"csscan-property-letter-spacing\" class=\"csscan-property\">letter-spacing</td><td id=\"csscan-value-letter-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-line-height\"><td id=\"csscan-property-line-height\" class=\"csscan-property\">line-height</td><td id=\"csscan-value-line-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-decoration\"><td id=\"csscan-property-text-decoration\" class=\"csscan-property\">text-decoration</td><td id=\"csscan-value-text-decoration\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-align\"><td id=\"csscan-property-text-align\" class=\"csscan-property\">text-align</td><td id=\"csscan-value-text-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-indent\"><td id=\"csscan-property-text-indent\" class=\"csscan-property\">text-indent</td><td id=\"csscan-value-text-indent\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-transform\"><td id=\"csscan-property-text-transform\" class=\"csscan-property\">text-transform</td><td id=\"csscan-value-text-transform\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-white-space\"><td id=\"csscan-property-white-space\" class=\"csscan-property\">white-space</td><td id=\"csscan-value-white-space\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-word-spacing\"><td id=\"csscan-property-word-spacing\" class=\"csscan-property\">word-spacing</td><td id=\"csscan-value-word-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-color\"><td id=\"csscan-property-color\" class=\"csscan-property\">color</td><td id=\"csscan-value-color\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-background\" class=\"csscan-header\">Background</th></tr><tr id=\"csscan-row-background-attachment\"><td id=\"csscan-property-background-attachment\" class=\"csscan-property\">bg-attachment</td><td id=\"csscan-value-background-attachment\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-color\"><td id=\"csscan-property-background-color\" class=\"csscan-property\">bg-color</td><td id=\"csscan-value-background-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-image\"><td id=\"csscan-property-background-image\" class=\"csscan-property\">bg-image</td><td id=\"csscan-value-background-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-position\"><td id=\"csscan-property-background-position\" class=\"csscan-property\">bg-position</td><td id=\"csscan-value-background-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-repeat\"><td id=\"csscan-property-background-repeat\" class=\"csscan-property\">bg-repeat</td><td id=\"csscan-value-background-repeat\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-size\" class=\"csscan-header\">Box</th></tr><tr id=\"csscan-row-width\"><td id=\"csscan-property-width\" class=\"csscan-property\">width</td><td id=\"csscan-value-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-height\"><td id=\"csscan-property-height\" class=\"csscan-property\">height</td><td id=\"csscan-value-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-top\"><td id=\"csscan-property-border-top\" class=\"csscan-property\">border-top</td><td id=\"csscan-value-border-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-right\"><td id=\"csscan-property-border-right\" class=\"csscan-property\">border-right</td><td id=\"csscan-value-border-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-bottom\"><td id=\"csscan-property-border-bottom\" class=\"csscan-property\">border-bottom</td><td id=\"csscan-value-border-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-left\"><td id=\"csscan-property-border-left\" class=\"csscan-property\">border-left</td><td id=\"csscan-value-border-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-margin\"><td id=\"csscan-property-margin\" class=\"csscan-property\">margin</td><td id=\"csscan-value-margin\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-padding\"><td id=\"csscan-property-padding\" class=\"csscan-property\">padding</td><td id=\"csscan-value-padding\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-height\"><td id=\"csscan-property-max-height\" class=\"csscan-property\">max-height</td><td id=\"csscan-value-max-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-height\"><td id=\"csscan-property-min-height\" class=\"csscan-property\">min-height</td><td id=\"csscan-value-min-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-width\"><td id=\"csscan-property-max-width\" class=\"csscan-property\">max-width</td><td id=\"csscan-value-max-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-width\"><td id=\"csscan-property-min-width\" class=\"csscan-property\">min-width</td><td id=\"csscan-value-min-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-color\"><td id=\"csscan-property-outline-color\" class=\"csscan-property\">outline-color</td><td id=\"csscan-value-outline-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-style\"><td id=\"csscan-property-outline-style\" class=\"csscan-property\">outline-style</td><td id=\"csscan-value-outline-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-width\"><td id=\"csscan-property-outline-width\" class=\"csscan-property\">outline-width</td><td id=\"csscan-value-outline-width\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-position\" class=\"csscan-header\">Positioning</th></tr><tr id=\"csscan-row-position\"><td id=\"csscan-property-position\" class=\"csscan-property\">position</td><td id=\"csscan-value-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-top\"><td id=\"csscan-property-top\" class=\"csscan-property\">top</td><td id=\"csscan-value-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-bottom\"><td id=\"csscan-property-bottom\" class=\"csscan-property\">bottom</td><td id=\"csscan-value-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-right\"><td id=\"csscan-property-right\" class=\"csscan-property\">right</td><td id=\"csscan-value-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-left\"><td id=\"csscan-property-left\" class=\"csscan-property\">left</td><td id=\"csscan-value-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-float\"><td id=\"csscan-property-float\" class=\"csscan-property\">float</td><td id=\"csscan-value-float\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-display\"><td id=\"csscan-property-display\" class=\"csscan-property\">display</td><td id=\"csscan-value-display\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-clear\"><td id=\"csscan-property-clear\" class=\"csscan-property\">clear</td><td id=\"csscan-value-clear\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-z-index\"><td id=\"csscan-property-z-index\" class=\"csscan-property\">z-index</td><td id=\"csscan-value-z-index\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-list\" class=\"csscan-header\">List</th></tr><tr id=\"csscan-row-list-style-image\"><td id=\"csscan-property-list-style-image\" class=\"csscan-property\">list-style-image</td><td id=\"csscan-value-list-style-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-type\"><td id=\"csscan-property-list-style-type\" class=\"csscan-property\">list-style-type</td><td id=\"csscan-value-list-style-type\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-position\"><td id=\"csscan-property-list-style-position\" class=\"csscan-property\">list-style-position</td><td id=\"csscan-value-list-style-position\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-table\" class=\"csscan-header\">Table</th></tr><tr id=\"csscan-row-vertical-align\"><td id=\"csscan-property-vertical-align\" class=\"csscan-property\">vertical-align</td><td id=\"csscan-value-vertical-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-collapse\"><td id=\"csscan-property-border-collapse\" class=\"csscan-property\">border-collapse</td><td id=\"csscan-value-border-collapse\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-spacing\"><td id=\"csscan-property-border-spacing\" class=\"csscan-property\">border-spacing</td><td id=\"csscan-value-border-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-caption-side\"><td id=\"csscan-property-caption-side\" class=\"csscan-property\">caption-side</td><td id=\"csscan-value-caption-side\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-empty-cells\"><td id=\"csscan-property-empty-cells\" class=\"csscan-property\">empty-cells</td><td id=\"csscan-value-empty-cells\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-table-layout\"><td id=\"csscan-property-table-layout\" class=\"csscan-property\">table-layout</td><td id=\"csscan-value-table-layout\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-effects\" class=\"csscan-header\">Effects</th></tr><tr id=\"csscan-row-text-shadow\"><td id=\"csscan-property-text-shadow\" class=\"csscan-property\">text-shadow</td><td id=\"csscan-value-text-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row--webkit-box-shadow\"><td id=\"csscan-property--webkit-box-shadow\" class=\"csscan-property\">-webkit-box-shadow</td><td id=\"csscan-value--webkit-box-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-radius\"><td id=\"csscan-property-border-radius\" class=\"csscan-property\">border-radius</td><td id=\"csscan-value-border-radius\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-other\" class=\"csscan-header\">Other</th></tr><tr id=\"csscan-row-overflow\"><td id=\"csscan-property-overflow\" class=\"csscan-property\">overflow</td><td id=\"csscan-value-overflow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-cursor\"><td id=\"csscan-property-cursor\" class=\"csscan-property\">cursor</td><td id=\"csscan-value-cursor\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-visibility\"><td id=\"csscan-property-visibility\" class=\"csscan-property\">visibility</td><td id=\"csscan-value-visibility\" class=\"csscan-value\"></td></tr></tbody></table></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div></div></group></body>",
+        "cn:shortestDescription": "Find Stock Market News, Business News, Financial, Earnings, World Markets on CNBC.",
+        "cn:summary": "Get latest business news on stock markets, financial & earnings on CNBC. View world markets streaming charts & video; check stock tickers and quotes.",
+        "cn:editedBy": "Tahir",
+        "cn:createdBy": "Thomas.Baldwin",
+        "cn:shorterDescription": "Get latest business news on stock markets, financial & earnings on CNBC. View world markets streaming charts & video; check stock tickers and quotes.",
+        "name": "Special Report Logo with Rectangle",
+        "cn:sectionColor": "#984949",
+        "cn:promoText": "test promo text",
+        "cn:showTime": "test show time",
+        "@type": "Collection"
+      },
+      "cn:liveURL": "/2017/11/16/geopolitics-is-the-wildcard-for-oil-right-now-energy-aspects-analyst.html",
+      "cn:createdBy": "Ryan.Browne@nbcuni.com",
+      "cn:editedBy": "Tahir",
+      "datePublished": "2017-11-16T15:43:51+0000",
+      "cn:summary": "Energy Aspects' Amrita Sen said that $60 to $65 per barrel range for oil was the \"new range for Brent.\"",
+      "cn:linkHeadline": "",
+      "headline": "Geopolitics is the wildcard for oil right now, says Energy Aspects’ chief oil analyst",
+      "cn:shorterHeadline": "",
+      "cn:shortestHeadline": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104846350\" autoplay_flag=\"true\"/></assets><div class=\"group\"><p>Iran-Saudi Arabia tensions, a potential debt default in Venezuela and a territorial dispute in Iraq — those are just some of the reasons that geopolitics matters to the price of oil right now, according to the chief oil analyst at Energy Aspects.</p><p>Speaking to CNBC on Thursday, Amrita Sen said that there were a number of issues that could affect the oil price, with a particular concern being the lack of \"inventory buffer\" — a cushion of oil supply — if production was to fall from major oil producers for economic or political reasons.</p><p>\"Even if there is a flare up in Iran (with Saudi Arabia) we don't see exports and production being lost, but Iraq is probably a bigger issue right now with the dispute between Baghdad and Kurdistan, we have lost a decent chunk (of output), about 300,000 barrels per day of volume from the north (of the country). In Venezuela too, production is absolutely plummeting,\" she said.</p><p>\"And the reason that of all these become far more important is that there is no oil inventory buffer anymore. OPEC spare capacity is a lot lower and that's why geopolitics matters. If you think about the last three years, we've hardly had any geopolitical premium in the price but now, because we don't have a buffer, geopolitics will matter a lot more which can lead to spikey-ness in oil prices next year.\"</p><p>Sen's comments come amid an improving outlook for oil prices following the sharp declines seen since 2014 due to a glut in supply and lackluster demand. <asset_inline nid=\"100274824\">Brent crude</asset_inline> was trading at $61.58 per barrel on Thursday and <asset_inline nid=\"100279044\">West Texas Intermediate</asset_inline> at $55.18. Prices have been helped by major oil producers OPEC and non-OPEC producers, including Russia, agreeing to limit oil output in a bid to support prices.</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 104847472,
+          "tagName": "",
+          "order": 1
+        },
+        {
+          "id": 100000233,
+          "tagName": "",
+          "order": 2
+        },
+        {
+          "id": 101050794,
+          "tagName": "CNBC Utilities Page",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "cn:subDomain": "",
+      "cn:historicalURL": [],
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 23806
+      }]
+    },
+    {
+      "@id": "104846992",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104846992",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Cisco stox BALAKRISHNAN 171116 EC",
+      "cn:tagName": "Cisco- $stock_pops@",
+      "cn:title": "Cisco stock pops 6% as earnings beat, solidifying a transformation toward the cloud",
+      "cn:creatorOverwrite": "Creator overwrite",
+      "url": "https://qa-aws01web.cnbc.com/2017/11/16/cisco-csco-stock-up-after-earnings-for-q1-2018.html",
+      "author": [{
+          "@type": "Creator",
+          "@id": "102394084",
+          "name": "Anita Balakrishnan",
+          "url": "http://qa-aws01web.cnbc.com/anita-balakrishnan/",
+          "cn:tagName": "Anita Balakrishnan",
+          "position": "5000",
+          "sameAs": [
+            "https://www.twitter.com/@MsABalakrishnan"
+          ],
+          "cn:socialMediaInfo": [{
+            "cn:url": "https://twitter.com/@MsABalakrishnan",
+            "cn:displayText": "@MsABalakrishnan",
+            "cn:type": "twitter"
+          }]
+        },
+        {
+          "@type": "Creator",
+          "@id": "104806090",
+          "name": "Jake Callahan",
+          "url": "/jake-callahan/",
+          "cn:tagName": "Jake Callahan",
+          "position": "4999"
+        }
+      ],
+      "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "caption": "",
+        "author": "",
+        "copyrightHolder": "",
+        "@id": "104847684",
+        "height": "900",
+        "datePublished": "2018-02-08T22:17:27+0000",
+        "description": "",
+        "width": "1200",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104847684-imag4.jpg?v=1518128249"
+      },
+      "cn:featuredMedia": {
+        "cn:isPromoted": "true",
+        "cn:isHighTouch": "false",
+        "@type": "ImageObject",
+        "cn:type": "image",
+        "cn:creatorOverwrite": "",
+        "@id": "104847695",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847695",
+        "cn:slug": "Buffett Archive Homepage Background Video new_1518195505",
+        "cn:title": "test buffett",
+        "cn:tagName": "",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104847695-Buffetthomepage-020918_mezz.jpg?v=1518195504",
+        "description": "",
+        "author": "",
+        "contentSize": 93068,
+        "caption": "",
+        "copyrightHolder": "",
+        "height": "720",
+        "width": "1280"
+      },
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "cn:association": [{
+          "cn:type": "creator",
+          "cn:creatorOverwrite": "",
+          "@id": "102394084",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/102394084",
+          "cn:slug": "Anita Balakrishnan",
+          "url": "http://qa-aws01web.cnbc.com/anita-balakrishnan/",
+          "cn:title": "Anita Balakrishnan",
+          "cn:tagName": "Anita Balakrishnan",
+          "description": "Anita Balakrishnan is a CNBC.com news associate covering Apple, consumer technology and breaking business news.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+            "cn:relationType": "author",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "10000066",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000066",
+          "cn:slug": "Mobile",
+          "cn:subType": "news_section",
+          "url": "https://qa-aws01web.cnbc.com/mobile/",
+          "cn:title": "Mobile",
+          "cn:tagName": "Mobile tag 2",
+          "description": "Latest tech news for the mobile industry covering tablets, smartphones, new gear, innovative wireless products, and special reports. ",
+          "name": "Mobile",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "section",
+              "cn:isPromoted": "false"
+            },
+            {
+              "cn:relationType": "content_queue",
+              "cn:isPromoted": "false"
+            },
+            {
+              "cn:relationType": "additional_sections",
+              "cn:isPromoted": "false"
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "cn:type": "image",
+          "cn:creatorOverwrite": "",
+          "@id": "104847695",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847695",
+          "cn:slug": "Buffett Archive Homepage Background Video new_1518195505",
+          "cn:title": "test buffett",
+          "cn:tagName": "",
+          "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104847695-Buffetthomepage-020918_mezz.jpg?v=1518195504",
+          "description": "",
+          "author": "",
+          "contentSize": 93068,
+          "caption": "",
+          "copyrightHolder": "",
+          "height": "720",
+          "width": "1280",
+          "cn:relation": [{
+            "cn:relationType": "featured_media",
+            "cn:isPromoted": "true",
+            "cn:isHighTouch": "false"
+          }]
+        },
+        {
+          "@type": "ImageObject",
+          "cn:type": "image",
+          "cn:creatorOverwrite": "",
+          "@id": "104847684",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847684",
+          "cn:slug": "test image 17",
+          "cn:title": "test image 17",
+          "cn:tagName": "",
+          "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104847684-imag4.jpg?v=1518128249",
+          "description": "",
+          "author": "",
+          "contentSize": 289227,
+          "caption": "",
+          "copyrightHolder": "",
+          "height": "900",
+          "width": "1200",
+          "cn:relation": [{
+            "cn:relationType": "promo",
+            "cn:isPromoted": "true"
+          }]
+        },
+        {
+          "cn:type": "creator",
+          "cn:creatorOverwrite": "",
+          "@id": "104806090",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104806090",
+          "cn:slug": "Jake Callahan",
+          "url": "/jake-callahan/",
+          "cn:title": "Jake Callahan",
+          "cn:tagName": "Jake Callahan",
+          "description": " Producer for CNBC",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+            "cn:relationType": "author",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "104847532",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847532",
+          "cn:slug": "Buffett A-Z",
+          "cn:subType": "section",
+          "url": "https://qa-aws01buffett.cnbc.com/buffett-a-z/",
+          "cn:title": "Buffett A-Z",
+          "cn:tagName": "Buffett A-Z",
+          "description": "",
+          "name": "Buffett A-Z",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "section",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "cn:type": "image",
+          "cn:creatorOverwrite": "",
+          "@id": "104845492",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104845492",
+          "cn:slug": "CNBC Tech Amazon Key Thumb ",
+          "cn:title": "",
+          "cn:tagName": "",
+          "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104845492-Amazon_Key_Thumb.jpg?v=1516822323",
+          "description": "",
+          "author": "",
+          "contentSize": 743567,
+          "caption": "",
+          "copyrightHolder": "",
+          "height": "1080",
+          "width": "1920",
+          "cn:relation": [{
+            "cn:relationType": "tags",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "@type": "ImageObject",
+          "cn:type": "image",
+          "cn:creatorOverwrite": "",
+          "@id": "104847468",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847468",
+          "cn:slug": "test-imagedd1",
+          "cn:title": "test-imagedd1",
+          "cn:tagName": "",
+          "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104847468-tropical_beach_204377.jpg?v=1518202755",
+          "description": "",
+          "author": "",
+          "contentSize": 103323,
+          "caption": "",
+          "copyrightHolder": "",
+          "height": "368",
+          "width": "552",
+          "cn:relation": [{
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:type": "cnbcvideo",
+          "cn:creatorOverwrite": "",
+          "@id": "104830904",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104830904",
+          "cn:slug": "SOTS Amazon will be star CRAMER 171109 Clem EC",
+          "url": "http://qa-aws01web.cnbc.com/video/2017/11/09/amazon-will-be-star-of-the-show-this-holiday-season-jim-cramer.html",
+          "cn:title": "Amazon will be 'star of the show' this holiday season: Jim Cramer",
+          "cn:tagName": "",
+          "description": "The \"Squawk on the Street's Jim Cramer provides his outlook on the retail sector as earnings begin pouring in and ahead of the holiday shopping season.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+            "cn:relationType": "related",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "cnbcvideo",
+          "cn:creatorOverwrite": "",
+          "@id": "104314524",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104314524",
+          "cn:slug": "Macau Gaming Streetsigns 170302 Asia ",
+          "url": "",
+          "cn:title": "Macau's casino industry turns the corner",
+          "cn:tagName": "",
+          "description": "Alex Bumazhny of Fitch Ratings says a change in strategy and the improvement in macroeconomic conditions have contributed to Macau's gaming sector recovery.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+            "cn:relationType": "related",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "cnbcvideo",
+          "cn:creatorOverwrite": "Test creator overwrite",
+          "@id": "104847727",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847727",
+          "cn:slug": "Sen. John Barrasso: Bezos, Dimon and Buffett are the right people to lower health-care costs",
+          "cn:subType": "full_length",
+          "url": "https://qa-aws01buffett.cnbc.com/video/2018/02/15/test-video--sen-john-barrasso-bezos-dimon-and-buffett-are-the-right-people-to-lower-health-care-costs.html",
+          "cn:title": "test video - Sen. John Barrasso: Bezos, Dimon and Buffett are the right people to lower health-care costs",
+          "cn:tagName": "",
+          "description": "I'm very supportive of what the are trying to do, says Sen. John Barrasso, (R-Wyo.), weighing in on news Amazon, J.P. Morgan and Berkshire Hathaway are partnering to form a U.S. employee health-care program.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+            "cn:relationType": "related",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "cnbcvideo",
+          "cn:creatorOverwrite": "",
+          "@id": "104847723",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847723",
+          "cn:slug": "SOTS Bezos, Buffett and Dimon   180130 Clem EC",
+          "cn:subType": "full_length",
+          "url": "https://qa-aws01web.cnbc.com/video/2018/02/15/test-video--bezos-buffett-and-dimon-have-been-talking-about-health-care-costs-for-a-while-david-faber.html",
+          "cn:title": "Test video - Bezos, Buffett and Dimon have been talking about health-care costs for a while: David Faber",
+          "cn:tagName": "",
+          "description": "The \"Squawk on the Street\" crew talks about the health-care partnership announcement among Amazon, Berkshire Hathaway and J.P. Morgan.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+            "cn:relationType": "related",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "cnbcvideo",
+          "cn:creatorOverwrite": "",
+          "@id": "104847747",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847747",
+          "cn:slug": "SOTS ETF Spotlight pisani 180221 MTF EC testing ",
+          "cn:subType": "full_length",
+          "url": "https://qa-aws01buffett.cnbc.com/video/2018/02/21/test-video--tracking-fund-flows-as-markets-get-back-to-normal.html",
+          "cn:title": "Test Video - Tracking fund flows as markets get back to normal",
+          "cn:tagName": "Test tag name",
+          "description": "CNBC's Bob Pisani takes a look at the inflows and outflows for ETFs as the markets settle after recent volatility.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+            "cn:relationType": "related",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "15839215",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15839215",
+          "cn:slug": "Stocks",
+          "cn:subType": "news_section",
+          "url": "http://qa-aws01web.cnbc.com/stocks/",
+          "cn:title": "Stocks",
+          "cn:tagName": "Stocks from tag name",
+          "description": "In-depth market analysis, real-time stock market data, research and earnings from CNBC.com. ",
+          "name": "Stocks",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/closing-bell/",
+          "cn:type": "franchise",
+          "cn:title": "Closing Bell",
+          "cn:creatorOverwrite": "",
+          "@id": "15838421",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15838421",
+          "cn:slug": "Closing Bell",
+          "cn:tagName": "Closing Bell",
+          "cn:subType": "news_show",
+          "description": "Anything can happen between the bells of the trading day. But what happens during the last hour could be what matters most. CNBC's \"Closing Bell\" guides you through the most important hour of the trading day.  Bill Griffeth and Kelly Evans take a close-up look at how the markets are moving, what's driving them and how investors are reacting. Live coverage includes reports from the Chicago Board of Trade, New York Mercantile Exchange, NASDAQ and the New York Stock Exchange.\r\n \r\nAnalysts, money managers and CEOs explain their strategies, share opinions, and provide an inside perspective on breaking news stories. In addition, \"Closing Bell\" provides instant analysis of corporate profit reports, as soon as they break, during the quarterly earning seasons.",
+          "name": "Closing Bell",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "tags",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "19854910",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/19854910",
+          "cn:slug": "Technology",
+          "cn:subType": "primetime_show",
+          "url": "https://qa-aws01web.cnbc.com/technology/",
+          "cn:title": "Technology",
+          "cn:tagName": "Technology1",
+          "description": "Find the latest business news pertaining to Technology covering companies, advancements, multimedia, electronics, mobile technologies, and science available on the official CNBC Technology site.",
+          "name": "Technology",
+          "cn:sectionColor": "#5e1c1c",
+          "cn:promoText": "test promo",
+          "cn:showTime": "12 PM",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "tags",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "15837362",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15837362",
+          "cn:slug": "US: News",
+          "cn:subType": "news_section",
+          "url": "https://qa-aws01web.cnbc.com/us-news/",
+          "cn:title": "U.S. News",
+          "cn:tagName": "US: News",
+          "description": "Get complete CNBC business news coverage online. Find the latest regional business news pertaining to the United States of America including headlines & top stories available on the official CNBC site.",
+          "name": "U.S. News",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "tags",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/earnings/",
+          "cn:type": "franchise",
+          "cn:title": "Earnings Central",
+          "cn:creatorOverwrite": "",
+          "@id": "15839135",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15839135",
+          "cn:slug": "Earnings",
+          "cn:tagName": "Earnings",
+          "cn:subType": "section",
+          "description": "Corporate Company Earnings, Find Earnings Per Share and Earnings History Online",
+          "name": "Earnings Central",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "tags",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/technology-cnbc-explains/",
+          "cn:type": "franchise",
+          "cn:title": "Technology: CNBC Explains",
+          "cn:creatorOverwrite": "",
+          "@id": "100000358",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100000358",
+          "cn:slug": "Technology: CNBC Explains",
+          "cn:tagName": "Technology: CNBC Explains",
+          "cn:subType": "section",
+          "description": "Topics: 4G | Airbags | Airplane Black Box Recorder | Autopilot | Cloud Computing | Denial of Service Attack | Drones | Email Encryption | Front Running | High Frequency Trading | Malware | Messaging Services | Net Neutrality | Santa Tracking | Self-driving cars | Streaming Music ",
+          "name": "Technology: CNBC Explains",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "content_queue",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/software/",
+          "cn:type": "franchise",
+          "cn:title": "Software",
+          "cn:creatorOverwrite": "",
+          "@id": "10000064",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000064",
+          "cn:slug": "Software",
+          "cn:tagName": "Software",
+          "cn:subType": "section",
+          "description": "Software industry headlines and upcoming companies along with tech giants Apple, Microsoft, and Google. ",
+          "name": "Software",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "tags",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/test-section/",
+          "cn:type": "franchise",
+          "cn:title": "test section",
+          "cn:creatorOverwrite": "",
+          "@id": "104847459",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847459",
+          "cn:slug": "test section",
+          "cn:tagName": "",
+          "cn:subType": "section",
+          "description": "",
+          "name": "test section",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "related",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/telecom/",
+          "cn:type": "franchise",
+          "cn:title": "Telecom",
+          "cn:creatorOverwrite": "",
+          "@id": "10001105",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10001105",
+          "cn:slug": "Telecom",
+          "cn:tagName": "Telecom",
+          "cn:subType": "section",
+          "description": "Find the latest news, headlines, blogs and watch video about telecommunication from CNBC.com.",
+          "name": "Telecom",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "content_queue",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "The Wolf",
+          "@id": "104847365",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847365",
+          "cn:slug": "Dynamic Menu",
+          "cn:subType": "news_section",
+          "url": "https://qa-aws01make-it.cnbc.com/dynamic-menu/",
+          "cn:title": "Dynamic Menu",
+          "cn:tagName": "",
+          "description": "",
+          "name": "Dynamic Menu",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "related",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/enterprise/",
+          "cn:type": "franchise",
+          "cn:title": "Enterprise",
+          "cn:creatorOverwrite": "",
+          "@id": "101004656",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/101004656",
+          "cn:slug": "Enterprise",
+          "cn:tagName": "Enterprise",
+          "cn:subType": "section",
+          "description": "Latest headlines for enterprise technology.",
+          "name": "Enterprise",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "tags",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/hardware/",
+          "cn:type": "franchise",
+          "cn:title": "Hardware",
+          "cn:creatorOverwrite": "",
+          "@id": "10001138",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10001138",
+          "cn:slug": "Hardware",
+          "cn:tagName": "Hardware",
+          "cn:subType": "section",
+          "description": "Latest news and headlines for technology hardware and equipment. ",
+          "name": "Hardware",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "content_queue",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "@type": "ImageObject",
+          "cn:type": "image",
+          "cn:creatorOverwrite": "",
+          "@id": "104847449",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847449",
+          "cn:slug": "test-gdfered_1516212978",
+          "cn:title": "test-gdfered",
+          "cn:tagName": "",
+          "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104847449-4ED2-INTL-011718-BriefCLOSE.jpg?v=1516212966",
+          "description": "",
+          "author": "",
+          "contentSize": 554435,
+          "caption": "",
+          "copyrightHolder": "",
+          "height": "1080",
+          "width": "1920",
+          "cn:relation": [{
+            "cn:relationType": "related",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "url": "http://qa-aws01pub.cnbc.com/computer-hardware/",
+          "cn:type": "franchise",
+          "cn:title": "Computer Hardware",
+          "cn:creatorOverwrite": "",
+          "@id": "10000065",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000065",
+          "cn:slug": "Computer Hardware",
+          "cn:tagName": "Computer Hardware",
+          "cn:subType": "section",
+          "description": "Technology: Hardware",
+          "name": "Computer Hardware",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "content_queue",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "104832964",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104832964",
+          "cn:slug": "Collection: Halftime Sponsor Tray",
+          "cn:subType": "section",
+          "url": "http://qa-aws01web.cnbc.com/halftime-sponsor-tray/",
+          "cn:title": "Collection: Halftime Sponsor Tray",
+          "cn:tagName": "",
+          "description": "",
+          "name": "Collection: Halftime Sponsor Tray",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "additional_sections",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/id/10001228",
+          "cn:type": "franchise",
+          "cn:title": "Innovation",
+          "cn:creatorOverwrite": "",
+          "@id": "10001228",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10001228",
+          "cn:slug": "Innovation",
+          "cn:tagName": "Innovation",
+          "cn:subType": "section",
+          "description": "Innovation",
+          "name": "Innovation",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "content_queue",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "cnbcvideo",
+          "cn:creatorOverwrite": "",
+          "@id": "104845042",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104845042",
+          "cn:slug": "CB cisco reax ives suppiger 171115 EZ EC",
+          "url": "/video/2017/11/15/this-is-a-step-in-right-direction-for-cisco-gbhs-daniel-ives.html",
+          "cn:title": "This is a step in right direction for Cisco: GBH's Daniel Ives",
+          "cn:tagName": "",
+          "description": "Daniel Ives, GBH Insights, and Erik Suppiger, JMP Securities, discuss what they expect from Cisco following an earnings beat from the company.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+            "cn:relationType": "tags",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/id/10001264",
+          "cn:type": "franchise",
+          "cn:title": "Information Technology",
+          "cn:creatorOverwrite": "",
+          "@id": "10001264",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10001264",
+          "cn:slug": "Information Technology",
+          "cn:tagName": "Information Technology",
+          "cn:subType": "section",
+          "description": "Information Technology",
+          "name": "Information Technology",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "content_queue",
+            "cn:isPromoted": "false"
+          }]
+        }
+      ],
+      "description": "Sales were boosted by the company's growing security business and subscription software. ",
+      "cn:section": {
+        "cn:type": "franchise",
+        "cn:creatorOverwrite": "",
+        "@id": "10000066",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000066",
+        "cn:slug": "Mobile",
+        "cn:subType": "news_section",
+        "url": "https://qa-aws01web.cnbc.com/mobile/",
+        "cn:title": "Mobile",
+        "cn:tagName": "Mobile tag 2",
+        "cn:subDomain": "https://qa-aws01web.cnbc.com",
+        "cn:branding": "cnbc",
+        "cn:sectionHierarchy": [{
+            "id": 10000066,
+            "tagName": "Mobile tag 2",
+            "order": 1
+          },
+          {
+            "id": 19854910,
+            "tagName": "Technology1",
+            "order": 2
+          },
+          {
+            "id": 10000161,
+            "tagName": "CNBC Global",
+            "order": 3
+          }
+        ],
+        "cn:sectionLabel": "Mobile",
+        "cn:liveURL": "/mobile/",
+        "cn:settings": {
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "Latest tech news for the mobile industry covering tablets, smartphones, new gear, innovative wireless products, and special reports. ",
+        "cn:sectionLinktext": "Mobile",
+        "headline": "Mobile",
+        "datePublished": "2012-01-30T01:47:18+0000",
+        "cn:historicalURL": [
+          "/id/10000066"
+        ],
+        "cn:tabLabel": "Mobile",
+        "cn:bodyTeaser": "null",
+        "cn:shortestDescription": "Mobile coverage on tablets, smartphones, new gear, and wireless products.",
+        "cn:summary": "Latest tech news for the mobile industry covering tablets, smartphones, new gear, innovative wireless products, and special reports. ",
+        "cn:editedBy": "sujith",
+        "cn:createdBy": "migration",
+        "cn:shorterDescription": "Latest tech news for the mobile industry including tablets, smartphones, new gear, and wireless products.",
+        "name": "Mobile",
+        "cn:sectionColor": "#000000",
+        "cn:promoText": "",
+        "cn:showTime": "",
+        "@type": "Collection"
+      },
+      "cn:liveURL": "/2017/11/16/cisco-csco-stock-up-after-earnings-for-q1-2018.html",
+      "cn:createdBy": "Anita.Balakrishnan",
+      "cn:editedBy": "yogen.patel",
+      "datePublished": "2017-11-16T15:32:37+0000",
+      "cn:summary": "Sales were boosted by the company's growing security business and subscription software. ",
+      "cn:linkHeadline": "Cisco stock pops 6% as earnings beat, solidifying a transformation toward the cloud",
+      "headline": "Cisco stock pops 6% as earnings beat, solidifying a transformation toward the cloud",
+      "cn:shorterHeadline": "Cisco stock pops 6% after earnings beat improves turnaround outlook",
+      "cn:shortestHeadline": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104314524\" autoplay_flag=\"false\"/></assets><div class=\"group\"><p><strong></strong>Shares of <asset_inline nid=\"1505169\">Cisco</asset_inline> rallied on Thursday after the enterprise technology giant wowed Wall Street with better-than-expected earnings.</p><p>test</p><p><asset_inline nid=\"104847611\">test story link</asset_inline></p><p><asset_inline nid=\"104847534\">test story link make it</asset_inline></p><p><asset_inline nid=\"104847255\">test story link web</asset_inline></p><p><asset_inline nid=\"104847532\">link to buffett</asset_inline></p><p></p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 10000066,
+          "tagName": "Mobile tag 2",
+          "order": 1
+        },
+        {
+          "id": 19854910,
+          "tagName": "Technology1",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01web.cnbc.com",
+      "cn:historicalURL": [],
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 23805
+      }]
+    },
+    {
+      "@type": "VideoObject",
+      "@id": "104846850",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104846850",
+      "cn:type": "cnbcvideo",
+      "cn:slug": "PRO Uncut John Rogers Jr. 171116 EC",
+      "cn:tagName": "",
+      "cn:title": "Ariel's John Rogers Jr. on why he's so bullish on equities, favorite stock picks",
+      "cn:creatorOverwrite": "",
+      "url": "/video/2017/11/16/full-interview-with-john-rogers-jr.html",
+      "uploadDate": "2017-11-16T13:40:02+0000",
+      "cn:liveURL": "/video/2017/11/16/full-interview-with-john-rogers-jr.html",
+      "cn:createdBy": "Tom.Franck",
+      "cn:editedBy": "Tom.Franck",
+      "datePublished": "2017-11-16T13:39:00+0000",
+      "cn:summary": "The full interview with John Rogers Jr.",
+      "cn:linkHeadline": "Ariel's John Rogers Jr. on why he's so bullish on equities, favorite stock picks",
+      "headline": "Ariel's John Rogers Jr. on why he's so bullish on equities, favorite stock picks",
+      "cn:shorterHeadline": "PRO Uncut: John Rogers Jr.",
+      "cn:shortestHeadline": "PRO Uncut: John Rogers Jr.",
+      "cn:shorterDescription": "The full interview with John Rogers Jr.",
+      "cn:shortestDescription": "The full interview with John Rogers Jr.",
+      "cn:sectionHierarchy": [{
+          "id": 104847581,
+          "tagName": "",
+          "order": 1
+        },
+        {
+          "id": 104847371,
+          "tagName": "Buffett Archive",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "caption": "",
+        "author": "",
+        "copyrightHolder": "",
+        "@id": "104846918",
+        "height": "1080",
+        "datePublished": "",
+        "description": "",
+        "width": "1920",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104846918-5ED1-SB-JohnRogersPRO-111617.jpg?v=1510841068"
+      },
+      "thumbnail": "https://qa-aws02capi-img-origin.cnbc.com/image/104846918-5ED1-SB-JohnRogersPRO-111617.jpg?v=1510841068",
+      "cn:settings": {
+        "cn:nsfw": "Yes",
+        "cn:syndicate": "Yes",
+        "cn:verifyAge": "Yes",
+        "cn:premium": "Yes",
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0,
+        "cn:videoGeoRestrictionEnabled": "No",
+        "cn:isHighPriorityVideo": "No"
+      },
+      "cn:association": [{
+          "@type": "ImageObject",
+          "cn:type": "image",
+          "cn:creatorOverwrite": "",
+          "@id": "104846918",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104846918",
+          "cn:slug": "PRO Uncut John Rogers Jr. 171116 EC_1510841114",
+          "cn:title": "Full interview with John Rogers Jr.",
+          "cn:tagName": "",
+          "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104846918-5ED1-SB-JohnRogersPRO-111617.jpg?v=1510841068",
+          "description": "",
+          "author": "",
+          "contentSize": 635176,
+          "caption": "",
+          "copyrightHolder": "",
+          "height": "1080",
+          "width": "1920",
+          "cn:relation": [{
+            "cn:relationType": "promo",
+            "cn:isPromoted": "true"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "104847581",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847581",
+          "cn:slug": "Buffett CNBC Keynotes",
+          "cn:subType": "news_section",
+          "url": "https://qa-aws01buffett.cnbc.com/cnbc-keynotes/",
+          "cn:title": "CNBC Keynotes",
+          "cn:tagName": "Buffett CNBC Keynotes",
+          "description": "Over the last 20 years, CNBC has sat down with Warren Buffett to discuss a number of relevant business topics. Watch these interviews to hear Buffett’s stance on investments, the state of the economy, government funding, and more.",
+          "name": "CNBC Keynotes",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "section",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "url": "",
+          "cn:type": "usage_rule",
+          "cn:title": "Premium Usage Rule",
+          "cn:creatorOverwrite": "",
+          "@id": "101903750",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/101903750",
+          "cn:slug": "Premium Usage Rule",
+          "cn:tagName": "Premium Usage Rule",
+          "description": "",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+            "cn:relationType": "usageRule",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/wall-street/",
+          "cn:type": "franchise",
+          "cn:title": "Wall Street",
+          "cn:creatorOverwrite": "",
+          "@id": "10000958",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000958",
+          "cn:slug": "Wall Street",
+          "cn:tagName": "Wall Street",
+          "cn:subType": "section",
+          "description": "Breaking news and latest headlines from Wall Street including articles, videos, photos, and blogs. ",
+          "name": "Wall Street",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "tags",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "15839069",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15839069",
+          "cn:slug": "Investing",
+          "cn:subType": "primetime_show",
+          "url": "https://qa-aws01web.cnbc.com/investing/",
+          "cn:title": "Investing",
+          "cn:tagName": "Investing",
+          "description": "Expert Analysis, Investment Tools, Stock Screeners, and Financial Strategy Information.",
+          "name": "Investing",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "tags",
+            "cn:isPromoted": "false"
+          }]
+        }
+      ],
+      "description": "The full interview with John Rogers Jr.",
+      "cn:section": {
+        "cn:type": "franchise",
+        "cn:creatorOverwrite": "",
+        "@id": "104847581",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847581",
+        "cn:slug": "Buffett CNBC Keynotes",
+        "cn:subType": "news_section",
+        "url": "https://qa-aws01buffett.cnbc.com/cnbc-keynotes/",
+        "cn:title": "CNBC Keynotes",
+        "cn:tagName": "Buffett CNBC Keynotes",
+        "cn:subDomain": "https://qa-aws01buffett.cnbc.com",
+        "cn:branding": "buffett",
+        "cn:sectionHierarchy": [{
+            "id": 104847581,
+            "tagName": "Buffett CNBC Keynotes",
+            "order": 1
+          },
+          {
+            "id": 104847532,
+            "tagName": "Buffett A-Z",
+            "order": 2
+          },
+          {
+            "id": 104847371,
+            "tagName": "Buffett Archive",
+            "order": 3
+          }
+        ],
+        "cn:sectionLabel": "",
+        "cn:liveURL": "/cnbc-keynotes/",
+        "cn:settings": {
+          "cn:commentsEnabled": "Yes",
+          "cn:dateline": "Yes",
+          "cn:isFamilyFriendly": "Yes",
+          "cn:socialtoolsEnabled": "Yes",
+          "cn:displayByline": "Yes",
+          "cn:displaySource": "Yes",
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:outbrainEnabled": "Yes",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "Over the last 20 years, CNBC has sat down with Warren Buffett to discuss a number of relevant business topics. Watch these interviews to hear Buffett’s stance on investments, the state of the economy, government funding, and more.",
+        "cn:sectionLinktext": "",
+        "headline": "CNBC Keynotes",
+        "datePublished": "2018-02-05T20:08:41+0000",
+        "cn:historicalURL": [],
+        "cn:tabLabel": "",
+        "cn:bodyTeaser": "null",
+        "cn:shortestDescription": "",
+        "cn:summary": "Over the last 20 years, CNBC has sat down with Warren Buffett to discuss a number of relevant business topics. Watch these interviews to hear Buffett’s stance on investments, the state of the economy, government funding, and more.",
+        "cn:editedBy": "ashish.gupta",
+        "cn:createdBy": "rekha.ponnur",
+        "cn:shorterDescription": "",
+        "name": "CNBC Keynotes",
+        "cn:sectionColor": "#000000",
+        "cn:promoText": "",
+        "cn:showTime": "",
+        "@type": "Collection"
+      },
+      "cn:subDomain": "",
+      "cn:historicalURL": [],
+      "cn:bodyTeaser": "null",
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "cn:keyword": "John Rogers Jr., CNBC PRO, PRO Uncut, Ariel",
+      "cn:vcpsId": 3000671728,
+      "cn:transcriptUrl": "",
+      "cn:closedCaptionUrl": "",
+      "name": "Ariel's John Rogers Jr. on why he's so bullish on equities, favorite stock picks",
+      "cn:show": "",
+      "duration": 227,
+      "cn:network": 1,
+      "expireDate": "",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 23804
+      }]
+    },
+    {
+      "@id": "104845074",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104845074",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "US market outlook KIESNOSKI 171115 EC",
+      "cn:tagName": "",
+      "cn:title": "Market rally has at least another year to run, say experts",
+      "cn:creatorOverwrite": "",
+      "url": "/2017/11/16/market-rally-has-at-least-another-year-to-run-say-experts.html",
+      "cn:liveURL": "/2017/11/16/market-rally-has-at-least-another-year-to-run-say-experts.html",
+      "cn:createdBy": "Kenneth.Kiesnoski",
+      "cn:editedBy": "Rick.Levinson",
+      "datePublished": "2017-11-16T14:18:11+0000",
+      "cn:summary": "The U.S. market rally probably has a few years left to run, and will more than likely slow due to natural cycles rather than any cataclysm, say experts.",
+      "cn:linkHeadline": "Market rally has at least another year to run, experts say",
+      "headline": "Market rally has at least another year to run, experts say",
+      "cn:shorterHeadline": "Market rally has another year to run, say experts",
+      "cn:shortestHeadline": "",
+      "cn:shorterDescription": "The U.S. market rally probably has a few years left and will likely slow due to natural cycles rather than any cataclysm, say experts.",
+      "cn:shortestDescription": "The market rally probably has a few years left and will likely slow due to natural cycles rather than any cataclysm.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104181372\"/></assets><div class=\"group\"><p>Will the stock market boom go bust or at least slow — and if so, when and why?</p><p>Not for at least another 12 months — and perhaps not until sometime after 2019 — and then most likely only due to \"natural\" causes, said speakers at the opening Tuesday night keynote at the Charles Schwab IMPACT 2017 conference in Chicago.</p><p>\"Stocks have been rooted in better fundamentals of growth around the world,\" Jeffrey Kleintop, chief global strategist and senior vice president at Schwab, told many of those of the 4,000 registered investment advisors in town for IMPACT, who had gathered in a cavernous hall at the McCormick Place conference center for the presentation.</p><p>\"That's been true through the Brexit vote, through the U.S. election, through the shift in central bank policies — even the North Korea risks. Stocks have remained anchored in better growth prospects,\" he added, with every one of the top 45 largest world economies — including the U.S. — recording positive growth in 2017, according to the OECD. </p><p>More of the same is said to be on tap for 2018. \"That is a fantastic environment for investors,\" Kleintop said.</p><p><strong>More from the IMPACT Conference:</strong><br /> <asset_inline nid=\"104844916\">The 12 end-of-life-documents you need</asset_inline><br /> <asset_inline nid=\"104844190\">The wall of worry advisors are facing</asset_inline><br /> <asset_inline nid=\"104051502\">Advisors fighting elder financial abuse</asset_inline></p><p>The current pace of growth, the best and broadest in 10 years, \"is lifting earnings, with little sign [and] little risk of recession or a bear market or bubble-bursting in the next 12 months,\" Kleintop said, also noting that the yield curve — the difference between short- and long-term interest rates and, historically, a good predictor of a coming recession — seems to indicate the all-clear for at least another two to three years.</p><p>Liz Ann Sonders, chief investment strategist and senior vice president at Schwab, agreed. The yield curve, she said, indicates \"very minimal lift at this stage in the risk of recession, and I think we really probably don't have to really worry about that until about 2019 or so.\"</p><p>Good news for sure, but optimism can eventually morph into investor euphoria. And Sonders reminded attendees that the American-born British investor and fund manager Sir John Templeton once famously quipped that, in the end, bull markets die on euphoria.</p><p>\"We all know this has been a unique bull market, so I have my own take on this: That this bull market was born on despair, grew on disbelief, has matured on skepticism and may die on acceptance,\" Sonders said, referring to the somewhat tempered (historically speaking) optimism typical of today's investor.</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 104847532,
+          "tagName": "Buffett A-Z",
+          "order": 1
+        },
+        {
+          "id": 104847371,
+          "tagName": "Buffett Archive",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "caption": "Pedestrians walk along Wall Street as a Christmas tree stands in front of the New York Stock Exchange.",
+        "author": "",
+        "copyrightHolder": "Michael Nagle | Bloomberg | Getty Images",
+        "@id": "104181372",
+        "height": "1334",
+        "datePublished": "2017-11-15T20:39:12+0000",
+        "description": "",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104181372-GettyImages-630354094.jpg?v=1510778303"
+      },
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 1
+      },
+      "cn:association": [{
+          "cn:type": "creator",
+          "cn:creatorOverwrite": "",
+          "@id": "101087705",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/101087705",
+          "cn:slug": "Kenneth Kiesnoski",
+          "url": "http://qa-aws01web.cnbc.com/kenneth-kiesnoski/",
+          "cn:title": "Kenneth Kiesnoski",
+          "cn:tagName": "Kenneth Kiesnoski",
+          "description": "Associate Editor",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+            "cn:relationType": "author",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "104847532",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847532",
+          "cn:slug": "Buffett A-Z",
+          "cn:subType": "section",
+          "url": "https://qa-aws01buffett.cnbc.com/buffett-a-z/",
+          "cn:title": "Buffett A-Z",
+          "cn:tagName": "Buffett A-Z",
+          "description": "",
+          "name": "Buffett A-Z",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "section",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "cn:type": "image",
+          "cn:creatorOverwrite": "Michael Nagle | Bloomberg | Getty Images",
+          "@id": "104181372",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104181372",
+          "cn:slug": "Premium EA: Wall Street NYSE pedestrians 161221",
+          "cn:title": "NYSE New York Stock Exchange traders markets",
+          "cn:tagName": "",
+          "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104181372-GettyImages-630354094.jpg?v=1510778303",
+          "description": "",
+          "author": "",
+          "contentSize": 2028881,
+          "caption": "Pedestrians walk along Wall Street as a Christmas tree stands in front of the New York Stock Exchange.",
+          "copyrightHolder": "Michael Nagle | Bloomberg | Getty Images",
+          "height": "1334",
+          "width": "2000",
+          "cn:relation": [{
+            "cn:relationType": "tags",
+            "cn:isPromoted": "true"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "16903222",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/16903222",
+          "cn:slug": "Special Reports",
+          "cn:subType": "special_report",
+          "url": "https://qa-aws01web.cnbc.com/special-reports/",
+          "cn:title": "CNBC Special Reports",
+          "cn:tagName": "Special Reports",
+          "description": "Find CNBC Special Reports with News and Analysis on Investing, Technology, Real Estate, Breaking News and Special Events.\r\n",
+          "name": "CNBC Special Reports",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "tags",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "102091434",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/102091434",
+          "cn:slug": "IMPACT special report",
+          "cn:subType": "special_report",
+          "url": "https://qa-aws01web.cnbc.com/schwab-impact/",
+          "cn:title": "IMPACT",
+          "cn:tagName": "Impact conference",
+          "description": "This is the largest summary you can have. It has a character limit of 155 characters",
+          "name": "IMPACT",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "tags",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "15839069",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15839069",
+          "cn:slug": "Investing",
+          "cn:subType": "primetime_show",
+          "url": "https://qa-aws01web.cnbc.com/investing/",
+          "cn:title": "Investing",
+          "cn:tagName": "Investing",
+          "description": "Expert Analysis, Investment Tools, Stock Screeners, and Financial Strategy Information.",
+          "name": "Investing",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "related",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "100003242",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100003242",
+          "cn:slug": "US Markets",
+          "cn:subType": "news_section",
+          "url": "https://qa-aws01buffett.cnbc.com/us-markets/",
+          "cn:title": "US Markets",
+          "cn:tagName": "U.S. Markets",
+          "description": "Up to date market data and stock market news is available online. View US market headlines and market charts. Get the latest economy news, markets in our Market Overview.",
+          "name": "US Markets",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "tags",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/personal-finance/",
+          "cn:type": "franchise",
+          "cn:title": "Personal Finance",
+          "cn:creatorOverwrite": "",
+          "@id": "21324812",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/21324812",
+          "cn:slug": "PF franchise",
+          "cn:tagName": "Personal Finance",
+          "cn:subType": "section",
+          "description": "Find personal finance top news, headlines, and videos from credit cards, mortgages, retirement, savings, taxes, and more from CNBC's Personal Finance section.",
+          "name": "Personal Finance",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "tags",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "100010507",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100010507",
+          "cn:slug": "US Economy",
+          "cn:subType": "news_section",
+          "url": "https://qa-aws01web.cnbc.com/us-economy/",
+          "cn:title": "US Economy",
+          "cn:tagName": "US Economy",
+          "description": "Latest news and headlines affecting the United States economy.",
+          "name": "US Economy",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "tags",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/world-markets/",
+          "cn:type": "franchise",
+          "cn:title": "World Markets",
+          "cn:creatorOverwrite": "",
+          "@id": "100003241",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100003241",
+          "cn:slug": "Global Markets",
+          "cn:tagName": "World Markets",
+          "cn:subType": "section",
+          "description": "Market headlines from across the globe. ",
+          "name": "World Markets",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "15839215",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15839215",
+          "cn:slug": "Stocks",
+          "cn:subType": "news_section",
+          "url": "http://qa-aws01web.cnbc.com/stocks/",
+          "cn:title": "Stocks",
+          "cn:tagName": "Stocks from tag name",
+          "description": "In-depth market analysis, real-time stock market data, research and earnings from CNBC.com. ",
+          "name": "Stocks",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:type": "cnbcvideo",
+          "cn:creatorOverwrite": "",
+          "@id": "104844190",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104844190",
+          "cn:slug": "SOTS IMPACT Bernie Clark Schwab Advisor 171115 EC ",
+          "url": "/video/2017/11/15/the-wall-of-worry-advisors-are-facing.html",
+          "cn:title": "The 'wall of worry' advisors are facing",
+          "cn:tagName": "",
+          "description": "CNBC's Tyler Mathisen sits down with Bernie Clark of Schwab Advisor Services to discuss the \"wall of worry\" advisors are facing today. As more advisors turn to passive investing, many have to cope with cybersecurity threats and the challenges of generational wealth transfer. ",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+            "cn:relationType": "related",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "102",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/102",
+          "cn:slug": "Markets Redesign",
+          "cn:subType": "markets",
+          "url": "https://qa-aws01web.cnbc.com/markets/",
+          "cn:title": "Markets",
+          "cn:tagName": "Markets",
+          "description": "View up-to-date U.S. market and world market charts. Get the latest on world economy news and global markets in our Market Overview.",
+          "name": "Markets",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        }
+      ],
+      "description": "The U.S. market rally probably has a few years left to run, and will more than likely slow due to natural cycles rather than any cataclysm, say experts.",
+      "author": [{
+        "@type": "Creator",
+        "@id": "101087705",
+        "name": "Kenneth Kiesnoski",
+        "url": "http://qa-aws01web.cnbc.com/kenneth-kiesnoski/",
+        "cn:tagName": "Kenneth Kiesnoski",
+        "position": "5000",
+        "sameAs": [
+          "https://www.linkedin.com/in/kennethkiesnoski",
+          "https://www.twitter.com/kkiesnoski"
+        ],
+        "cn:socialMediaInfo": [{
+            "cn:url": "https://linkedin.com/in/kennethkiesnoski",
+            "cn:displayText": "in/kennethkiesnoski",
+            "cn:type": "linkedin"
+          },
+          {
+            "cn:url": "https://twitter.com/kkiesnoski",
+            "cn:displayText": "kkiesnoski",
+            "cn:type": "twitter"
+          }
+        ]
+      }],
+      "cn:section": {
+        "cn:type": "franchise",
+        "cn:creatorOverwrite": "",
+        "@id": "104847532",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847532",
+        "cn:slug": "Buffett A-Z",
+        "cn:subType": "section",
+        "url": "https://qa-aws01buffett.cnbc.com/buffett-a-z/",
+        "cn:title": "Buffett A-Z",
+        "cn:tagName": "Buffett A-Z",
+        "cn:subDomain": "https://qa-aws01buffett.cnbc.com",
+        "cn:branding": "buffett",
+        "cn:sectionHierarchy": [{
+            "id": 104847532,
+            "tagName": "Buffett A-Z",
+            "order": 1
+          },
+          {
+            "id": 104847371,
+            "tagName": "Buffett Archive",
+            "order": 2
+          }
+        ],
+        "cn:sectionLabel": "",
+        "cn:liveURL": "/buffett-a-z/",
+        "cn:settings": {
+          "cn:commentsEnabled": "Yes",
+          "cn:dateline": "Yes",
+          "cn:isFamilyFriendly": "Yes",
+          "cn:socialtoolsEnabled": "Yes",
+          "cn:displayByline": "Yes",
+          "cn:displaySource": "Yes",
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:outbrainEnabled": "Yes",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "",
+        "cn:sectionLinktext": "",
+        "headline": "Buffett A-Z",
+        "datePublished": "2018-01-31T17:12:17+0000",
+        "cn:historicalURL": [],
+        "cn:tabLabel": "",
+        "cn:bodyTeaser": "null",
+        "cn:shortestDescription": "",
+        "cn:summary": "",
+        "cn:editedBy": "ritesh.shah",
+        "cn:createdBy": "Lisa.Steiger@nbcuni.com",
+        "cn:shorterDescription": "",
+        "name": "Buffett A-Z",
+        "cn:sectionColor": "#000000",
+        "cn:promoText": "",
+        "cn:showTime": "",
+        "@type": "Collection"
+      },
+      "cn:subDomain": "",
+      "cn:historicalURL": [],
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 23803
+      }]
+    }
+  ]
+}

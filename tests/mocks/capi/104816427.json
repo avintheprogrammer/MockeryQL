@@ -1,0 +1,142 @@
+{
+  "@type": "FinancialProduct",
+  "@id": "104816427",
+  "cn:type": "security",
+  "cn:slug": "iShares MSCI Emerging Markets ETF T:EEM-MX",
+  "cn:creatorOverwrite": "",
+  "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/104816427",
+  "cn:shortestDescription": "Emerging Markets ETF",
+  "cn:summary": "iShares MSCI Emerging Markets ETF",
+  "cn:shorterDescription": "MSCI Emerging Markets ETF",
+  "cn:settings": {
+    "cn:commentsEnabled": "Yes",
+    "cn:socialtoolsEnabled": "Yes",
+    "cn:tweetOnPublish": 0
+  },
+  "url": "/quotes/?symbol=EEM-MX",
+  "datePublished": "2017-11-02T19:07:22 GMT",
+  "sourceOrganization": [{
+    "@type": "Organization",
+    "@id": "112",
+    "cn:type": "source",
+    "cn:slug": "GDS Securities",
+    "cn:creatorOverwrite": "",
+    "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/112",
+    "url": "",
+    "name": "",
+    "description": "Global data-pool system",
+    "cn:sourceLogo": "http://fm.cnbc.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif"
+  }],
+  "name": "iShares MSCI Emerging Markets ETF",
+  "cn:symbol": "EEM-MX",
+  "cn:exchangeName": "Mexico Stock Exchange",
+  "cn:issueId": "2203956",
+  "tickerSymbol": "Mexico Stock Exchange EEM-MX",
+  "@context": {
+    "@vocab": "http://schema.org/",
+    "cn": "http://cnbc.com/schema/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "CNBC",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "cn:association": [{
+      "@type": "Organization",
+      "@id": "112",
+      "cn:type": "source",
+      "cn:slug": "GDS Securities",
+      "cn:creatorOverwrite": "",
+      "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/http://qa-pa20capi-bl.cnbc.com/id/112",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes"
+      },
+      "url": "",
+      "datePublished": "2011-09-07T03:44:22 GMT",
+      "name": "",
+      "description": "Global data-pool system",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+        "position": 5000,
+        "cn:relationType": "source"
+      }]
+    },
+    {
+      "@type": "Collection",
+      "@id": "102",
+      "cn:type": "franchise",
+      "cn:slug": "Markets Redesign",
+      "cn:creatorOverwrite": "",
+      "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/102",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "url": "http://qa-pa14pub.cnbc.com/markets/",
+      "datePublished": "2016-10-26T15:47:24 GMT",
+      "cn:subtype": "marketsection",
+      "name": "Markets",
+      "description": "View up-to-date U.S. market and world market charts. Get the latest on world economy news and global markets in our Market Overview.",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+        "position": 1,
+        "cn:relationType": "franchise"
+      }]
+    },
+    {
+      "@type": "DigitalDocument",
+      "fileFormat": "text/tpl",
+      "@id": "10007",
+      "cn:type": "markup_template",
+      "cn:slug": "Topic Template",
+      "cn:creatorOverwrite": "",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:tweetOnPublish": 0
+      },
+      "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/10007",
+      "title": "Topic Template",
+      "datePublished": "2012-08-09T14:58:03 GMT",
+      "name": "franchise.tpl",
+      "url": "file://franchise.tpl",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+        "position": 1,
+        "cn:relationType": "template"
+      }]
+    }
+  ]
+}

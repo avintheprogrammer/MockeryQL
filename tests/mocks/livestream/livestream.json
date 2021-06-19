@@ -1,0 +1,23 @@
+{
+  "cnbc-global-video-response": {
+    "data": {
+      "stream-assets": [
+        {
+          "Timezone": "America/New_York",
+          "Endtime": "19:00:00",
+          "InCache": false,
+          "AltURL": "",
+          "Restricted": false,
+          "Starttime": "04:00:00",
+          "IgnoreWeekend": false,
+          "protectedURL": "//link.theplatform.com/s/gZWlPC/h87fr1kRHOZK?formats=m3u&format=SMIL&embedded=true&tracking=true&sig=005aa076e3971ca8b869aa213724088fec518d2892882ad117736563726574",
+          "Remaining": "1655000",
+          "URL": "//link.theplatform.com/s/gZWlPC/h87fr1kRHOZK?formats=m3u&format=SMIL&embedded=true&tracking=true",
+          "Name": "Akamai-US-Stream",
+          "tokenGenerator": "platform"
+        }
+      ]
+    },
+    "error-code": "0"
+  }
+}

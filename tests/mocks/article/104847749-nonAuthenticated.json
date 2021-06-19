@@ -1,0 +1,128 @@
+{
+  "data": {
+    "article": {
+      "body": {
+        "isAuthenticated": false,
+        "content": [
+          {
+            "tagName": "cnbcvideo",
+            "attributes": {
+              "id": 104846005,
+              "type": "cnbcvideo",
+              "headline": "Huge potential in Zimbabwe for much stronger growth path: Exotix",
+              "title": "Huge potential in Zimbabwe for much stronger growth path: Exotix",
+              "description": "Stuart Culverhouse, chief economist and head of fixed income research at Exotix Capital, discusses the knock-on effects of a military takeover in Zimbabwe.",
+              "thumbnail": "https://qa-aws02capi-img-origin.cnbc.com/api/v1/image/104846084-5ED3-SBEU-111617-StuartCulverhouse.jpg?v=1510817241",
+              "duration": 221,
+              "uploadDate": "2017-11-16T06:48:05+0000",
+              "autoPlay": false
+            },
+            "children": []
+          },
+          {
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": [
+              {
+                "tagName": "p",
+                "children": [
+                  "Once known as the  \"breadbasket of Africa\", Zimbabwe may once again have a chance at genuine economic growth after decades of decline, according to analysts."
+                ]
+              }
+            ]
+          },
+          {
+            "tagName": "chart",
+            "attributes": {
+              "type": "chart",
+              "headline": "Pre-Markets: Key Sectors",
+              "datePublished": "2012-07-25T19:02:15+0000",
+              "chartType": "stock",
+              "headers": [
+                "Price",
+                "Change",
+                "%Change"
+              ],
+              "timeFrame": "3 Months",
+              "tickerIssueIDs": [
+                "603229",
+                "604342",
+                "588905",
+                "588248",
+                "583165"
+              ],
+              "tickerIssueDetails": [
+                {
+                  "symbol": ".SPLRCT",
+                  "issueId": "603229",
+                  "issueType": "INDEX",
+                  "companyName": "S&P 500 Information Technology Sector",
+                  "companyShortName": "TECHNOLOGY",
+                  "exchangeName": "CME:Chicago Mercantile Exchange",
+                  "countryCode": "US"
+                },
+                {
+                  "symbol": ".SPLRCS",
+                  "issueId": "604342",
+                  "issueType": "INDEX",
+                  "companyName": "S&P 500 Consumer Staples Sector",
+                  "companyShortName": "CONS STPL",
+                  "exchangeName": "CME:Chicago Mercantile Exchange",
+                  "countryCode": "US"
+                },
+                {
+                  "symbol": ".SPLRCD",
+                  "issueId": "588905",
+                  "issueType": "INDEX",
+                  "companyName": "S&P 500 Consumer Discretionary Sector",
+                  "companyShortName": "CONS DISC",
+                  "exchangeName": "CME:Chicago Mercantile Exchange",
+                  "countryCode": "US"
+                },
+                {
+                  "symbol": ".SPNY",
+                  "issueId": "588248",
+                  "issueType": "INDEX",
+                  "companyName": "S&P 500 Energy Sector",
+                  "companyShortName": "ENERGY",
+                  "exchangeName": "CME:Chicago Mercantile Exchange",
+                  "countryCode": "US"
+                },
+                {
+                  "symbol": ".SPSY",
+                  "issueId": "583165",
+                  "issueType": "INDEX",
+                  "companyName": "S&P 500 Financials Sector",
+                  "companyShortName": "FINANCIALS",
+                  "exchangeName": "CME:Chicago Mercantile Exchange",
+                  "countryCode": "US"
+                }
+              ]
+            },
+            "children": []
+          },
+          {
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": [
+              {
+                "tagName": "p",
+                "children": [
+                  " \"If we see it put on a better trajectory, there's huge potential in Zimbabwe,\" Stuart Culverhouse, director at investment bank Exotix Limited, told CNBC on Thursday."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

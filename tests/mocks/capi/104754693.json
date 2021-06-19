@@ -1,0 +1,1013 @@
+{
+  "cn:type": "person",
+  "cn:creatorOverwrite": "",
+  "@id": "104754693",
+  "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104754693",
+  "cn:slug": "CFO COUNCIL HAJJAR SOLVAY S.A. VOLASTRO 051017",
+  "url": "http://qa-aws01web.cnbc.com/karim-hajjar-solvay-s-a/",
+  "cn:title": "Karim Hajjar, Solvay S.A.",
+  "cn:tagName": "",
+  "cn:sectionHierarchy": [
+    {
+      "id": 100453419,
+      "tagName": "CNBC Global CFO Council",
+      "order": 1
+    },
+    {
+      "id": 16903222,
+      "tagName": "Special Reports",
+      "order": 2
+    },
+    {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 3
+    }
+  ],
+  "cn:shorterHeadline": "Karim Hajjar, Solvay S.A.",
+  "headline": "Karim Hajjar, Solvay S.A.",
+  "cn:liveURL": "/karim-hajjar-solvay-s-a/",
+  "cn:settings": {
+    "cn:commentsEnabled": "No",
+    "cn:dateline": "No",
+    "cn:isFamilyFriendly": "Yes",
+    "cn:socialtoolsEnabled": "Yes",
+    "cn:displayByline": "No",
+    "cn:displaySource": "No",
+    "cn:listType": "Manual and/or populated by feeds",
+    "cn:outbrainEnabled": "No",
+    "cn:tweetOnPublish": 0
+  },
+  "image": {
+    "@type": "ImageObject",
+    "representativeOfPage": "true",
+    "@id": "104754704",
+    "datePublished": "2017-10-05T14:44:31+0000",
+    "description": "",
+    "copyrightHolder": "Source: Solvay S.A.",
+    "author": "",
+    "height": "659",
+    "width": "990",
+    "caption": "Karim Hajjar, Chief Financial Officer, Solvay S.A.",
+    "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104754704-Karim-Hajjar.jpg?v=1507214677"
+  },
+  "sourceOrganization": [
+    {
+      "@type": "Organization",
+      "@id": "100005495",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100005495",
+      "cn:type": "source",
+      "cn:slug": "CNBC Europe Source",
+      "cn:tagName": "CNBC Europe Source",
+      "cn:title": "",
+      "cn:creatorOverwrite": "",
+      "url": "",
+      "cn:sourceName": "CNBC.com",
+      "description": "CNBC.com",
+      "name": ""
+    }
+  ],
+  "description": "Karim Hajjar is CFO for Solvay S.A.",
+  "cn:section": {
+    "@id": "100453419",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100453419",
+    "cn:type": "franchise",
+    "cn:slug": "CNBC Global CFO Council",
+    "cn:subType": "special_report",
+    "cn:tagName": "CNBC Global CFO Council",
+    "cn:title": "CNBC Global CFO Council",
+    "cn:creatorOverwrite": "",
+    "url": "http://qa-aws01web.cnbc.com/global-cfo-council/",
+    "cn:liveURL": "/global-cfo-council/",
+    "datePublished": "2013-02-25T18:27:44+0000",
+    "cn:summary": "CNBC has assembled an elite group of chief financial officers representing public and private companies from various major sectors, to share their frontline insights and unique views on key issues and challenges facing today’s CFOs.",
+    "cn:sectionLinktext": "CNBC Global CFO Council",
+    "cn:sectionLabel": "CNBC Global CFO Council",
+    "headline": "CNBC Global CFO Council",
+    "cn:tabLabel": "Home",
+    "cn:shorterDescription": "Frontline insights and unique views on key issues and challenges facing today’s CFOs.",
+    "cn:shortestDescription": "Frontline insights and unique views on key issues and challenges facing today’s CFOs.",
+    "cn:bodyTeaser": "null",
+    "image": {
+      "@type": "ImageObject",
+      "representativeOfPage": "true",
+      "caption": "",
+      "author": "",
+      "copyrightHolder": "",
+      "@id": "100486433",
+      "height": "1622",
+      "datePublished": "2013-02-22T22:04:04+0000",
+      "description": "",
+      "width": "2880",
+      "url": "https://qa-aws02capi-img-origin.cnbc.com/image/100486433-global-cfo-council-mezz-2.jpg?v=1413209252"
+    },
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Manual and/or populated by feeds",
+      "cn:tweetOnPublish": 0
+    },
+    "description": "CNBC has assembled an elite group of chief financial officers representing public and private companies from various major sectors, to share their frontline insights and unique views on key issues and challenges facing today’s CFOs.",
+    "cn:sectionHierarchy": [
+      {
+        "id": 16903222,
+        "tagName": "Special Reports",
+        "order": 1
+      },
+      {
+        "id": 10000161,
+        "tagName": "CNBC Global",
+        "order": 2
+      }
+    ],
+    "cn:historicalURL": [
+      "/asia-pacific-cfo-council/",
+      "/cnbc-global-cfo-council-2013/",
+      "/emea-cfo-council/",
+      "/global-cfo-council-members/",
+      "/id/100453419"
+    ],
+    "cn:editedBy": "anthony.volastro",
+    "cn:createdBy": "rosy.ngo",
+    "name": "CNBC Global CFO Council",
+    "@type": "Collection"
+  },
+  "cn:linkHeadline": "Karim Hajjar, Solvay S.A.",
+  "datePublished": "2017-10-05T14:50:58+0000",
+  "cn:historicalURL": [],
+  "cn:shortestHeadline": "Karim Hajjar, Solvay S.A.",
+  "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104754704\"/></assets><div class=\"group\"><p>\n  Karim Hajjar joined Solvay S.A. as CFO and member of the\n  executive committee in September 2013. Prior to that, he had a\n  varied career that started in 1984 at Grant Thornton Chartered\n  Accountants in London, where he became a partner in 1993,\n  specializing in SMEs across numerous industries and in corporate\n  distress.&#160;&#160;\n</p>\n<p>\n  He moved to Royal Dutch/Shell in 1995 and undertook a number of\n  roles in the UK, Sultanate of Oman and Singapore, where his last\n  role was deputy global CFO of Shell Chemicals.&#160;\n</p>\n<p>\n  <span>Karim&#160;</span>subsequently joined Tarmac Group (a\n  division of Anglo American Plc) as group CFO before being\n  appointed as group managing director in 2009. He then briefly\n  took the role of director of finance and planning at Imperial\n  Tobacco Group Plc in 2011 before joining Solvay in 2013 to\n  contribute to its transformation.&#160;&#160;\n</p>\n<p>\n  <span>Karim&#160;</span>is a dual British-Lebanese national, an\n  economics graduate from the City University in London and is a\n  member of the Institute of Chartered Accountants in England and\n  Wales. He is married and has four children.\n</p><br />\n<br />\n<br />\n<br />\n<br />\n<br /></div></group></body>",
+  "cn:shortestDescription": "Karim Hajjar is CFO for Solvay S.A.",
+  "cn:summary": "Karim Hajjar is CFO for Solvay S.A.",
+  "cn:editedBy": "anthony.volastro",
+  "cn:createdBy": "anthony.volastro",
+  "cn:shorterDescription": "Karim Hajjar is CFO for Solvay S.A.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "CNBC",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "@context": {
+    "@vocab": "http://schema.org/",
+    "cn": "http://cnbc.com/schema/"
+  },
+  "name": "Karim Hajjar",
+  "givenName": "Karim",
+  "familyName": "Hajjar",
+  "jobTitle": "CFO",
+  "email": "",
+  "telephone": "",
+  "@type": "Person",
+  "cn:xmlArticleBody": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104754704\"/></assets><div class=\"group\"><p>\n  Karim Hajjar joined Solvay S.A. as CFO and member of the\n  executive committee in September 2013. Prior to that, he had a\n  varied career that started in 1984 at Grant Thornton Chartered\n  Accountants in London, where he became a partner in 1993,\n  specializing in SMEs across numerous industries and in corporate\n  distress.&#160;&#160;\n</p>\n<p>\n  He moved to Royal Dutch/Shell in 1995 and undertook a number of\n  roles in the UK, Sultanate of Oman and Singapore, where his last\n  role was deputy global CFO of Shell Chemicals.&#160;\n</p>\n<p>\n  <span>Karim&#160;</span>subsequently joined Tarmac Group (a\n  division of Anglo American Plc) as group CFO before being\n  appointed as group managing director in 2009. He then briefly\n  took the role of director of finance and planning at Imperial\n  Tobacco Group Plc in 2011 before joining Solvay in 2013 to\n  contribute to its transformation.&#160;&#160;\n</p>\n<p>\n  <span>Karim&#160;</span>is a dual British-Lebanese national, an\n  economics graduate from the City University in London and is a\n  member of the Institute of Chartered Accountants in England and\n  Wales. He is married and has four children.\n</p><br />\n<br />\n<br />\n<br />\n<br />\n<br /></div></group></body>",
+  "articlebody": "\n  Karim Hajjar joined Solvay S.A. as CFO and member of the\n  executive committee in September 2013. Prior to that, he had a\n  varied career that started in 1984 at Grant Thornton Chartered\n  Accountants in London, where he became a partner in 1993,\n  specializing in SMEs across numerous industries and in corporate\n  distress.&#160;&#160;\n\n\n  He moved to Royal Dutch/Shell in 1995 and undertook a number of\n  roles in the UK, Sultanate of Oman and Singapore, where his last\n  role was deputy global CFO of Shell Chemicals.&#160;\n\n\n  Karim&#160;subsequently joined Tarmac Group (a\n  division of Anglo American Plc) as group CFO before being\n  appointed as group managing director in 2009. He then briefly\n  took the role of director of finance and planning at Imperial\n  Tobacco Group Plc in 2011 before joining Solvay in 2013 to\n  contribute to its transformation.&#160;&#160;\n\n\n  Karim&#160;is a dual British-Lebanese national, an\n  economics graduate from the City University in London and is a\n  member of the Institute of Chartered Accountants in England and\n  Wales. He is married and has four children.\n\n\n\n\n\n",
+  "cn:xmlKeyPoints": "null",
+  "dateModified": "2017-10-10T14:32:47+0000",
+  "cn:dateLastPublished": "2017-10-10T14:32:56+0000",
+  "cn:unpublishDate": "",
+  "cn:association": [
+    {
+      "@type": "ImageObject",
+      "@id": "104754704",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104754704",
+      "cn:type": "image",
+      "cn:slug": "Handout: Karim Hajjar, Chief Financial Officer, Solvay S.A.",
+      "cn:tagName": "",
+      "cn:title": "",
+      "cn:creatorOverwrite": "Source: Solvay S.A.",
+      "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104754704-Karim-Hajjar.jpg?v=1507214677",
+      "cn:liveURL": "",
+      "datePublished": "2017-10-05T14:44:31+0000",
+      "cn:summary": "",
+      "cn:linkHeadline": "",
+      "cn:shorterHeadline": "",
+      "headline": "",
+      "cn:shortestHeadline": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "cn:association": [
+        {
+          "@type": "ImageObject",
+          "cn:type": "image",
+          "cn:creatorOverwrite": "",
+          "@id": "100004402",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100004402",
+          "cn:slug": "CNBC Image",
+          "cn:title": "",
+          "cn:tagName": "",
+          "url": "https://qa-aws02capi-img-origin.cnbc.com/image/100004402-?v=1038718800",
+          "description": "",
+          "author": "",
+          "caption": "",
+          "copyrightHolder": "",
+          "height": "",
+          "width": "",
+          "cn:relation": [
+            {
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }
+          ]
+        }
+      ],
+      "description": "",
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "author": "",
+      "contentSize": 73043,
+      "caption": "Karim Hajjar, Chief Financial Officer, Solvay S.A.",
+      "copyrightHolder": "Source: Solvay S.A.",
+      "height": "659",
+      "width": "990",
+      "cn:relation": [
+        {
+          "position": 5000,
+          "cn:relationType": "promo",
+          "cn:isPromoted": "true"
+        },
+        {
+          "position": 1,
+          "cn:relationType": "tags",
+          "cn:isPromoted": "true"
+        }
+      ]
+    },
+    {
+      "@id": "100453419",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100453419",
+      "cn:type": "franchise",
+      "cn:slug": "CNBC Global CFO Council",
+      "cn:subType": "special_report",
+      "cn:tagName": "CNBC Global CFO Council",
+      "cn:title": "CNBC Global CFO Council",
+      "cn:creatorOverwrite": "",
+      "url": "http://qa-aws01web.cnbc.com/global-cfo-council/",
+      "cn:liveURL": "/global-cfo-council/",
+      "datePublished": "2013-02-25T18:27:44+0000",
+      "cn:summary": "CNBC has assembled an elite group of chief financial officers representing public and private companies from various major sectors, to share their frontline insights and unique views on key issues and challenges facing today’s CFOs.",
+      "cn:linkHeadline": "CNBC Global CFO Council",
+      "cn:shorterHeadline": "CNBC Global CFO Council",
+      "headline": "CNBC Global CFO Council",
+      "cn:shortestHeadline": "Home",
+      "cn:shorterDescription": "Frontline insights and unique views on key issues and challenges facing today’s CFOs.",
+      "cn:shortestDescription": "Frontline insights and unique views on key issues and challenges facing today’s CFOs.",
+      "cn:bodyTeaser": "null",
+      "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "caption": "",
+        "author": "",
+        "copyrightHolder": "",
+        "@id": "100486433",
+        "height": "1622",
+        "datePublished": "2013-02-22T22:04:04+0000",
+        "description": "",
+        "width": "2880",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/100486433-global-cfo-council-mezz-2.jpg?v=1413209252"
+      },
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "cn:association": [
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "16903222",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/16903222",
+          "cn:slug": "Special Reports",
+          "cn:subType": "special_report",
+          "url": "https://qa-aws01web.cnbc.com/special-reports/",
+          "cn:title": "CNBC Special Reports",
+          "cn:tagName": "Special Reports",
+          "description": "Find CNBC Special Reports with News and Analysis on Investing, Technology, Real Estate, Breaking News and Special Events.\r\n",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "section",
+              "cn:isPromoted": "false"
+            }
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/video/2016/05/19/hdfc-demand-for-housing-loans-will-remain-strong.html",
+          "cn:type": "cnbcvideo",
+          "cn:title": "HDFC: Demand for housing loans will remain strong",
+          "cn:creatorOverwrite": "",
+          "@id": "103652079",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103652079",
+          "cn:slug": "HDFC CEO Squawkbox 160520 Asia",
+          "cn:tagName": "",
+          "description": "Keki Mistry, HDFC's CEO and CFO, expects India's demographics to support demand for housing loans.",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            }
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/video/2016/05/15/china-seen-as-biggest-risk-for-asian-cfos-survey.html",
+          "cn:type": "cnbcvideo",
+          "cn:title": "China seen as biggest risk for Asian CFOs: Survey",
+          "cn:creatorOverwrite": "",
+          "@id": "103637116",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103637116",
+          "cn:slug": "China Slowdown Squawkbox 160516 Asia",
+          "cn:tagName": "",
+          "description": "The pace of China's economic transition has significant impact on power industries, explains Geert Peeters, CFO of electric company CLP Holdings.\r\n",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "true"
+            }
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/video/2016/05/15/ransomware-the-latest-cyber-threat.html",
+          "cn:type": "cnbcvideo",
+          "cn:title": "Ransomware: The latest cyber threat",
+          "cn:creatorOverwrite": "",
+          "@id": "103637135",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103637135",
+          "cn:slug": "Trend Micro Squawkbox 160516 Asia",
+          "cn:tagName": "",
+          "description": "Ransomware is the latest breed of cyber attacks threatening both corporates and individuals, explains Mahendra Negi, CFO of Trend Micro.",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "true"
+            }
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/video/2015/10/26/shifting-loan-trends-hit-danamons-profits.html",
+          "cn:type": "cnbcvideo",
+          "cn:title": "Shifting loan trends hit Danamon's profits",
+          "@id": "103110504",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103110504",
+          "cn:slug": "Shifting loan trends hit Danamon's profits v3000438609",
+          "description": "Vera Eve Lim, CFO of Bank Danamon and a member of CNBC's CFO Council, says net profits for the first three quarters were lower on changes in loan trends, but that there were also positive trends emerging.\n",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "true"
+            }
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/video/2014/01/14/wells-fargo-cfo-great-growth-across-the-board.html",
+          "cn:type": "cnbcvideo",
+          "cn:title": "Wells Fargo CFO: Great growth across the board",
+          "@id": "101336104",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/101336104",
+          "cn:slug": "Wells Fargo CFO: Great growth across the board v3000234732",
+          "description": "Discussing Q4 earnings and the decline in mortgage lending, with Tim Sloan, Wells Fargo CFO.",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "true"
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "cn:type": "image",
+          "cn:creatorOverwrite": "",
+          "@id": "100486433",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100486433",
+          "cn:slug": "Global CFO Mess",
+          "cn:title": "",
+          "cn:tagName": "",
+          "url": "https://qa-aws02capi-img-origin.cnbc.com/image/100486433-global-cfo-council-mezz-2.jpg?v=1413209252",
+          "description": "",
+          "author": "",
+          "contentSize": 892783,
+          "caption": "",
+          "copyrightHolder": "",
+          "height": "1622",
+          "width": "2880",
+          "cn:relation": [
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "true"
+            }
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/video/2014/01/16/trulias-housing-indicator-shows-mixed-market.html",
+          "cn:type": "cnbcvideo",
+          "cn:title": "Trulia's housing indicator shows mixed market",
+          "@id": "101341254",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/101341254",
+          "cn:slug": "Trulia's housing indicator shows mixed market v3000235135",
+          "description": "It's going to be an uneven recovery, says Sean Aggarwal, Chief Financial Officer at Trulia, sharing his thoughts on the outlook on housing. We¿ve seen a very sustained recovery in 2014, says Aggarwal.",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "true"
+            }
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/video/2014/01/28/ford-cfo-emerging-markets-are-a-concern.html",
+          "cn:type": "cnbcvideo",
+          "cn:title": "Ford CFO: Emerging markets are a concern",
+          "@id": "101370383",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/101370383",
+          "cn:slug": "Ford CFO: Emerging markets are a concern v3000240583",
+          "description": "CNBC's Phil LeBeau talks with Robert Shanks, Ford Motor Company CFO, about the automaker's strong year and how emerging market turmoil is impacting their bottom line.",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            }
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/video/2014/02/04/ubs-cfo-neutral-on-emerging-markets.html",
+          "cn:type": "cnbcvideo",
+          "cn:title": "UBS CFO 'neutral' on emerging markets",
+          "@id": "101387589",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/101387589",
+          "cn:slug": "UBS CFO 'neutral' on emerging markets v3000241531",
+          "description": "Tom Naratil, UBS CFO, shares his thoughts on where his bank is finding value in global opportunities. The outlook for the U.S. is good, says Naratil.",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            }
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/video/2014/02/11/wells-fargo-cfo-in-midst-of-good-housing-recovery-.html",
+          "cn:type": "cnbcvideo",
+          "cn:title": "Wells Fargo CFO: In midst of good housing recovery ",
+          "@id": "101408584",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/101408584",
+          "cn:slug": "Wells Fargo CFO: In midst of good housing recovery  v3000245252",
+          "description": "Wells Fargo CFO Tim Sloan weighs in on the housing recovery, competition, and banking regulations. Sloan says affordability in the housing industry is still very good.",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            }
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/video/2014/02/23/global-cfo-survey-shows-fears-of-consumer-spending-slump.html",
+          "cn:type": "cnbcvideo",
+          "cn:title": "Global CFO survey shows fears of consumer spending slump",
+          "@id": "101438184",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/101438184",
+          "cn:slug": "Global CFO survey shows fears of consumer spending slump v3000247908",
+          "description": "Nearly half of 51 chief financial officers (CFO) polled by CNBC cited weakening consumer demand as their biggest concern. CNBC's Asia Squawk Box team discuss the findings with Guy Look, CFO and Executive Director of Sasa International and Mohamed Rafique Merican, Group CFO of Maybank Group.",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            }
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/video/2014/02/24/consumers-continuing-to-tighten-belt-sainsbury-cfo.html",
+          "cn:type": "cnbcvideo",
+          "cn:title": "Consumers continuing to 'tighten belt': Sainsbury CFO",
+          "@id": "101439036",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/101439036",
+          "cn:slug": "Consumers continuing to 'tighten belt': Sainsbury CFO v3000248401",
+          "description": "John Rogers, CFO of J Sainsbury, says consumers are still feeling the pinch despite an economic recovery as wage growth continues to fall behind inflation.",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            }
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/video/2014/02/24/uk-seeing-greenshoots-of-recovery-but-uneven-unilever-cfo.html",
+          "cn:type": "cnbcvideo",
+          "cn:title": "UK seeing 'greenshoots' of recovery, but uneven: Unilever CFO",
+          "@id": "101439038",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/101439038",
+          "cn:slug": "UK seeing 'greenshoots' of recovery, but uneven: Unilever CFO v3000248491",
+          "description": "Jean-Marc Huët, CFO of Unilever, says the U.K.'s recovery is in its early stages but is uneven.",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            }
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/video/2014/03/03/planning-around-geopolitical-events-cfo-council.html",
+          "cn:type": "cnbcvideo",
+          "cn:title": "Planning around geopolitical events: CFO Council",
+          "@id": "101459188",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/101459188",
+          "cn:slug": "Planning around geopolitical events: CFO Council v3000251351",
+          "description": "Philip Broadway, CFO at Old Mutual and Chris Kennedy, CFO at easyJet discuss how geopolitical shocks, like the situation in Ukraine, can impact business planning. ",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            }
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/video/2014/02/25/europe-needs-to-boost-internal-demand-stmicroelectronics-cfo-.html",
+          "cn:type": "cnbcvideo",
+          "cn:title": "Europe needs to boost internal demand: STMicroelectronics CFO ",
+          "@id": "101442601",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/101442601",
+          "cn:slug": "Europe needs to boost internal demand: STMicroelectronics CFO  v3000248804",
+          "description": "Carlo Ferro, CFO at ST Microelectronics, says the European economy is seeing a recovery but needs to boost internal demand.",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "tags",
+              "cn:isPromoted": "false"
+            }
+          ]
+        },
+        {
+          "url": "http://qa-aws01web.cnbc.com/id/17",
+          "cn:type": "franchise",
+          "cn:title": "Franchise Root",
+          "@id": "17",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/17",
+          "cn:slug": "Franchise Root",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }
+          ]
+        }
+      ],
+      "description": "CNBC has assembled an elite group of chief financial officers representing public and private companies from various major sectors, to share their frontline insights and unique views on key issues and challenges facing today’s CFOs.",
+      "cn:section": {
+        "cn:type": "franchise",
+        "cn:creatorOverwrite": "",
+        "@id": "16903222",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/16903222",
+        "cn:slug": "Special Reports",
+        "cn:subType": "special_report",
+        "url": "https://qa-aws01web.cnbc.com/special-reports/",
+        "cn:title": "CNBC Special Reports",
+        "cn:tagName": "Special Reports",
+        "cn:subDomain": "https://qa-aws01web.cnbc.com",
+        "cn:branding": "cnbc",
+        "cn:sectionHierarchy": [
+          {
+            "id": 10000161,
+            "tagName": "CNBC Global",
+            "order": 1
+          }
+        ],
+        "cn:sectionLabel": "Latest Special Reports",
+        "headline": "Latest Special Reports",
+        "cn:liveURL": "/special-reports/",
+        "cn:settings": {
+          "cn:commentsEnabled": "Yes",
+          "cn:socialtoolsEnabled": "Yes",
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "Find CNBC Special Reports with News and Analysis on Investing, Technology, Real Estate, Breaking News and Special Events.\r\n",
+        "cn:sectionLinktext": "Special Reports",
+        "datePublished": "2017-04-12T14:17:56+0000",
+        "cn:historicalURL": [
+          "/id/16903222"
+        ],
+        "cn:tabLabel": "Special Reports",
+        "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><br /></p><div id=\"csscan-wrapper\" style=\"display: none; \"><h2 id=\"csscan-header\">element</h2><table id=\"csscan-table\"><tbody><tr><th colspan=\"2\" id=\"csscan-header-font\" class=\"csscan-header\">Font</th></tr><tr id=\"csscan-row-font-family\"><td id=\"csscan-property-font-family\" class=\"csscan-property\">font-family</td></tr><tr id=\"csscan-row-font-size\"><td id=\"csscan-property-font-size\" class=\"csscan-property\">font-size</td></tr><tr id=\"csscan-row-font-style\"><td id=\"csscan-property-font-style\" class=\"csscan-property\">font-style</td></tr><tr id=\"csscan-row-font-variant\"><td id=\"csscan-property-font-variant\" class=\"csscan-property\">font-variant</td></tr><tr id=\"csscan-row-font-weight\"><td id=\"csscan-property-font-weight\" class=\"csscan-property\">font-weight</td></tr><tr id=\"csscan-row-letter-spacing\"><td id=\"csscan-property-letter-spacing\" class=\"csscan-property\">letter-spacing</td></tr><tr id=\"csscan-row-line-height\"><td id=\"csscan-property-line-height\" class=\"csscan-property\">line-height</td></tr><tr id=\"csscan-row-text-decoration\"><td id=\"csscan-property-text-decoration\" class=\"csscan-property\">text-decoration</td></tr><tr id=\"csscan-row-text-align\"><td id=\"csscan-property-text-align\" class=\"csscan-property\">text-align</td></tr><tr id=\"csscan-row-text-indent\"><td id=\"csscan-property-text-indent\" class=\"csscan-property\">text-indent</td></tr><tr id=\"csscan-row-text-transform\"><td id=\"csscan-property-text-transform\" class=\"csscan-property\">text-transform</td></tr><tr id=\"csscan-row-white-space\"><td id=\"csscan-property-white-space\" class=\"csscan-property\">white-space</td></tr><tr id=\"csscan-row-word-spacing\"><td id=\"csscan-property-word-spacing\" class=\"csscan-property\">word-spacing</td></tr><tr id=\"csscan-row-color\"><td id=\"csscan-property-color\" class=\"csscan-property\">color</td></tr><tr><th colspan=\"2\" id=\"csscan-header-background\" class=\"csscan-header\">Background</th></tr><tr id=\"csscan-row-background-attachment\"><td id=\"csscan-property-background-attachment\" class=\"csscan-property\">bg-attachment</td></tr><tr id=\"csscan-row-background-color\"><td id=\"csscan-property-background-color\" class=\"csscan-property\">bg-color</td></tr><tr id=\"csscan-row-background-image\"><td id=\"csscan-property-background-image\" class=\"csscan-property\">bg-image</td></tr><tr id=\"csscan-row-background-position\"><td id=\"csscan-property-background-position\" class=\"csscan-property\">bg-position</td></tr><tr id=\"csscan-row-background-repeat\"><td id=\"csscan-property-background-repeat\" class=\"csscan-property\">bg-repeat</td></tr><tr><th colspan=\"2\" id=\"csscan-header-size\" class=\"csscan-header\">Box</th></tr><tr id=\"csscan-row-width\"><td id=\"csscan-property-width\" class=\"csscan-property\">width</td></tr><tr id=\"csscan-row-height\"><td id=\"csscan-property-height\" class=\"csscan-property\">height</td></tr><tr id=\"csscan-row-border-top\"><td id=\"csscan-property-border-top\" class=\"csscan-property\">border-top</td></tr><tr id=\"csscan-row-border-right\"><td id=\"csscan-property-border-right\" class=\"csscan-property\">border-right</td></tr><tr id=\"csscan-row-border-bottom\"><td id=\"csscan-property-border-bottom\" class=\"csscan-property\">border-bottom</td></tr><tr id=\"csscan-row-border-left\"><td id=\"csscan-property-border-left\" class=\"csscan-property\">border-left</td></tr><tr id=\"csscan-row-margin\"><td id=\"csscan-property-margin\" class=\"csscan-property\">margin</td></tr><tr id=\"csscan-row-padding\"><td id=\"csscan-property-padding\" class=\"csscan-property\">padding</td></tr><tr id=\"csscan-row-max-height\"><td id=\"csscan-property-max-height\" class=\"csscan-property\">max-height</td></tr><tr id=\"csscan-row-min-height\"><td id=\"csscan-property-min-height\" class=\"csscan-property\">min-height</td></tr><tr id=\"csscan-row-max-width\"><td id=\"csscan-property-max-width\" class=\"csscan-property\">max-width</td></tr><tr id=\"csscan-row-min-width\"><td id=\"csscan-property-min-width\" class=\"csscan-property\">min-width</td></tr><tr id=\"csscan-row-outline-color\"><td id=\"csscan-property-outline-color\" class=\"csscan-property\">outline-color</td></tr><tr id=\"csscan-row-outline-style\"><td id=\"csscan-property-outline-style\" class=\"csscan-property\">outline-style</td></tr><tr id=\"csscan-row-outline-width\"><td id=\"csscan-property-outline-width\" class=\"csscan-property\">outline-width</td></tr><tr><th colspan=\"2\" id=\"csscan-header-position\" class=\"csscan-header\">Positioning</th></tr><tr id=\"csscan-row-position\"><td id=\"csscan-property-position\" class=\"csscan-property\">position</td></tr><tr id=\"csscan-row-top\"><td id=\"csscan-property-top\" class=\"csscan-property\">top</td></tr><tr id=\"csscan-row-bottom\"><td id=\"csscan-property-bottom\" class=\"csscan-property\">bottom</td></tr><tr id=\"csscan-row-right\"><td id=\"csscan-property-right\" class=\"csscan-property\">right</td></tr><tr id=\"csscan-row-left\"><td id=\"csscan-property-left\" class=\"csscan-property\">left</td></tr><tr id=\"csscan-row-float\"><td id=\"csscan-property-float\" class=\"csscan-property\">float</td></tr><tr id=\"csscan-row-display\"><td id=\"csscan-property-display\" class=\"csscan-property\">display</td></tr><tr id=\"csscan-row-clear\"><td id=\"csscan-property-clear\" class=\"csscan-property\">clear</td></tr><tr id=\"csscan-row-z-index\"><td id=\"csscan-property-z-index\" class=\"csscan-property\">z-index</td></tr><tr><th colspan=\"2\" id=\"csscan-header-list\" class=\"csscan-header\">List</th></tr><tr id=\"csscan-row-list-style-image\"><td id=\"csscan-property-list-style-image\" class=\"csscan-property\">list-style-image</td></tr><tr id=\"csscan-row-list-style-type\"><td id=\"csscan-property-list-style-type\" class=\"csscan-property\">list-style-type</td></tr><tr id=\"csscan-row-list-style-position\"><td id=\"csscan-property-list-style-position\" class=\"csscan-property\">list-style-position</td></tr><tr><th colspan=\"2\" id=\"csscan-header-table\" class=\"csscan-header\">Table</th></tr><tr id=\"csscan-row-vertical-align\"><td id=\"csscan-property-vertical-align\" class=\"csscan-property\">vertical-align</td></tr><tr id=\"csscan-row-border-collapse\"><td id=\"csscan-property-border-collapse\" class=\"csscan-property\">border-collapse</td></tr><tr id=\"csscan-row-border-spacing\"><td id=\"csscan-property-border-spacing\" class=\"csscan-property\">border-spacing</td></tr><tr id=\"csscan-row-caption-side\"><td id=\"csscan-property-caption-side\" class=\"csscan-property\">caption-side</td></tr><tr id=\"csscan-row-empty-cells\"><td id=\"csscan-property-empty-cells\" class=\"csscan-property\">empty-cells</td></tr><tr id=\"csscan-row-table-layout\"><td id=\"csscan-property-table-layout\" class=\"csscan-property\">table-layout</td></tr><tr><th colspan=\"2\" id=\"csscan-header-effects\" class=\"csscan-header\">Effects</th></tr><tr id=\"csscan-row-text-shadow\"><td id=\"csscan-property-text-shadow\" class=\"csscan-property\">text-shadow</td></tr><tr id=\"csscan-row--webkit-box-shadow\"><td id=\"csscan-property--webkit-box-shadow\" class=\"csscan-property\">-webkit-box-shadow</td></tr><tr id=\"csscan-row-border-radius\"><td id=\"csscan-property-border-radius\" class=\"csscan-property\">border-radius</td></tr><tr><th colspan=\"2\" id=\"csscan-header-other\" class=\"csscan-header\">Other</th></tr><tr id=\"csscan-row-overflow\"><td id=\"csscan-property-overflow\" class=\"csscan-property\">overflow</td></tr><tr id=\"csscan-row-cursor\"><td id=\"csscan-property-cursor\" class=\"csscan-property\">cursor</td></tr><tr id=\"csscan-row-visibility\"><td id=\"csscan-property-visibility\" class=\"csscan-property\">visibility</td></tr></tbody></table></div><div id=\"csscan-wrapper\" style=\"display: none; \"><h2 id=\"csscan-header\">element</h2><table id=\"csscan-table\"><tbody><tr><th colspan=\"2\" id=\"csscan-header-font\" class=\"csscan-header\">Font</th></tr><tr id=\"csscan-row-font-family\"><td id=\"csscan-property-font-family\" class=\"csscan-property\">font-family</td></tr><tr id=\"csscan-row-font-size\"><td id=\"csscan-property-font-size\" class=\"csscan-property\">font-size</td></tr><tr id=\"csscan-row-font-style\"><td id=\"csscan-property-font-style\" class=\"csscan-property\">font-style</td></tr><tr id=\"csscan-row-font-variant\"><td id=\"csscan-property-font-variant\" class=\"csscan-property\">font-variant</td></tr><tr id=\"csscan-row-font-weight\"><td id=\"csscan-property-font-weight\" class=\"csscan-property\">font-weight</td></tr><tr id=\"csscan-row-letter-spacing\"><td id=\"csscan-property-letter-spacing\" class=\"csscan-property\">letter-spacing</td></tr><tr id=\"csscan-row-line-height\"><td id=\"csscan-property-line-height\" class=\"csscan-property\">line-height</td></tr><tr id=\"csscan-row-text-decoration\"><td id=\"csscan-property-text-decoration\" class=\"csscan-property\">text-decoration</td></tr><tr id=\"csscan-row-text-align\"><td id=\"csscan-property-text-align\" class=\"csscan-property\">text-align</td></tr><tr id=\"csscan-row-text-indent\"><td id=\"csscan-property-text-indent\" class=\"csscan-property\">text-indent</td></tr><tr id=\"csscan-row-text-transform\"><td id=\"csscan-property-text-transform\" class=\"csscan-property\">text-transform</td></tr><tr id=\"csscan-row-white-space\"><td id=\"csscan-property-white-space\" class=\"csscan-property\">white-space</td></tr><tr id=\"csscan-row-word-spacing\"><td id=\"csscan-property-word-spacing\" class=\"csscan-property\">word-spacing</td></tr><tr id=\"csscan-row-color\"><td id=\"csscan-property-color\" class=\"csscan-property\">color</td></tr><tr><th colspan=\"2\" id=\"csscan-header-background\" class=\"csscan-header\">Background</th></tr><tr id=\"csscan-row-background-attachment\"><td id=\"csscan-property-background-attachment\" class=\"csscan-property\">bg-attachment</td></tr><tr id=\"csscan-row-background-color\"><td id=\"csscan-property-background-color\" class=\"csscan-property\">bg-color</td></tr><tr id=\"csscan-row-background-image\"><td id=\"csscan-property-background-image\" class=\"csscan-property\">bg-image</td></tr><tr id=\"csscan-row-background-position\"><td id=\"csscan-property-background-position\" class=\"csscan-property\">bg-position</td></tr><tr id=\"csscan-row-background-repeat\"><td id=\"csscan-property-background-repeat\" class=\"csscan-property\">bg-repeat</td></tr><tr><th colspan=\"2\" id=\"csscan-header-size\" class=\"csscan-header\">Box</th></tr><tr id=\"csscan-row-width\"><td id=\"csscan-property-width\" class=\"csscan-property\">width</td></tr><tr id=\"csscan-row-height\"><td id=\"csscan-property-height\" class=\"csscan-property\">height</td></tr><tr id=\"csscan-row-border-top\"><td id=\"csscan-property-border-top\" class=\"csscan-property\">border-top</td></tr><tr id=\"csscan-row-border-right\"><td id=\"csscan-property-border-right\" class=\"csscan-property\">border-right</td></tr><tr id=\"csscan-row-border-bottom\"><td id=\"csscan-property-border-bottom\" class=\"csscan-property\">border-bottom</td></tr><tr id=\"csscan-row-border-left\"><td id=\"csscan-property-border-left\" class=\"csscan-property\">border-left</td></tr><tr id=\"csscan-row-margin\"><td id=\"csscan-property-margin\" class=\"csscan-property\">margin</td></tr><tr id=\"csscan-row-padding\"><td id=\"csscan-property-padding\" class=\"csscan-property\">padding</td></tr><tr id=\"csscan-row-max-height\"><td id=\"csscan-property-max-height\" class=\"csscan-property\">max-height</td></tr><tr id=\"csscan-row-min-height\"><td id=\"csscan-property-min-height\" class=\"csscan-property\">min-height</td></tr><tr id=\"csscan-row-max-width\"><td id=\"csscan-property-max-width\" class=\"csscan-property\">max-width</td></tr><tr id=\"csscan-row-min-width\"><td id=\"csscan-property-min-width\" class=\"csscan-property\">min-width</td></tr><tr id=\"csscan-row-outline-color\"><td id=\"csscan-property-outline-color\" class=\"csscan-property\">outline-color</td></tr><tr id=\"csscan-row-outline-style\"><td id=\"csscan-property-outline-style\" class=\"csscan-property\">outline-style</td></tr><tr id=\"csscan-row-outline-width\"><td id=\"csscan-property-outline-width\" class=\"csscan-property\">outline-width</td></tr><tr><th colspan=\"2\" id=\"csscan-header-position\" class=\"csscan-header\">Positioning</th></tr><tr id=\"csscan-row-position\"><td id=\"csscan-property-position\" class=\"csscan-property\">position</td></tr><tr id=\"csscan-row-top\"><td id=\"csscan-property-top\" class=\"csscan-property\">top</td></tr><tr id=\"csscan-row-bottom\"><td id=\"csscan-property-bottom\" class=\"csscan-property\">bottom</td></tr><tr id=\"csscan-row-right\"><td id=\"csscan-property-right\" class=\"csscan-property\">right</td></tr><tr id=\"csscan-row-left\"><td id=\"csscan-property-left\" class=\"csscan-property\">left</td></tr><tr id=\"csscan-row-float\"><td id=\"csscan-property-float\" class=\"csscan-property\">float</td></tr><tr id=\"csscan-row-display\"><td id=\"csscan-property-display\" class=\"csscan-property\">display</td></tr><tr id=\"csscan-row-clear\"><td id=\"csscan-property-clear\" class=\"csscan-property\">clear</td></tr><tr id=\"csscan-row-z-index\"><td id=\"csscan-property-z-index\" class=\"csscan-property\">z-index</td></tr><tr><th colspan=\"2\" id=\"csscan-header-list\" class=\"csscan-header\">List</th></tr><tr id=\"csscan-row-list-style-image\"><td id=\"csscan-property-list-style-image\" class=\"csscan-property\">list-style-image</td></tr><tr id=\"csscan-row-list-style-type\"><td id=\"csscan-property-list-style-type\" class=\"csscan-property\">list-style-type</td></tr><tr id=\"csscan-row-list-style-position\"><td id=\"csscan-property-list-style-position\" class=\"csscan-property\">list-style-position</td></tr><tr><th colspan=\"2\" id=\"csscan-header-table\" class=\"csscan-header\">Table</th></tr><tr id=\"csscan-row-vertical-align\"><td id=\"csscan-property-vertical-align\" class=\"csscan-property\">vertical-align</td></tr><tr id=\"csscan-row-border-collapse\"><td id=\"csscan-property-border-collapse\" class=\"csscan-property\">border-collapse</td></tr><tr id=\"csscan-row-border-spacing\"><td id=\"csscan-property-border-spacing\" class=\"csscan-property\">border-spacing</td></tr><tr id=\"csscan-row-caption-side\"><td id=\"csscan-property-caption-side\" class=\"csscan-property\">caption-side</td></tr><tr id=\"csscan-row-empty-cells\"><td id=\"csscan-property-empty-cells\" class=\"csscan-property\">empty-cells</td></tr><tr id=\"csscan-row-table-layout\"><td id=\"csscan-property-table-layout\" class=\"csscan-property\">table-layout</td></tr><tr><th colspan=\"2\" id=\"csscan-header-effects\" class=\"csscan-header\">Effects</th></tr><tr id=\"csscan-row-text-shadow\"><td id=\"csscan-property-text-shadow\" class=\"csscan-property\">text-shadow</td></tr><tr id=\"csscan-row--webkit-box-shadow\"><td id=\"csscan-property--webkit-box-shadow\" class=\"csscan-property\">-webkit-box-shadow</td></tr><tr id=\"csscan-row-border-radius\"><td id=\"csscan-property-border-radius\" class=\"csscan-property\">border-radius</td></tr><tr><th colspan=\"2\" id=\"csscan-header-other\" class=\"csscan-header\">Other</th></tr><tr id=\"csscan-row-overflow\"><td id=\"csscan-property-overflow\" class=\"csscan-property\">overflow</td></tr><tr id=\"csscan-row-cursor\"><td id=\"csscan-property-cursor\" class=\"csscan-property\">cursor</td></tr><tr id=\"csscan-row-visibility\"><td id=\"csscan-property-visibility\" class=\"csscan-property\">visibility</td></tr></tbody></table></div><div id=\"csscan-wrapper\" style=\"display: none; \"><h2 id=\"csscan-header\">element</h2><table id=\"csscan-table\"><tbody><tr><th colspan=\"2\" id=\"csscan-header-font\" class=\"csscan-header\">Font</th></tr><tr id=\"csscan-row-font-family\"><td id=\"csscan-property-font-family\" class=\"csscan-property\">font-family</td></tr><tr id=\"csscan-row-font-size\"><td id=\"csscan-property-font-size\" class=\"csscan-property\">font-size</td></tr><tr id=\"csscan-row-font-style\"><td id=\"csscan-property-font-style\" class=\"csscan-property\">font-style</td></tr><tr id=\"csscan-row-font-variant\"><td id=\"csscan-property-font-variant\" class=\"csscan-property\">font-variant</td></tr><tr id=\"csscan-row-font-weight\"><td id=\"csscan-property-font-weight\" class=\"csscan-property\">font-weight</td></tr><tr id=\"csscan-row-letter-spacing\"><td id=\"csscan-property-letter-spacing\" class=\"csscan-property\">letter-spacing</td></tr><tr id=\"csscan-row-line-height\"><td id=\"csscan-property-line-height\" class=\"csscan-property\">line-height</td></tr><tr id=\"csscan-row-text-decoration\"><td id=\"csscan-property-text-decoration\" class=\"csscan-property\">text-decoration</td></tr><tr id=\"csscan-row-text-align\"><td id=\"csscan-property-text-align\" class=\"csscan-property\">text-align</td></tr><tr id=\"csscan-row-text-indent\"><td id=\"csscan-property-text-indent\" class=\"csscan-property\">text-indent</td></tr><tr id=\"csscan-row-text-transform\"><td id=\"csscan-property-text-transform\" class=\"csscan-property\">text-transform</td></tr><tr id=\"csscan-row-white-space\"><td id=\"csscan-property-white-space\" class=\"csscan-property\">white-space</td></tr><tr id=\"csscan-row-word-spacing\"><td id=\"csscan-property-word-spacing\" class=\"csscan-property\">word-spacing</td></tr><tr id=\"csscan-row-color\"><td id=\"csscan-property-color\" class=\"csscan-property\">color</td></tr><tr><th colspan=\"2\" id=\"csscan-header-background\" class=\"csscan-header\">Background</th></tr><tr id=\"csscan-row-background-attachment\"><td id=\"csscan-property-background-attachment\" class=\"csscan-property\">bg-attachment</td></tr><tr id=\"csscan-row-background-color\"><td id=\"csscan-property-background-color\" class=\"csscan-property\">bg-color</td></tr><tr id=\"csscan-row-background-image\"><td id=\"csscan-property-background-image\" class=\"csscan-property\">bg-image</td></tr><tr id=\"csscan-row-background-position\"><td id=\"csscan-property-background-position\" class=\"csscan-property\">bg-position</td></tr><tr id=\"csscan-row-background-repeat\"><td id=\"csscan-property-background-repeat\" class=\"csscan-property\">bg-repeat</td></tr><tr><th colspan=\"2\" id=\"csscan-header-size\" class=\"csscan-header\">Box</th></tr><tr id=\"csscan-row-width\"><td id=\"csscan-property-width\" class=\"csscan-property\">width</td></tr><tr id=\"csscan-row-height\"><td id=\"csscan-property-height\" class=\"csscan-property\">height</td></tr><tr id=\"csscan-row-border-top\"><td id=\"csscan-property-border-top\" class=\"csscan-property\">border-top</td></tr><tr id=\"csscan-row-border-right\"><td id=\"csscan-property-border-right\" class=\"csscan-property\">border-right</td></tr><tr id=\"csscan-row-border-bottom\"><td id=\"csscan-property-border-bottom\" class=\"csscan-property\">border-bottom</td></tr><tr id=\"csscan-row-border-left\"><td id=\"csscan-property-border-left\" class=\"csscan-property\">border-left</td></tr><tr id=\"csscan-row-margin\"><td id=\"csscan-property-margin\" class=\"csscan-property\">margin</td></tr><tr id=\"csscan-row-padding\"><td id=\"csscan-property-padding\" class=\"csscan-property\">padding</td></tr><tr id=\"csscan-row-max-height\"><td id=\"csscan-property-max-height\" class=\"csscan-property\">max-height</td></tr><tr id=\"csscan-row-min-height\"><td id=\"csscan-property-min-height\" class=\"csscan-property\">min-height</td></tr><tr id=\"csscan-row-max-width\"><td id=\"csscan-property-max-width\" class=\"csscan-property\">max-width</td></tr><tr id=\"csscan-row-min-width\"><td id=\"csscan-property-min-width\" class=\"csscan-property\">min-width</td></tr><tr id=\"csscan-row-outline-color\"><td id=\"csscan-property-outline-color\" class=\"csscan-property\">outline-color</td></tr><tr id=\"csscan-row-outline-style\"><td id=\"csscan-property-outline-style\" class=\"csscan-property\">outline-style</td></tr><tr id=\"csscan-row-outline-width\"><td id=\"csscan-property-outline-width\" class=\"csscan-property\">outline-width</td></tr><tr><th colspan=\"2\" id=\"csscan-header-position\" class=\"csscan-header\">Positioning</th></tr><tr id=\"csscan-row-position\"><td id=\"csscan-property-position\" class=\"csscan-property\">position</td></tr><tr id=\"csscan-row-top\"><td id=\"csscan-property-top\" class=\"csscan-property\">top</td></tr><tr id=\"csscan-row-bottom\"><td id=\"csscan-property-bottom\" class=\"csscan-property\">bottom</td></tr><tr id=\"csscan-row-right\"><td id=\"csscan-property-right\" class=\"csscan-property\">right</td></tr><tr id=\"csscan-row-left\"><td id=\"csscan-property-left\" class=\"csscan-property\">left</td></tr><tr id=\"csscan-row-float\"><td id=\"csscan-property-float\" class=\"csscan-property\">float</td></tr><tr id=\"csscan-row-display\"><td id=\"csscan-property-display\" class=\"csscan-property\">display</td></tr><tr id=\"csscan-row-clear\"><td id=\"csscan-property-clear\" class=\"csscan-property\">clear</td></tr><tr id=\"csscan-row-z-index\"><td id=\"csscan-property-z-index\" class=\"csscan-property\">z-index</td></tr><tr><th colspan=\"2\" id=\"csscan-header-list\" class=\"csscan-header\">List</th></tr><tr id=\"csscan-row-list-style-image\"><td id=\"csscan-property-list-style-image\" class=\"csscan-property\">list-style-image</td></tr><tr id=\"csscan-row-list-style-type\"><td id=\"csscan-property-list-style-type\" class=\"csscan-property\">list-style-type</td></tr><tr id=\"csscan-row-list-style-position\"><td id=\"csscan-property-list-style-position\" class=\"csscan-property\">list-style-position</td></tr><tr><th colspan=\"2\" id=\"csscan-header-table\" class=\"csscan-header\">Table</th></tr><tr id=\"csscan-row-vertical-align\"><td id=\"csscan-property-vertical-align\" class=\"csscan-property\">vertical-align</td></tr><tr id=\"csscan-row-border-collapse\"><td id=\"csscan-property-border-collapse\" class=\"csscan-property\">border-collapse</td></tr><tr id=\"csscan-row-border-spacing\"><td id=\"csscan-property-border-spacing\" class=\"csscan-property\">border-spacing</td></tr><tr id=\"csscan-row-caption-side\"><td id=\"csscan-property-caption-side\" class=\"csscan-property\">caption-side</td></tr><tr id=\"csscan-row-empty-cells\"><td id=\"csscan-property-empty-cells\" class=\"csscan-property\">empty-cells</td></tr><tr id=\"csscan-row-table-layout\"><td id=\"csscan-property-table-layout\" class=\"csscan-property\">table-layout</td></tr><tr><th colspan=\"2\" id=\"csscan-header-effects\" class=\"csscan-header\">Effects</th></tr><tr id=\"csscan-row-text-shadow\"><td id=\"csscan-property-text-shadow\" class=\"csscan-property\">text-shadow</td></tr><tr id=\"csscan-row--webkit-box-shadow\"><td id=\"csscan-property--webkit-box-shadow\" class=\"csscan-property\">-webkit-box-shadow</td></tr><tr id=\"csscan-row-border-radius\"><td id=\"csscan-property-border-radius\" class=\"csscan-property\">border-radius</td></tr><tr><th colspan=\"2\" id=\"csscan-header-other\" class=\"csscan-header\">Other</th></tr><tr id=\"csscan-row-overflow\"><td id=\"csscan-property-overflow\" class=\"csscan-property\">overflow</td></tr><tr id=\"csscan-row-cursor\"><td id=\"csscan-property-cursor\" class=\"csscan-property\">cursor</td></tr><tr id=\"csscan-row-visibility\"><td id=\"csscan-property-visibility\" class=\"csscan-property\">visibility</td></tr></tbody></table></div><div id=\"csscan-wrapper\" style=\"display: none; \"><h2 id=\"csscan-header\">element</h2><table id=\"csscan-table\"><tbody><tr><th colspan=\"2\" id=\"csscan-header-font\" class=\"csscan-header\">Font</th></tr><tr id=\"csscan-row-font-family\"><td id=\"csscan-property-font-family\" class=\"csscan-property\">font-family</td></tr><tr id=\"csscan-row-font-size\"><td id=\"csscan-property-font-size\" class=\"csscan-property\">font-size</td></tr><tr id=\"csscan-row-font-style\"><td id=\"csscan-property-font-style\" class=\"csscan-property\">font-style</td></tr><tr id=\"csscan-row-font-variant\"><td id=\"csscan-property-font-variant\" class=\"csscan-property\">font-variant</td></tr><tr id=\"csscan-row-font-weight\"><td id=\"csscan-property-font-weight\" class=\"csscan-property\">font-weight</td></tr><tr id=\"csscan-row-letter-spacing\"><td id=\"csscan-property-letter-spacing\" class=\"csscan-property\">letter-spacing</td></tr><tr id=\"csscan-row-line-height\"><td id=\"csscan-property-line-height\" class=\"csscan-property\">line-height</td></tr><tr id=\"csscan-row-text-decoration\"><td id=\"csscan-property-text-decoration\" class=\"csscan-property\">text-decoration</td></tr><tr id=\"csscan-row-text-align\"><td id=\"csscan-property-text-align\" class=\"csscan-property\">text-align</td></tr><tr id=\"csscan-row-text-indent\"><td id=\"csscan-property-text-indent\" class=\"csscan-property\">text-indent</td></tr><tr id=\"csscan-row-text-transform\"><td id=\"csscan-property-text-transform\" class=\"csscan-property\">text-transform</td></tr><tr id=\"csscan-row-white-space\"><td id=\"csscan-property-white-space\" class=\"csscan-property\">white-space</td></tr><tr id=\"csscan-row-word-spacing\"><td id=\"csscan-property-word-spacing\" class=\"csscan-property\">word-spacing</td></tr><tr id=\"csscan-row-color\"><td id=\"csscan-property-color\" class=\"csscan-property\">color</td></tr><tr><th colspan=\"2\" id=\"csscan-header-background\" class=\"csscan-header\">Background</th></tr><tr id=\"csscan-row-background-attachment\"><td id=\"csscan-property-background-attachment\" class=\"csscan-property\">bg-attachment</td></tr><tr id=\"csscan-row-background-color\"><td id=\"csscan-property-background-color\" class=\"csscan-property\">bg-color</td></tr><tr id=\"csscan-row-background-image\"><td id=\"csscan-property-background-image\" class=\"csscan-property\">bg-image</td></tr><tr id=\"csscan-row-background-position\"><td id=\"csscan-property-background-position\" class=\"csscan-property\">bg-position</td></tr><tr id=\"csscan-row-background-repeat\"><td id=\"csscan-property-background-repeat\" class=\"csscan-property\">bg-repeat</td></tr><tr><th colspan=\"2\" id=\"csscan-header-size\" class=\"csscan-header\">Box</th></tr><tr id=\"csscan-row-width\"><td id=\"csscan-property-width\" class=\"csscan-property\">width</td></tr><tr id=\"csscan-row-height\"><td id=\"csscan-property-height\" class=\"csscan-property\">height</td></tr><tr id=\"csscan-row-border-top\"><td id=\"csscan-property-border-top\" class=\"csscan-property\">border-top</td></tr><tr id=\"csscan-row-border-right\"><td id=\"csscan-property-border-right\" class=\"csscan-property\">border-right</td></tr><tr id=\"csscan-row-border-bottom\"><td id=\"csscan-property-border-bottom\" class=\"csscan-property\">border-bottom</td></tr><tr id=\"csscan-row-border-left\"><td id=\"csscan-property-border-left\" class=\"csscan-property\">border-left</td></tr><tr id=\"csscan-row-margin\"><td id=\"csscan-property-margin\" class=\"csscan-property\">margin</td></tr><tr id=\"csscan-row-padding\"><td id=\"csscan-property-padding\" class=\"csscan-property\">padding</td></tr><tr id=\"csscan-row-max-height\"><td id=\"csscan-property-max-height\" class=\"csscan-property\">max-height</td></tr><tr id=\"csscan-row-min-height\"><td id=\"csscan-property-min-height\" class=\"csscan-property\">min-height</td></tr><tr id=\"csscan-row-max-width\"><td id=\"csscan-property-max-width\" class=\"csscan-property\">max-width</td></tr><tr id=\"csscan-row-min-width\"><td id=\"csscan-property-min-width\" class=\"csscan-property\">min-width</td></tr><tr id=\"csscan-row-outline-color\"><td id=\"csscan-property-outline-color\" class=\"csscan-property\">outline-color</td></tr><tr id=\"csscan-row-outline-style\"><td id=\"csscan-property-outline-style\" class=\"csscan-property\">outline-style</td></tr><tr id=\"csscan-row-outline-width\"><td id=\"csscan-property-outline-width\" class=\"csscan-property\">outline-width</td></tr><tr><th colspan=\"2\" id=\"csscan-header-position\" class=\"csscan-header\">Positioning</th></tr><tr id=\"csscan-row-position\"><td id=\"csscan-property-position\" class=\"csscan-property\">position</td></tr><tr id=\"csscan-row-top\"><td id=\"csscan-property-top\" class=\"csscan-property\">top</td></tr><tr id=\"csscan-row-bottom\"><td id=\"csscan-property-bottom\" class=\"csscan-property\">bottom</td></tr><tr id=\"csscan-row-right\"><td id=\"csscan-property-right\" class=\"csscan-property\">right</td></tr><tr id=\"csscan-row-left\"><td id=\"csscan-property-left\" class=\"csscan-property\">left</td></tr><tr id=\"csscan-row-float\"><td id=\"csscan-property-float\" class=\"csscan-property\">float</td></tr><tr id=\"csscan-row-display\"><td id=\"csscan-property-display\" class=\"csscan-property\">display</td></tr><tr id=\"csscan-row-clear\"><td id=\"csscan-property-clear\" class=\"csscan-property\">clear</td></tr><tr id=\"csscan-row-z-index\"><td id=\"csscan-property-z-index\" class=\"csscan-property\">z-index</td></tr><tr><th colspan=\"2\" id=\"csscan-header-list\" class=\"csscan-header\">List</th></tr><tr id=\"csscan-row-list-style-image\"><td id=\"csscan-property-list-style-image\" class=\"csscan-property\">list-style-image</td></tr><tr id=\"csscan-row-list-style-type\"><td id=\"csscan-property-list-style-type\" class=\"csscan-property\">list-style-type</td></tr><tr id=\"csscan-row-list-style-position\"><td id=\"csscan-property-list-style-position\" class=\"csscan-property\">list-style-position</td></tr><tr><th colspan=\"2\" id=\"csscan-header-table\" class=\"csscan-header\">Table</th></tr><tr id=\"csscan-row-vertical-align\"><td id=\"csscan-property-vertical-align\" class=\"csscan-property\">vertical-align</td></tr><tr id=\"csscan-row-border-collapse\"><td id=\"csscan-property-border-collapse\" class=\"csscan-property\">border-collapse</td></tr><tr id=\"csscan-row-border-spacing\"><td id=\"csscan-property-border-spacing\" class=\"csscan-property\">border-spacing</td></tr><tr id=\"csscan-row-caption-side\"><td id=\"csscan-property-caption-side\" class=\"csscan-property\">caption-side</td></tr><tr id=\"csscan-row-empty-cells\"><td id=\"csscan-property-empty-cells\" class=\"csscan-property\">empty-cells</td></tr><tr id=\"csscan-row-table-layout\"><td id=\"csscan-property-table-layout\" class=\"csscan-property\">table-layout</td></tr><tr><th colspan=\"2\" id=\"csscan-header-effects\" class=\"csscan-header\">Effects</th></tr><tr id=\"csscan-row-text-shadow\"><td id=\"csscan-property-text-shadow\" class=\"csscan-property\">text-shadow</td></tr><tr id=\"csscan-row--webkit-box-shadow\"><td id=\"csscan-property--webkit-box-shadow\" class=\"csscan-property\">-webkit-box-shadow</td></tr><tr id=\"csscan-row-border-radius\"><td id=\"csscan-property-border-radius\" class=\"csscan-property\">border-radius</td></tr><tr><th colspan=\"2\" id=\"csscan-header-other\" class=\"csscan-header\">Other</th></tr><tr id=\"csscan-row-overflow\"><td id=\"csscan-property-overflow\" class=\"csscan-property\">overflow</td></tr><tr id=\"csscan-row-cursor\"><td id=\"csscan-property-cursor\" class=\"csscan-property\">cursor</td></tr><tr id=\"csscan-row-visibility\"><td id=\"csscan-property-visibility\" class=\"csscan-property\">visibility</td></tr></tbody></table></div></div></group></body>",
+        "cn:shortestDescription": "Exclusive in-depth reports on business events, global investing, retirement and more.",
+        "cn:summary": "Find CNBC Special Reports with News and Analysis on Investing, Technology, Real Estate, Breaking News and Special Events.\r\n",
+        "cn:editedBy": "nathaniel.quashie",
+        "cn:createdBy": "migration",
+        "cn:shorterDescription": "Exclusive in-depth reports on business events, global investing, retirement, and more.",
+        "name": "CNBC Special Reports",
+        "cn:sectionColor": "#000000",
+        "cn:promoText": "",
+        "cn:showTime": "",
+        "@type": "Collection"
+      },
+      "cn:sectionHierarchy": [
+        {
+          "id": 16903222,
+          "tagName": "Special Reports",
+          "order": 1
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 2
+        }
+      ],
+      "cn:historicalURL": [
+        "/asia-pacific-cfo-council/",
+        "/cnbc-global-cfo-council-2013/",
+        "/emea-cfo-council/",
+        "/global-cfo-council-members/",
+        "/id/100453419"
+      ],
+      "cn:editedBy": "anthony.volastro",
+      "cn:createdBy": "rosy.ngo",
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "CreativeWork",
+      "cn:relation": [
+        {
+          "position": 5000,
+          "cn:relationType": "section",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "@id": "100002778",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100002778",
+      "cn:type": "cnbcteam",
+      "cn:slug": "CNBC Europe Team",
+      "cn:tagName": "CNBC Europe Team",
+      "cn:title": "",
+      "cn:creatorOverwrite": "",
+      "url": "",
+      "cn:liveURL": "",
+      "datePublished": "2014-03-07T07:15:25+0000",
+      "cn:summary": "",
+      "cn:linkHeadline": "",
+      "cn:shorterHeadline": "",
+      "headline": "",
+      "cn:shortestHeadline": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes"
+      },
+      "cn:association": [
+        {
+          "url": "http://qa-aws01pub.cnbc.com/id/41621340",
+          "cn:type": "franchise",
+          "cn:title": "Europe Stock Market News, Business News, Financial, Earnings, World Market News and Information",
+          "cn:creatorOverwrite": "",
+          "@id": "41621340",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/41621340",
+          "cn:slug": "Europe Homepage",
+          "cn:tagName": "Europe Homepage",
+          "cn:subType": "section",
+          "description": "Stock Market News, Business News, Financial, Earnings, World Market News and Information",
+          "@type": "CreativeWork",
+          "cn:relation": [
+            {
+              "cn:relationType": "section",
+              "cn:isPromoted": "false"
+            }
+          ]
+        }
+      ],
+      "description": "",
+      "cn:section": {
+        "url": "http://qa-aws01pub.cnbc.com/id/41621340",
+        "cn:type": "franchise",
+        "cn:title": "Europe Stock Market News, Business News, Financial, Earnings, World Market News and Information",
+        "cn:creatorOverwrite": "",
+        "@id": "41621340",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/41621340",
+        "cn:slug": "Europe Homepage",
+        "cn:tagName": "Europe Homepage",
+        "cn:subType": "section",
+        "cn:shortestDescription": "",
+        "cn:sectionLabel": "",
+        "headline": "Europe Stock Market News, Business News, Financial, Earnings, World Market News and Information",
+        "cn:liveURL": "http://qa-aws01pub.cnbc.com/id/41621340",
+        "cn:summary": "",
+        "cn:sectionLinktext": "",
+        "datePublished": "2012-01-29T18:40:30+0000",
+        "cn:tabLabel": "",
+        "cn:bodyTeaser": "null",
+        "cn:shorterDescription": "Stock Market News, Business News, Financial, Earnings, World Market News and Information",
+        "description": "Stock Market News, Business News, Financial, Earnings, World Market News and Information",
+        "name": "Europe Stock Market News, Business News, Financial, Earnings, World Market News and Information",
+        "@type": "Collection"
+      },
+      "cn:sectionHierarchy": [
+        {
+          "id": 41621340,
+          "tagName": "Europe Homepage",
+          "order": 1
+        },
+        {
+          "id": 100914741,
+          "tagName": "CNBC Franchise Archive",
+          "order": 2
+        }
+      ],
+      "cn:editedBy": "jessica.morris",
+      "cn:historicalURL": [],
+      "cn:createdBy": "brian.beers",
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "CreativeWork",
+      "cn:relation": [
+        {
+          "position": 4998,
+          "cn:relationType": "team",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "@id": "100267921",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100267921",
+      "cn:type": "usage_rule",
+      "cn:slug": "Do not syndicate",
+      "cn:tagName": "",
+      "cn:title": "Do not syndicate",
+      "cn:creatorOverwrite": "",
+      "url": "",
+      "cn:liveURL": "",
+      "datePublished": "2012-12-02T19:44:20+0000",
+      "cn:summary": "",
+      "cn:linkHeadline": "",
+      "cn:shorterHeadline": "",
+      "headline": "Do not syndicate",
+      "cn:shortestHeadline": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:settings": {
+        "cn:nsfw": "Yes",
+        "cn:syndicate": "No",
+        "cn:verifyAge": "Yes",
+        "cn:none": "Yes",
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Virtual"
+      },
+      "description": "",
+      "cn:sectionHierarchy": [],
+      "cn:editedBy": "admin",
+      "cn:historicalURL": [],
+      "cn:createdBy": "ashish.gupta",
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "Intangible",
+      "cn:relation": [
+        {
+          "position": 4998,
+          "cn:relationType": "usage_rule",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "100005495",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100005495",
+      "cn:type": "source",
+      "cn:slug": "CNBC Europe Source",
+      "cn:tagName": "CNBC Europe Source",
+      "cn:title": "",
+      "cn:creatorOverwrite": "",
+      "url": "",
+      "cn:sourceName": "CNBC.com",
+      "cn:liveURL": "",
+      "datePublished": "2012-08-09T19:16:41+0000",
+      "cn:summary": "",
+      "cn:linkHeadline": "",
+      "cn:shorterHeadline": "",
+      "headline": "",
+      "cn:shortestHeadline": "CNBC",
+      "cn:shorterDescription": "CNBC.com",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes"
+      },
+      "description": "CNBC.com",
+      "cn:sectionHierarchy": [],
+      "cn:editedBy": "bryn.bache",
+      "cn:historicalURL": [],
+      "cn:createdBy": "chris.larsen",
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "name": "",
+      "cn:relation": [
+        {
+          "position": 4997,
+          "cn:relationType": "source",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "fileFormat": "text/tpl",
+      "@id": "101572726",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/101572726",
+      "cn:type": "markup_template",
+      "cn:slug": "Story Carousel Template",
+      "cn:tagName": "",
+      "cn:title": "Story Carousel Template",
+      "cn:creatorOverwrite": "",
+      "url": "file://story_carousel.tpl",
+      "cn:liveURL": "",
+      "datePublished": "2014-04-10T14:21:52+0000",
+      "cn:summary": "",
+      "cn:linkHeadline": "",
+      "cn:shorterHeadline": "",
+      "headline": "Story Carousel Template",
+      "cn:shortestHeadline": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Virtual"
+      },
+      "description": "",
+      "cn:sectionHierarchy": [],
+      "cn:editedBy": "roshan.varghese",
+      "cn:historicalURL": [],
+      "cn:createdBy": "roshan.varghese",
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "name": "story_carousel.tpl",
+      "@type": "DigitalDocument",
+      "cn:relation": [
+        {
+          "position": 4997,
+          "cn:relationType": "template",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "@id": "100003343",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100003343",
+      "cn:type": "skin",
+      "cn:slug": "cnbc global skin",
+      "cn:tagName": "",
+      "cn:title": "",
+      "cn:creatorOverwrite": "",
+      "url": "",
+      "cn:liveURL": "",
+      "datePublished": "2012-07-30T19:54:30+0000",
+      "cn:summary": "",
+      "cn:linkHeadline": "",
+      "cn:shorterHeadline": "",
+      "headline": "",
+      "cn:shortestHeadline": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "",
+      "cn:sectionHierarchy": [],
+      "cn:editedBy": "matt.shade",
+      "cn:historicalURL": [],
+      "cn:createdBy": "matt.shade",
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "DigitalDocument",
+      "cn:relation": [
+        {
+          "position": 2,
+          "cn:relationType": "skin",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "@id": "100492103",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100492103",
+      "cn:type": "skin",
+      "cn:slug": "Global CFO Council 2013 Skin",
+      "cn:tagName": "",
+      "cn:title": "Global CFO Council 2013 Skin",
+      "cn:creatorOverwrite": "",
+      "url": "",
+      "cn:liveURL": "",
+      "datePublished": "2013-02-25T18:15:49+0000",
+      "cn:summary": "",
+      "cn:linkHeadline": "",
+      "cn:shorterHeadline": "",
+      "headline": "Global CFO Council 2013 Skin",
+      "cn:shortestHeadline": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Virtual"
+      },
+      "description": "",
+      "cn:sectionHierarchy": [],
+      "cn:editedBy": "Josephine.Bila",
+      "cn:historicalURL": [],
+      "cn:createdBy": "Josephine.Bila",
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "DigitalDocument",
+      "cn:relation": [
+        {
+          "position": 1,
+          "cn:relationType": "skin",
+          "cn:isPromoted": "false"
+        }
+      ]
+    }
+  ]
+}

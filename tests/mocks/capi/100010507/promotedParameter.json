@@ -1,0 +1,1006 @@
+{
+  "@id": "100010507",
+  "cn:type": "franchise",
+  "cn:slug": "US Economy",
+  "cn:title": "US Economy",
+  "headline": "US Economy",
+  "cn:sectionLabel": "US Economy",
+  "cn:creatorOverwrite": "",
+  "cn:historicalURL": [
+    "/economics/",
+    "/id/100010507"
+  ],
+  "cn:editedBy": "rekha.ponnur",
+  "cn:createdBy": "Mark.Richards",
+  "cn:subDomain": "https://qa-aws01web.cnbc.com",
+  "cn:branding": "cnbc",
+  "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100010507",
+  "cn:liveURL": "/us-economy/",
+  "cn:subType": "news_section",
+  "datePublished": "2014-09-02T17:20:56+0000",
+  "cn:summary": "Latest news and headlines affecting the United States economy.",
+  "cn:shorterDescription": "Latest news and headlines affecting the United States economy.",
+  "cn:shortestDescription": "Latest news affecting the United States economy.",
+  "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><br /></p><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div></div></group></body>",
+  "url": "https://qa-aws01web.cnbc.com/us-economy/",
+  "cn:settings": {
+    "cn:commentsEnabled": "Yes",
+    "cn:socialtoolsEnabled": "Yes",
+    "cn:listType": "Manual and/or populated by feeds",
+    "cn:tweetOnPublish": 0
+  },
+  "cn:sectionHierarchy": [{
+      "id": 20910258,
+      "tagName": "Economy",
+      "order": 1
+    },
+    {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 2
+    }
+  ],
+  "description": "Latest news and headlines affecting the United States economy.",
+  "@context": {
+    "cn": "http://cnbc.com/schema/",
+    "@vocab": "http://schema.org/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "CNBC",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "name": "US Economy",
+  "cn:sectionColor": "#000000",
+  "cn:promoText": "",
+  "cn:showTime": "",
+  "cn:tabLabel": "US Economy",
+  "cn:sectionLinktext": "US Economy",
+  "@type": "Collection",
+  "cn:pagination": {
+    "cn:link": {
+      "cn:self": "https://qa-aws02capi-bl.cnbc.com/list/id/100010507?page=1&pagesize=10",
+      "cn:next": "https://qa-aws02capi-bl.cnbc.com/list/id/100010507?page=2&pagesize=10",
+      "cn:previous": "https://qa-aws02capi-bl.cnbc.com/list/id/100010507?page=1&pagesize=10",
+      "cn:last": "https://qa-aws02capi-bl.cnbc.com/list/id/100010507?page=182&pagesize=10"
+    },
+    "cn:page": 1,
+    "cn:totalCount": 1814,
+    "cn:pageSize": 10
+  },
+  "cn:listItem": [{
+      "@id": "104846877",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Mester-warnings Cox 17116 EC",
+      "cn:title": "Federal Reserve president says country needs more immigration to save economy",
+      "headline": "Fed's Mester warns on rising deficits, calls for more immigration",
+      "cn:creatorOverwrite": "",
+      "cn:subDomain": "https://qa-aws01web.cnbc.com",
+      "cn:branding": "cnbc",
+      "cn:historicalURL": [],
+      "cn:editedBy": "rekha.ponnur",
+      "cn:createdBy": "jeff.cox",
+      "author": [{
+        "@type": "Creator",
+        "@id": "36003787",
+        "name": "Jeff Cox",
+        "url": "http://qa-aws01pub.cnbc.com/id/36003787",
+        "position": "1",
+        "sameAs": [
+          "https://www.facebook.com/jeff.cox.7528",
+          "https://www.twitter.com/JeffCoxCNBCcom",
+          "https://www.plus.google.com/108326509113152516426"
+        ],
+        "cn:socialMediaInfo": [{
+            "cn:url": "https://facebook.com/jeff.cox.7528",
+            "cn:displayText": "jeff.cox.7528",
+            "cn:type": "facebook"
+          },
+          {
+            "cn:url": "https://twitter.com/JeffCoxCNBCcom",
+            "cn:displayText": "JeffCoxCNBCcom",
+            "cn:type": "twitter"
+          },
+          {
+            "cn:url": "https://plus.google.com/108326509113152516426",
+            "cn:displayText": "108326509113152516426",
+            "cn:type": "googlePlus"
+          }
+        ]
+      }],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104846877",
+      "cn:liveURL": "/2017/11/16/federal-reserve-president-says-country-needs-more-immigration-to-save-economy.html",
+      "datePublished": "2017-11-16T14:51:10+0000",
+      "cn:summary": "The economy faces higher deficits, lower government benefits and near-zero interest rates unless Congress acts, the Fed's Loretta Mester says.",
+      "cn:shorterDescription": "The economy faces higher deficits, lower benefits and near-zero interest rates unless Congress acts, the Fed's Loretta Mester says.",
+      "cn:shortestDescription": "The economy faces higher deficits, lower benefits and near-zero rates unless Congress acts, the Fed's Mester says.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets group_asset=\"1\"><asset nid=\"104025154\"/></assets><div class=\"group\"><p>The U.S. economy faces higher deficits, reduced government benefits and near-zero interest rates unless policymakers get their act together soon, Cleveland Fed President <asset_inline nid=\"104637423\">Loretta Mester</asset_inline> said Thursday.</p><p>In a speech to the Cato Institute in Washington, Mester painted a bleak picture driven in part by an aging population and lower productivity. Rising Social Security and health costs already are projected to carve a bigger hole in the federal budget, pushing the deficit to an unacceptable level.</p><p>One suggestion she has to accelerate growth and address declining productivity is immigration. Her remarks took direct aim at a priority of the Trump administration to curtail the inflow of foreigners, particularly from countries with large Muslim populations.</p><p>\"Policies that increase the growth and productivity of the workforce would address not only fiscal imbalances but the downward pressure on longer-run growth from demographics or other sources,\" she said. \"Policies that increase immigration, not reduce it, that support continuing education, that encourage R&amp;D and innovation, and that provide incentives so people work longer should receive attention.\"</p><p>Mester is one of the more hawkish members of <asset_inline nid=\"43752521\">the Fed</asset_inline>, pushing harder for rate hikes at a central bank that has been slow to come off the cheap-money policies implemented since the fiscal crisis.</p><p>However, she pointed out that policymakers recently acknowledged that <asset_inline nid=\"104732681\">they overestimated what the long-term \"neutral\" rate would be</asset_inline>, or the level that is neither overly stimulative nor restrictive to growth.</p><p>In fact, she conceded that if Congress doesn't take more action to control benefit costs, the days of zero interest rates and money-printing will return.</p><p>\"In a world where counter-cyclical fiscal policy is constrained, business cycle volatility could rise, and monetary policy could find itself near the zero lower bound more often, potentially requiring the use of nontraditional policy tools such as asset purchases and forward guidance in order to meet monetary policymakers' economic objectives,\" she said.</p><p>In addition to the low rates, the Fed ballooned its <asset_inline nid=\"104388998\">balance sheet to $4.5 trillion</asset_inline> through the purchase of government debt and mortgage-backed securities, in an effort to drive down lending rates and boost asset prices like stocks and corporate bonds.</p><p>The Fed has long sought help from fiscal policy to complement its monetary moves.</p><p>\"If financing the funding shortfall through increased government borrowing is undesirable, raising taxes and reducing benefits or other expenditures are not very appealing either,\" Mester said. \"Depending on how such policies are implemented, they could ultimately hurt the economy's longer-run growth prospects, leaving the fiscal outlook even worse.\"</p><p>Mester will be a voting member of the policymaking Federal Open Market Committee next year, when the central bank also gets new members to fill the three vacancies on the board of governors.</p><p><strong>WATCH: How the Republican tax reform bill could affect the Fed</strong>.</p></div></group></body>",
+      "url": "https://qa-aws01web.cnbc.com/2017/11/16/federal-reserve-president-says-country-needs-more-immigration-to-save-economy.html",
+      "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "caption": "Loretta Mester",
+        "author": "",
+        "copyrightHolder": "Dan Mescon | CNBC",
+        "@id": "104025154",
+        "height": "1333",
+        "datePublished": "2016-10-17T19:32:30+0000",
+        "description": "Loretta Mester, Cleveland Federal Reserve President",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104025154-IMG_7443.JPG?v=1506363701"
+      },
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "cn:sectionHierarchy": [{
+          "id": 20910258,
+          "tagName": "Economy",
+          "order": 1
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 2
+        }
+      ],
+      "description": "The economy faces higher deficits, lower government benefits and near-zero interest rates unless Congress acts, the Fed's Loretta Mester says.",
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 10559
+      }]
+    },
+    {
+      "@id": "104846604",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Impact cybersecurity tips GRANT 20171116",
+      "cn:createdBy": "kelli.grant",
+      "cn:editedBy": "roshan.varghese",
+      "cn:title": "Smart behaviors that can improve your cybersecurity",
+      "headline": "Smart behaviors to improve your cybersecurity",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [
+        "/2017/11/16/smart-behaviors-that-can-improve-your-cybersecurity.html"
+      ],
+      "cn:subDomain": "https://qa-aws01make-it.cnbc.com",
+      "cn:branding": "makeit",
+      "author": [{
+        "@type": "Creator",
+        "@id": "100770389",
+        "name": "Kelli B. Grant",
+        "url": "http://qa-aws01web.cnbc.com/kelli-b-grant/",
+        "position": "5000",
+        "sameAs": [
+          "https://www.facebook.com/KelliGrant.money",
+          "https://www.twitter.com/kelligrant",
+          "https://www.plus.google.com/116379376975025392080"
+        ],
+        "cn:socialMediaInfo": [{
+            "cn:url": "https://facebook.com/KelliGrant.money",
+            "cn:displayText": "KelliGrant.money",
+            "cn:type": "facebook"
+          },
+          {
+            "cn:url": "https://twitter.com/kelligrant",
+            "cn:displayText": "kelligrant",
+            "cn:type": "twitter"
+          },
+          {
+            "cn:url": "https://plus.google.com/116379376975025392080",
+            "cn:displayText": "116379376975025392080",
+            "cn:type": "googlePlus"
+          }
+        ]
+      }],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104846604",
+      "cn:liveURL": "/2017/11/16/the-new-url.html",
+      "datePublished": "2017-11-16T14:46:38+0000",
+      "cn:summary": "Both advisors and consumers could stand to improve their email habits and password use, to thwart would-be thieves. ",
+      "cn:shorterDescription": "The financial services sector is a prime target for cyberattacks. What consumers and advisors can learn from that. ",
+      "cn:shortestDescription": "Both advisors and investors could stand to improve their email habits and password use.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104844227\" autoplay_flag=\"false\"/></assets><div class=\"group\"><p>Some of the cybersecurity best practices for advisors are smart moves for consumers, too.</p><p>\"Don't make the mistake of thinking of [cybersecurity] as a technology thing. It's not,\" Adam Moseley, managing director of Schwab Business Consulting and Education at Charles Schwab, told advisors Tuesday at Schwab IMPACT 2017 in Chicago.</p><p>Much of protecting yourself is about behavior and education, he said. (See infographic below for tips.)</p><p>Advisors are right to be <asset_inline nid=\"103939381\">worried about cybersecurity</asset_inline>. The broader financial services sector has been attacked more than any other industry, according to the <asset_inline ext_link=\"https://www.ibm.com/security/data-breach/mss-security-threat-research.html\" ext_title=\"https://www.ibm.com/security/data-breach/mss-security-threat-research.html\">2017 IBM X-Force Intelligence Index</asset_inline>.</p></div></group></body>",
+      "url": "https://qa-aws01make-it.cnbc.com/2017/11/16/the-new-url.html",
+      "cn:sectionHierarchy": [{
+          "id": 102091434,
+          "tagName": "Impact conference",
+          "order": 1
+        },
+        {
+          "id": 15839069,
+          "tagName": "Investing",
+          "order": 2
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "caption": "",
+        "author": "Linus Strandholm",
+        "copyrightHolder": "Linus Strandholm | EyeEm | Getty Images",
+        "@id": "104382104",
+        "height": "1414",
+        "datePublished": "2017-04-04T00:10:18+0000",
+        "description": "",
+        "width": "2121",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104382104-GettyImages-707592073_1.jpg?v=1510833535"
+      },
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "Both advisors and consumers could stand to improve their email habits and password use, to thwart would-be thieves. ",
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 10558
+      }]
+    },
+    {
+      "@id": "104846799",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Industrial Production October BREUNINGER 171116 EC",
+      "cn:createdBy": "kevin.breuninger@nbcuni.com",
+      "cn:editedBy": "rekha.ponnur",
+      "cn:title": "US industrial production rose 0.9% in Oct, vs 0.5% increase expected",
+      "headline": "US industrial production rose 0.9% in Oct as hurricane impact revised downward",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "cn:subDomain": "https://qa-aws01web.cnbc.com",
+      "cn:branding": "cnbc",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104846799",
+      "cn:liveURL": "/2017/11/16/industrial-production-october-2017.html",
+      "datePublished": "2017-11-16T14:15:53+0000",
+      "cn:summary": "Economists polled by Reuters expected industrial output to increase in October.",
+      "cn:shorterDescription": "Economists polled by Reuters expected industrial output to increase 0.5 percent in October.",
+      "cn:shortestDescription": "Economists polled by Reuters expected industrial output to increase 0.5 percent.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104571403\"/></assets><div class=\"group\"><p>U.S. industrial production jumped a solid 0.9 percent in October as factory activity recovered from the impact of Hurricanes Harvey and Irma.</p><p>The Federal Reserve says that manufacturing activity surged 1.3 percent last month. Many of the gains came from a sharp increase in the production of chemical and petroleum and coal products. Motor vehicles and metals also posted decent gains.</p><p>Mining activity slipped 1.3 percent in October as Hurricane Nate caused a brief decline in oil and gas drilling. Production at utilities rose 2 percent.</p><p>Over the past year, industrial production has increased 2.9 percent.</p><p>Furthermore, the damage from the deadly hurricanes in the Gulf Coast and Florida was revised downward in the latest report. The August reading, the month most affected by hurricane damage, was revised up 0.2 percentage points to a loss of 0.5 percent.</p><p>Factories are hiring as demand has improved.</p><p>Over the past 12 months, manufacturers have added 156,000 jobs. That's the strongest annual growth since the middle of 2015.</p></div></group></body>",
+      "url": "https://qa-aws01web.cnbc.com/2017/11/16/industrial-production-october-2017.html",
+      "cn:sectionHierarchy": [{
+          "id": 20910258,
+          "tagName": "Economy",
+          "order": 1
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 2
+        }
+      ],
+      "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "caption": "A worker uses a heat gun to smooth out the wrinkles on a car seat during production at the Lear Corp. manufacturing facility in Hammond, Indiana.",
+        "author": "",
+        "copyrightHolder": "Jim Young | Bloomberg | Getty Images",
+        "@id": "104571403",
+        "height": "1334",
+        "datePublished": "2017-07-06T19:07:58+0000",
+        "description": "",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104571403-GettyImages-691658386-manufacturing.jpg?v=1510774616"
+      },
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "Economists polled by Reuters expected industrial output to increase in October.",
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 10556
+      }]
+    },
+    {
+      "@id": "104845074",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "US market outlook KIESNOSKI 171115 EC",
+      "cn:createdBy": "Kenneth.Kiesnoski",
+      "cn:editedBy": "Rick.Levinson",
+      "cn:title": "Market rally has at least another year to run, say experts",
+      "headline": "Market rally has another year to run, say experts",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "author": [{
+        "@type": "Creator",
+        "@id": "101087705",
+        "name": "Kenneth Kiesnoski",
+        "url": "http://qa-aws01web.cnbc.com/kenneth-kiesnoski/",
+        "position": "5000",
+        "sameAs": [
+          "https://www.linkedin.com/in/kennethkiesnoski",
+          "https://www.twitter.com/kkiesnoski"
+        ],
+        "cn:socialMediaInfo": [{
+            "cn:url": "https://linkedin.com/in/kennethkiesnoski",
+            "cn:displayText": "in/kennethkiesnoski",
+            "cn:type": "linkedin"
+          },
+          {
+            "cn:url": "https://twitter.com/kkiesnoski",
+            "cn:displayText": "kkiesnoski",
+            "cn:type": "twitter"
+          }
+        ]
+      }],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104845074",
+      "cn:liveURL": "/2017/11/16/market-rally-has-at-least-another-year-to-run-say-experts.html",
+      "datePublished": "2017-11-16T14:18:11+0000",
+      "cn:summary": "The U.S. market rally probably has a few years left to run, and will more than likely slow due to natural cycles rather than any cataclysm, say experts.",
+      "cn:shorterDescription": "The U.S. market rally probably has a few years left and will likely slow due to natural cycles rather than any cataclysm, say experts.",
+      "cn:shortestDescription": "The market rally probably has a few years left and will likely slow due to natural cycles rather than any cataclysm.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104181372\"/></assets><div class=\"group\"><p>Will the stock market boom go bust or at least slow — and if so, when and why?</p><p>Not for at least another 12 months — and perhaps not until sometime after 2019 — and then most likely only due to \"natural\" causes, said speakers at the opening Tuesday night keynote at the Charles Schwab IMPACT 2017 conference in Chicago.</p><p>\"Stocks have been rooted in better fundamentals of growth around the world,\" Jeffrey Kleintop, chief global strategist and senior vice president at Schwab, told many of those of the 4,000 registered investment advisors in town for IMPACT, who had gathered in a cavernous hall at the McCormick Place conference center for the presentation.</p><p>\"That's been true through the Brexit vote, through the U.S. election, through the shift in central bank policies — even the North Korea risks. Stocks have remained anchored in better growth prospects,\" he added, with every one of the top 45 largest world economies — including the U.S. — recording positive growth in 2017, according to&#160;the OECD.&#160;</p><p>More of the same is said to be on tap for 2018. \"That is a fantastic environment for investors,\" Kleintop said.</p><p><strong>More from the IMPACT Conference:</strong><br /> <asset_inline nid=\"104844916\">The 12 end-of-life-documents you need</asset_inline><br /> <asset_inline nid=\"104844190\">The wall of worry advisors are facing</asset_inline><br /> <asset_inline nid=\"104051502\">Advisors fighting elder financial abuse</asset_inline></p><p>The current pace of growth, the best and broadest in 10 years, \"is lifting earnings, with little sign [and] little risk of recession or a bear market or bubble-bursting in the next 12 months,\" Kleintop said, also noting that the yield curve — the difference between short- and long-term interest rates and, historically, a good predictor of a coming recession — seems to indicate the all-clear for at least another two to three years.</p><p>Liz Ann Sonders, chief investment strategist and senior vice president at Schwab, agreed. The yield curve, she said, indicates \"very minimal lift at this stage in the risk of recession, and I think we really probably don't have to really worry about that until about 2019 or so.\"</p><p>Good news for sure, but optimism can eventually morph into investor euphoria. And Sonders reminded attendees that&#160;the American-born British investor and fund manager Sir John Templeton once famously quipped that, in the end, bull markets die on euphoria.</p><p>\"We all know this has been a unique bull market, so I have my own take on this: That this bull market was born on despair, grew on disbelief, has matured on skepticism and may die on acceptance,\" Sonders said, referring to the somewhat tempered (historically speaking) optimism typical of today's investor.</p></div></group></body>",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/16/market-rally-has-at-least-another-year-to-run-say-experts.html",
+      "cn:sectionHierarchy": [{
+          "id": 102091434,
+          "tagName": "Impact conference",
+          "order": 1
+        },
+        {
+          "id": 15839069,
+          "tagName": "Investing",
+          "order": 2
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "caption": "Pedestrians walk along Wall Street as a Christmas tree stands in front of the New York Stock Exchange.",
+        "author": "",
+        "copyrightHolder": "Michael Nagle | Bloomberg | Getty Images",
+        "@id": "104181372",
+        "height": "1334",
+        "datePublished": "2017-11-15T20:39:12+0000",
+        "description": "",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104181372-GettyImages-630354094.jpg?v=1510778303"
+      },
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 1
+      },
+      "description": "The U.S. market rally probably has a few years left to run, and will more than likely slow due to natural cycles rather than any cataclysm, say experts.",
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 10542
+      }]
+    },
+    {
+      "@id": "104846956",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Home builder confidence rises OLICK 171116 ",
+      "cn:title": "Home builder confidence hits 8-month high in November",
+      "headline": "Home builder confidence hits 8-month high in November",
+      "cn:creatorOverwrite": "",
+      "cn:editedBy": "qauser",
+      "cn:historicalURL": [],
+      "cn:createdBy": "diana.olick",
+      "author": [{
+        "@type": "Creator",
+        "@id": "15838025",
+        "name": "Diana Olick",
+        "url": "http://qa-aws01web.cnbc.com/diana-olick/",
+        "position": "1",
+        "sameAs": [
+          "https://www.facebook.com/DianaOlickCNBC",
+          "https://www.twitter.com/DianaOlick ",
+          "https://www.plus.google.com/104938974510355699419"
+        ],
+        "cn:socialMediaInfo": [{
+            "cn:url": "https://facebook.com/DianaOlickCNBC",
+            "cn:displayText": "DianaOlickCNBC",
+            "cn:type": "facebook"
+          },
+          {
+            "cn:url": "https://twitter.com/DianaOlick ",
+            "cn:displayText": "DianaOlick ",
+            "cn:type": "twitter"
+          },
+          {
+            "cn:url": "https://plus.google.com/104938974510355699419",
+            "cn:displayText": "104938974510355699419",
+            "cn:type": "googlePlus"
+          }
+        ]
+      }],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104846956",
+      "cn:liveURL": "/2017/11/16/home-builder-confidence-hits-8-month-high-in-november.html",
+      "datePublished": "2017-11-16T05:00:00+0000",
+      "cn:summary": "Home builder confidence rises as builders see more sales and increased buyer traffic.",
+      "cn:shorterDescription": "Home builder confidence rises as builders see more sales and increased buyer traffic.",
+      "cn:shortestDescription": "Home builder confidence rises as builders see more sales and more buyer traffic.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p>The nation's home builders may not be happy with the Republican tax plan, but they are seeing more buyers, and that is boosting confidence.</p><p>A monthly reading of home builder sentiment rose two points in November to 70, according to the National Association of Home Builders. This comes after rising four points in October.</p></div></group></body>",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/16/home-builder-confidence-hits-8-month-high-in-november.html",
+      "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "caption": "Contractors secure a wall section on a home under construction at the Toll Brothers Cantera at Gale Ranch housing development in San Ramon, Calif.",
+        "author": "David Paul Morris",
+        "copyrightHolder": "David Paul Morris | Bloomberg | Getty Images",
+        "@id": "103559735",
+        "height": "2670",
+        "datePublished": "2016-04-19T13:06:30+0000",
+        "description": "Contractors secure a wall section on a home under construction at the Toll Brothers Inc. Cantera at Gale Ranch housing development in San Ramon, California, U.S., on Wednesday, Jan. 20, 2016. The U.S. Census Bureau reported a drop in new-home construction for December which probably reflects little more than a pause in a steady uptrend, as housing starts closed out the strongest year since 2007. Photographer: David Paul Morris/Bloomberg",
+        "width": "4000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/103559735-GettyImages-505925746.jpg?v=1510842924"
+      },
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "cn:sectionHierarchy": [{
+          "id": 10000115,
+          "tagName": "Real Estate",
+          "order": 1
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 2
+        }
+      ],
+      "description": "Home builder confidence rises as builders see more sales and increased buyer traffic.",
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 10541
+      }]
+    },
+    {
+      "@id": "104844245",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Import prices RTRS 171116 EC",
+      "cn:createdBy": "terri.cullen",
+      "cn:editedBy": "terri.cullen",
+      "cn:title": "US import prices rose 0.2% in Oct, vs 0.4% increase expected",
+      "headline": "US import prices rise less than expected in October ",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104844245",
+      "cn:liveURL": "/2017/11/16/us-import-prices-oct-2017.html",
+      "datePublished": "2017-11-16T13:31:16+0000",
+      "cn:summary": "Import prices rose less than expected in October as an increase in the cost of imported petroleum and capital goods was offset by a decline in food prices.",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104077905\"/></assets><div class=\"group\"><p>U.S. import prices rose less than expected in October as an increase in the cost of imported petroleum and capital goods was offset by a decline in food prices.</p><p>The Labor Department said on Thursday that import prices gained 0.2 percent last month after an upwardly revised 0.8 percent jump in September. Economists polled by Reuters had forecast import prices increasing 0.4 percent in October after a previously reported 0.7 percent gain in September.</p><p>In the 12 months through October, import prices increased 2.5 percent, slowing after a 2.7 percent rise in September.</p><p>Last month, prices for imported petroleum increased 1.7 percent after surging 6.3 percent in September. Import prices excluding petroleum edged up 0.1 percent after shooting up 0.4 percent the prior month. Import prices excluding petroleum rose 1.4 percent in the 12 months through October.</p><p>A weak dollar, which has this year lost 5.4 percent of its value against the currencies of the United States' main trading partners, could keep import prices outside petroleum supported.</p><p>Imported capital goods prices rose 0.2 percent last month, while the cost of imported food fell 0.2 percent.</p><p>The report also showed export prices were unchanged in October as the biggest monthly increase in the price of agricultural exports in nearly 1-1/2 years was eclipsed by a drop in nonagricultural prices. Export prices rose 0.7 percent in September. They increased 2.7 percent year-on-year after rising 2.8 percent in September.</p></div></group></body>",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/16/us-import-prices-oct-2017.html",
+      "cn:sectionHierarchy": [{
+          "id": 20910258,
+          "tagName": "Economy",
+          "order": 1
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 2
+        }
+      ],
+      "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "caption": "The Yang Ming Marine Transport Corp. Oakland cargo ship is guided into the Port of Oakland by an AmNav tug boat.",
+        "author": "",
+        "copyrightHolder": "Tim Rue | Bloomberg | Getty Images",
+        "@id": "104077905",
+        "height": "1333",
+        "datePublished": "2016-11-03T18:19:20+0000",
+        "description": "",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104077905-GettyImages-613190958.jpg?v=1485520127"
+      },
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "Import prices rose less than expected in October as an increase in the cost of imported petroleum and capital goods was offset by a decline in food prices.",
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 10540
+      }]
+    },
+    {
+      "@id": "104844239",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Jobless claims RTRS 171116 EC",
+      "cn:createdBy": "terri.cullen",
+      "cn:editedBy": "Meg.Teckman-Fullard",
+      "cn:title": "US weekly jobless claims unexpectedly rise",
+      "headline": "US weekly jobless claims unexpectedly rise",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104844239",
+      "cn:liveURL": "/2017/11/16/us-weekly-jobless-claims-nov-11-2017.html",
+      "datePublished": "2017-11-16T13:30:49+0000",
+      "cn:summary": "The number of Americans filing for unemployment benefits unexpectedly rose last week.",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104846416\" autoplay_flag=\"true\"/></assets><div class=\"group\"><p>The number of Americans filing for unemployment benefits unexpectedly rose last week in part as a backlog of applications from Puerto Rico continued to be processed, but the underlying trend pointed to tightening labor market conditions.</p><p>Initial claims for state unemployment benefits increased 10,000 to a seasonally adjusted 249,000 for the week ended Nov. 11, the Labor Department said on Thursday. It was the second straight weekly increase.</p><p>The claims backlog in Puerto Rico is being cleared as some of the infrastructure damaged by hurricanes Irma and Maria is restored. Data for the prior week was unrevised.</p></div></group></body>",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/16/us-weekly-jobless-claims-nov-11-2017.html",
+      "cn:sectionHierarchy": [{
+          "id": 20910258,
+          "tagName": "Economy",
+          "order": 1
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 2
+        }
+      ],
+      "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "caption": "A job seeker registers during a Job News USA career fair in Overland Park, Kansas.",
+        "author": "",
+        "copyrightHolder": "Luke Sharrett | Bloomberg | Getty Images",
+        "@id": "104358347",
+        "height": "1334",
+        "datePublished": "2017-03-22T20:47:26+0000",
+        "description": "",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104358347-GettyImages-650455714.jpg?v=1490215654"
+      },
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "The number of Americans filing for unemployment benefits unexpectedly rose last week.",
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 10539
+      }]
+    },
+    {
+      "@id": "104845427",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Trump’s tax reform HARWOOD 171115 EC",
+      "cn:createdBy": "Beatriz.BajuelosCastillo@nbcuni.com",
+      "cn:editedBy": "ashish.gupta",
+      "cn:title": "Trump’s core supporters are about to be handed the bill for tax reform",
+      "headline": "Trump’s core supporters are about to be handed the bill for tax reform",
+      "cn:creatorOverwrite": "",
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01web.cnbc.com",
+      "cn:historicalURL": [],
+      "author": [{
+        "@type": "Creator",
+        "@id": "15838123",
+        "name": "John Harwood",
+        "url": "http://qa-aws01web.cnbc.com/john-harwood/",
+        "position": "4998",
+        "sameAs": [
+          "https://www.twitter.com/johnjharwood"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/johnjharwood",
+          "cn:displayText": "johnjharwood",
+          "cn:type": "twitter"
+        }]
+      }],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104845427",
+      "cn:liveURL": "/2017/11/16/trumps-core-supporters-are-about-to-be-handed-the-bill-for-tax-reform.html",
+      "datePublished": "2017-11-16T12:04:23+0000",
+      "cn:summary": "President Trump's white working-class supporters don't gain much from the Republican tax cut push. They support it anyway.",
+      "cn:shorterDescription": "President Trump's white working-class supporters don't gain much from the Republican tax cut push. They support it anyway.",
+      "cn:shortestDescription": "President Trump's white working-class supporters don't gain much from the GOP tax cuts. They support it anyway.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104143295\"/></assets><div class=\"group\"><p><strong class=\"\"></strong><asset_inline nid=\"10000329\">President Donald Trump</asset_inline>'s white working-class supporters don't gain much from <asset_inline nid=\"104845065\">the Republican tax cut push</asset_inline>. So far, they're among its strongest early supporters anyway.</p><p>But their personal loyalty to Trump and his party faces a big test from <asset_inline nid=\"104844820\">the tax cut debate</asset_inline> — and spending cut debate soon to follow.</p><p>The House bill Republicans hope to pass Thursday, tax analysts for Congress say, will reduce effective tax rates twice as much for those earning $1 million or more as for those earning $100,000 or less. <asset_inline nid=\"104844030\">The Senate bill makes big tax cuts for corporations permanent</asset_inline> but makes smaller ones for moderate-income families only temporary.</p><p>Those specifics contradict what Trump's base — heavily weighted toward older whites without college educations — has said it wants from Washington. In an in-depth study of voter attitudes after the 2016 election, his core supporters expressed disdain for Wall Street and advocated higher, not lower, taxes on the wealthy.</p><p>On the eve of 2018 elections, Democrats have begun a high-volume effort to highlight that contradiction in priorities. Even if they can't stop the tax bill, the stated plans of congressional Republicans and the Trump White House will give them fresh material.</p><p>\"One thing we're going to be looking at very strongly is welfare reform,\" Trump told his Cabinet last month. \"People are taking advantage of the system.\"</p><p>But this may diverge from racially charged welfare debates of the past, fueled by blue-collar whites resentful that their tax dollars financed benefit rolls containing disproportionate numbers of African-Americans. This time, benefits at risk include those largely benefitting blue-collar whites themselves.</p><p>One big target is Medicaid, which provides health care to low-income Americans. Republicans have sought to cut it by hundreds of billions of dollars in their proposals to repeal and replace Obamacare.</p><p>Low-income whites represent a majority of nonelderly Medicaid beneficiaries in numerous states Trump carried such as Ohio, Wisconsin, Michigan, West Virginia, Kentucky and Arkansas. They also represent a majority of elderly Medicaid beneficiaries receiving nursing home care financed by the federal government.</p><p>Trump has pledged not to cut Social Security benefits. But his budget director, <asset_inline nid=\"104507035\">Mick Mulvaney</asset_inline>, persuaded him to seek reductions in Social Security disability benefits by arguing, as he explained to Politico, that \"<asset_inline ext_link=\"https://www.politico.com/magazine/story/2017/09/01/mick-mulvaney-omb-trump-budget-profile-feature-215546\" ext_title=\"https://www.politico.com/magazine/story/2017/09/01/mick-mulvaney-omb-trump-budget-profile-feature-215546\">It's welfare</asset_inline>.\"</p><p>In fact, policy experts in both parties see the disability program as swollen and ripe for reform. They say disability has become a damaging trap for millions with medical problems who still could work — but are forbidden from doing so once they qualify for its benefits.</p><p>Reductions will hit home with core Trump supporters in any case. Seven in 10 Social Security disability recipients are white, many of them aging, blue-collar workers displaced from good-paying jobs by competition from imports and other shifts in the global economy.</p><p>\"It affects the white working-class guys as they get older,\" said Jason Turner, a conservative welfare expert. \"That's the impetus for a lot of them asking for disability.\"</p><p>Trump has also pledged not to touch Medicare benefits. But <asset_inline nid=\"104398705\">Mulvaney told me earlier this year</asset_inline> the administration would \"talk about it\" if congressional Republicans pass longstanding proposals to cut spending by converting Medicare to a \"premium support\" program for private insurance.</p><p>House Speaker <asset_inline nid=\"10000488\">Paul Ryan</asset_inline> has been a principal advocate of that idea, as well as for curbing Social Security as baby boom retirements expand benefit rolls. Despite Trump's pledges, the speaker hasn't given up.</p><p>Indeed, the higher deficits that analysts forecast from the GOP tax proposals will only increase pressure to curb benefits.</p><p>\"There's two things you have to do to get our fiscal house in order,\" Ryan told reporters last week. \"Grow the economy, get people working and paying taxes, and deal with spending — especially entitlement spending.\"</p><p>\"We've got a lot more work to do on that front,\" he concluded.</p><p>Seven in 10 Americans age 65 or older are white. One-third of them rely on Social Security to lift them out of poverty, according to Census data.</p></div></group></body>",
+      "url": "https://qa-aws01web.cnbc.com/2017/11/16/trumps-core-supporters-are-about-to-be-handed-the-bill-for-tax-reform.html",
+      "cn:sectionHierarchy": [{
+          "id": 104847532,
+          "tagName": "BuffettAtoZ",
+          "order": 1
+        },
+        {
+          "id": 104847371,
+          "tagName": "Buffett Archive",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "caption": "Supporters listen as President-elect Donald Trump and Vice President-elect Mike Pence speak at U.S. Bank Arena on Dec. 1, 2016, in Cincinnati.",
+        "author": "",
+        "copyrightHolder": "Getty Images",
+        "@id": "104143295",
+        "height": "1333",
+        "datePublished": "2016-12-02T16:05:48+0000",
+        "description": "",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104143295-GettyImages-627104906.jpg?v=1481719301"
+      },
+      "cn:featuredMedia": {
+        "cn:isPromoted": "false",
+        "cn:isHighTouch": "false",
+        "@type": "ImageObject",
+        "cn:subDomain": "",
+        "cn:type": "image",
+        "headline": "",
+        "cn:creatorOverwrite": "",
+        "@id": "104847562",
+        "cn:slug": "New Image 2021",
+        "cn:historicalURL": [],
+        "cn:title": "",
+        "cn:editedBy": "thiyagarajan",
+        "cn:createdBy": "thiyagarajan",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104847562-angular-reactive-chart-hero-copy.jpg?v=1517608800",
+        "author": "",
+        "contentSize": 289227,
+        "caption": "",
+        "description": "",
+        "height": "900",
+        "width": "1200"
+      },
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "President Trump's white working-class supporters don't gain much from the Republican tax cut push. They support it anyway.",
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 10538
+      }]
+    },
+    {
+      "@id": "104846359",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "US premarkets Gibbs 171116 EU",
+      "cn:createdBy": "Alexandra Gibbs",
+      "cn:editedBy": "Fred.Imbert",
+      "cn:title": "Futures point to a higher open on Wall Street ahead of tax bill vote",
+      "headline": "Futures point to a higher open on Wall Street ahead of tax bill vote",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "author": [{
+        "@type": "Creator",
+        "@id": "102384716",
+        "name": "Alexandra Gibbs",
+        "url": "http://qa-aws01web.cnbc.com/alexandra-gibbs/",
+        "position": "5000",
+        "sameAs": [
+          "https://www.twitter.com/alexgibbsy"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/alexgibbsy",
+          "cn:displayText": "alexgibbsy",
+          "cn:type": "twitter"
+        }]
+      }],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104846359",
+      "cn:liveURL": "/2017/11/16/us-stock-futures-earnings-data-tax-on-the-agenda.html",
+      "datePublished": "2017-11-16T10:54:36+0000",
+      "cn:summary": "U.S. stock index futures pointed to a higher open Thursday, bouncing back from yesterday's weak trading session, ahead of a vote on tax reform.",
+      "cn:shorterDescription": "U.S. stock index futures pointed to a higher open, bouncing back from yesterday's weak trading session, ahead of a vote on tax reform.",
+      "cn:shortestDescription": "U.S. stock index futures pointed to a higher open Thursday, bouncing back from yesterday’s weak trading session.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><asset_inline nid=\"17689937\"> U.S. stock index futures</asset_inline>&#160;pointed to a higher open Thursday, bouncing back from yesterday's weak trading session, ahead of a vote on tax reform.</p><p>Dow Jones industrial average futures rose 76&#160;points, while S&amp;P 500 and Nasdaq 100 futures gained 8.75 points and 30&#160;points, respectively.</p><p>Markets worldwide showed signs of bouncing back after coming under pressure in the previous trading session. Not only were U.S. futures edging higher, but <asset_inline nid=\"104845983\">stocks in Europe</asset_inline> were trading in the black, while <asset_inline nid=\"104845526\">markets in Asia</asset_inline> finished mostly higher.</p><p>In the previous trading session, <asset_inline nid=\"104843662\">U.S. equities closed in negative territory</asset_inline>, with the Dow Jones industrial average dropping 138.19 points by the close, with market-watchers attributing the decline to signs that the current bull market was slowing down.</p><p>Investors were looking ahead to a House vote on a tax reform bill.&#160;GOP leaders remain confident that the bill can be passed this week, despite lingering resistance seen from some Republicans.</p></div></group></body>",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/16/us-stock-futures-earnings-data-tax-on-the-agenda.html",
+      "cn:sectionHierarchy": [{
+          "id": 100003242,
+          "tagName": "U.S. Markets",
+          "order": 1
+        },
+        {
+          "id": 102,
+          "tagName": "Markets",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "caption": "Traders work on the floor of the New York Stock Exchange during the afternoon of October 14, 2015 in New York City.",
+        "author": "Andrew Burton",
+        "copyrightHolder": "Andrew Burton | Getty Images News | Getty Images",
+        "@id": "104846367",
+        "height": "683",
+        "datePublished": "2017-11-16T09:49:59+0000",
+        "description": "<<enter caption here>> on October 14, 2015 in New York City.",
+        "width": "1024",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104846367-GettyImages-492663408.jpg?v=1510825753"
+      },
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "U.S. stock index futures pointed to a higher open Thursday, bouncing back from yesterday's weak trading session, ahead of a vote on tax reform.",
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 10537
+      }]
+    },
+    {
+      "@id": "104846360",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "US bonds Gibbs 171116 EU",
+      "cn:createdBy": "Alexandra Gibbs",
+      "cn:editedBy": "Tom.Franck",
+      "cn:title": "US Treasury yields climb after jobless numbers, stronger industrial production data",
+      "headline": "US Treasury yields climb after jobless numbers, stronger industrial production",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104846360",
+      "cn:liveURL": "/2017/11/16/bonds-and-fixed-income-data-fed-speeches-on-the-agenda-for-investors.html",
+      "datePublished": "2017-11-16T10:45:35+0000",
+      "cn:summary": "U.S. government debt yields rose Thursday after jobless claims unexpectedly rose and industrial production beat projections. ",
+      "cn:shorterDescription": "U.S. government debt yields rose Thursday after jobless claims unexpectedly rose and industrial production beat projections.",
+      "cn:shortestDescription": "U.S. government debt yields rose Thursday after jobless claims rose and industrial production beat forecasts.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><asset_inline nid=\"15839203\">U.S. government debt yields </asset_inline>rose Thursday after jobless claims unexpectedly rose and U.S. industrial production beat Wall Street expectations.</p><p>The yield on the benchmark&#160;<asset_inline nid=\"3032077\">10-year Treasury note</asset_inline>&#160;sat higher at around 2.347 percent at 9:49 a.m. ET, while&#160;the yield on the&#160;<asset_inline nid=\"3032077\">30-year Treasury bond</asset_inline>&#160;was up at 2.789 percent. Bond yields move inversely to prices.</p><p>Meanwhile, the 2-year Treasury note yield hit a high of 1.716 percent its highest level since Oct. 2008 when the 2-year note yielded as high as 1.716.</p></div></group></body>",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/16/bonds-and-fixed-income-data-fed-speeches-on-the-agenda-for-investors.html",
+      "cn:sectionHierarchy": [{
+          "id": 15839203,
+          "tagName": "Bonds",
+          "order": 1
+        },
+        {
+          "id": 102,
+          "tagName": "Markets",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "caption": "",
+        "author": "Bloomberg",
+        "copyrightHolder": "Jin Lee | Bloomberg | Getty Images",
+        "@id": "104846371",
+        "height": "1741",
+        "datePublished": "2017-11-16T09:50:45+0000",
+        "description": "A trader works on the floor of the New York Stock Exchange in New York, U.S., on Tuesday, Feb. 22, 2011. Photographer: Jin Lee/Bloomberg",
+        "width": "2612",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104846371-GettyImages-109352855.jpg?v=1510825992"
+      },
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "U.S. government debt yields rose Thursday after jobless claims unexpectedly rose and industrial production beat projections. ",
+      "author": [{
+          "@type": "Creator",
+          "@id": "102384716",
+          "name": "Alexandra Gibbs",
+          "url": "http://qa-aws01web.cnbc.com/alexandra-gibbs/",
+          "position": "5000",
+          "sameAs": [
+            "https://www.twitter.com/alexgibbsy"
+          ],
+          "cn:socialMediaInfo": [{
+            "cn:url": "https://twitter.com/alexgibbsy",
+            "cn:displayText": "alexgibbsy",
+            "cn:type": "twitter"
+          }]
+        },
+        {
+          "@type": "Creator",
+          "@id": "104540348",
+          "name": "Thomas Franck",
+          "url": "http://qa-aws01web.cnbc.com/tom-franck/",
+          "position": "4999",
+          "sameAs": [
+            "https://www.twitter.com/tomwfranck"
+          ],
+          "cn:socialMediaInfo": [{
+            "cn:url": "https://twitter.com/tomwfranck",
+            "cn:displayText": "tomwfranck",
+            "cn:type": "twitter"
+          }]
+        }
+      ],
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 10536
+      }]
+    }
+  ]
+}

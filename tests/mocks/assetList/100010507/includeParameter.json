@@ -1,0 +1,26 @@
+{
+  "data": {
+    "assetList": {
+      "assets": [
+        {
+          "id": 104846604,
+          "type": "cnbcnewsstory",
+          "slug": "Impact cybersecurity tips GRANT 20171116",
+          "datePublished": "2017-11-16T14:46:38+0000",
+          "description": "Both advisors and consumers could stand to improve their email habits and password use, to thwart would-be thieves. ",
+          "headline": "Smart behaviors to improve your cybersecurity",
+          "title": "Smart behaviors that can improve your cybersecurity"
+        },
+        {
+          "id": 104845578,
+          "type": "partnerstory",
+          "slug": "China wind tunnel SCMP 171116 Asia",
+          "datePublished": "2017-11-16T01:45:00+0000",
+          "description": "China is building the world's fastest wind tunnel to simulate hypersonic flight at speeds of up to 12 kilometres per second.",
+          "headline": "China gears up to test weapons that could hit US in 14 minutes",
+          "title": "China builds world's fastest wind tunnel to test weapons that could strike US within 14 minutes"
+        }
+      ]
+    }
+  }
+}

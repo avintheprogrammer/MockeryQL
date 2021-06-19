@@ -1,0 +1,649 @@
+{
+  "@id": "104832573",
+  "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104832573",
+  "cn:type": "franchise",
+  "cn:slug": "Collection: Mad Money Sponsor Tray",
+  "cn:subType": "section",
+  "cn:tagName": "",
+  "cn:title": "Collection: Mad Money Sponsor Tray",
+  "url": "https://qa-aws01web.cnbc.com/mad-money-sponsor-tray/",
+  "cn:liveURL": "/mad-money-sponsor-tray/",
+  "cn:createdBy": "Josephine.Bila",
+  "cn:editedBy": "rekha.ponnur",
+  "datePublished": "2017-11-09T16:50:24+0000",
+  "cn:summary": "",
+  "headline": "From Our Sponsor",
+  "cn:shorterDescription": "",
+  "cn:shortestDescription": "",
+  "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><br /></p><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div></div></group></body>",
+  "cn:creatorOverwrite": "",
+  "cn:sectionHierarchy": [{
+      "id": 104832573,
+      "tagName": "",
+      "order": 1
+    },
+    {
+      "id": 15838459,
+      "tagName": "Mad Money",
+      "order": 2
+    },
+    {
+      "id": 100008328,
+      "tagName": "U.S. Business Day",
+      "order": 3
+    },
+    {
+      "id": 15839263,
+      "tagName": "Video and TV",
+      "order": 4
+    },
+    {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 5
+    }
+  ],
+  "cn:settings": {
+    "cn:nsfw": "Yes",
+    "cn:syndicate": "No",
+    "cn:verifyAge": "Yes",
+    "cn:none": "Yes",
+    "cn:commentsEnabled": "No",
+    "cn:socialtoolsEnabled": "No",
+    "cn:dateline": "No",
+    "cn:displayByline": "No",
+    "cn:displaySource": "No",
+    "cn:outbrainEnabled": "No",
+    "cn:isFamilyFriendly": "Yes",
+    "cn:listType": "Manual and/or populated by feeds",
+    "cn:tweetOnPublish": 0
+  },
+  "description": "",
+  "cn:section": {
+    "@id": "15838459",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15838459",
+    "cn:type": "franchise",
+    "cn:slug": "Mad Money",
+    "cn:subType": "news_show",
+    "cn:tagName": "Mad Money",
+    "cn:title": "Mad Money with Jim Cramer",
+    "url": "http://qa-aws01web.cnbc.com/mad-money/",
+    "cn:liveURL": "/mad-money/",
+    "datePublished": "2014-02-20T00:07:49+0000",
+    "cn:summary": "Mad Money seeks to help people like you, who own stocks and feel like they're on the outside looking in, become better investors. To teach you how to think about the market like a pro. This show is not about picking stocks. It's not about giving you tips that will make you money overnight. Our mission is educational, to teach you how to analyze stocks and the market through the prism of events.",
+    "headline": "Mad Money",
+    "cn:shorterDescription": "Hosted by Jim Cramer, the \"Mad Money\" mission is educational: to teach you how to analyze stocks and the market like a pro.",
+    "cn:shortestDescription": "Jim Cramer teaches everyday people how to invest like a pro!",
+    "cn:bodyTeaser": "null",
+    "cn:creatorOverwrite": "",
+    "image": {
+      "@type": "ImageObject",
+      "representativeOfPage": "true",
+      "caption": "",
+      "author": "",
+      "copyrightHolder": "",
+      "@id": "100010118",
+      "height": "1080",
+      "datePublished": "2012-08-24T13:43:34+0000",
+      "description": "",
+      "width": "1920",
+      "url": "https://qa-aws02capi-img-origin.cnbc.com/image/100010118-mad-money-mezz-2013.jpg?v=1459804055"
+    },
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:dateline": "Yes",
+      "cn:displayByline": "Yes",
+      "cn:displaySource": "Yes",
+      "cn:outbrainEnabled": "Yes",
+      "cn:isFamilyFriendly": "Yes",
+      "cn:listType": "Manual and/or populated by feeds",
+      "cn:tweetOnPublish": 0
+    },
+    "description": "Mad Money seeks to help people like you, who own stocks and feel like they're on the outside looking in, become better investors. To teach you how to think about the market like a pro. This show is not about picking stocks. It's not about giving you tips that will make you money overnight. Our mission is educational, to teach you how to analyze stocks and the market through the prism of events.",
+    "author": [{
+      "@type": "Creator",
+      "@id": "15838187",
+      "name": "Jim Cramer",
+      "url": "http://qa-aws01web.cnbc.com/jim-cramer/",
+      "position": "4990",
+      "sameAs": [
+        "https://www.twitter.com/jimcramer"
+      ],
+      "cn:socialMediaInfo": [{
+        "cn:url": "https://twitter.com/jimcramer",
+        "cn:displayText": "jimcramer",
+        "cn:type": "twitter"
+      }]
+    }],
+    "cn:sectionHierarchy": [{
+        "id": 100008328,
+        "tagName": "U.S. Business Day",
+        "order": 1
+      },
+      {
+        "id": 15839263,
+        "tagName": "Video and TV",
+        "order": 2
+      },
+      {
+        "id": 10000161,
+        "tagName": "CNBC Global",
+        "order": 3
+      }
+    ],
+    "cn:historicalURL": [
+      "/id/15838459"
+    ],
+    "cn:editedBy": "Tahir",
+    "cn:createdBy": "migration",
+    "cn:subDomain": "CNBC.com",
+    "cn:branding": "CNBC",
+    "name": "Mad Money with Jim Cramer",
+    "cn:tabLabel": "Mad Money",
+    "cn:sectionLinktext": "Mad Money with Jim Cramer"
+  },
+  "cn:branding": "cnbc",
+  "cn:subDomain": "https://qa-aws01web.cnbc.com",
+  "cn:historicalURL": [],
+  "publisher": {
+    "@type": "Organization",
+    "name": "CNBC",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "@context": {
+    "@vocab": "http://schema.org/",
+    "cn": "http://cnbc.com/schema/"
+  },
+  "name": "Collection: Mad Money Sponsor Tray",
+  "cn:sectionColor": "#000000",
+  "cn:promoText": "",
+  "cn:showTime": "",
+  "cn:tabLabel": "From Our Sponsor",
+  "cn:sectionLinktext": "From Our Sponsor",
+  "@type": "Collection",
+  "cn:xmlArticleBody": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><br /></p><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div></div></group></body>",
+  "articlebody": "",
+  "cn:xmlKeyPoints": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><br /></p><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div></div></group></body>",
+  "dateModified": "2018-02-14T15:03:28+0000",
+  "cn:dateLastPublished": "2018-02-14T15:03:30+0000",
+  "cn:unpublishDate": "",
+  "cn:association": [{
+      "@id": "15838459",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15838459",
+      "cn:type": "franchise",
+      "cn:slug": "Mad Money",
+      "cn:subType": "news_show",
+      "cn:tagName": "Mad Money",
+      "cn:title": "Mad Money with Jim Cramer",
+      "url": "http://qa-aws01web.cnbc.com/mad-money/",
+      "cn:liveURL": "/mad-money/",
+      "datePublished": "2014-02-20T00:07:49+0000",
+      "cn:summary": "Mad Money seeks to help people like you, who own stocks and feel like they're on the outside looking in, become better investors. To teach you how to think about the market like a pro. This show is not about picking stocks. It's not about giving you tips that will make you money overnight. Our mission is educational, to teach you how to analyze stocks and the market through the prism of events.",
+      "headline": "Mad Money",
+      "cn:shorterDescription": "Hosted by Jim Cramer, the \"Mad Money\" mission is educational: to teach you how to analyze stocks and the market like a pro.",
+      "cn:shortestDescription": "Jim Cramer teaches everyday people how to invest like a pro!",
+      "cn:bodyTeaser": "null",
+      "cn:creatorOverwrite": "",
+      "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "caption": "",
+        "author": "",
+        "copyrightHolder": "",
+        "@id": "100010118",
+        "height": "1080",
+        "datePublished": "2012-08-24T13:43:34+0000",
+        "description": "",
+        "width": "1920",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/100010118-mad-money-mezz-2013.jpg?v=1459804055"
+      },
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "Mad Money seeks to help people like you, who own stocks and feel like they're on the outside looking in, become better investors. To teach you how to think about the market like a pro. This show is not about picking stocks. It's not about giving you tips that will make you money overnight. Our mission is educational, to teach you how to analyze stocks and the market through the prism of events.",
+      "author": [{
+        "@type": "Creator",
+        "@id": "15838187",
+        "name": "Jim Cramer",
+        "url": "http://qa-aws01web.cnbc.com/jim-cramer/",
+        "position": "4990",
+        "sameAs": [
+          "https://www.twitter.com/jimcramer"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/jimcramer",
+          "cn:displayText": "jimcramer",
+          "cn:type": "twitter"
+        }]
+      }],
+      "cn:section": {
+        "url": "http://qa-aws01pub.cnbc.com/business-day/",
+        "cn:type": "franchise",
+        "cn:title": "Business Day",
+        "@id": "100008328",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100008328",
+        "cn:slug": "US: Business Day",
+        "cn:tagName": "U.S. Business Day",
+        "cn:subType": "section",
+        "cn:shortestDescription": "See all U.S. Business Day Shows",
+        "headline": "Business Day",
+        "cn:creatorOverwrite": "",
+        "cn:liveURL": "http://qa-aws01pub.cnbc.com/business-day/",
+        "cn:summary": "CNBC's Business Day shows include Worldwide Exchange, Squawk Box, Futures Now, Fast Money, Street Signs, Mad Money, and Closing Bell. ",
+        "cn:settings": {
+          "cn:listType": "Manual and/or populated by feeds"
+        },
+        "description": "CNBC's Business Day shows include Worldwide Exchange, Squawk Box, Futures Now, Fast Money, Street Signs, Mad Money, and Closing Bell. ",
+        "datePublished": "2012-08-20T14:35:29+0000",
+        "cn:bodyTeaser": "null",
+        "cn:shorterDescription": "CNBC's Business Day shows include Worldwide Exchange, Squawk Box, Futures Now, Fast Money, Street Signs, Mad Money, and Closing Bell. ",
+        "name": "Business Day",
+        "cn:tabLabel": "Business Day",
+        "cn:sectionLinktext": "U.S. Business Day"
+      },
+      "cn:sectionHierarchy": [{
+          "id": 100008328,
+          "tagName": "U.S. Business Day",
+          "order": 1
+        },
+        {
+          "id": 15839263,
+          "tagName": "Video and TV",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "cn:historicalURL": [
+        "/id/15838459"
+      ],
+      "cn:editedBy": "Tahir",
+      "cn:createdBy": "migration",
+      "cn:subDomain": "CNBC.com",
+      "cn:branding": "CNBC",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "Mad Money with Jim Cramer",
+      "cn:tabLabel": "Mad Money",
+      "cn:sectionLinktext": "Mad Money with Jim Cramer",
+      "@type": "Collection",
+      "cn:relation": [{
+        "position": 5000,
+        "cn:relationType": "section",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@id": "100267921",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100267921",
+      "cn:type": "usage_rule",
+      "cn:slug": "Do not syndicate",
+      "cn:tagName": "",
+      "cn:title": "Do not syndicate",
+      "url": "",
+      "cn:liveURL": "",
+      "datePublished": "2012-12-02T19:44:20+0000",
+      "cn:summary": "",
+      "headline": "Do not syndicate",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:creatorOverwrite": "",
+      "cn:settings": {
+        "cn:nsfw": "Yes",
+        "cn:syndicate": "No",
+        "cn:verifyAge": "Yes",
+        "cn:none": "Yes",
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Virtual"
+      },
+      "description": "",
+      "cn:sectionHierarchy": [],
+      "cn:editedBy": "admin",
+      "cn:historicalURL": [],
+      "cn:createdBy": "ashish.gupta",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@type": "Intangible",
+      "cn:relation": [{
+        "position": 4999,
+        "cn:relationType": "usageRule",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "104847715",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847715",
+      "cn:type": "image",
+      "cn:slug": "video test_03_1518451766",
+      "cn:tagName": "",
+      "cn:title": "video test_03",
+      "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104847715-2ED1-SOTS-StewartNYT-021218.jpg?v=1518451769",
+      "cn:liveURL": "",
+      "cn:createdBy": "ingest",
+      "cn:editedBy": "ingest",
+      "datePublished": "",
+      "cn:summary": "",
+      "headline": "video test_03",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:creatorOverwrite": "",
+      "cn:sectionHierarchy": [],
+      "cn:subDomain": "",
+      "cn:historicalURL": [],
+      "cn:bodyTeaser": "<body></body>",
+      "description": "",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "author": "",
+      "contentSize": 615777,
+      "caption": "",
+      "copyrightHolder": "",
+      "height": "1080",
+      "width": "1920",
+      "cn:relation": [{
+        "position": 3,
+        "cn:relationType": "related",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@id": "104847706",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847706",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "TestSectionHierarchy",
+      "cn:tagName": "",
+      "cn:title": "TestSectionHierarchy",
+      "url": "https://qa-aws01make-it.cnbc.com/2018/02/11/testsectionhierarchy.html",
+      "cn:liveURL": "/2018/02/11/testsectionhierarchy.html",
+      "cn:createdBy": "Devi.Chapidi",
+      "cn:editedBy": "Devi.Chapidi",
+      "datePublished": "2018-02-12T02:01:32+0000",
+      "cn:summary": "",
+      "headline": "TestSectionHierarchy",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p></p><p></p></div></group></body>",
+      "cn:creatorOverwrite": "",
+      "cn:sectionHierarchy": [{
+          "id": 103395617,
+          "tagName": "Make It - Inspire",
+          "order": 1
+        },
+        {
+          "id": 103395579,
+          "tagName": "Make It",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "",
+      "author": [{
+        "@type": "Creator",
+        "@id": "100731877",
+        "name": "Dan Mangan",
+        "url": "http://qa-aws01web.cnbc.com/dan-mangan/",
+        "position": "4998",
+        "sameAs": [
+          "https://www.facebook.com/dan.mangan.54",
+          "https://www.twitter.com/_DanMangan",
+          "https://www.plus.google.com/103230202249708500262"
+        ],
+        "cn:socialMediaInfo": [{
+            "cn:url": "https://facebook.com/dan.mangan.54",
+            "cn:displayText": "dan.mangan.54",
+            "cn:type": "facebook"
+          },
+          {
+            "cn:url": "https://twitter.com/_DanMangan",
+            "cn:displayText": "_DanMangan",
+            "cn:type": "twitter"
+          },
+          {
+            "cn:url": "https://plus.google.com/103230202249708500262",
+            "cn:displayText": "103230202249708500262",
+            "cn:type": "googlePlus"
+          }
+        ]
+      }],
+      "cn:section": {
+        "url": "http://qa-aws01web.cnbc.com/make-it/inspire/",
+        "cn:type": "franchise",
+        "cn:title": "Make It - Inspire",
+        "@id": "103395617",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103395617",
+        "cn:slug": "Make It - Inspire",
+        "cn:tagName": "Make It - Inspire",
+        "cn:subType": "section",
+        "cn:shortestDescription": "",
+        "cn:sectionHierarchy": [{
+            "id": 103395579,
+            "tagName": "Make It",
+            "order": 1
+          },
+          {
+            "id": 10000161,
+            "tagName": "CNBC Global",
+            "order": 2
+          }
+        ],
+        "headline": "Inspire",
+        "cn:creatorOverwrite": "",
+        "cn:liveURL": "/make-it/inspire/",
+        "cn:summary": "",
+        "cn:settings": {
+          "cn:isFamilyFriendly": "Yes"
+        },
+        "description": "",
+        "cn:editedBy": "Marguerite.Ward",
+        "datePublished": "2016-03-09T18:16:28+0000",
+        "cn:historicalURL": [],
+        "cn:createdBy": "joseph.odell",
+        "cn:bodyTeaser": "null",
+        "cn:shorterDescription": "",
+        "name": "Make It - Inspire",
+        "cn:tabLabel": "Inspire",
+        "cn:sectionLinktext": ""
+      },
+      "cn:branding": "makeit",
+      "cn:subDomain": "https://qa-aws01make-it.cnbc.com",
+      "cn:historicalURL": [],
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "position": 2,
+        "cn:relationType": "related",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@id": "104829126",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104829126",
+      "cn:type": "franchise",
+      "cn:slug": "Tech Holiday Gift Guide ",
+      "cn:subType": "special_report",
+      "cn:tagName": "Tech Holiday Gift Guide",
+      "cn:title": "The best gadgets of the year to give as holiday gifts",
+      "url": "https://qa-aws01web.cnbc.com/the-best-gadgets-of-the-year-to-give-as-holiday-gifts/",
+      "author": [{
+        "@type": "Creator",
+        "@id": "104355036",
+        "name": "Todd Haselton",
+        "url": "http://qa-aws01web.cnbc.com/todd-haselton/",
+        "position": "5000",
+        "sameAs": [
+          "https://www.twitter.com/@robotodd"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/@robotodd",
+          "cn:displayText": "@robotodd",
+          "cn:type": "twitter"
+        }]
+      }],
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "Gift guides for the gadget lovers in your life",
+      "cn:section": {
+        "cn:type": "franchise",
+        "@id": "19854910",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/19854910",
+        "cn:slug": "Technology",
+        "cn:subType": "primetime_show",
+        "url": "https://qa-aws01web.cnbc.com/technology/",
+        "cn:title": "Technology",
+        "cn:tagName": "Technology",
+        "cn:subDomain": "https://qa-aws01web.cnbc.com",
+        "cn:branding": "cnbc",
+        "cn:sectionHierarchy": [{
+            "id": 19854910,
+            "tagName": "Technology",
+            "order": 1
+          },
+          {
+            "id": 10000161,
+            "tagName": "CNBC Global",
+            "order": 2
+          }
+        ],
+        "headline": "Tech",
+        "cn:creatorOverwrite": "",
+        "cn:liveURL": "/technology/",
+        "cn:settings": {
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "Find the latest business news pertaining to Technology covering companies, advancements, multimedia, electronics, mobile technologies, and science available on the official CNBC Technology site.",
+        "datePublished": "2015-12-21T12:51:45+0000",
+        "cn:historicalURL": [
+          "/id/19854910",
+          "/tech/"
+        ],
+        "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><br /></p><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div></div></group></body>",
+        "cn:shortestDescription": "See latest technology news and features",
+        "cn:summary": "Find the latest business news pertaining to Technology covering companies, advancements, multimedia, electronics, mobile technologies, and science available on the official CNBC Technology site.",
+        "cn:editedBy": "Anusha.Gogineni",
+        "cn:createdBy": "migration",
+        "cn:shorterDescription": "Find the latest business news pertaining to Technology available on the official CNBC Technology site.",
+        "name": "Technology",
+        "cn:sectionColor": "#5e1c1c",
+        "cn:promoText": "test promo",
+        "cn:showTime": "12 PM",
+        "cn:tabLabel": "Tech",
+        "cn:sectionLinktext": "Tech"
+      },
+      "cn:liveURL": "/the-best-gadgets-of-the-year-to-give-as-holiday-gifts/",
+      "cn:createdBy": "Josephine.Bila",
+      "cn:editedBy": "ritesh.shah",
+      "datePublished": "2017-11-08T19:55:19+0000",
+      "cn:summary": "Gift guides for the gadget lovers in your life",
+      "headline": "Tech Holiday Gift Guide",
+      "cn:shorterDescription": "Gift guides for the gadget lovers in your life",
+      "cn:shortestDescription": "Gift guides for the gadget lovers in your life",
+      "cn:bodyTeaser": "null",
+      "cn:creatorOverwrite": "",
+      "cn:sectionHierarchy": [{
+          "id": 104829126,
+          "tagName": "Tech Holiday Gift Guide",
+          "order": 1
+        },
+        {
+          "id": 19854910,
+          "tagName": "Technology",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01web.cnbc.com",
+      "cn:historicalURL": [],
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "The best gadgets of the year to give as holiday gifts",
+      "cn:sectionColor": "#000000",
+      "cn:promoText": "",
+      "cn:showTime": "",
+      "cn:tabLabel": "Tech Holiday Gift Guide",
+      "cn:sectionLinktext": "Tech Holiday Gift Guide 2017",
+      "@type": "Collection",
+      "cn:relation": [{
+        "position": 1,
+        "cn:relationType": "related",
+        "cn:isPromoted": "true"
+      }]
+    }
+  ]
+}

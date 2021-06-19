@@ -1,0 +1,3434 @@
+{
+  "cn:branding": "cnbc",
+  "cn:subDomain": "https://qa-aws03web.cnbc.com",
+  "url": "https://qa-aws03web.cnbc.com/id/100769431",
+  "cn:type": "franchise",
+  "cn:creatorOverwrite": "",
+  "@id": "100769431",
+  "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100769431",
+  "cn:slug": "US homepage markets overview",
+  "cn:subType": "markets",
+  "cn:title": "US Market",
+  "cn:tagName": "US Market",
+  "cn:sectionHierarchy": [{
+      "id": 100769431,
+      "tagName": "US Market",
+      "order": 1
+    },
+    {
+      "id": 101050794,
+      "tagName": "CNBC Utilities Page",
+      "order": 2
+    },
+    {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 3
+    }
+  ],
+  "cn:sectionLabel": "Markets",
+  "cn:liveURL": "/id/100769431",
+  "cn:settings": {
+    "cn:commentsEnabled": "No",
+    "cn:socialtoolsEnabled": "No",
+    "cn:listType": "Manual and/or populated by feeds",
+    "cn:tweetOnPublish": 0
+  },
+  "description": "",
+  "cn:section": {
+    "@id": "101050794",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/101050794",
+    "cn:type": "franchise",
+    "cn:slug": "CNBC Utility Pages",
+    "cn:subType": "news_section",
+    "cn:tagName": "CNBC Utilities Page",
+    "cn:title": "CNBC Utilities Page",
+    "cn:creatorOverwrite": "",
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws03web.cnbc.com",
+    "url": "https://qa-aws03web.cnbc.com/utility-page/",
+    "cn:liveURL": "/utility-page/",
+    "cn:createdBy": "joseph.odell",
+    "cn:editedBy": "Tahir",
+    "datePublished": "2013-11-22T13:47:56+0000",
+    "cn:summary": "",
+    "cn:sectionLinktext": "CNBC Utilities Page",
+    "headline": "CNBC Utilities Page",
+    "cn:sectionLabel": "CNBC Utilities Page",
+    "cn:tabLabel": "CNBC Utilities Page",
+    "cn:shorterDescription": "",
+    "cn:shortestDescription": "",
+    "cn:bodyTeaser": "null",
+    "cn:sectionHierarchy": [{
+        "id": 101050794,
+        "tagName": "CNBC Utilities Page",
+        "order": 1
+      },
+      {
+        "id": 10000161,
+        "tagName": "CNBC Global",
+        "order": 2
+      }
+    ],
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Virtual",
+      "cn:tweetOnPublish": 0
+    },
+    "description": "",
+    "cn:historicalURL": [],
+    "name": "CNBC Utilities Page",
+    "cn:sectionColor": "#000000",
+    "cn:promoText": "",
+    "cn:showTime": "",
+    "@type": "Collection"
+  },
+  "cn:sectionLinktext": "Markets",
+  "headline": "Markets",
+  "datePublished": "2013-07-12T20:44:54+0000",
+  "cn:historicalURL": [],
+  "cn:tabLabel": "Markets",
+  "cn:bodyTeaser": "null",
+  "cn:shortestDescription": "",
+  "cn:summary": "",
+  "cn:editedBy": "rekha.ponnur",
+  "cn:createdBy": "catherina.centanni",
+  "cn:shorterDescription": "",
+  "@context": {
+    "@vocab": "http://schema.org/",
+    "cn": "http://cnbc.com/schema/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "CNBC",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "name": "US Market",
+  "cn:sectionColor": "#000000",
+  "cn:promoText": "",
+  "cn:showTime": "",
+  "@type": "Collection",
+  "cn:xmlArticleBody": "null",
+  "articlebody": "null",
+  "cn:xmlKeyPoints": "null",
+  "dateModified": "2018-03-08T22:50:51+0000",
+  "cn:dateLastPublished": "2018-03-08T22:51:14+0000",
+  "cn:unpublishDate": "",
+  "cn:dateFirstPublished": "2013-07-12T20:44:54+0000",
+  "expires": "",
+  "cn:association": [{
+      "@id": "101050794",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/101050794",
+      "cn:type": "franchise",
+      "cn:slug": "CNBC Utility Pages",
+      "cn:subType": "news_section",
+      "cn:tagName": "CNBC Utilities Page",
+      "cn:title": "CNBC Utilities Page",
+      "cn:creatorOverwrite": "",
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws03web.cnbc.com",
+      "url": "https://qa-aws03web.cnbc.com/utility-page/",
+      "cn:liveURL": "/utility-page/",
+      "cn:createdBy": "joseph.odell",
+      "cn:editedBy": "Tahir",
+      "datePublished": "2013-11-22T13:47:56+0000",
+      "cn:summary": "",
+      "cn:sectionLinktext": "CNBC Utilities Page",
+      "headline": "CNBC Utilities Page",
+      "cn:sectionLabel": "CNBC Utilities Page",
+      "cn:tabLabel": "CNBC Utilities Page",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:sectionHierarchy": [{
+          "id": 101050794,
+          "tagName": "CNBC Utilities Page",
+          "order": 1
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 2
+        }
+      ],
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "cn:association": [{
+        "cn:type": "franchise",
+        "cn:creatorOverwrite": "",
+        "@id": "10000161",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000161",
+        "cn:slug": "CNBC Global",
+        "cn:subType": "news_section",
+        "cn:title": "Headlines from CNBC",
+        "cn:tagName": "CNBC Global",
+        "description": "CNBC",
+        "name": "Headlines from CNBC",
+        "cn:sectionColor": "#000000",
+        "cn:promoText": "",
+        "cn:showTime": "",
+        "@type": "Collection",
+        "cn:relation": [{
+            "cn:relationType": "section",
+            "cn:isPromoted": "false"
+          },
+          [{
+            "cn:relationType": "section",
+            "cn:isPromoted": "false"
+          }]
+        ]
+      }],
+      "description": "",
+      "cn:section": {
+        "cn:type": "franchise",
+        "cn:creatorOverwrite": "",
+        "@id": "10000161",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000161",
+        "cn:slug": "CNBC Global",
+        "cn:subType": "news_section",
+        "cn:title": "Headlines from CNBC",
+        "cn:tagName": "CNBC Global",
+        "cn:sectionHierarchy": [],
+        "cn:sectionLabel": "CNBC",
+        "cn:liveURL": "/cnbc-global/",
+        "cn:settings": {
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "CNBC",
+        "cn:sectionLinktext": "Headlines from CNBC",
+        "headline": "Headlines from CNBC",
+        "datePublished": "2012-02-03T16:18:58+0000",
+        "cn:historicalURL": [
+          "/id/10000161"
+        ],
+        "cn:tabLabel": "CNBC",
+        "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><br /></p><div id=\"csscan-wrapper\" style=\"display: none; \"><h2 id=\"csscan-header\">element</h2><table id=\"csscan-table\"><tbody><tr><th colspan=\"2\" id=\"csscan-header-font\" class=\"csscan-header\">Font</th></tr><tr id=\"csscan-row-font-family\"><td id=\"csscan-property-font-family\" class=\"csscan-property\">font-family</td><td id=\"csscan-value-font-family\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-size\"><td id=\"csscan-property-font-size\" class=\"csscan-property\">font-size</td><td id=\"csscan-value-font-size\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-style\"><td id=\"csscan-property-font-style\" class=\"csscan-property\">font-style</td><td id=\"csscan-value-font-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-variant\"><td id=\"csscan-property-font-variant\" class=\"csscan-property\">font-variant</td><td id=\"csscan-value-font-variant\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-weight\"><td id=\"csscan-property-font-weight\" class=\"csscan-property\">font-weight</td><td id=\"csscan-value-font-weight\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-letter-spacing\"><td id=\"csscan-property-letter-spacing\" class=\"csscan-property\">letter-spacing</td><td id=\"csscan-value-letter-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-line-height\"><td id=\"csscan-property-line-height\" class=\"csscan-property\">line-height</td><td id=\"csscan-value-line-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-decoration\"><td id=\"csscan-property-text-decoration\" class=\"csscan-property\">text-decoration</td><td id=\"csscan-value-text-decoration\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-align\"><td id=\"csscan-property-text-align\" class=\"csscan-property\">text-align</td><td id=\"csscan-value-text-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-indent\"><td id=\"csscan-property-text-indent\" class=\"csscan-property\">text-indent</td><td id=\"csscan-value-text-indent\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-transform\"><td id=\"csscan-property-text-transform\" class=\"csscan-property\">text-transform</td><td id=\"csscan-value-text-transform\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-white-space\"><td id=\"csscan-property-white-space\" class=\"csscan-property\">white-space</td><td id=\"csscan-value-white-space\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-word-spacing\"><td id=\"csscan-property-word-spacing\" class=\"csscan-property\">word-spacing</td><td id=\"csscan-value-word-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-color\"><td id=\"csscan-property-color\" class=\"csscan-property\">color</td><td id=\"csscan-value-color\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-background\" class=\"csscan-header\">Background</th></tr><tr id=\"csscan-row-background-attachment\"><td id=\"csscan-property-background-attachment\" class=\"csscan-property\">bg-attachment</td><td id=\"csscan-value-background-attachment\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-color\"><td id=\"csscan-property-background-color\" class=\"csscan-property\">bg-color</td><td id=\"csscan-value-background-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-image\"><td id=\"csscan-property-background-image\" class=\"csscan-property\">bg-image</td><td id=\"csscan-value-background-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-position\"><td id=\"csscan-property-background-position\" class=\"csscan-property\">bg-position</td><td id=\"csscan-value-background-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-repeat\"><td id=\"csscan-property-background-repeat\" class=\"csscan-property\">bg-repeat</td><td id=\"csscan-value-background-repeat\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-size\" class=\"csscan-header\">Box</th></tr><tr id=\"csscan-row-width\"><td id=\"csscan-property-width\" class=\"csscan-property\">width</td><td id=\"csscan-value-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-height\"><td id=\"csscan-property-height\" class=\"csscan-property\">height</td><td id=\"csscan-value-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-top\"><td id=\"csscan-property-border-top\" class=\"csscan-property\">border-top</td><td id=\"csscan-value-border-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-right\"><td id=\"csscan-property-border-right\" class=\"csscan-property\">border-right</td><td id=\"csscan-value-border-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-bottom\"><td id=\"csscan-property-border-bottom\" class=\"csscan-property\">border-bottom</td><td id=\"csscan-value-border-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-left\"><td id=\"csscan-property-border-left\" class=\"csscan-property\">border-left</td><td id=\"csscan-value-border-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-margin\"><td id=\"csscan-property-margin\" class=\"csscan-property\">margin</td><td id=\"csscan-value-margin\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-padding\"><td id=\"csscan-property-padding\" class=\"csscan-property\">padding</td><td id=\"csscan-value-padding\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-height\"><td id=\"csscan-property-max-height\" class=\"csscan-property\">max-height</td><td id=\"csscan-value-max-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-height\"><td id=\"csscan-property-min-height\" class=\"csscan-property\">min-height</td><td id=\"csscan-value-min-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-width\"><td id=\"csscan-property-max-width\" class=\"csscan-property\">max-width</td><td id=\"csscan-value-max-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-width\"><td id=\"csscan-property-min-width\" class=\"csscan-property\">min-width</td><td id=\"csscan-value-min-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-color\"><td id=\"csscan-property-outline-color\" class=\"csscan-property\">outline-color</td><td id=\"csscan-value-outline-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-style\"><td id=\"csscan-property-outline-style\" class=\"csscan-property\">outline-style</td><td id=\"csscan-value-outline-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-width\"><td id=\"csscan-property-outline-width\" class=\"csscan-property\">outline-width</td><td id=\"csscan-value-outline-width\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-position\" class=\"csscan-header\">Positioning</th></tr><tr id=\"csscan-row-position\"><td id=\"csscan-property-position\" class=\"csscan-property\">position</td><td id=\"csscan-value-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-top\"><td id=\"csscan-property-top\" class=\"csscan-property\">top</td><td id=\"csscan-value-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-bottom\"><td id=\"csscan-property-bottom\" class=\"csscan-property\">bottom</td><td id=\"csscan-value-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-right\"><td id=\"csscan-property-right\" class=\"csscan-property\">right</td><td id=\"csscan-value-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-left\"><td id=\"csscan-property-left\" class=\"csscan-property\">left</td><td id=\"csscan-value-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-float\"><td id=\"csscan-property-float\" class=\"csscan-property\">float</td><td id=\"csscan-value-float\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-display\"><td id=\"csscan-property-display\" class=\"csscan-property\">display</td><td id=\"csscan-value-display\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-clear\"><td id=\"csscan-property-clear\" class=\"csscan-property\">clear</td><td id=\"csscan-value-clear\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-z-index\"><td id=\"csscan-property-z-index\" class=\"csscan-property\">z-index</td><td id=\"csscan-value-z-index\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-list\" class=\"csscan-header\">List</th></tr><tr id=\"csscan-row-list-style-image\"><td id=\"csscan-property-list-style-image\" class=\"csscan-property\">list-style-image</td><td id=\"csscan-value-list-style-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-type\"><td id=\"csscan-property-list-style-type\" class=\"csscan-property\">list-style-type</td><td id=\"csscan-value-list-style-type\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-position\"><td id=\"csscan-property-list-style-position\" class=\"csscan-property\">list-style-position</td><td id=\"csscan-value-list-style-position\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-table\" class=\"csscan-header\">Table</th></tr><tr id=\"csscan-row-vertical-align\"><td id=\"csscan-property-vertical-align\" class=\"csscan-property\">vertical-align</td><td id=\"csscan-value-vertical-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-collapse\"><td id=\"csscan-property-border-collapse\" class=\"csscan-property\">border-collapse</td><td id=\"csscan-value-border-collapse\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-spacing\"><td id=\"csscan-property-border-spacing\" class=\"csscan-property\">border-spacing</td><td id=\"csscan-value-border-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-caption-side\"><td id=\"csscan-property-caption-side\" class=\"csscan-property\">caption-side</td><td id=\"csscan-value-caption-side\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-empty-cells\"><td id=\"csscan-property-empty-cells\" class=\"csscan-property\">empty-cells</td><td id=\"csscan-value-empty-cells\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-table-layout\"><td id=\"csscan-property-table-layout\" class=\"csscan-property\">table-layout</td><td id=\"csscan-value-table-layout\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-effects\" class=\"csscan-header\">Effects</th></tr><tr id=\"csscan-row-text-shadow\"><td id=\"csscan-property-text-shadow\" class=\"csscan-property\">text-shadow</td><td id=\"csscan-value-text-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row--webkit-box-shadow\"><td id=\"csscan-property--webkit-box-shadow\" class=\"csscan-property\">-webkit-box-shadow</td><td id=\"csscan-value--webkit-box-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-radius\"><td id=\"csscan-property-border-radius\" class=\"csscan-property\">border-radius</td><td id=\"csscan-value-border-radius\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-other\" class=\"csscan-header\">Other</th></tr><tr id=\"csscan-row-overflow\"><td id=\"csscan-property-overflow\" class=\"csscan-property\">overflow</td><td id=\"csscan-value-overflow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-cursor\"><td id=\"csscan-property-cursor\" class=\"csscan-property\">cursor</td><td id=\"csscan-value-cursor\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-visibility\"><td id=\"csscan-property-visibility\" class=\"csscan-property\">visibility</td><td id=\"csscan-value-visibility\" class=\"csscan-value\"></td></tr></tbody></table></div><div id=\"csscan-wrapper\" style=\"display: none; \"><h2 id=\"csscan-header\">element</h2><table id=\"csscan-table\"><tbody><tr><th colspan=\"2\" id=\"csscan-header-font\" class=\"csscan-header\">Font</th></tr><tr id=\"csscan-row-font-family\"><td id=\"csscan-property-font-family\" class=\"csscan-property\">font-family</td><td id=\"csscan-value-font-family\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-size\"><td id=\"csscan-property-font-size\" class=\"csscan-property\">font-size</td><td id=\"csscan-value-font-size\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-style\"><td id=\"csscan-property-font-style\" class=\"csscan-property\">font-style</td><td id=\"csscan-value-font-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-variant\"><td id=\"csscan-property-font-variant\" class=\"csscan-property\">font-variant</td><td id=\"csscan-value-font-variant\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-weight\"><td id=\"csscan-property-font-weight\" class=\"csscan-property\">font-weight</td><td id=\"csscan-value-font-weight\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-letter-spacing\"><td id=\"csscan-property-letter-spacing\" class=\"csscan-property\">letter-spacing</td><td id=\"csscan-value-letter-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-line-height\"><td id=\"csscan-property-line-height\" class=\"csscan-property\">line-height</td><td id=\"csscan-value-line-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-decoration\"><td id=\"csscan-property-text-decoration\" class=\"csscan-property\">text-decoration</td><td id=\"csscan-value-text-decoration\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-align\"><td id=\"csscan-property-text-align\" class=\"csscan-property\">text-align</td><td id=\"csscan-value-text-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-indent\"><td id=\"csscan-property-text-indent\" class=\"csscan-property\">text-indent</td><td id=\"csscan-value-text-indent\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-transform\"><td id=\"csscan-property-text-transform\" class=\"csscan-property\">text-transform</td><td id=\"csscan-value-text-transform\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-white-space\"><td id=\"csscan-property-white-space\" class=\"csscan-property\">white-space</td><td id=\"csscan-value-white-space\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-word-spacing\"><td id=\"csscan-property-word-spacing\" class=\"csscan-property\">word-spacing</td><td id=\"csscan-value-word-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-color\"><td id=\"csscan-property-color\" class=\"csscan-property\">color</td><td id=\"csscan-value-color\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-background\" class=\"csscan-header\">Background</th></tr><tr id=\"csscan-row-background-attachment\"><td id=\"csscan-property-background-attachment\" class=\"csscan-property\">bg-attachment</td><td id=\"csscan-value-background-attachment\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-color\"><td id=\"csscan-property-background-color\" class=\"csscan-property\">bg-color</td><td id=\"csscan-value-background-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-image\"><td id=\"csscan-property-background-image\" class=\"csscan-property\">bg-image</td><td id=\"csscan-value-background-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-position\"><td id=\"csscan-property-background-position\" class=\"csscan-property\">bg-position</td><td id=\"csscan-value-background-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-repeat\"><td id=\"csscan-property-background-repeat\" class=\"csscan-property\">bg-repeat</td><td id=\"csscan-value-background-repeat\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-size\" class=\"csscan-header\">Box</th></tr><tr id=\"csscan-row-width\"><td id=\"csscan-property-width\" class=\"csscan-property\">width</td><td id=\"csscan-value-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-height\"><td id=\"csscan-property-height\" class=\"csscan-property\">height</td><td id=\"csscan-value-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-top\"><td id=\"csscan-property-border-top\" class=\"csscan-property\">border-top</td><td id=\"csscan-value-border-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-right\"><td id=\"csscan-property-border-right\" class=\"csscan-property\">border-right</td><td id=\"csscan-value-border-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-bottom\"><td id=\"csscan-property-border-bottom\" class=\"csscan-property\">border-bottom</td><td id=\"csscan-value-border-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-left\"><td id=\"csscan-property-border-left\" class=\"csscan-property\">border-left</td><td id=\"csscan-value-border-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-margin\"><td id=\"csscan-property-margin\" class=\"csscan-property\">margin</td><td id=\"csscan-value-margin\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-padding\"><td id=\"csscan-property-padding\" class=\"csscan-property\">padding</td><td id=\"csscan-value-padding\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-height\"><td id=\"csscan-property-max-height\" class=\"csscan-property\">max-height</td><td id=\"csscan-value-max-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-height\"><td id=\"csscan-property-min-height\" class=\"csscan-property\">min-height</td><td id=\"csscan-value-min-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-width\"><td id=\"csscan-property-max-width\" class=\"csscan-property\">max-width</td><td id=\"csscan-value-max-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-width\"><td id=\"csscan-property-min-width\" class=\"csscan-property\">min-width</td><td id=\"csscan-value-min-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-color\"><td id=\"csscan-property-outline-color\" class=\"csscan-property\">outline-color</td><td id=\"csscan-value-outline-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-style\"><td id=\"csscan-property-outline-style\" class=\"csscan-property\">outline-style</td><td id=\"csscan-value-outline-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-width\"><td id=\"csscan-property-outline-width\" class=\"csscan-property\">outline-width</td><td id=\"csscan-value-outline-width\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-position\" class=\"csscan-header\">Positioning</th></tr><tr id=\"csscan-row-position\"><td id=\"csscan-property-position\" class=\"csscan-property\">position</td><td id=\"csscan-value-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-top\"><td id=\"csscan-property-top\" class=\"csscan-property\">top</td><td id=\"csscan-value-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-bottom\"><td id=\"csscan-property-bottom\" class=\"csscan-property\">bottom</td><td id=\"csscan-value-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-right\"><td id=\"csscan-property-right\" class=\"csscan-property\">right</td><td id=\"csscan-value-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-left\"><td id=\"csscan-property-left\" class=\"csscan-property\">left</td><td id=\"csscan-value-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-float\"><td id=\"csscan-property-float\" class=\"csscan-property\">float</td><td id=\"csscan-value-float\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-display\"><td id=\"csscan-property-display\" class=\"csscan-property\">display</td><td id=\"csscan-value-display\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-clear\"><td id=\"csscan-property-clear\" class=\"csscan-property\">clear</td><td id=\"csscan-value-clear\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-z-index\"><td id=\"csscan-property-z-index\" class=\"csscan-property\">z-index</td><td id=\"csscan-value-z-index\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-list\" class=\"csscan-header\">List</th></tr><tr id=\"csscan-row-list-style-image\"><td id=\"csscan-property-list-style-image\" class=\"csscan-property\">list-style-image</td><td id=\"csscan-value-list-style-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-type\"><td id=\"csscan-property-list-style-type\" class=\"csscan-property\">list-style-type</td><td id=\"csscan-value-list-style-type\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-position\"><td id=\"csscan-property-list-style-position\" class=\"csscan-property\">list-style-position</td><td id=\"csscan-value-list-style-position\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-table\" class=\"csscan-header\">Table</th></tr><tr id=\"csscan-row-vertical-align\"><td id=\"csscan-property-vertical-align\" class=\"csscan-property\">vertical-align</td><td id=\"csscan-value-vertical-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-collapse\"><td id=\"csscan-property-border-collapse\" class=\"csscan-property\">border-collapse</td><td id=\"csscan-value-border-collapse\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-spacing\"><td id=\"csscan-property-border-spacing\" class=\"csscan-property\">border-spacing</td><td id=\"csscan-value-border-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-caption-side\"><td id=\"csscan-property-caption-side\" class=\"csscan-property\">caption-side</td><td id=\"csscan-value-caption-side\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-empty-cells\"><td id=\"csscan-property-empty-cells\" class=\"csscan-property\">empty-cells</td><td id=\"csscan-value-empty-cells\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-table-layout\"><td id=\"csscan-property-table-layout\" class=\"csscan-property\">table-layout</td><td id=\"csscan-value-table-layout\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-effects\" class=\"csscan-header\">Effects</th></tr><tr id=\"csscan-row-text-shadow\"><td id=\"csscan-property-text-shadow\" class=\"csscan-property\">text-shadow</td><td id=\"csscan-value-text-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row--webkit-box-shadow\"><td id=\"csscan-property--webkit-box-shadow\" class=\"csscan-property\">-webkit-box-shadow</td><td id=\"csscan-value--webkit-box-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-radius\"><td id=\"csscan-property-border-radius\" class=\"csscan-property\">border-radius</td><td id=\"csscan-value-border-radius\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-other\" class=\"csscan-header\">Other</th></tr><tr id=\"csscan-row-overflow\"><td id=\"csscan-property-overflow\" class=\"csscan-property\">overflow</td><td id=\"csscan-value-overflow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-cursor\"><td id=\"csscan-property-cursor\" class=\"csscan-property\">cursor</td><td id=\"csscan-value-cursor\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-visibility\"><td id=\"csscan-property-visibility\" class=\"csscan-property\">visibility</td><td id=\"csscan-value-visibility\" class=\"csscan-value\"></td></tr></tbody></table></div></div></group></body>",
+        "cn:shortestDescription": "",
+        "cn:summary": "",
+        "cn:editedBy": "chelsea.qiao",
+        "cn:createdBy": "migration",
+        "cn:shorterDescription": "CNBC",
+        "name": "Headlines from CNBC",
+        "cn:sectionColor": "#000000",
+        "cn:promoText": "",
+        "cn:showTime": "",
+        "@type": "Collection"
+      },
+      "cn:historicalURL": [],
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "CNBC Utilities Page",
+      "cn:sectionColor": "#000000",
+      "cn:promoText": "",
+      "cn:showTime": "",
+      "@type": "Collection",
+      "cn:relation": [{
+        "position": 5000,
+        "cn:relationType": "section",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@id": "102",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/102",
+      "cn:type": "franchise",
+      "cn:slug": "Markets Redesign",
+      "cn:subType": "markets",
+      "cn:tagName": "Markets",
+      "cn:title": "Markets",
+      "cn:creatorOverwrite": "",
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws03web.cnbc.com",
+      "url": "https://qa-aws03web.cnbc.com/markets/",
+      "cn:liveURL": "/markets/",
+      "cn:createdBy": "zhao.yu",
+      "cn:editedBy": "Alex.Dao",
+      "datePublished": "2016-10-26T15:47:24+0000",
+      "cn:summary": "View up-to-date U.S. market and world market charts. Get the latest on world economy news and global markets in our Market Overview.",
+      "cn:sectionLinktext": "Markets",
+      "headline": "Markets",
+      "cn:sectionLabel": "Markets",
+      "cn:tabLabel": "Markets",
+      "cn:shorterDescription": "US Stocks (Dow Jones, S&P 500, NASDAQ), World Markets, Bonds, Forex, Key Commodities, ETFs and More",
+      "cn:shortestDescription": "View up-to-date U.S. market and world market charts.",
+      "cn:bodyTeaser": "null",
+      "cn:sectionHierarchy": [{
+          "id": 102,
+          "tagName": "Markets",
+          "order": 1
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 2
+        }
+      ],
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "cn:association": [{
+          "@type": "ImageObject",
+          "cn:type": "image",
+          "cn:creatorOverwrite": "",
+          "@id": "104847366",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104847366",
+          "cn:slug": "test-fredsder",
+          "cn:title": "test-fredsder",
+          "cn:tagName": "",
+          "url": "https://qa-aws02capi-img-origin.cnbc.com/api/v1/image/104847366-life_is_good_515750.jpg?v=1515533373",
+          "description": "",
+          "author": "",
+          "contentSize": 132921,
+          "caption": "",
+          "copyrightHolder": "",
+          "height": "353",
+          "width": "600",
+          "cn:relation": [{
+            "cn:relationType": "sectionLogo",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "10000161",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000161",
+          "cn:slug": "CNBC Global",
+          "cn:subType": "news_section",
+          "cn:title": "Headlines from CNBC",
+          "cn:tagName": "CNBC Global",
+          "description": "CNBC",
+          "name": "Headlines from CNBC",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "section",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "section",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:branding": "buffett",
+          "cn:subDomain": "https://qa-aws03buffett.cnbc.com",
+          "url": "https://qa-aws03buffett.cnbc.com/us-markets/",
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "100003242",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100003242",
+          "cn:slug": "US Markets",
+          "cn:subType": "news_section",
+          "cn:title": "US Markets",
+          "cn:tagName": "U.S. Markets",
+          "description": "Up to date market data and stock market news is available online. View US market headlines and market charts. Get the latest economy news, markets in our Market Overview.",
+          "name": "US Markets",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "true"
+            },
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "true"
+            }],
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:branding": "cnbc",
+          "cn:subDomain": "https://qa-aws03web.cnbc.com",
+          "url": "https://qa-aws03web.cnbc.com/markets-europe/",
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "10000528",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000528",
+          "cn:slug": "Markets: Europe",
+          "cn:subType": "news_section",
+          "cn:title": "Europe Markets",
+          "cn:tagName": "Markets: Europe",
+          "description": "Up to date market data and stock market news is available online. View Europe market headlines and market charts. Get the latest economy news, markets in our Market Overview.",
+          "name": "Europe Markets",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "true"
+            },
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Asia-Pacific Market News: Indexes, Bonds, Forex, Key Commodities, ETFs - CNBC",
+          "cn:creatorOverwrite": "",
+          "@id": "10000527",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000527",
+          "cn:slug": "Markets: Asia Pacific",
+          "cn:tagName": "Markets: Asia Pacific",
+          "cn:subType": "section",
+          "description": "Up to date market data and stock market news is available online. View Asia Pacific market headlines and market charts. Get the latest economy news, markets in our Market Overview.",
+          "name": "Asia-Pacific Market News: Indexes, Bonds, Forex, Key Commodities, ETFs - CNBC",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "true"
+            },
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Energy Commodities",
+          "cn:creatorOverwrite": "",
+          "@id": "10000728",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000728",
+          "cn:slug": "Energy Commodities",
+          "cn:tagName": "Energy Commodities",
+          "cn:subType": "section",
+          "description": "The latest commodity trading prices for Energy Commodities: oil, natural gas, coal, ethanol, diesel and more on the U.S. commodities & futures market.",
+          "name": "Energy Commodities",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "navigation",
+            "cn:isPromoted": "true"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Bonds",
+          "cn:creatorOverwrite": "",
+          "@id": "15839203",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/15839203",
+          "cn:slug": "Bonds",
+          "cn:tagName": "Bonds",
+          "cn:subType": "marketsection",
+          "description": "Bonds market data, news, and the latest trading info on US treasuries and government bond markets from around the world.",
+          "name": "Bonds",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "navigation",
+            "cn:isPromoted": "true"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Metal Commodities",
+          "cn:creatorOverwrite": "",
+          "@id": "33057388",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/33057388",
+          "cn:slug": "Metal Commodities",
+          "cn:tagName": "Metal Commodities",
+          "cn:subType": "section",
+          "description": "The latest commodity trading prices for Metal Commodities: Metal Futures, Gold, Silver, Copper, Platinum, Palladium and more on the U.S. commodities & futures market.",
+          "name": "Metal Commodities",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "navigation",
+            "cn:isPromoted": "true"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Franchise Root",
+          "@id": "17",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/17",
+          "cn:slug": "Franchise Root",
+          "name": "Franchise Root",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        }
+      ],
+      "description": "View up-to-date U.S. market and world market charts. Get the latest on world economy news and global markets in our Market Overview.",
+      "cn:section": {
+        "cn:type": "franchise",
+        "cn:creatorOverwrite": "",
+        "@id": "10000161",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000161",
+        "cn:slug": "CNBC Global",
+        "cn:subType": "news_section",
+        "cn:title": "Headlines from CNBC",
+        "cn:tagName": "CNBC Global",
+        "cn:sectionHierarchy": [],
+        "cn:sectionLabel": "CNBC",
+        "cn:liveURL": "/cnbc-global/",
+        "cn:settings": {
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "CNBC",
+        "cn:sectionLinktext": "Headlines from CNBC",
+        "headline": "Headlines from CNBC",
+        "datePublished": "2012-02-03T16:18:58+0000",
+        "cn:historicalURL": [
+          "/id/10000161"
+        ],
+        "cn:tabLabel": "CNBC",
+        "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><br /></p><div id=\"csscan-wrapper\" style=\"display: none; \"><h2 id=\"csscan-header\">element</h2><table id=\"csscan-table\"><tbody><tr><th colspan=\"2\" id=\"csscan-header-font\" class=\"csscan-header\">Font</th></tr><tr id=\"csscan-row-font-family\"><td id=\"csscan-property-font-family\" class=\"csscan-property\">font-family</td><td id=\"csscan-value-font-family\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-size\"><td id=\"csscan-property-font-size\" class=\"csscan-property\">font-size</td><td id=\"csscan-value-font-size\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-style\"><td id=\"csscan-property-font-style\" class=\"csscan-property\">font-style</td><td id=\"csscan-value-font-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-variant\"><td id=\"csscan-property-font-variant\" class=\"csscan-property\">font-variant</td><td id=\"csscan-value-font-variant\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-weight\"><td id=\"csscan-property-font-weight\" class=\"csscan-property\">font-weight</td><td id=\"csscan-value-font-weight\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-letter-spacing\"><td id=\"csscan-property-letter-spacing\" class=\"csscan-property\">letter-spacing</td><td id=\"csscan-value-letter-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-line-height\"><td id=\"csscan-property-line-height\" class=\"csscan-property\">line-height</td><td id=\"csscan-value-line-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-decoration\"><td id=\"csscan-property-text-decoration\" class=\"csscan-property\">text-decoration</td><td id=\"csscan-value-text-decoration\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-align\"><td id=\"csscan-property-text-align\" class=\"csscan-property\">text-align</td><td id=\"csscan-value-text-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-indent\"><td id=\"csscan-property-text-indent\" class=\"csscan-property\">text-indent</td><td id=\"csscan-value-text-indent\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-transform\"><td id=\"csscan-property-text-transform\" class=\"csscan-property\">text-transform</td><td id=\"csscan-value-text-transform\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-white-space\"><td id=\"csscan-property-white-space\" class=\"csscan-property\">white-space</td><td id=\"csscan-value-white-space\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-word-spacing\"><td id=\"csscan-property-word-spacing\" class=\"csscan-property\">word-spacing</td><td id=\"csscan-value-word-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-color\"><td id=\"csscan-property-color\" class=\"csscan-property\">color</td><td id=\"csscan-value-color\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-background\" class=\"csscan-header\">Background</th></tr><tr id=\"csscan-row-background-attachment\"><td id=\"csscan-property-background-attachment\" class=\"csscan-property\">bg-attachment</td><td id=\"csscan-value-background-attachment\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-color\"><td id=\"csscan-property-background-color\" class=\"csscan-property\">bg-color</td><td id=\"csscan-value-background-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-image\"><td id=\"csscan-property-background-image\" class=\"csscan-property\">bg-image</td><td id=\"csscan-value-background-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-position\"><td id=\"csscan-property-background-position\" class=\"csscan-property\">bg-position</td><td id=\"csscan-value-background-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-repeat\"><td id=\"csscan-property-background-repeat\" class=\"csscan-property\">bg-repeat</td><td id=\"csscan-value-background-repeat\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-size\" class=\"csscan-header\">Box</th></tr><tr id=\"csscan-row-width\"><td id=\"csscan-property-width\" class=\"csscan-property\">width</td><td id=\"csscan-value-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-height\"><td id=\"csscan-property-height\" class=\"csscan-property\">height</td><td id=\"csscan-value-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-top\"><td id=\"csscan-property-border-top\" class=\"csscan-property\">border-top</td><td id=\"csscan-value-border-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-right\"><td id=\"csscan-property-border-right\" class=\"csscan-property\">border-right</td><td id=\"csscan-value-border-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-bottom\"><td id=\"csscan-property-border-bottom\" class=\"csscan-property\">border-bottom</td><td id=\"csscan-value-border-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-left\"><td id=\"csscan-property-border-left\" class=\"csscan-property\">border-left</td><td id=\"csscan-value-border-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-margin\"><td id=\"csscan-property-margin\" class=\"csscan-property\">margin</td><td id=\"csscan-value-margin\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-padding\"><td id=\"csscan-property-padding\" class=\"csscan-property\">padding</td><td id=\"csscan-value-padding\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-height\"><td id=\"csscan-property-max-height\" class=\"csscan-property\">max-height</td><td id=\"csscan-value-max-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-height\"><td id=\"csscan-property-min-height\" class=\"csscan-property\">min-height</td><td id=\"csscan-value-min-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-width\"><td id=\"csscan-property-max-width\" class=\"csscan-property\">max-width</td><td id=\"csscan-value-max-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-width\"><td id=\"csscan-property-min-width\" class=\"csscan-property\">min-width</td><td id=\"csscan-value-min-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-color\"><td id=\"csscan-property-outline-color\" class=\"csscan-property\">outline-color</td><td id=\"csscan-value-outline-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-style\"><td id=\"csscan-property-outline-style\" class=\"csscan-property\">outline-style</td><td id=\"csscan-value-outline-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-width\"><td id=\"csscan-property-outline-width\" class=\"csscan-property\">outline-width</td><td id=\"csscan-value-outline-width\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-position\" class=\"csscan-header\">Positioning</th></tr><tr id=\"csscan-row-position\"><td id=\"csscan-property-position\" class=\"csscan-property\">position</td><td id=\"csscan-value-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-top\"><td id=\"csscan-property-top\" class=\"csscan-property\">top</td><td id=\"csscan-value-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-bottom\"><td id=\"csscan-property-bottom\" class=\"csscan-property\">bottom</td><td id=\"csscan-value-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-right\"><td id=\"csscan-property-right\" class=\"csscan-property\">right</td><td id=\"csscan-value-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-left\"><td id=\"csscan-property-left\" class=\"csscan-property\">left</td><td id=\"csscan-value-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-float\"><td id=\"csscan-property-float\" class=\"csscan-property\">float</td><td id=\"csscan-value-float\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-display\"><td id=\"csscan-property-display\" class=\"csscan-property\">display</td><td id=\"csscan-value-display\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-clear\"><td id=\"csscan-property-clear\" class=\"csscan-property\">clear</td><td id=\"csscan-value-clear\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-z-index\"><td id=\"csscan-property-z-index\" class=\"csscan-property\">z-index</td><td id=\"csscan-value-z-index\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-list\" class=\"csscan-header\">List</th></tr><tr id=\"csscan-row-list-style-image\"><td id=\"csscan-property-list-style-image\" class=\"csscan-property\">list-style-image</td><td id=\"csscan-value-list-style-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-type\"><td id=\"csscan-property-list-style-type\" class=\"csscan-property\">list-style-type</td><td id=\"csscan-value-list-style-type\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-position\"><td id=\"csscan-property-list-style-position\" class=\"csscan-property\">list-style-position</td><td id=\"csscan-value-list-style-position\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-table\" class=\"csscan-header\">Table</th></tr><tr id=\"csscan-row-vertical-align\"><td id=\"csscan-property-vertical-align\" class=\"csscan-property\">vertical-align</td><td id=\"csscan-value-vertical-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-collapse\"><td id=\"csscan-property-border-collapse\" class=\"csscan-property\">border-collapse</td><td id=\"csscan-value-border-collapse\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-spacing\"><td id=\"csscan-property-border-spacing\" class=\"csscan-property\">border-spacing</td><td id=\"csscan-value-border-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-caption-side\"><td id=\"csscan-property-caption-side\" class=\"csscan-property\">caption-side</td><td id=\"csscan-value-caption-side\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-empty-cells\"><td id=\"csscan-property-empty-cells\" class=\"csscan-property\">empty-cells</td><td id=\"csscan-value-empty-cells\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-table-layout\"><td id=\"csscan-property-table-layout\" class=\"csscan-property\">table-layout</td><td id=\"csscan-value-table-layout\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-effects\" class=\"csscan-header\">Effects</th></tr><tr id=\"csscan-row-text-shadow\"><td id=\"csscan-property-text-shadow\" class=\"csscan-property\">text-shadow</td><td id=\"csscan-value-text-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row--webkit-box-shadow\"><td id=\"csscan-property--webkit-box-shadow\" class=\"csscan-property\">-webkit-box-shadow</td><td id=\"csscan-value--webkit-box-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-radius\"><td id=\"csscan-property-border-radius\" class=\"csscan-property\">border-radius</td><td id=\"csscan-value-border-radius\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-other\" class=\"csscan-header\">Other</th></tr><tr id=\"csscan-row-overflow\"><td id=\"csscan-property-overflow\" class=\"csscan-property\">overflow</td><td id=\"csscan-value-overflow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-cursor\"><td id=\"csscan-property-cursor\" class=\"csscan-property\">cursor</td><td id=\"csscan-value-cursor\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-visibility\"><td id=\"csscan-property-visibility\" class=\"csscan-property\">visibility</td><td id=\"csscan-value-visibility\" class=\"csscan-value\"></td></tr></tbody></table></div><div id=\"csscan-wrapper\" style=\"display: none; \"><h2 id=\"csscan-header\">element</h2><table id=\"csscan-table\"><tbody><tr><th colspan=\"2\" id=\"csscan-header-font\" class=\"csscan-header\">Font</th></tr><tr id=\"csscan-row-font-family\"><td id=\"csscan-property-font-family\" class=\"csscan-property\">font-family</td><td id=\"csscan-value-font-family\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-size\"><td id=\"csscan-property-font-size\" class=\"csscan-property\">font-size</td><td id=\"csscan-value-font-size\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-style\"><td id=\"csscan-property-font-style\" class=\"csscan-property\">font-style</td><td id=\"csscan-value-font-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-variant\"><td id=\"csscan-property-font-variant\" class=\"csscan-property\">font-variant</td><td id=\"csscan-value-font-variant\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-weight\"><td id=\"csscan-property-font-weight\" class=\"csscan-property\">font-weight</td><td id=\"csscan-value-font-weight\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-letter-spacing\"><td id=\"csscan-property-letter-spacing\" class=\"csscan-property\">letter-spacing</td><td id=\"csscan-value-letter-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-line-height\"><td id=\"csscan-property-line-height\" class=\"csscan-property\">line-height</td><td id=\"csscan-value-line-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-decoration\"><td id=\"csscan-property-text-decoration\" class=\"csscan-property\">text-decoration</td><td id=\"csscan-value-text-decoration\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-align\"><td id=\"csscan-property-text-align\" class=\"csscan-property\">text-align</td><td id=\"csscan-value-text-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-indent\"><td id=\"csscan-property-text-indent\" class=\"csscan-property\">text-indent</td><td id=\"csscan-value-text-indent\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-transform\"><td id=\"csscan-property-text-transform\" class=\"csscan-property\">text-transform</td><td id=\"csscan-value-text-transform\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-white-space\"><td id=\"csscan-property-white-space\" class=\"csscan-property\">white-space</td><td id=\"csscan-value-white-space\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-word-spacing\"><td id=\"csscan-property-word-spacing\" class=\"csscan-property\">word-spacing</td><td id=\"csscan-value-word-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-color\"><td id=\"csscan-property-color\" class=\"csscan-property\">color</td><td id=\"csscan-value-color\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-background\" class=\"csscan-header\">Background</th></tr><tr id=\"csscan-row-background-attachment\"><td id=\"csscan-property-background-attachment\" class=\"csscan-property\">bg-attachment</td><td id=\"csscan-value-background-attachment\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-color\"><td id=\"csscan-property-background-color\" class=\"csscan-property\">bg-color</td><td id=\"csscan-value-background-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-image\"><td id=\"csscan-property-background-image\" class=\"csscan-property\">bg-image</td><td id=\"csscan-value-background-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-position\"><td id=\"csscan-property-background-position\" class=\"csscan-property\">bg-position</td><td id=\"csscan-value-background-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-repeat\"><td id=\"csscan-property-background-repeat\" class=\"csscan-property\">bg-repeat</td><td id=\"csscan-value-background-repeat\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-size\" class=\"csscan-header\">Box</th></tr><tr id=\"csscan-row-width\"><td id=\"csscan-property-width\" class=\"csscan-property\">width</td><td id=\"csscan-value-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-height\"><td id=\"csscan-property-height\" class=\"csscan-property\">height</td><td id=\"csscan-value-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-top\"><td id=\"csscan-property-border-top\" class=\"csscan-property\">border-top</td><td id=\"csscan-value-border-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-right\"><td id=\"csscan-property-border-right\" class=\"csscan-property\">border-right</td><td id=\"csscan-value-border-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-bottom\"><td id=\"csscan-property-border-bottom\" class=\"csscan-property\">border-bottom</td><td id=\"csscan-value-border-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-left\"><td id=\"csscan-property-border-left\" class=\"csscan-property\">border-left</td><td id=\"csscan-value-border-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-margin\"><td id=\"csscan-property-margin\" class=\"csscan-property\">margin</td><td id=\"csscan-value-margin\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-padding\"><td id=\"csscan-property-padding\" class=\"csscan-property\">padding</td><td id=\"csscan-value-padding\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-height\"><td id=\"csscan-property-max-height\" class=\"csscan-property\">max-height</td><td id=\"csscan-value-max-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-height\"><td id=\"csscan-property-min-height\" class=\"csscan-property\">min-height</td><td id=\"csscan-value-min-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-width\"><td id=\"csscan-property-max-width\" class=\"csscan-property\">max-width</td><td id=\"csscan-value-max-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-width\"><td id=\"csscan-property-min-width\" class=\"csscan-property\">min-width</td><td id=\"csscan-value-min-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-color\"><td id=\"csscan-property-outline-color\" class=\"csscan-property\">outline-color</td><td id=\"csscan-value-outline-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-style\"><td id=\"csscan-property-outline-style\" class=\"csscan-property\">outline-style</td><td id=\"csscan-value-outline-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-width\"><td id=\"csscan-property-outline-width\" class=\"csscan-property\">outline-width</td><td id=\"csscan-value-outline-width\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-position\" class=\"csscan-header\">Positioning</th></tr><tr id=\"csscan-row-position\"><td id=\"csscan-property-position\" class=\"csscan-property\">position</td><td id=\"csscan-value-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-top\"><td id=\"csscan-property-top\" class=\"csscan-property\">top</td><td id=\"csscan-value-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-bottom\"><td id=\"csscan-property-bottom\" class=\"csscan-property\">bottom</td><td id=\"csscan-value-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-right\"><td id=\"csscan-property-right\" class=\"csscan-property\">right</td><td id=\"csscan-value-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-left\"><td id=\"csscan-property-left\" class=\"csscan-property\">left</td><td id=\"csscan-value-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-float\"><td id=\"csscan-property-float\" class=\"csscan-property\">float</td><td id=\"csscan-value-float\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-display\"><td id=\"csscan-property-display\" class=\"csscan-property\">display</td><td id=\"csscan-value-display\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-clear\"><td id=\"csscan-property-clear\" class=\"csscan-property\">clear</td><td id=\"csscan-value-clear\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-z-index\"><td id=\"csscan-property-z-index\" class=\"csscan-property\">z-index</td><td id=\"csscan-value-z-index\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-list\" class=\"csscan-header\">List</th></tr><tr id=\"csscan-row-list-style-image\"><td id=\"csscan-property-list-style-image\" class=\"csscan-property\">list-style-image</td><td id=\"csscan-value-list-style-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-type\"><td id=\"csscan-property-list-style-type\" class=\"csscan-property\">list-style-type</td><td id=\"csscan-value-list-style-type\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-position\"><td id=\"csscan-property-list-style-position\" class=\"csscan-property\">list-style-position</td><td id=\"csscan-value-list-style-position\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-table\" class=\"csscan-header\">Table</th></tr><tr id=\"csscan-row-vertical-align\"><td id=\"csscan-property-vertical-align\" class=\"csscan-property\">vertical-align</td><td id=\"csscan-value-vertical-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-collapse\"><td id=\"csscan-property-border-collapse\" class=\"csscan-property\">border-collapse</td><td id=\"csscan-value-border-collapse\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-spacing\"><td id=\"csscan-property-border-spacing\" class=\"csscan-property\">border-spacing</td><td id=\"csscan-value-border-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-caption-side\"><td id=\"csscan-property-caption-side\" class=\"csscan-property\">caption-side</td><td id=\"csscan-value-caption-side\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-empty-cells\"><td id=\"csscan-property-empty-cells\" class=\"csscan-property\">empty-cells</td><td id=\"csscan-value-empty-cells\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-table-layout\"><td id=\"csscan-property-table-layout\" class=\"csscan-property\">table-layout</td><td id=\"csscan-value-table-layout\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-effects\" class=\"csscan-header\">Effects</th></tr><tr id=\"csscan-row-text-shadow\"><td id=\"csscan-property-text-shadow\" class=\"csscan-property\">text-shadow</td><td id=\"csscan-value-text-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row--webkit-box-shadow\"><td id=\"csscan-property--webkit-box-shadow\" class=\"csscan-property\">-webkit-box-shadow</td><td id=\"csscan-value--webkit-box-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-radius\"><td id=\"csscan-property-border-radius\" class=\"csscan-property\">border-radius</td><td id=\"csscan-value-border-radius\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-other\" class=\"csscan-header\">Other</th></tr><tr id=\"csscan-row-overflow\"><td id=\"csscan-property-overflow\" class=\"csscan-property\">overflow</td><td id=\"csscan-value-overflow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-cursor\"><td id=\"csscan-property-cursor\" class=\"csscan-property\">cursor</td><td id=\"csscan-value-cursor\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-visibility\"><td id=\"csscan-property-visibility\" class=\"csscan-property\">visibility</td><td id=\"csscan-value-visibility\" class=\"csscan-value\"></td></tr></tbody></table></div></div></group></body>",
+        "cn:shortestDescription": "",
+        "cn:summary": "",
+        "cn:editedBy": "chelsea.qiao",
+        "cn:createdBy": "migration",
+        "cn:shorterDescription": "CNBC",
+        "name": "Headlines from CNBC",
+        "cn:sectionColor": "#000000",
+        "cn:promoText": "",
+        "cn:showTime": "",
+        "@type": "Collection"
+      },
+      "cn:historicalURL": [
+        "/markets-redesign/"
+      ],
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "Markets",
+      "cn:sectionColor": "#000000",
+      "cn:promoText": "",
+      "cn:showTime": "",
+      "cn:sectionLogo": {
+        "@type": "ImageObject",
+        "cn:type": "image",
+        "cn:creatorOverwrite": "",
+        "@id": "104847366",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104847366",
+        "cn:slug": "test-fredsder",
+        "cn:title": "test-fredsder",
+        "cn:tagName": "",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/api/v1/image/104847366-life_is_good_515750.jpg?v=1515533373",
+        "description": "",
+        "author": "",
+        "contentSize": 132921,
+        "caption": "",
+        "copyrightHolder": "",
+        "height": "353",
+        "width": "600"
+      },
+      "@type": "Collection",
+      "cn:relation": [{
+        "position": 4999,
+        "cn:relationType": "promo",
+        "cn:isPromoted": "true"
+      }]
+    },
+    {
+      "@id": "17689937",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/17689937",
+      "cn:type": "franchise",
+      "cn:slug": "Pre-Markets",
+      "cn:subType": "news_section",
+      "cn:tagName": "Pre-Markets",
+      "cn:title": "Pre-Markets",
+      "cn:creatorOverwrite": "",
+      "cn:liveURL": "/pre-markets/",
+      "cn:createdBy": "migration",
+      "cn:editedBy": "ritesh.shah",
+      "datePublished": "2012-01-30T01:46:05+0000",
+      "cn:summary": "Pre-Market Data, Stock Market Quotes, Fair Value, Futures, Europe & Asia-Pacific Markets, Volatility Index, World Markets Information",
+      "cn:sectionLinktext": "Pre-markets",
+      "headline": "Pre-markets",
+      "cn:sectionLabel": "Pre-market data",
+      "cn:tabLabel": "Pre-Mkt",
+      "cn:shorterDescription": "Pre-Market Data, Stock Market Quotes, Fair Value, Futures, Volatility Index,World Markets Information",
+      "cn:shortestDescription": "Pre-Market Data, Stock Market Quotes, Fair Value, Futures",
+      "cn:bodyTeaser": "null",
+      "cn:sectionHierarchy": [{
+          "id": 17689937,
+          "tagName": "Pre-Markets",
+          "order": 1
+        },
+        {
+          "id": 102,
+          "tagName": "Markets",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "caption": "",
+        "author": "",
+        "copyrightHolder": "Comstock Images | Getty Images",
+        "@id": "100264698",
+        "height": "1365",
+        "datePublished": "2012-11-30T19:03:26+0000",
+        "description": "",
+        "width": "2048",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/api/v1/image/100264698-stock_ticker_building_2_gettyp.jpg?v=1396283269"
+      },
+      "cn:settings": {
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "cn:association": [{
+          "cn:branding": "cnbc",
+          "cn:subDomain": "https://qa-aws03web.cnbc.com",
+          "url": "https://qa-aws03web.cnbc.com/markets/",
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "102",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/102",
+          "cn:slug": "Markets Redesign",
+          "cn:subType": "markets",
+          "cn:title": "Markets",
+          "cn:tagName": "Markets",
+          "description": "View up-to-date U.S. market and world market charts. Get the latest on world economy news and global markets in our Market Overview.",
+          "name": "Markets",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "section",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "section",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "section",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:branding": "buffett",
+          "cn:subDomain": "https://qa-aws03buffett.cnbc.com",
+          "url": "https://qa-aws03buffett.cnbc.com/us-markets/",
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "100003242",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100003242",
+          "cn:slug": "US Markets",
+          "cn:subType": "news_section",
+          "cn:title": "US Markets",
+          "cn:tagName": "U.S. Markets",
+          "description": "Up to date market data and stock market news is available online. View US market headlines and market charts. Get the latest economy news, markets in our Market Overview.",
+          "name": "US Markets",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "true"
+            },
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "true"
+            }],
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Americas Market Indexes",
+          "cn:creatorOverwrite": "",
+          "@id": "100013661",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100013661",
+          "cn:slug": "Americas Market Indexes",
+          "cn:tagName": "Americas Market Indexes",
+          "cn:subType": "section",
+          "description": "Up to date market data and stock market news is available online. View Americas market charts. Get the latest economy news, markets in our Market Overview.",
+          "name": "Americas Market Indexes",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Asia-Pacific Market News: Indexes, Bonds, Forex, Key Commodities, ETFs - CNBC",
+          "cn:creatorOverwrite": "",
+          "@id": "10000527",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000527",
+          "cn:slug": "Markets: Asia Pacific",
+          "cn:tagName": "Markets: Asia Pacific",
+          "cn:subType": "section",
+          "description": "Up to date market data and stock market news is available online. View Asia Pacific market headlines and market charts. Get the latest economy news, markets in our Market Overview.",
+          "name": "Asia-Pacific Market News: Indexes, Bonds, Forex, Key Commodities, ETFs - CNBC",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "true"
+            },
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Squawk Box",
+          "cn:creatorOverwrite": "",
+          "@id": "15838368",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/15838368",
+          "cn:slug": "US: Squawk Box",
+          "cn:tagName": "Squawk Box U.S.",
+          "cn:subType": "news_show",
+          "description": "\"Squawk Box\" is the ultimate pre-market morning news program, featuring Joe Kernen, Becky Quick and Andrew Ross Sorkin. It's a \"must see\" for everyone from the professional trader to the casual investor.",
+          "name": "Squawk Box",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "related",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:branding": "cnbc",
+          "cn:subDomain": "https://qa-aws03web.cnbc.com",
+          "url": "https://qa-aws03web.cnbc.com/markets-europe/",
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "10000528",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000528",
+          "cn:slug": "Markets: Europe",
+          "cn:subType": "news_section",
+          "cn:title": "Europe Markets",
+          "cn:tagName": "Markets: Europe",
+          "description": "Up to date market data and stock market news is available online. View Europe market headlines and market charts. Get the latest economy news, markets in our Market Overview.",
+          "name": "Europe Markets",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "true"
+            },
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:branding": "cnbc",
+          "cn:subDomain": "https://qa-aws03web.cnbc.com",
+          "url": "https://qa-aws03web.cnbc.com/mad-money/",
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "15838459",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/15838459",
+          "cn:slug": "Mad Money",
+          "cn:subType": "news_show",
+          "cn:title": "Mad Money with Jim Cramer",
+          "cn:tagName": "Mad Money",
+          "description": "Mad Money seeks to help people like you, who own stocks and feel like they're on the outside looking in, become better investors. To teach you how to think about the market like a pro. This show is not about picking stocks. It's not about giving you tips that will make you money overnight. Our mission is educational, to teach you how to analyze stocks and the market through the prism of events.",
+          "name": "Mad Money with Jim Cramer",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "6p ET",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "related",
+              "cn:isPromoted": "true"
+            },
+            [{
+              "cn:relationType": "related",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "CNBC’s Fast Money: Stocks, Investing, Market Analysis - CNBC",
+          "cn:creatorOverwrite": "",
+          "@id": "15838499",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/15838499",
+          "cn:slug": "Fast Money",
+          "cn:tagName": "Fast Money",
+          "cn:subType": "primetime_show",
+          "description": "“Fast Money” is America’s post-market show. Hosted by Melissa Lee and a roundtable of top traders, “Fast Money” breaks through the noise of the day, to bring you the actionable news that matters most to investors.  ",
+          "name": "CNBC’s Fast Money: Stocks, Investing, Market Analysis - CNBC",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "related",
+              "cn:isPromoted": "true"
+            },
+            [{
+              "cn:relationType": "related",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "cn:type": "image",
+          "cn:creatorOverwrite": "Comstock Images | Getty Images",
+          "@id": "100264698",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100264698",
+          "cn:slug": "Premium: stock ticker on building",
+          "cn:title": "",
+          "cn:tagName": "",
+          "url": "https://qa-aws02capi-img-origin.cnbc.com/api/v1/image/100264698-stock_ticker_building_2_gettyp.jpg?v=1396283269",
+          "description": "",
+          "author": "",
+          "contentSize": 1414806,
+          "caption": "",
+          "copyrightHolder": "Comstock Images | Getty Images",
+          "height": "1365",
+          "width": "2048",
+          "cn:relation": [{
+            "cn:relationType": "related",
+            "cn:isPromoted": "true"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Franchise Root",
+          "@id": "17",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/17",
+          "cn:slug": "Franchise Root",
+          "name": "Franchise Root",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        }
+      ],
+      "description": "Pre-Market Data, Stock Market Quotes, Fair Value, Futures, Europe & Asia-Pacific Markets, Volatility Index, World Markets Information",
+      "cn:section": {
+        "cn:branding": "cnbc",
+        "cn:subDomain": "https://qa-aws03web.cnbc.com",
+        "url": "https://qa-aws03web.cnbc.com/markets/",
+        "cn:type": "franchise",
+        "cn:creatorOverwrite": "",
+        "@id": "102",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/102",
+        "cn:slug": "Markets Redesign",
+        "cn:subType": "markets",
+        "cn:title": "Markets",
+        "cn:tagName": "Markets",
+        "cn:sectionHierarchy": [{
+            "id": 102,
+            "tagName": "Markets",
+            "order": 1
+          },
+          {
+            "id": 10000161,
+            "tagName": "CNBC Global",
+            "order": 2
+          }
+        ],
+        "cn:sectionLabel": "Markets",
+        "cn:liveURL": "/markets/",
+        "cn:settings": {
+          "cn:commentsEnabled": "Yes",
+          "cn:dateline": "Yes",
+          "cn:isFamilyFriendly": "Yes",
+          "cn:socialtoolsEnabled": "Yes",
+          "cn:displayByline": "Yes",
+          "cn:displaySource": "Yes",
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:outbrainEnabled": "Yes",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "View up-to-date U.S. market and world market charts. Get the latest on world economy news and global markets in our Market Overview.",
+        "cn:sectionLinktext": "Markets",
+        "headline": "Markets",
+        "datePublished": "2016-10-26T15:47:24+0000",
+        "cn:historicalURL": [
+          "/markets-redesign/"
+        ],
+        "cn:tabLabel": "Markets",
+        "cn:bodyTeaser": "null",
+        "cn:shortestDescription": "View up-to-date U.S. market and world market charts.",
+        "cn:summary": "View up-to-date U.S. market and world market charts. Get the latest on world economy news and global markets in our Market Overview.",
+        "cn:editedBy": "Alex.Dao",
+        "cn:createdBy": "zhao.yu",
+        "cn:shorterDescription": "US Stocks (Dow Jones, S&P 500, NASDAQ), World Markets, Bonds, Forex, Key Commodities, ETFs and More",
+        "name": "Markets",
+        "cn:sectionColor": "#000000",
+        "cn:promoText": "",
+        "cn:showTime": "",
+        "@type": "Collection"
+      },
+      "cn:historicalURL": [
+        "/id/17689937"
+      ],
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "Pre-Markets",
+      "cn:sectionColor": "#000000",
+      "cn:promoText": "",
+      "cn:showTime": "",
+      "@type": "Collection",
+      "cn:relation": [{
+        "position": 4399,
+        "cn:relationType": "navigation",
+        "cn:isPromoted": "true"
+      }]
+    },
+    {
+      "@id": "100003242",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100003242",
+      "cn:type": "franchise",
+      "cn:slug": "US Markets",
+      "cn:subType": "news_section",
+      "cn:tagName": "U.S. Markets",
+      "cn:title": "US Markets",
+      "cn:creatorOverwrite": "",
+      "cn:branding": "buffett",
+      "cn:subDomain": "https://qa-aws03buffett.cnbc.com",
+      "url": "https://qa-aws03buffett.cnbc.com/us-markets/",
+      "cn:liveURL": "/us-markets/",
+      "datePublished": "2015-08-12T09:33:42+0000",
+      "cn:summary": "Up to date market data and stock market news is available online. View US market headlines and market charts. Get the latest economy news, markets in our Market Overview.",
+      "cn:sectionLinktext": "US Markets",
+      "headline": "US Markets",
+      "cn:sectionLabel": "US Markets",
+      "cn:tabLabel": "US",
+      "cn:shorterDescription": "Up to date market data and stock market news is available online. View US market headlines and market charts.",
+      "cn:shortestDescription": "US Stocks, World Markets, Bonds, Forex, Key Commodities, ETFs and More",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><ul><li></li></ul></div></group></body>",
+      "cn:settings": {
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "cn:association": [{
+          "cn:branding": "cnbc",
+          "cn:subDomain": "https://qa-aws03web.cnbc.com",
+          "url": "https://qa-aws03web.cnbc.com/markets/",
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "102",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/102",
+          "cn:slug": "Markets Redesign",
+          "cn:subType": "markets",
+          "cn:title": "Markets",
+          "cn:tagName": "Markets",
+          "description": "View up-to-date U.S. market and world market charts. Get the latest on world economy news and global markets in our Market Overview.",
+          "name": "Markets",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "section",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "section",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "section",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Dow components",
+          "cn:creatorOverwrite": "",
+          "@id": "26272770",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/26272770",
+          "cn:slug": "Dow Components",
+          "cn:tagName": "Dow Components",
+          "cn:subType": "section",
+          "description": "The latest market data for all 30 stocks in the Dow Jones Industrial Average.",
+          "name": "Dow components",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "navigation",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "NASDAQ 100 Index Components",
+          "cn:creatorOverwrite": "",
+          "@id": "28141521",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/28141521",
+          "cn:slug": "NASDAQ 100",
+          "cn:tagName": "NASDAQ 100",
+          "cn:subType": "section",
+          "description": "NASDAQ 100 Index Components: Quotes, Charts and News for companies in the NASDAQ 100 Index",
+          "name": "NASDAQ 100 Index Components",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "navigation",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "IQ 100 REAL-TIME QUOTES",
+          "cn:creatorOverwrite": "",
+          "@id": "104039660",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104039660",
+          "cn:slug": "IQ 100 full width page",
+          "cn:tagName": "",
+          "cn:subType": "special_report",
+          "description": "The CNBC IQ 100 is a data-driven index of the 100 large-cap companies best using technology to invest in and profit from new business opportunities.",
+          "name": "IQ 100 REAL-TIME QUOTES",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "navigation",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Sectors",
+          "cn:creatorOverwrite": "",
+          "@id": "33397842",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/33397842",
+          "cn:slug": "Sector Watch",
+          "cn:tagName": "Sector Watch",
+          "cn:subType": "section",
+          "description": "Track the latest movement in the ten major S&P sector indexes.",
+          "name": "Sectors",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "navigation",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:branding": "buffett",
+          "cn:subDomain": "https://qa-aws03buffett.cnbc.com",
+          "url": "https://qa-aws03buffett.cnbc.com/us-markets/",
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "100003242",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100003242",
+          "cn:slug": "US Markets",
+          "cn:subType": "news_section",
+          "cn:title": "US Markets",
+          "cn:tagName": "U.S. Markets",
+          "description": "Up to date market data and stock market news is available online. View US market headlines and market charts. Get the latest economy news, markets in our Market Overview.",
+          "name": "US Markets",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "true"
+            },
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "true"
+            }],
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Americas Market Indexes",
+          "cn:creatorOverwrite": "",
+          "@id": "100013661",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100013661",
+          "cn:slug": "Americas Market Indexes",
+          "cn:tagName": "Americas Market Indexes",
+          "cn:subType": "section",
+          "description": "Up to date market data and stock market news is available online. View Americas market charts. Get the latest economy news, markets in our Market Overview.",
+          "name": "Americas Market Indexes",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Asia-Pacific Market News: Indexes, Bonds, Forex, Key Commodities, ETFs - CNBC",
+          "cn:creatorOverwrite": "",
+          "@id": "10000527",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000527",
+          "cn:slug": "Markets: Asia Pacific",
+          "cn:tagName": "Markets: Asia Pacific",
+          "cn:subType": "section",
+          "description": "Up to date market data and stock market news is available online. View Asia Pacific market headlines and market charts. Get the latest economy news, markets in our Market Overview.",
+          "name": "Asia-Pacific Market News: Indexes, Bonds, Forex, Key Commodities, ETFs - CNBC",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "true"
+            },
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:branding": "cnbc",
+          "cn:subDomain": "https://qa-aws03web.cnbc.com",
+          "url": "https://qa-aws03web.cnbc.com/markets-europe/",
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "10000528",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000528",
+          "cn:slug": "Markets: Europe",
+          "cn:subType": "news_section",
+          "cn:title": "Europe Markets",
+          "cn:tagName": "Markets: Europe",
+          "description": "Up to date market data and stock market news is available online. View Europe market headlines and market charts. Get the latest economy news, markets in our Market Overview.",
+          "name": "Europe Markets",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "true"
+            },
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "CNBC’s Fast Money: Stocks, Investing, Market Analysis - CNBC",
+          "cn:creatorOverwrite": "",
+          "@id": "15838499",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/15838499",
+          "cn:slug": "Fast Money",
+          "cn:tagName": "Fast Money",
+          "cn:subType": "primetime_show",
+          "description": "“Fast Money” is America’s post-market show. Hosted by Melissa Lee and a roundtable of top traders, “Fast Money” breaks through the noise of the day, to bring you the actionable news that matters most to investors.  ",
+          "name": "CNBC’s Fast Money: Stocks, Investing, Market Analysis - CNBC",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "related",
+              "cn:isPromoted": "true"
+            },
+            [{
+              "cn:relationType": "related",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:branding": "cnbc",
+          "cn:subDomain": "https://qa-aws03web.cnbc.com",
+          "url": "https://qa-aws03web.cnbc.com/mad-money/",
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "15838459",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/15838459",
+          "cn:slug": "Mad Money",
+          "cn:subType": "news_show",
+          "cn:title": "Mad Money with Jim Cramer",
+          "cn:tagName": "Mad Money",
+          "description": "Mad Money seeks to help people like you, who own stocks and feel like they're on the outside looking in, become better investors. To teach you how to think about the market like a pro. This show is not about picking stocks. It's not about giving you tips that will make you money overnight. Our mission is educational, to teach you how to analyze stocks and the market through the prism of events.",
+          "name": "Mad Money with Jim Cramer",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "6p ET",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "related",
+              "cn:isPromoted": "true"
+            },
+            [{
+              "cn:relationType": "related",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Franchise Root",
+          "@id": "17",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/17",
+          "cn:slug": "Franchise Root",
+          "name": "Franchise Root",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        }
+      ],
+      "description": "Up to date market data and stock market news is available online. View US market headlines and market charts. Get the latest economy news, markets in our Market Overview.",
+      "cn:section": {
+        "cn:branding": "cnbc",
+        "cn:subDomain": "https://qa-aws03web.cnbc.com",
+        "url": "https://qa-aws03web.cnbc.com/markets/",
+        "cn:type": "franchise",
+        "cn:creatorOverwrite": "",
+        "@id": "102",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/102",
+        "cn:slug": "Markets Redesign",
+        "cn:subType": "markets",
+        "cn:title": "Markets",
+        "cn:tagName": "Markets",
+        "cn:sectionHierarchy": [{
+            "id": 102,
+            "tagName": "Markets",
+            "order": 1
+          },
+          {
+            "id": 10000161,
+            "tagName": "CNBC Global",
+            "order": 2
+          }
+        ],
+        "cn:sectionLabel": "Markets",
+        "cn:liveURL": "/markets/",
+        "cn:settings": {
+          "cn:commentsEnabled": "Yes",
+          "cn:dateline": "Yes",
+          "cn:isFamilyFriendly": "Yes",
+          "cn:socialtoolsEnabled": "Yes",
+          "cn:displayByline": "Yes",
+          "cn:displaySource": "Yes",
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:outbrainEnabled": "Yes",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "View up-to-date U.S. market and world market charts. Get the latest on world economy news and global markets in our Market Overview.",
+        "cn:sectionLinktext": "Markets",
+        "headline": "Markets",
+        "datePublished": "2016-10-26T15:47:24+0000",
+        "cn:historicalURL": [
+          "/markets-redesign/"
+        ],
+        "cn:tabLabel": "Markets",
+        "cn:bodyTeaser": "null",
+        "cn:shortestDescription": "View up-to-date U.S. market and world market charts.",
+        "cn:summary": "View up-to-date U.S. market and world market charts. Get the latest on world economy news and global markets in our Market Overview.",
+        "cn:editedBy": "Alex.Dao",
+        "cn:createdBy": "zhao.yu",
+        "cn:shorterDescription": "US Stocks (Dow Jones, S&P 500, NASDAQ), World Markets, Bonds, Forex, Key Commodities, ETFs and More",
+        "name": "Markets",
+        "cn:sectionColor": "#000000",
+        "cn:promoText": "",
+        "cn:showTime": "",
+        "@type": "Collection"
+      },
+      "cn:sectionHierarchy": [{
+          "id": 102,
+          "tagName": "Markets",
+          "order": 1
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 2
+        }
+      ],
+      "cn:historicalURL": [
+        "/id/100003242"
+      ],
+      "cn:editedBy": "ashish.gupta",
+      "cn:createdBy": "catherina.centanni",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "US Markets",
+      "cn:sectionColor": "#000000",
+      "cn:promoText": "",
+      "cn:showTime": "",
+      "@type": "Collection",
+      "cn:relation": [{
+        "position": 4398,
+        "cn:relationType": "navigation",
+        "cn:isPromoted": "true"
+      }]
+    },
+    {
+      "@id": "10000528",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000528",
+      "cn:type": "franchise",
+      "cn:slug": "Markets: Europe",
+      "cn:subType": "news_section",
+      "cn:tagName": "Markets: Europe",
+      "cn:title": "Europe Markets",
+      "cn:creatorOverwrite": "",
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws03web.cnbc.com",
+      "url": "https://qa-aws03web.cnbc.com/markets-europe/",
+      "cn:liveURL": "/markets-europe/",
+      "cn:createdBy": "migration",
+      "cn:editedBy": "rekha.ponnur",
+      "datePublished": "2014-07-10T17:30:30+0000",
+      "cn:summary": "Up to date market data and stock market news is available online. View Europe market headlines and market charts. Get the latest economy news, markets in our Market Overview.",
+      "cn:sectionLinktext": "Europe Markets",
+      "headline": "Europe Markets",
+      "cn:sectionLabel": "Europe Markets",
+      "cn:tabLabel": "EU",
+      "cn:shorterDescription": "Market Overview Europe",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:sectionHierarchy": [{
+          "id": 10000528,
+          "tagName": "Markets: Europe",
+          "order": 1
+        },
+        {
+          "id": 100003241,
+          "tagName": "World Markets",
+          "order": 2
+        },
+        {
+          "id": 102,
+          "tagName": "Markets",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "cn:settings": {
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "cn:association": [{
+          "cn:type": "franchise",
+          "cn:title": "World Markets",
+          "cn:creatorOverwrite": "",
+          "@id": "100003241",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100003241",
+          "cn:slug": "Global Markets",
+          "cn:tagName": "World Markets",
+          "cn:subType": "section",
+          "description": "Market headlines from across the globe. ",
+          "name": "World Markets",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "section",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:branding": "buffett",
+          "cn:subDomain": "https://qa-aws03buffett.cnbc.com",
+          "url": "https://qa-aws03buffett.cnbc.com/us-markets/",
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "100003242",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100003242",
+          "cn:slug": "US Markets",
+          "cn:subType": "news_section",
+          "cn:title": "US Markets",
+          "cn:tagName": "U.S. Markets",
+          "description": "Up to date market data and stock market news is available online. View US market headlines and market charts. Get the latest economy news, markets in our Market Overview.",
+          "name": "US Markets",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "true"
+            },
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "true"
+            }],
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Americas Market Indexes",
+          "cn:creatorOverwrite": "",
+          "@id": "100013661",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100013661",
+          "cn:slug": "Americas Market Indexes",
+          "cn:tagName": "Americas Market Indexes",
+          "cn:subType": "section",
+          "description": "Up to date market data and stock market news is available online. View Americas market charts. Get the latest economy news, markets in our Market Overview.",
+          "name": "Americas Market Indexes",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Asia-Pacific Market News: Indexes, Bonds, Forex, Key Commodities, ETFs - CNBC",
+          "cn:creatorOverwrite": "",
+          "@id": "10000527",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000527",
+          "cn:slug": "Markets: Asia Pacific",
+          "cn:tagName": "Markets: Asia Pacific",
+          "cn:subType": "section",
+          "description": "Up to date market data and stock market news is available online. View Asia Pacific market headlines and market charts. Get the latest economy news, markets in our Market Overview.",
+          "name": "Asia-Pacific Market News: Indexes, Bonds, Forex, Key Commodities, ETFs - CNBC",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "true"
+            },
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:branding": "cnbc",
+          "cn:subDomain": "https://qa-aws03web.cnbc.com",
+          "url": "https://qa-aws03web.cnbc.com/markets-europe/",
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "10000528",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000528",
+          "cn:slug": "Markets: Europe",
+          "cn:subType": "news_section",
+          "cn:title": "Europe Markets",
+          "cn:tagName": "Markets: Europe",
+          "description": "Up to date market data and stock market news is available online. View Europe market headlines and market charts. Get the latest economy news, markets in our Market Overview.",
+          "name": "Europe Markets",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "true"
+            },
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Franchise Root",
+          "@id": "17",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/17",
+          "cn:slug": "Franchise Root",
+          "name": "Franchise Root",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        }
+      ],
+      "description": "Up to date market data and stock market news is available online. View Europe market headlines and market charts. Get the latest economy news, markets in our Market Overview.",
+      "cn:section": {
+        "cn:type": "franchise",
+        "cn:title": "World Markets",
+        "cn:creatorOverwrite": "",
+        "@id": "100003241",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100003241",
+        "cn:slug": "Global Markets",
+        "cn:tagName": "World Markets",
+        "cn:subType": "section",
+        "cn:shortestDescription": "Market headlines from across the globe. ",
+        "cn:sectionHierarchy": [{
+            "id": 102,
+            "tagName": "Markets",
+            "order": 1
+          },
+          {
+            "id": 10000161,
+            "tagName": "CNBC Global",
+            "order": 2
+          }
+        ],
+        "cn:sectionLabel": "World Markets",
+        "cn:liveURL": "/world-markets/",
+        "cn:summary": "Market headlines from across the globe. ",
+        "cn:settings": {
+          "cn:commentsEnabled": "Yes",
+          "cn:socialtoolsEnabled": "Yes",
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "Market headlines from across the globe. ",
+        "cn:sectionLinktext": "World Markets",
+        "headline": "World Markets",
+        "cn:editedBy": "Fred.Imbert",
+        "datePublished": "2016-01-04T15:16:51+0000",
+        "cn:historicalURL": [
+          "/id/100003241",
+          "/world-markets-top-news/"
+        ],
+        "cn:tabLabel": "World Markets",
+        "cn:createdBy": "catherina.centanni",
+        "cn:bodyTeaser": "null",
+        "cn:shorterDescription": "Market headlines from across the globe. ",
+        "name": "World Markets",
+        "@type": "Collection"
+      },
+      "cn:historicalURL": [
+        "/id/10000528"
+      ],
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "Europe Markets",
+      "cn:sectionColor": "#000000",
+      "cn:promoText": "",
+      "cn:showTime": "",
+      "@type": "Collection",
+      "cn:relation": [{
+        "position": 4397,
+        "cn:relationType": "navigation",
+        "cn:isPromoted": "true"
+      }]
+    },
+    {
+      "@id": "10000527",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000527",
+      "cn:type": "franchise",
+      "cn:slug": "Markets: Asia Pacific",
+      "cn:subType": "section",
+      "cn:tagName": "Markets: Asia Pacific",
+      "cn:title": "Asia-Pacific Market News: Indexes, Bonds, Forex, Key Commodities, ETFs - CNBC",
+      "cn:creatorOverwrite": "",
+      "cn:liveURL": "/markets-asia-pacific/",
+      "datePublished": "2014-07-10T17:30:48+0000",
+      "cn:summary": "Up to date market data and stock market news is available online. View Asia Pacific market headlines and market charts. Get the latest economy news, markets in our Market Overview.",
+      "cn:sectionLinktext": "Asia-Pacific Markets",
+      "headline": "Asia-Pacific Markets",
+      "cn:sectionLabel": "Asia-Pacific Markets",
+      "cn:tabLabel": "Asia",
+      "cn:shorterDescription": "Market Overview Asia Pacific",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:settings": {
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "cn:association": [{
+          "cn:type": "franchise",
+          "cn:title": "World Markets",
+          "cn:creatorOverwrite": "",
+          "@id": "100003241",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100003241",
+          "cn:slug": "Global Markets",
+          "cn:tagName": "World Markets",
+          "cn:subType": "section",
+          "description": "Market headlines from across the globe. ",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+            "cn:relationType": "section",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:branding": "buffett",
+          "cn:subDomain": "https://qa-aws03buffett.cnbc.com",
+          "url": "https://qa-aws03buffett.cnbc.com/us-markets/",
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "100003242",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100003242",
+          "cn:slug": "US Markets",
+          "cn:subType": "news_section",
+          "cn:title": "US Markets",
+          "cn:tagName": "U.S. Markets",
+          "description": "Up to date market data and stock market news is available online. View US market headlines and market charts. Get the latest economy news, markets in our Market Overview.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+            "cn:relationType": "navigation",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Americas Market Indexes",
+          "cn:creatorOverwrite": "",
+          "@id": "100013661",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100013661",
+          "cn:slug": "Americas Market Indexes",
+          "cn:tagName": "Americas Market Indexes",
+          "cn:subType": "section",
+          "description": "Up to date market data and stock market news is available online. View Americas market charts. Get the latest economy news, markets in our Market Overview.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+            "cn:relationType": "navigation",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Asia-Pacific Market News: Indexes, Bonds, Forex, Key Commodities, ETFs - CNBC",
+          "cn:creatorOverwrite": "",
+          "@id": "10000527",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000527",
+          "cn:slug": "Markets: Asia Pacific",
+          "cn:tagName": "Markets: Asia Pacific",
+          "cn:subType": "section",
+          "description": "Up to date market data and stock market news is available online. View Asia Pacific market headlines and market charts. Get the latest economy news, markets in our Market Overview.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+            "cn:relationType": "navigation",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:branding": "cnbc",
+          "cn:subDomain": "https://qa-aws03web.cnbc.com",
+          "url": "https://qa-aws03web.cnbc.com/markets-europe/",
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "10000528",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000528",
+          "cn:slug": "Markets: Europe",
+          "cn:subType": "news_section",
+          "cn:title": "Europe Markets",
+          "cn:tagName": "Markets: Europe",
+          "description": "Up to date market data and stock market news is available online. View Europe market headlines and market charts. Get the latest economy news, markets in our Market Overview.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+            "cn:relationType": "navigation",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Charting Asia with Daryl Guppy",
+          "cn:creatorOverwrite": "",
+          "@id": "23103686",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/23103686",
+          "cn:slug": "Charting Asia",
+          "cn:tagName": "Charting Asia",
+          "cn:subType": "blog",
+          "description": "Daryl Guppy is an independent technical analyst who appears frequently on CNBC Asia. He runs training, analysis and resource workshops for retail and professional financial market traders involved in stocks, CFDs, warrants, derivatives, futures and commodities in China, Malaysia, Singapore and Australia. Find his stock market analysis and technical perspective on his CNBC.com blog.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+            "cn:relationType": "related",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Franchise Root",
+          "@id": "17",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/17",
+          "cn:slug": "Franchise Root",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        }
+      ],
+      "description": "Up to date market data and stock market news is available online. View Asia Pacific market headlines and market charts. Get the latest economy news, markets in our Market Overview.",
+      "cn:section": {
+        "cn:type": "franchise",
+        "cn:title": "World Markets",
+        "cn:creatorOverwrite": "",
+        "@id": "100003241",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100003241",
+        "cn:slug": "Global Markets",
+        "cn:tagName": "World Markets",
+        "cn:subType": "section",
+        "cn:shortestDescription": "Market headlines from across the globe. ",
+        "cn:sectionHierarchy": [{
+            "id": 102,
+            "tagName": "Markets",
+            "order": 1
+          },
+          {
+            "id": 10000161,
+            "tagName": "CNBC Global",
+            "order": 2
+          }
+        ],
+        "cn:sectionLabel": "World Markets",
+        "cn:liveURL": "/world-markets/",
+        "cn:summary": "Market headlines from across the globe. ",
+        "cn:settings": {
+          "cn:commentsEnabled": "Yes",
+          "cn:socialtoolsEnabled": "Yes",
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "Market headlines from across the globe. ",
+        "cn:sectionLinktext": "World Markets",
+        "headline": "World Markets",
+        "cn:editedBy": "Fred.Imbert",
+        "datePublished": "2016-01-04T15:16:51+0000",
+        "cn:historicalURL": [
+          "/id/100003241",
+          "/world-markets-top-news/"
+        ],
+        "cn:tabLabel": "World Markets",
+        "cn:createdBy": "catherina.centanni",
+        "cn:bodyTeaser": "null",
+        "cn:shorterDescription": "Market headlines from across the globe. ",
+        "name": "World Markets",
+        "@type": "Collection"
+      },
+      "cn:sectionHierarchy": [{
+          "id": 100003241,
+          "tagName": "World Markets",
+          "order": 1
+        },
+        {
+          "id": 102,
+          "tagName": "Markets",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "cn:historicalURL": [
+        "/id/10000527"
+      ],
+      "cn:editedBy": "Cheang Ming",
+      "cn:createdBy": "migration",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "Asia-Pacific Market News: Indexes, Bonds, Forex, Key Commodities, ETFs - CNBC",
+      "@type": "Collection",
+      "cn:relation": [{
+        "position": 4396,
+        "cn:relationType": "navigation",
+        "cn:isPromoted": "true"
+      }]
+    },
+    {
+      "@id": "10000728",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000728",
+      "cn:type": "franchise",
+      "cn:slug": "Energy Commodities",
+      "cn:subType": "section",
+      "cn:tagName": "Energy Commodities",
+      "cn:title": "Energy Commodities",
+      "cn:creatorOverwrite": "",
+      "cn:liveURL": "/energy-commodities/",
+      "datePublished": "2012-01-29T13:51:50+0000",
+      "cn:summary": "The latest commodity trading prices for Energy Commodities: oil, natural gas, coal, ethanol, diesel and more on the U.S. commodities & futures market.",
+      "cn:sectionLinktext": "Energy Commodities",
+      "headline": "Energy Commodities",
+      "cn:sectionLabel": "Energy",
+      "cn:tabLabel": "Oil",
+      "cn:shorterDescription": "Energy Commodities: oil, natural gas",
+      "cn:shortestDescription": "Energy Commodities: oil, natural gas",
+      "cn:bodyTeaser": "null",
+      "cn:settings": {
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "cn:association": [{
+          "cn:type": "franchise",
+          "cn:title": "Commodities",
+          "cn:creatorOverwrite": "",
+          "@id": "15839171",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/15839171",
+          "cn:slug": "Commodity Trading Prices",
+          "cn:tagName": "Commodities",
+          "cn:subType": "section",
+          "description": "The latest commodity trading prices for oil, natural gas, gold, silver, wheat, corn and more on the U.S. commodities & futures market.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+              "cn:relationType": "section",
+              "cn:isPromoted": "false"
+            },
+            {
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            },
+            [{
+                "cn:relationType": "section",
+                "cn:isPromoted": "false"
+              },
+              {
+                "cn:relationType": "navigation",
+                "cn:isPromoted": "false"
+              }
+            ]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Energy Commodities",
+          "cn:creatorOverwrite": "",
+          "@id": "10000728",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000728",
+          "cn:slug": "Energy Commodities",
+          "cn:tagName": "Energy Commodities",
+          "cn:subType": "section",
+          "description": "The latest commodity trading prices for Energy Commodities: oil, natural gas, coal, ethanol, diesel and more on the U.S. commodities & futures market.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Metal Commodities",
+          "cn:creatorOverwrite": "",
+          "@id": "33057388",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/33057388",
+          "cn:slug": "Metal Commodities",
+          "cn:tagName": "Metal Commodities",
+          "cn:subType": "section",
+          "description": "The latest commodity trading prices for Metal Commodities: Metal Futures, Gold, Silver, Copper, Platinum, Palladium and more on the U.S. commodities & futures market.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Agricultural Commodities",
+          "cn:creatorOverwrite": "",
+          "@id": "33198741",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/33198741",
+          "cn:slug": "Agricultural Commodities",
+          "cn:tagName": "Agricultural Commodities",
+          "cn:subType": "marketsection",
+          "description": "The latest commodity trading prices for Agriculture Commodities: Wheat, Sugar and more on the U.S. commodities & futures market.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Livestock Commodities",
+          "cn:creatorOverwrite": "",
+          "@id": "33061374",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/33061374",
+          "cn:slug": "Livestock Commodities",
+          "cn:tagName": "Livestock Commodities",
+          "cn:subType": "section",
+          "description": "The latest commodity trading prices for Livestock Commodities: Live Cattle, Lean Hogs and more on the U.S. commodities & futures market.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Currency Futures",
+          "cn:creatorOverwrite": "",
+          "@id": "100016721",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100016721",
+          "cn:slug": "Currency Futures",
+          "cn:tagName": "",
+          "cn:subType": "blog",
+          "description": "The latest commodity trading prices for Currency Futures: U.S. Dollar, Yen, Pound and more on the U.S. commodities & futures market.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Index Futures",
+          "cn:creatorOverwrite": "",
+          "@id": "100013776",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100013776",
+          "cn:slug": "Index Futures",
+          "cn:tagName": "",
+          "cn:subType": "blog",
+          "description": "The latest commodity trading prices for Index Futures: Dow, S&P, Nasdaq and more on the U.S. commodities & futures market.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Interest Rate Futures",
+          "cn:creatorOverwrite": "",
+          "@id": "100016722",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100016722",
+          "cn:slug": "Interest Rate Futures",
+          "cn:tagName": "",
+          "cn:subType": "blog",
+          "description": "The latest commodity trading prices for Interest Rate Futures: Treasurys, Eurodollar and more on the U.S. commodities & futures market.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Franchise Root",
+          "@id": "17",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/17",
+          "cn:slug": "Franchise Root",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        }
+      ],
+      "description": "The latest commodity trading prices for Energy Commodities: oil, natural gas, coal, ethanol, diesel and more on the U.S. commodities & futures market.",
+      "cn:section": {
+        "cn:type": "franchise",
+        "cn:title": "Commodities",
+        "cn:creatorOverwrite": "",
+        "@id": "15839171",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/15839171",
+        "cn:slug": "Commodity Trading Prices",
+        "cn:tagName": "Commodities",
+        "cn:subType": "section",
+        "cn:shortestDescription": "The latest commodity trading prices for oil, natural gas, gold, silver, wheat, corn and more.",
+        "cn:sectionHierarchy": [{
+            "id": 102,
+            "tagName": "Markets",
+            "order": 1
+          },
+          {
+            "id": 10000161,
+            "tagName": "CNBC Global",
+            "order": 2
+          }
+        ],
+        "cn:sectionLabel": "Commodities",
+        "cn:liveURL": "/commodities/",
+        "cn:summary": "The latest commodity trading prices for oil, natural gas, gold, silver, wheat, corn and more on the U.S. commodities & futures market.",
+        "cn:settings": {
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "The latest commodity trading prices for oil, natural gas, gold, silver, wheat, corn and more on the U.S. commodities & futures market.",
+        "cn:sectionLinktext": "Commodities",
+        "headline": "Commodities",
+        "cn:editedBy": "vitaly",
+        "datePublished": "2014-07-10T17:30:12+0000",
+        "cn:historicalURL": [
+          "/futures-and-commodities/",
+          "/id/15839171"
+        ],
+        "cn:tabLabel": "Commodities",
+        "cn:createdBy": "migration",
+        "cn:bodyTeaser": "null",
+        "cn:shorterDescription": "The latest commodity trading prices for oil, natural gas, gold, silver, wheat, corn and more on the U.S. commodities & futures market.",
+        "name": "Commodities",
+        "@type": "Collection"
+      },
+      "cn:sectionHierarchy": [{
+          "id": 15839171,
+          "tagName": "Commodities",
+          "order": 1
+        },
+        {
+          "id": 102,
+          "tagName": "Markets",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "cn:historicalURL": [
+        "/id/10000728"
+      ],
+      "cn:editedBy": "Cheang Ming",
+      "cn:createdBy": "migration",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "Energy Commodities",
+      "@type": "Collection",
+      "cn:relation": [{
+        "position": 4395,
+        "cn:relationType": "navigation",
+        "cn:isPromoted": "true"
+      }]
+    },
+    {
+      "@id": "33057388",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/33057388",
+      "cn:type": "franchise",
+      "cn:slug": "Metal Commodities",
+      "cn:subType": "section",
+      "cn:tagName": "Metal Commodities",
+      "cn:title": "Metal Commodities",
+      "cn:creatorOverwrite": "",
+      "cn:liveURL": "/metal-commodities/",
+      "datePublished": "2012-01-29T13:51:52+0000",
+      "cn:summary": "The latest commodity trading prices for Metal Commodities: Metal Futures, Gold, Silver, Copper, Platinum, Palladium and more on the U.S. commodities & futures market.",
+      "cn:sectionLinktext": "Metal Commodities",
+      "headline": "Metal Commodities",
+      "cn:sectionLabel": "Metals",
+      "cn:tabLabel": "Gold",
+      "cn:shorterDescription": "Metal Commodities: Metal Futures, Gold, Silver, Copper, Platinum, Palladium Prices",
+      "cn:shortestDescription": "Metal Commodities: Metal Futures, Gold, Silver, Copper, Platinum, Palladium Prices",
+      "cn:bodyTeaser": "<body><group><subtitle><![CDATA[Metals]]></subtitle><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"/></group></body>",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "cn:association": [{
+          "cn:type": "franchise",
+          "cn:title": "Commodities",
+          "cn:creatorOverwrite": "",
+          "@id": "15839171",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/15839171",
+          "cn:slug": "Commodity Trading Prices",
+          "cn:tagName": "Commodities",
+          "cn:subType": "section",
+          "description": "The latest commodity trading prices for oil, natural gas, gold, silver, wheat, corn and more on the U.S. commodities & futures market.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+              "cn:relationType": "section",
+              "cn:isPromoted": "false"
+            },
+            {
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            },
+            [{
+                "cn:relationType": "section",
+                "cn:isPromoted": "false"
+              },
+              {
+                "cn:relationType": "navigation",
+                "cn:isPromoted": "false"
+              }
+            ]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Energy Commodities",
+          "cn:creatorOverwrite": "",
+          "@id": "10000728",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000728",
+          "cn:slug": "Energy Commodities",
+          "cn:tagName": "Energy Commodities",
+          "cn:subType": "section",
+          "description": "The latest commodity trading prices for Energy Commodities: oil, natural gas, coal, ethanol, diesel and more on the U.S. commodities & futures market.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Metal Commodities",
+          "cn:creatorOverwrite": "",
+          "@id": "33057388",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/33057388",
+          "cn:slug": "Metal Commodities",
+          "cn:tagName": "Metal Commodities",
+          "cn:subType": "section",
+          "description": "The latest commodity trading prices for Metal Commodities: Metal Futures, Gold, Silver, Copper, Platinum, Palladium and more on the U.S. commodities & futures market.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Agricultural Commodities",
+          "cn:creatorOverwrite": "",
+          "@id": "33198741",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/33198741",
+          "cn:slug": "Agricultural Commodities",
+          "cn:tagName": "Agricultural Commodities",
+          "cn:subType": "marketsection",
+          "description": "The latest commodity trading prices for Agriculture Commodities: Wheat, Sugar and more on the U.S. commodities & futures market.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Livestock Commodities",
+          "cn:creatorOverwrite": "",
+          "@id": "33061374",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/33061374",
+          "cn:slug": "Livestock Commodities",
+          "cn:tagName": "Livestock Commodities",
+          "cn:subType": "section",
+          "description": "The latest commodity trading prices for Livestock Commodities: Live Cattle, Lean Hogs and more on the U.S. commodities & futures market.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Currency Futures",
+          "cn:creatorOverwrite": "",
+          "@id": "100016721",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100016721",
+          "cn:slug": "Currency Futures",
+          "cn:tagName": "",
+          "cn:subType": "blog",
+          "description": "The latest commodity trading prices for Currency Futures: U.S. Dollar, Yen, Pound and more on the U.S. commodities & futures market.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Index Futures",
+          "cn:creatorOverwrite": "",
+          "@id": "100013776",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100013776",
+          "cn:slug": "Index Futures",
+          "cn:tagName": "",
+          "cn:subType": "blog",
+          "description": "The latest commodity trading prices for Index Futures: Dow, S&P, Nasdaq and more on the U.S. commodities & futures market.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Interest Rate Futures",
+          "cn:creatorOverwrite": "",
+          "@id": "100016722",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100016722",
+          "cn:slug": "Interest Rate Futures",
+          "cn:tagName": "",
+          "cn:subType": "blog",
+          "description": "The latest commodity trading prices for Interest Rate Futures: Treasurys, Eurodollar and more on the U.S. commodities & futures market.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "navigation",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Franchise Root",
+          "@id": "17",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/17",
+          "cn:slug": "Franchise Root",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        }
+      ],
+      "description": "The latest commodity trading prices for Metal Commodities: Metal Futures, Gold, Silver, Copper, Platinum, Palladium and more on the U.S. commodities & futures market.",
+      "cn:section": {
+        "cn:type": "franchise",
+        "cn:title": "Commodities",
+        "cn:creatorOverwrite": "",
+        "@id": "15839171",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/15839171",
+        "cn:slug": "Commodity Trading Prices",
+        "cn:tagName": "Commodities",
+        "cn:subType": "section",
+        "cn:shortestDescription": "The latest commodity trading prices for oil, natural gas, gold, silver, wheat, corn and more.",
+        "cn:sectionHierarchy": [{
+            "id": 102,
+            "tagName": "Markets",
+            "order": 1
+          },
+          {
+            "id": 10000161,
+            "tagName": "CNBC Global",
+            "order": 2
+          }
+        ],
+        "cn:sectionLabel": "Commodities",
+        "cn:liveURL": "/commodities/",
+        "cn:summary": "The latest commodity trading prices for oil, natural gas, gold, silver, wheat, corn and more on the U.S. commodities & futures market.",
+        "cn:settings": {
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "The latest commodity trading prices for oil, natural gas, gold, silver, wheat, corn and more on the U.S. commodities & futures market.",
+        "cn:sectionLinktext": "Commodities",
+        "headline": "Commodities",
+        "cn:editedBy": "vitaly",
+        "datePublished": "2014-07-10T17:30:12+0000",
+        "cn:historicalURL": [
+          "/futures-and-commodities/",
+          "/id/15839171"
+        ],
+        "cn:tabLabel": "Commodities",
+        "cn:createdBy": "migration",
+        "cn:bodyTeaser": "null",
+        "cn:shorterDescription": "The latest commodity trading prices for oil, natural gas, gold, silver, wheat, corn and more on the U.S. commodities & futures market.",
+        "name": "Commodities",
+        "@type": "Collection"
+      },
+      "cn:sectionHierarchy": [{
+          "id": 15839171,
+          "tagName": "Commodities",
+          "order": 1
+        },
+        {
+          "id": 102,
+          "tagName": "Markets",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "cn:historicalURL": [
+        "/id/33057388"
+      ],
+      "cn:editedBy": "Cheang Ming",
+      "cn:createdBy": "migration",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "Metal Commodities",
+      "@type": "Collection",
+      "cn:relation": [{
+        "position": 4394,
+        "cn:relationType": "navigation",
+        "cn:isPromoted": "true"
+      }]
+    },
+    {
+      "@id": "15839203",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/15839203",
+      "cn:type": "franchise",
+      "cn:slug": "Bonds",
+      "cn:subType": "marketsection",
+      "cn:tagName": "Bonds",
+      "cn:title": "Bonds",
+      "cn:creatorOverwrite": "",
+      "cn:liveURL": "/bonds/",
+      "datePublished": "2015-09-03T10:14:40+0000",
+      "cn:summary": "Bonds market data, news, and the latest trading info on US treasuries and government bond markets from around the world.",
+      "cn:sectionLinktext": "Bonds",
+      "headline": "Bonds",
+      "cn:sectionLabel": "Bonds",
+      "cn:tabLabel": "Bonds",
+      "cn:shorterDescription": "Bonds market data, news, and the latest trading info on US treasuries and government bond markets from around the world.",
+      "cn:shortestDescription": "Bonds market data, US treasuries and government bond markets.",
+      "cn:bodyTeaser": "null",
+      "cn:settings": {
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "cn:association": [{
+          "cn:branding": "cnbc",
+          "cn:subDomain": "https://qa-aws03web.cnbc.com",
+          "url": "https://qa-aws03web.cnbc.com/markets/",
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "102",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/102",
+          "cn:slug": "Markets Redesign",
+          "cn:subType": "markets",
+          "cn:title": "Markets",
+          "cn:tagName": "Markets",
+          "description": "View up-to-date U.S. market and world market charts. Get the latest on world economy news and global markets in our Market Overview.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+            "cn:relationType": "section",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Bonds: U.S. Treasurys ",
+          "cn:creatorOverwrite": "",
+          "@id": "100013974",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100013974",
+          "cn:slug": "Bonds: U.S. Treasurys ",
+          "cn:tagName": "Bonds: U.S. Treasurys ",
+          "cn:subType": "marketsection",
+          "description": "U.S. Bond market data, news, and the latest trading info on US treasuries and government bond markets from around the world.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+            "cn:relationType": "navigation",
+            "cn:isPromoted": "true"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "U.K. ",
+          "cn:creatorOverwrite": "",
+          "@id": "100013937",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100013937",
+          "cn:slug": "Bonds: U.K. Treasurys",
+          "cn:tagName": "Bonds: U.K. Treasurys",
+          "cn:subType": "marketsection",
+          "description": "U.K Bonds market data, news, and the latest trading info on Gilt UK treasuries and government bond markets from around the world.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+            "cn:relationType": "navigation",
+            "cn:isPromoted": "true"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Germany ",
+          "cn:creatorOverwrite": "",
+          "@id": "100013938",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100013938",
+          "cn:slug": "Bonds: Germany Treasurys",
+          "cn:tagName": "Bonds: Germany Treasurys",
+          "cn:subType": "marketsection",
+          "description": "Germany Bonds market data, news, and the latest trading info on German Bund treasuries and government bond markets from around the world.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+            "cn:relationType": "navigation",
+            "cn:isPromoted": "true"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Italy ",
+          "cn:creatorOverwrite": "",
+          "@id": "100013939",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100013939",
+          "cn:slug": "Bonds: Italy Treasurys",
+          "cn:tagName": "Bonds: Italy Treasurys",
+          "cn:subType": "marketsection",
+          "description": "Italy Bonds market data, news, and the latest trading info on Italian treasuries and government bond markets from around the world.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+            "cn:relationType": "navigation",
+            "cn:isPromoted": "true"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "France ",
+          "cn:creatorOverwrite": "",
+          "@id": "100013940",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100013940",
+          "cn:slug": "Bonds: France Treasurys",
+          "cn:tagName": "Bonds: France Treasurys",
+          "cn:subType": "marketsection",
+          "description": "France Bonds market data, news, and the latest trading info on French treasuries and government bond markets from around the world.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+            "cn:relationType": "navigation",
+            "cn:isPromoted": "true"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Japan ",
+          "cn:creatorOverwrite": "",
+          "@id": "100013941",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100013941",
+          "cn:slug": "Bonds: Japan Treasurys",
+          "cn:tagName": "Bonds: Japan Treasurys",
+          "cn:subType": "marketsection",
+          "description": "Japan Bonds market data, news, and the latest trading info on Japanese treasuries and government bond markets from around the world.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+            "cn:relationType": "navigation",
+            "cn:isPromoted": "true"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Australia ",
+          "cn:creatorOverwrite": "",
+          "@id": "100013942",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100013942",
+          "cn:slug": "Bonds: Australia Treasurys",
+          "cn:tagName": "Bonds: Australia Treasurys",
+          "cn:subType": "marketsection",
+          "description": "Australia Bonds market data, news, and the latest trading info on Australian treasuries and government bond markets from around the world.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+            "cn:relationType": "navigation",
+            "cn:isPromoted": "true"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Canada ",
+          "cn:creatorOverwrite": "",
+          "@id": "100013943",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100013943",
+          "cn:slug": "Bonds: Canada Treasurys",
+          "cn:tagName": "Bonds: Canada Treasurys",
+          "cn:subType": "marketsection",
+          "description": "Canada Bonds market data, news, and the latest trading info on Canadian treasuries and government bond markets from around the world.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+            "cn:relationType": "navigation",
+            "cn:isPromoted": "true"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Brazil ",
+          "cn:creatorOverwrite": "",
+          "@id": "100013944",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100013944",
+          "cn:slug": "Bonds: Brazil Treasurys",
+          "cn:tagName": "Bonds: Brazil Treasurys",
+          "cn:subType": "marketsection",
+          "description": "Brazil Bonds market data, news, and the latest trading info on Brazilian treasuries and government bond markets from around the world.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+            "cn:relationType": "navigation",
+            "cn:isPromoted": "true"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Sovereign credit-default swaps",
+          "cn:creatorOverwrite": "",
+          "@id": "38451750",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/38451750",
+          "cn:slug": "Sovereign Credit-Default Swaps",
+          "cn:tagName": "Sovereign Credit-Default Swaps",
+          "cn:subType": "marketsection",
+          "description": "Will Europe’s economy stabilize? Or will the European Union collapse? The latest data on derivatives trading against the default of world governments.",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+            "cn:relationType": "navigation",
+            "cn:isPromoted": "true"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Franchise Root",
+          "@id": "17",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/17",
+          "cn:slug": "Franchise Root",
+          "@type": "CreativeWork",
+          "cn:relation": [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        }
+      ],
+      "description": "Bonds market data, news, and the latest trading info on US treasuries and government bond markets from around the world.",
+      "cn:section": {
+        "cn:branding": "cnbc",
+        "cn:subDomain": "https://qa-aws03web.cnbc.com",
+        "url": "https://qa-aws03web.cnbc.com/markets/",
+        "cn:type": "franchise",
+        "cn:creatorOverwrite": "",
+        "@id": "102",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/102",
+        "cn:slug": "Markets Redesign",
+        "cn:subType": "markets",
+        "cn:title": "Markets",
+        "cn:tagName": "Markets",
+        "cn:sectionHierarchy": [{
+            "id": 102,
+            "tagName": "Markets",
+            "order": 1
+          },
+          {
+            "id": 10000161,
+            "tagName": "CNBC Global",
+            "order": 2
+          }
+        ],
+        "cn:sectionLabel": "Markets",
+        "cn:liveURL": "/markets/",
+        "cn:settings": {
+          "cn:commentsEnabled": "Yes",
+          "cn:dateline": "Yes",
+          "cn:isFamilyFriendly": "Yes",
+          "cn:socialtoolsEnabled": "Yes",
+          "cn:displayByline": "Yes",
+          "cn:displaySource": "Yes",
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:outbrainEnabled": "Yes",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "View up-to-date U.S. market and world market charts. Get the latest on world economy news and global markets in our Market Overview.",
+        "cn:sectionLinktext": "Markets",
+        "headline": "Markets",
+        "datePublished": "2016-10-26T15:47:24+0000",
+        "cn:historicalURL": [
+          "/markets-redesign/"
+        ],
+        "cn:tabLabel": "Markets",
+        "cn:bodyTeaser": "null",
+        "cn:shortestDescription": "View up-to-date U.S. market and world market charts.",
+        "cn:summary": "View up-to-date U.S. market and world market charts. Get the latest on world economy news and global markets in our Market Overview.",
+        "cn:editedBy": "Alex.Dao",
+        "cn:createdBy": "zhao.yu",
+        "cn:shorterDescription": "US Stocks (Dow Jones, S&P 500, NASDAQ), World Markets, Bonds, Forex, Key Commodities, ETFs and More",
+        "name": "Markets",
+        "cn:sectionColor": "#000000",
+        "cn:promoText": "",
+        "cn:showTime": "",
+        "@type": "Collection"
+      },
+      "cn:sectionHierarchy": [{
+          "id": 102,
+          "tagName": "Markets",
+          "order": 1
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 2
+        }
+      ],
+      "cn:historicalURL": [
+        "/id/15839203"
+      ],
+      "cn:editedBy": "Alexandra Gibbs",
+      "cn:createdBy": "migration",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "Bonds",
+      "@type": "Collection",
+      "cn:relation": [{
+        "position": 4393,
+        "cn:relationType": "navigation",
+        "cn:isPromoted": "true"
+      }]
+    },
+    {
+      "@id": "15839178",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/15839178",
+      "cn:type": "franchise",
+      "cn:slug": "Currencies",
+      "cn:subType": "markets",
+      "cn:tagName": "Currencies",
+      "cn:title": "Currencies",
+      "cn:creatorOverwrite": "",
+      "cn:branding": "buffett",
+      "cn:subDomain": "https://qa-aws03buffett.cnbc.com",
+      "url": "https://qa-aws03buffett.cnbc.com/currencies/",
+      "cn:liveURL": "/currencies/",
+      "cn:createdBy": "migration",
+      "cn:editedBy": "roshan.varghese",
+      "datePublished": "2013-11-21T12:28:57+0000",
+      "cn:summary": "Currencies, Currency Markets, News and Rates on International Currency",
+      "cn:sectionLinktext": "Currencies",
+      "headline": "Currencies",
+      "cn:sectionLabel": "Currencies",
+      "cn:tabLabel": "FX",
+      "cn:shorterDescription": "Currencies, Currency Markets, News and Rates on International Currency",
+      "cn:shortestDescription": "Currencies, Markets, and Rates on International Currency",
+      "cn:bodyTeaser": "null",
+      "cn:sectionHierarchy": [{
+          "id": 15839178,
+          "tagName": "Currencies",
+          "order": 1
+        },
+        {
+          "id": 102,
+          "tagName": "Markets",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "cn:featuredMedia": {
+        "cn:isPromoted": "false",
+        "cn:isHighTouch": "true",
+        "@type": "ImageObject",
+        "cn:type": "image",
+        "cn:creatorOverwrite": "",
+        "@id": "104847562",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104847562",
+        "cn:slug": "New Image 2021",
+        "cn:title": "",
+        "cn:tagName": "",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/api/v1/image/104847562-angular-reactive-chart-hero-copy.jpg?v=1517608800",
+        "description": "",
+        "author": "",
+        "contentSize": 289227,
+        "caption": "",
+        "copyrightHolder": "",
+        "height": "900",
+        "width": "1200"
+      },
+      "cn:settings": {
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "cn:association": [{
+          "@type": "ImageObject",
+          "cn:type": "image",
+          "cn:creatorOverwrite": "",
+          "@id": "104847562",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104847562",
+          "cn:slug": "New Image 2021",
+          "cn:title": "",
+          "cn:tagName": "",
+          "url": "https://qa-aws02capi-img-origin.cnbc.com/api/v1/image/104847562-angular-reactive-chart-hero-copy.jpg?v=1517608800",
+          "description": "",
+          "author": "",
+          "contentSize": 289227,
+          "caption": "",
+          "copyrightHolder": "",
+          "height": "900",
+          "width": "1200",
+          "cn:relation": [{
+            "cn:relationType": "featured_media",
+            "cn:isPromoted": "false",
+            "cn:isHighTouch": "true"
+          }]
+        },
+        {
+          "cn:branding": "cnbc",
+          "cn:subDomain": "https://qa-aws03web.cnbc.com",
+          "url": "https://qa-aws03web.cnbc.com/markets/",
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "102",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/102",
+          "cn:slug": "Markets Redesign",
+          "cn:subType": "markets",
+          "cn:title": "Markets",
+          "cn:tagName": "Markets",
+          "description": "View up-to-date U.S. market and world market charts. Get the latest on world economy news and global markets in our Market Overview.",
+          "name": "Markets",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "section",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "section",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "section",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        },
+        {
+          "cn:branding": "cnbc",
+          "cn:subDomain": "https://qa-aws03web.cnbc.com",
+          "url": "https://qa-aws03web.cnbc.com/geico/",
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "104847512",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104847512",
+          "cn:slug": "Geico Insurance",
+          "cn:subType": "news_section",
+          "cn:title": "Geico",
+          "cn:tagName": "Geico Insurance tag",
+          "description": "Millennials",
+          "name": "Geico",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "carousel",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:branding": "cnbc",
+          "cn:subDomain": "https://qa-aws03web.cnbc.com",
+          "url": "https://qa-aws03web.cnbc.com/ted-weschler-hedge-fund-manager/",
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "104847511",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104847511",
+          "cn:slug": "Ted Weschler section",
+          "cn:subType": "news_section",
+          "cn:title": "Ted Weschler",
+          "cn:tagName": "",
+          "description": "Millennials",
+          "name": "Ted Weschler",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "carousel",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Americas Currencies",
+          "cn:creatorOverwrite": "",
+          "@id": "100013644",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100013644",
+          "cn:slug": "Americas Currencies",
+          "cn:tagName": "Americas Currencies",
+          "cn:subType": "marketsection",
+          "description": "Americas Currencies, Currency Markets, News and Rates on Americas Currency",
+          "name": "Americas Currencies",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "navigation",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:branding": "buffett",
+          "cn:subDomain": "https://qa-aws03buffett.cnbc.com",
+          "url": "https://qa-aws03buffett.cnbc.com/annual-meetings/",
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "104847528",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104847528",
+          "cn:slug": "Buffett Annual Meetings",
+          "cn:subType": "primetime_show",
+          "cn:title": "Annual Meetings",
+          "cn:tagName": "",
+          "description": "Berkshire Hathaway’s annual meetings are a financial pilgrimage, drawing throngs of Warren Buffett’s admirers from around the globe to witness him and his vice chairman, Charlie Munger, take questions from journalists, analysts, and shareholders for seven hours in Omaha, Nebraska.",
+          "name": "Annual Meetings",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "carousel",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Asia-Pacific Currencies",
+          "cn:creatorOverwrite": "",
+          "@id": "100010799",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100010799",
+          "cn:slug": "Asia-Pacific Currencies",
+          "cn:tagName": "Asia-Pacific Currencies",
+          "cn:subType": "marketsection",
+          "description": "Asia-Pacific Currencies, Currency Markets, News and Rates on Asia-Pacific Currency",
+          "name": "Asia-Pacific Currencies",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "navigation",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:branding": "buffett",
+          "cn:subDomain": "https://qa-aws03buffett.cnbc.com",
+          "url": "https://qa-aws03buffett.cnbc.com/2017-berkshire-hathaway-annual-meeting/",
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "104847537",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104847537",
+          "cn:slug": "2017 Berkshire Hathaway Annual Meeting",
+          "cn:subType": "section",
+          "cn:title": "Berkshire Hathaway Annual Meeting",
+          "cn:tagName": "",
+          "description": "A series of scandals at Wells Fargo has Buffett defending Berkshire’s big stake in the bank. He also makes the case for his Coca-Cola habit, explains why he changed his mind on the airline stocks he once called a “death trap,” criticizes “financial helpers,” and reveals the stock he was “too dumb” to even consider buying.  Testing",
+          "name": "Berkshire Hathaway Annual Meeting",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "carousel",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:branding": "cnbc",
+          "cn:subDomain": "https://qa-aws03web.cnbc.com",
+          "url": "https://qa-aws03web.cnbc.com/ceo-succession-buffett/",
+          "cn:type": "franchise",
+          "cn:creatorOverwrite": "",
+          "@id": "104847522",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104847522",
+          "cn:slug": "CEO Succession Section",
+          "cn:subType": "news_section",
+          "cn:title": "CEO Succession",
+          "cn:tagName": "",
+          "description": "Millennials",
+          "name": "CEO Succession",
+          "cn:sectionColor": "#000000",
+          "cn:promoText": "",
+          "cn:showTime": "",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "carousel",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Europe Currencies",
+          "cn:creatorOverwrite": "",
+          "@id": "100010802",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100010802",
+          "cn:slug": "Europe Currencies",
+          "cn:tagName": "Europe Currencies",
+          "cn:subType": "blog",
+          "description": "Europe Currencies, Currency Markets, News and Rates on Europe Currency",
+          "name": "Europe Currencies",
+          "@type": "Collection",
+          "cn:relation": [{
+            "cn:relationType": "navigation",
+            "cn:isPromoted": "false"
+          }]
+        },
+        {
+          "cn:type": "franchise",
+          "cn:title": "Franchise Root",
+          "@id": "17",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/17",
+          "cn:slug": "Franchise Root",
+          "name": "Franchise Root",
+          "@type": "Collection",
+          "cn:relation": [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            },
+            [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }],
+            [{
+              "cn:relationType": "parent",
+              "cn:isPromoted": "false"
+            }]
+          ]
+        }
+      ],
+      "description": "Currencies, Currency Markets, News and Rates on International Currency",
+      "cn:section": {
+        "cn:branding": "cnbc",
+        "cn:subDomain": "https://qa-aws03web.cnbc.com",
+        "url": "https://qa-aws03web.cnbc.com/markets/",
+        "cn:type": "franchise",
+        "cn:creatorOverwrite": "",
+        "@id": "102",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/102",
+        "cn:slug": "Markets Redesign",
+        "cn:subType": "markets",
+        "cn:title": "Markets",
+        "cn:tagName": "Markets",
+        "cn:sectionHierarchy": [{
+            "id": 102,
+            "tagName": "Markets",
+            "order": 1
+          },
+          {
+            "id": 10000161,
+            "tagName": "CNBC Global",
+            "order": 2
+          }
+        ],
+        "cn:sectionLabel": "Markets",
+        "cn:liveURL": "/markets/",
+        "cn:settings": {
+          "cn:commentsEnabled": "Yes",
+          "cn:dateline": "Yes",
+          "cn:isFamilyFriendly": "Yes",
+          "cn:socialtoolsEnabled": "Yes",
+          "cn:displayByline": "Yes",
+          "cn:displaySource": "Yes",
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:outbrainEnabled": "Yes",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "View up-to-date U.S. market and world market charts. Get the latest on world economy news and global markets in our Market Overview.",
+        "cn:sectionLinktext": "Markets",
+        "headline": "Markets",
+        "datePublished": "2016-10-26T15:47:24+0000",
+        "cn:historicalURL": [
+          "/markets-redesign/"
+        ],
+        "cn:tabLabel": "Markets",
+        "cn:bodyTeaser": "null",
+        "cn:shortestDescription": "View up-to-date U.S. market and world market charts.",
+        "cn:summary": "View up-to-date U.S. market and world market charts. Get the latest on world economy news and global markets in our Market Overview.",
+        "cn:editedBy": "Alex.Dao",
+        "cn:createdBy": "zhao.yu",
+        "cn:shorterDescription": "US Stocks (Dow Jones, S&P 500, NASDAQ), World Markets, Bonds, Forex, Key Commodities, ETFs and More",
+        "name": "Markets",
+        "cn:sectionColor": "#000000",
+        "cn:promoText": "",
+        "cn:showTime": "",
+        "@type": "Collection"
+      },
+      "cn:historicalURL": [
+        "/id/15839178"
+      ],
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "Currencies",
+      "cn:sectionColor": "#000000",
+      "cn:promoText": "",
+      "cn:showTime": "",
+      "@type": "Collection",
+      "cn:relation": [{
+        "position": 4392,
+        "cn:relationType": "navigation",
+        "cn:isPromoted": "true"
+      }]
+    },
+    {
+      "@id": "17",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/17",
+      "cn:type": "franchise",
+      "cn:slug": "Franchise Root",
+      "cn:title": "Franchise Root",
+      "cn:liveURL": "/id/17",
+      "datePublished": "2002-12-01T05:00:00+0000",
+      "cn:bodyTeaser": "",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes"
+      },
+      "cn:sectionHierarchy": [],
+      "cn:editedBy": "admin",
+      "cn:historicalURL": [],
+      "cn:createdBy": "admin",
+      "cn:sectionLinktext": "",
+      "headline": "Franchise Root",
+      "cn:sectionLabel": "",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "Franchise Root",
+      "@type": "Collection",
+      "cn:relation": [{
+        "position": 1,
+        "cn:relationType": "parent",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "fileFormat": "text/tpl",
+      "@id": "10007",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10007",
+      "cn:type": "markup_template",
+      "cn:slug": "Topic Template",
+      "cn:tagName": "",
+      "cn:title": "Topic Template",
+      "cn:creatorOverwrite": "",
+      "cn:liveURL": "",
+      "cn:createdBy": "ingest",
+      "cn:editedBy": "chris.larsen",
+      "datePublished": "2012-08-09T14:58:03+0000",
+      "cn:summary": "",
+      "cn:linkHeadline": "",
+      "headline": "Topic Template",
+      "cn:shorterHeadline": "",
+      "cn:shortestHeadline": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><br /></p></div></group></body>",
+      "cn:sectionHierarchy": [],
+      "cn:settings": {
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:commentsEnabled": "Yes"
+      },
+      "description": "",
+      "cn:historicalURL": [],
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "franchise.tpl",
+      "url": "file://franchise.tpl",
+      "@type": "DigitalDocument",
+      "cn:relation": [{
+        "position": 1,
+        "cn:relationType": "template",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@id": "100003343",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100003343",
+      "cn:type": "skin",
+      "cn:slug": "cnbc global skin",
+      "cn:tagName": "",
+      "cn:title": "",
+      "cn:creatorOverwrite": "",
+      "cn:liveURL": "",
+      "datePublished": "2012-07-30T19:54:30+0000",
+      "cn:summary": "",
+      "cn:linkHeadline": "",
+      "headline": "",
+      "cn:shorterHeadline": "",
+      "cn:shortestHeadline": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "",
+      "cn:sectionHierarchy": [],
+      "cn:editedBy": "matt.shade",
+      "cn:historicalURL": [],
+      "cn:createdBy": "matt.shade",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@type": "DigitalDocument",
+      "cn:relation": [{
+        "position": 1,
+        "cn:relationType": "skin",
+        "cn:isPromoted": "false"
+      }]
+    }
+  ]
+}

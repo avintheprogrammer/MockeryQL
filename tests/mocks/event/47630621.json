@@ -1,0 +1,41 @@
+{
+  "data": {
+    "event": {
+      "id": 47630621,
+      "type": "event",
+      "brand": "cnbc",
+      "slug": "Farnborough Airshow 2012",
+      "summary": "Industry insiders will be paying attention to who is winning orders from whom and how business stacks up in a sluggish global economy.",
+      "shorterDescription": "Find out what companies and planes are on display at one the biggest events in the aerospace industry.",
+      "url": "http://qa-aws01web.cnbc.com/2012/07/28/farnborough-international-airshow-2012.html",
+      "author": [],
+      "native": false,
+      "premium": false,
+      "headline": "Farnborough International Airshow 2012",
+      "publisher": {
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "description": "Industry insiders will be paying attention to who is winning orders from whom and how business stacks up in a sluggish global economy.",
+      "articlebody": null,
+      "body": [],
+      "keyPoints": [],
+      "dateModified": "2018-01-19T17:15:34 GMT",
+      "datePublished": "2012-07-28T07:54:43 GMT",
+      "dateLastPublished": "2018-01-19T17:15:33 GMT",
+      "startDate": "2018-01-26T05:00:00 GMT",
+      "endDate": "2018-01-31T05:00:00 GMT",
+      "timezone": "EST",
+      "registrationDeadlineDate": "2018-01-22T05:00:00 GMT",
+      "status": "open",
+      "capacity": 4000,
+      "phone": "888-867-5309",
+      "email": "test@example.com",
+      "landingPage": null,
+      "location": "Brooklyn, NY",
+      "image": {
+        "id": 100003303
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "data": {
+    "security": {
+      "id": 104816427,
+      "url": "/quotes/?symbol=EEM-MX",
+      "slug": "iShares MSCI Emerging Markets ETF T:EEM-MX",
+      "name": "iShares MSCI Emerging Markets ETF",
+      "type": "security",
+      "brand": "cnbc",
+      "summary": "iShares MSCI Emerging Markets ETF",
+      "shorterDescription": "MSCI Emerging Markets ETF",
+      "symbol": "EEM-MX",
+      "native": false,
+      "premium": false,
+      "issueId": 2203956,
+      "publisher": {
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/104816427",
+      "datePublished": "2017-11-02T19:07:22 GMT",
+      "tickerSymbol": "Mexico Stock Exchange EEM-MX",
+      "exchangeName": "Mexico Stock Exchange",
+      "sourceOrganization": [
+        {
+          "id": 112,
+          "url": null,
+          "type": "source",
+          "slug": "GDS Securities",
+          "name": null,
+          "logo": "http://fm.cnbc.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif",
+          "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/112",
+          "description": "Global data-pool system"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "data": {
+    "video": {
+      "id": "104584341",
+      "type": "cnbcvideo",
+      "brand": "cnbc",
+      "datePublished": "2017-07-13T13:47:10 GMT",
+      "dateLastPublished": "2017-07-13T14:12:29 GMT",
+      "dateModified": "2017-07-13T14:12:29 GMT",
+      "summary": "In her testimony to the Senate Banking Committee, Federal Reserve Chair Janet Yellen answers questions on reviewing the Volcker Rule, and the FOMC's plans to reduce the Fed's balance sheet.",
+      "shorterDescription": null,
+      "description": "In her testimony to the Senate Banking Committee, Federal Reserve Chair Janet Yellen answers questions on reviewing the Volcker Rule, and the FOMC's plans to reduce the Fed's balance sheet.",
+      "slug": "SOTS Yellen: We look forward  Hit 1 170713 Clem EC",
+      "headline": null,
+      "url": "http://qa-aws01pub.cnbc.com/video/2017/07/13/yellen-we-look-forward-to-working-with-other-agencies-on-volcker-rule.html",
+      "publisher": {
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "show": "Squawk on the Street",
+      "usagePlans": [
+        "MSN Money",
+        "MSNBC.com ",
+        "MobilePhones",
+        "IPTV_PDL",
+        "CNBCNews.com Website",
+        "CNBCNews.com Direct",
+        "CNBC Business Video"
+      ],
+      "image": {
+        "id": "104584398",
+        "type": "image",
+        "isPromoted": false,
+        "isHighTouch": false,
+        "creatorOverwrite": null,
+        "contentSize": 26425,
+        "caption": null,
+        "filter": null,
+        "height": 225,
+        "width": 400,
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104584398-5ED1-SOTS-Yellen1-071317.jpg?v=1499955037",
+        "datePublished": null,
+        "dateModified": null,
+        "dateLastPublished": null,
+        "publisher": {
+          "name": "CNBC",
+          "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+        },
+        "focalPoints": null,
+        "copyrightHolder": null,
+        "slug": "SOTS Yellen: We look forward  Hit 1 170713 Clem EC_1499955033",
+        "description": null
+      },
+      "encodings": null
+    }
+  }
+}

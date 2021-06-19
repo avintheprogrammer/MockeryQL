@@ -1,0 +1,2727 @@
+{
+  "@id": "104844669",
+  "cn:type": "blogpost",
+  "cn:slug": "Remix - GURDUS - 171115 - MM",
+  "cn:title": "Cramer Remix: Investors should take shelter in Home Depot’s stock despite today’s action",
+  "headline": "Cramer Remix: Investors, take shelter in Home Depot’s stock despite the action",
+  "cn:creatorOverwrite": "",
+  "cn:editedBy": "rekha.ponnur",
+  "cn:historicalURL": [],
+  "cn:createdBy": "Elizabeth.gurdus@nbcuni.com",
+  "cn:subDomain": "CNBC.com",
+  "cn:branding": "CNBC",
+  "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104844669",
+  "url": "http://qa-aws01web.cnbc.com/2017/11/15/cramer-remix-investors-should-take-shelter-in-home-depots-stock.html",
+  "datePublished": "2017-11-16T00:00:29+0000",
+  "sourceOrganization": [{
+    "@type": "Organization",
+    "@id": "80000022",
+    "cn:type": "source",
+    "cn:slug": "CNBC US Source",
+    "cn:title": "",
+    "headline": "",
+    "cn:creatorOverwrite": "",
+    "cn:editedBy": "john.schoen",
+    "cn:historicalURL": [],
+    "cn:createdBy": "migration",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/80000022",
+    "url": "",
+    "cn:sourceName": "CNBC.com",
+    "description": "CNBC.com"
+  }],
+  "cn:section": [{
+    "id": 15838459,
+    "tagName": "Mad Money",
+    "order": 1
+  }, {
+    "id": 100008328,
+    "tagName": "U.S. Business Day",
+    "order": 2
+  }, {
+    "id": 15839263,
+    "tagName": "Video and TV",
+    "order": 3
+  }, {
+    "id": 10000161,
+    "tagName": "CNBC Global",
+    "order": 4
+  }],
+  "description": "Jim Cramer explained why it’s still worth building a position in the stock of Home Depot.",
+  "cn:settings": {
+    "cn:commentsEnabled": "Yes",
+    "cn:socialtoolsEnabled": "Yes",
+    "cn:premium": "Yes",
+    "cn:dateline": "Yes",
+    "cn:displayByline": "Yes",
+    "cn:displaySource": "Yes",
+    "cn:outbrainEnabled": "Yes",
+    "cn:isFamilyFriendly": "Yes",
+    "cn:listType": "Virtual",
+    "cn:tweetOnPublish": 0
+  },
+  "author": [{
+    "@type": "Creator",
+    "@id": "103964735",
+    "name": "Elizabeth Gurdus",
+    "url": "http://qa-aws01web.cnbc.com/elizabeth-gurdus/",
+    "image": "https://qa-aws02capi-img-origin.cnbc.com/image/104381058-20170331-1694-2360.jpg?v=1491235144",
+    "position": "5000",
+    "sameAs": ["https://www.twitter.com/lizzygurdus"],
+    "cn:socialMediaInfo": [{
+      "cn:url": "https://twitter.com/lizzygurdus",
+      "cn:displayText": "lizzygurdus",
+      "cn:type": "twitter"
+    }]
+  }],
+  "image": {
+    "representativeOfPage": "true",
+    "@type": "ImageObject",
+    "@id": 104741387,
+    "author": "",
+    "datePublished": "2017-09-29T17:15:44+0000",
+    "caption": "Jim Cramer on \"Mad Money.\"",
+    "description": "",
+    "copyrightHolder": "Scott Mlyn | CNBC",
+    "height": "1333",
+    "width": "2000",
+    "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104741387-IMG_8445-jim-cramer.jpg?v=1506705339"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "CNBC",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "@context": {
+    "cn": "http://cnbc.com/schema/",
+    "@vocab": "http://schema.org/"
+  },
+  "@type": "BlogPosting",
+  "cn:xmlArticleBody": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104844699\" autoplay_flag=\"true\"/></assets><div class=\"group\"><p>There are some days in the market when taking cues from stocks' movements can be detrimental, CNBC's Jim Cramer said Wednesday.</p><p>\"I see stupid things happening all over the place, so I'm urging you not to jump to any conclusions based on <asset_inline nid=\"104843662\">the tape</asset_inline>,\" the \"<asset_inline nid=\"15838459\">Mad Money</asset_inline>\" host said. \"Remember, the big money managers who control the day-to-day gyrations in stocks get things wrong all the time.\"</p><p>One example was <asset_inline nid=\"1508056\">Home Depot</asset_inline>. Ahead of the <asset_inline nid=\"104835073\">retailer's Tuesday earnings report</asset_inline>, its stock opened down $2 as sellers braced themselves for what they expected to be a mediocre quarter.</p><p>To their dismay, the home furnishings giant reported a sweeping earnings beat with dramatically higher-than-expected same-store sales growth, a key metric for the retail sector. Same-store comparisons came in at 7.9 percent year over year when analysts were expecting 5.8 percent.</p><p>As a result, shares of Home Depot popped roughly 2 percent on the news.</p><p>\"Now, if you were just taking your cue from the action you would've decided that Home Depot had a terrible quarter,\" Cramer said. \"Of course, Home Depot's stock got dinged again today thanks to the market-wide sell-off and the usual worries about what <asset_inline nid=\"1502862\">Amazon's</asset_inline> going to do next now that it's devastated the supermarket space with its newfound price cuts. But home improvement is still very much Home Depot's wheelhouse. I think the stock's a buy.\"</p></div></group><group><subtitle><![CDATA[Square CFO Sarah Friar on bitcoin]]></subtitle><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"/></group><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104845377\"/></assets><div class=\"group\"><p><asset_inline nid=\"104844005\">Square's latest venture</asset_inline> into the world of <asset_inline nid=\"101423069\">bitcoin</asset_inline> is less of a validation of the popular cryptocurrency than it is a testament to innovation, <asset_inline nid=\"103109967\">Square</asset_inline> CFO Sarah Friar told CNBC.</p><p>\"We're a payment innovator. And therefore I think it behooves us to always know, where are our payments going?\" Friar told Cramer on Wednesday. \"When we develop products at Square, we spend a lot of time listening to what our customers want, and what we heard from individuals – so this isn't sellers asking to accept bitcoin, this is individuals using Square Cash to make payments ... saying, 'We want an easy way to buy and sell bitcoin.'\"</p><p>Friar said that companies like hers have no time for academic papers or studies. The fastest way to understand new trends is to actually <asset_inline nid=\"104844639\">build products around them, the CFO said</asset_inline>.</p></div></group><group><subtitle><![CDATA[Investigating millennials]]></subtitle><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"/></group><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104124539\"/></assets><div class=\"group\"><p>Cramer has found that millennials both hate and love change.</p><p>They hate physical change, so much so that they'd rather pay for a $4.32 purchase with a credit card than have to keep 68 cents jingling in their pockets or wallets.</p><p>But they love other kinds of change, the kinds that make companies more efficient, more \"green\" and more cost-effective.</p><p>\"I've spent a huge amount of time on this show trying to figure out how millennials tick because they hold the key to growth for so many industries,\" the \"Mad Money\" host said. \"You can't run a consumer business without appealing to the younger generation, and I tire of all the so-called experts who find kids these days to be unfathomable. In truth, <asset_inline nid=\"104844641\">they're anything but</asset_inline>.\"</p></div></group><group><subtitle><![CDATA[Flywheel CEO on building her brand]]></subtitle><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"/></group><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104845405\"/></assets><div class=\"group\"><p>After&#160;Flywheel rolled out its new Fly Anywhere stationery bike product for spinning at home, CEO Sarah Robb O'Hagan told CNBC that she didn't think it would affect the community her company has built for its riders.</p><p>\"The way we think about it from a business model standpoint is that the whole will be greater than the sum of its parts,\" <asset_inline nid=\"104844581\">Robb O'Hagan told Cramer on Wednesday</asset_inline>. \"We have 42 studios today. We're quite bullish about the studio experience itself and rolling that out, but as you know, there's a limit to how many locations in the U.S. you're ever going to get to,&#160;whereas once you offer an experience like this, you're building that brand equity that people hear about&#160;[and] go, 'Hey, I've heard of that. I can't get to a studio, but I can put it in my home.'\"</p><p>Robb O'Hagan said that 100 million Americans work out at least one day a week, but Flywheel's focus is more on the 40 million that work out five&#160;to six days a week.</p><p>That hyper-athletic bunch make up between 70 and 80 percent of Flywheel's rider base, and the CEO said it's her company's target audience.</p><p>\"We get the super-into-fitness people and we want to get more of them,\" she said. \"This is the cohort that's spinning, they're outdoor cycling, they're running, they're doing events. This is a lifestyle for them. And so when you think&#160;[of it as] share of wallet, we're not just competing just straight, head-for-head with fitness dollars.&#160;It's all the other things in that lifestyle, the equipment, that goes into it.\"</p></div></group><group><subtitle><![CDATA[Welbilt CEO on how the internet of things boosts business]]></subtitle><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p>As a leading provider of food services and equipment to major chains like McDonald's, Starbucks and Pizza Hut, <asset_inline nid=\"103742013\">Welbilt</asset_inline> has to have its finger on the pulse of the latest trends.</p><p><asset_inline nid=\"104844577\">That's why the internet of things is so important</asset_inline> for the kitchen equipment giant, Webilt CEO Hubertus Muehlhauser told Cramer on Wednesday.</p><p>\"What we're doing right now is we're connecting our equipment not only in order to be able to automate, but also to be able to upload information into the cloud that is very, very important for those operators,\" Muehlhauser said.</p><p>Food operators use the data to analyze shelf lives, inspect their processes and find more efficient uses for things like fryer oil. But Welbilt also uses data, albeit for other uses.</p><p>\"At the same time, it's, for us, very important because we do predictive, preventive maintenance, so we would like to know which spare part is going to fail before it fails in order to guarantee up-time,\" the CEO said. \"That is the exciting development with IoT and we're investing a lot of money into that.\"</p></div></group><group><subtitle><![CDATA[Lightning Round: Earnings reactions]]></subtitle><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p>In <asset_inline nid=\"104844642\">Cramer's lightning round</asset_inline>, he shared his take on some callers' favorite stocks:</p><p><asset_inline nid=\"101758765\">GoPro Inc.</asset_inline>: \"I thought GoPro would have a better quarter. I still think it might be OK, but boy, they did throw cold water on the whole darned situation in that last conference call.\"</p><p><asset_inline nid=\"1505098\">Charles River Laboratories Intl. Inc.</asset_inline>: \"People thought the quarter wasn't that good. We should get [CEO] Jim Foster back on. I thought the quarter was OK. This is like <asset_inline nid=\"1508603\">Idexx Labs</asset_inline> and like <asset_inline nid=\"1508347\">Henry Schein</asset_inline>. Periodically, you get a quarter and people think it's not that great, but I like that company.\"</p><blockquote>\n<p>Questions for Cramer?<br /> Call Cramer: 1-800-743-CNBC</p>\n<p>Want to take a deep dive into Cramer's world? Hit him up!<br /> <asset_inline ext_link=\"https://twitter.com/MadMoneyOnCNBC\" ext_title=\"\">Mad Money Twitter</asset_inline> - <asset_inline ext_link=\"https://twitter.com/jimcramer\" ext_title=\"\">Jim Cramer Twitter</asset_inline> - <asset_inline ext_link=\"https://www.facebook.com/madmoney?ref=aymt_homepage_panel\" ext_title=\"\">Facebook</asset_inline> - <asset_inline ext_link=\"http://instagram.com/jimcramer\" ext_title=\"\">Instagram</asset_inline> - <asset_inline ext_link=\"https://vine.co/u/984542302087651328\" ext_title=\"\">Vine</asset_inline></p>\n<p>Questions, comments, suggestions for the \"Mad Money\" website? madcap@cnbc.com</p>\n</blockquote></div></group></body>",
+  "articlebody": "There are some days in the market when taking cues from stocks' movements can be detrimental, CNBC's Jim Cramer said Wednesday.\"I see stupid things happening all over the place, so I'm urging you not to jump to any conclusions based on the tape,\" the \"Mad Money\" host said. \"Remember, the big money managers who control the day-to-day gyrations in stocks get things wrong all the time.\"One example was Home Depot. Ahead of the retailer's Tuesday earnings report, its stock opened down $2 as sellers braced themselves for what they expected to be a mediocre quarter.To their dismay, the home furnishings giant reported a sweeping earnings beat with dramatically higher-than-expected same-store sales growth, a key metric for the retail sector. Same-store comparisons came in at 7.9 percent year over year when analysts were expecting 5.8 percent.As a result, shares of Home Depot popped roughly 2 percent on the news.\"Now, if you were just taking your cue from the action you would've decided that Home Depot had a terrible quarter,\" Cramer said. \"Of course, Home Depot's stock got dinged again today thanks to the market-wide sell-off and the usual worries about what Amazon's going to do next now that it's devastated the supermarket space with its newfound price cuts. But home improvement is still very much Home Depot's wheelhouse. I think the stock's a buy.\"Square's latest venture into the world of bitcoin is less of a validation of the popular cryptocurrency than it is a testament to innovation, Square CFO Sarah Friar told CNBC.\"We're a payment innovator. And therefore I think it behooves us to always know, where are our payments going?\" Friar told Cramer on Wednesday. \"When we develop products at Square, we spend a lot of time listening to what our customers want, and what we heard from individuals – so this isn't sellers asking to accept bitcoin, this is individuals using Square Cash to make payments ... saying, 'We want an easy way to buy and sell bitcoin.'\"Friar said that companies like hers have no time for academic papers or studies. The fastest way to understand new trends is to actually build products around them, the CFO said.Cramer has found that millennials both hate and love change.They hate physical change, so much so that they'd rather pay for a $4.32 purchase with a credit card than have to keep 68 cents jingling in their pockets or wallets.But they love other kinds of change, the kinds that make companies more efficient, more \"green\" and more cost-effective.\"I've spent a huge amount of time on this show trying to figure out how millennials tick because they hold the key to growth for so many industries,\" the \"Mad Money\" host said. \"You can't run a consumer business without appealing to the younger generation, and I tire of all the so-called experts who find kids these days to be unfathomable. In truth, they're anything but.\"After&#160;Flywheel rolled out its new Fly Anywhere stationery bike product for spinning at home, CEO Sarah Robb O'Hagan told CNBC that she didn't think it would affect the community her company has built for its riders.\"The way we think about it from a business model standpoint is that the whole will be greater than the sum of its parts,\" Robb O'Hagan told Cramer on Wednesday. \"We have 42 studios today. We're quite bullish about the studio experience itself and rolling that out, but as you know, there's a limit to how many locations in the U.S. you're ever going to get to,&#160;whereas once you offer an experience like this, you're building that brand equity that people hear about&#160;[and] go, 'Hey, I've heard of that. I can't get to a studio, but I can put it in my home.'\"Robb O'Hagan said that 100 million Americans work out at least one day a week, but Flywheel's focus is more on the 40 million that work out five&#160;to six days a week.That hyper-athletic bunch make up between 70 and 80 percent of Flywheel's rider base, and the CEO said it's her company's target audience.\"We get the super-into-fitness people and we want to get more of them,\" she said. \"This is the cohort that's spinning, they're outdoor cycling, they're running, they're doing events. This is a lifestyle for them. And so when you think&#160;[of it as] share of wallet, we're not just competing just straight, head-for-head with fitness dollars.&#160;It's all the other things in that lifestyle, the equipment, that goes into it.\"As a leading provider of food services and equipment to major chains like McDonald's, Starbucks and Pizza Hut, Welbilt has to have its finger on the pulse of the latest trends.That's why the internet of things is so important for the kitchen equipment giant, Webilt CEO Hubertus Muehlhauser told Cramer on Wednesday.\"What we're doing right now is we're connecting our equipment not only in order to be able to automate, but also to be able to upload information into the cloud that is very, very important for those operators,\" Muehlhauser said.Food operators use the data to analyze shelf lives, inspect their processes and find more efficient uses for things like fryer oil. But Welbilt also uses data, albeit for other uses.\"At the same time, it's, for us, very important because we do predictive, preventive maintenance, so we would like to know which spare part is going to fail before it fails in order to guarantee up-time,\" the CEO said. \"That is the exciting development with IoT and we're investing a lot of money into that.\"In Cramer's lightning round, he shared his take on some callers' favorite stocks:GoPro Inc.: \"I thought GoPro would have a better quarter. I still think it might be OK, but boy, they did throw cold water on the whole darned situation in that last conference call.\"Charles River Laboratories Intl. Inc.: \"People thought the quarter wasn't that good. We should get [CEO] Jim Foster back on. I thought the quarter was OK. This is like Idexx Labs and like Henry Schein. Periodically, you get a quarter and people think it's not that great, but I like that company.\"\nQuestions for Cramer? Call Cramer: 1-800-743-CNBC\nWant to take a deep dive into Cramer's world? Hit him up! Mad Money Twitter - Jim Cramer Twitter - Facebook - Instagram - Vine\nQuestions, comments, suggestions for the \"Mad Money\" website? madcap@cnbc.com\n",
+  "cn:xmlKeyPoints": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><ul>\n<li>\"Mad Money\" host Jim Cramer explained why it's still worth building a position in the stock of Home Depot.</li>\n<li>Cramer also sat down with the CEO of Flywheel to hear about her company's newest product, which competes with Peloton.</li>\n<li>In the lightning round, Cramer gave his take on two very different companies after earnings.</li>\n</ul></div></group></body>",
+  "dateModified": "2018-01-19T22:03:43+0000",
+  "cn:section": {
+    "@type": "Collection",
+    "@id": "15838459",
+    "cn:type": "franchise",
+    "cn:slug": "Mad Money",
+    "cn:title": "Mad Money with Jim Cramer",
+    "headline": "Mad Money",
+    "cn:creatorOverwrite": "",
+    "cn:historicalURL": ["/id/15838459"],
+    "cn:editedBy": "Tahir",
+    "cn:createdBy": "migration",
+    "cn:subDomain": "CNBC.com",
+    "cn:branding": "CNBC",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15838459",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:dateline": "Yes",
+      "cn:displayByline": "Yes",
+      "cn:displaySource": "Yes",
+      "cn:outbrainEnabled": "Yes",
+      "cn:isFamilyFriendly": "Yes",
+      "cn:listType": "Manual and/or populated by feeds",
+      "cn:tweetOnPublish": 0
+    },
+    "url": "http://qa-aws01web.cnbc.com/mad-money/",
+    "datePublished": "2014-02-20T00:07:49+0000",
+    "cn:section": [{
+      "id": 100008328,
+      "tagName": "U.S. Business Day",
+      "order": 1
+    }, {
+      "id": 15839263,
+      "tagName": "Video and TV",
+      "order": 2
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 3
+    }],
+    "cn:subtype": "news_show",
+    "description": "Mad Money seeks to help people like you, who own stocks and feel like they're on the outside looking in, become better investors. To teach you how to think about the market like a pro. This show is not about picking stocks. It's not about giving you tips that will make you money overnight. Our mission is educational, to teach you how to analyze stocks and the market through the prism of events.",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 5000,
+      "cn:relationType": "section",
+      "cn:isPromoted": "false"
+    }, {
+      "position": 17,
+      "cn:relationType": "tags",
+      "cn:isPromoted": "false"
+    }]
+  },
+  "cn:association": [{
+    "@id": "104741387",
+    "cn:type": "image",
+    "cn:slug": "CNBC: Jim Cramer on Mad Money 170926 002",
+    "cn:title": "",
+    "headline": "",
+    "cn:creatorOverwrite": "Scott Mlyn | CNBC",
+    "cn:historicalURL": [],
+    "cn:editedBy": "scott.mlyn",
+    "cn:createdBy": "scott.mlyn",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:dateline": "Yes",
+      "cn:displayByline": "Yes",
+      "cn:displaySource": "Yes",
+      "cn:outbrainEnabled": "Yes",
+      "cn:isFamilyFriendly": "Yes",
+      "cn:listType": "Virtual",
+      "cn:tweetOnPublish": 0
+    },
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104741387",
+    "author": "",
+    "contentSize": 308542,
+    "datePublished": "2017-09-29T17:15:44+0000",
+    "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104741387-IMG_8445-jim-cramer.jpg?v=1506705339",
+    "cn:section": [],
+    "caption": "Jim Cramer on \"Mad Money.\"",
+    "description": "",
+    "height": "1333",
+    "width": "2000",
+    "@type": "ImageObject",
+    "representativeOfPage": "true",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 5000,
+      "cn:relationType": "promo",
+      "cn:isPromoted": "true"
+    }]
+  }, {
+    "@type": "Person",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:dateline": "Yes",
+      "cn:displayByline": "Yes",
+      "cn:displaySource": "Yes",
+      "cn:outbrainEnabled": "Yes",
+      "cn:isFamilyFriendly": "Yes",
+      "cn:listType": "Virtual",
+      "cn:tweetOnPublish": 0
+    },
+    "@id": "103964735",
+    "cn:type": "creator",
+    "cn:slug": "Elizabeth Gurdus",
+    "cn:title": "Elizabeth Gurdus",
+    "headline": "Elizabeth Gurdus",
+    "cn:creatorOverwrite": "",
+    "cn:historicalURL": [],
+    "cn:editedBy": "Elisabeth.Cordova",
+    "cn:createdBy": "Elizabeth.gurdus@nbcuni.com",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103964735",
+    "url": "http://qa-aws01web.cnbc.com/elizabeth-gurdus/",
+    "image": "https://qa-aws02capi-img-origin.cnbc.com/image/104381058-20170331-1694-2360.jpg?v=1491235144",
+    "datePublished": "2016-09-23T16:05:40+0000",
+    "cn:section": [{
+      "id": 10000087,
+      "tagName": "CNBC Anchors and Reporters",
+      "order": 1
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 2
+    }],
+    "name": "Elizabeth Gurdus",
+    "givenName": "Elizabeth",
+    "familyName": "Gurdus",
+    "jobTitle": "News Associate",
+    "email": "elizabeth.gurdus@nbcuni.com",
+    "telephone": "",
+    "sameAs": ["https://www.twitter.com/lizzygurdus"],
+    "cn:socialMediaInfo": [{
+      "cn:url": "https://twitter.com/lizzygurdus",
+      "cn:displayText": "lizzygurdus",
+      "cn:type": "twitter"
+    }],
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 5000,
+      "cn:relationType": "author",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@type": "Organization",
+    "@id": "80000022",
+    "cn:type": "source",
+    "cn:slug": "CNBC US Source",
+    "cn:title": "",
+    "headline": "",
+    "cn:creatorOverwrite": "",
+    "cn:editedBy": "john.schoen",
+    "cn:historicalURL": [],
+    "cn:createdBy": "migration",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/80000022",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes"
+    },
+    "url": "",
+    "cn:sourceName": "CNBC.com",
+    "datePublished": "2011-10-06T17:33:47+0000",
+    "cn:section": [],
+    "description": "CNBC.com",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 4999,
+      "cn:relationType": "source",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@type": "DigitalDocument",
+    "fileFormat": "text/tpl",
+    "@id": "102876524",
+    "cn:type": "markup_template",
+    "cn:slug": "Story Simple Right Rail template",
+    "cn:title": "",
+    "headline": "",
+    "cn:creatorOverwrite": "",
+    "cn:editedBy": "viktor.cea",
+    "cn:historicalURL": [],
+    "cn:createdBy": "viktor.cea",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:dateline": "Yes",
+      "cn:displayByline": "Yes",
+      "cn:displaySource": "Yes",
+      "cn:outbrainEnabled": "Yes",
+      "cn:isFamilyFriendly": "Yes",
+      "cn:listType": "Virtual"
+    },
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/102876524",
+    "datePublished": "2015-07-30T00:41:29+0000",
+    "cn:section": [],
+    "name": "story_simple.tpl",
+    "url": "file://story_simple.tpl",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 4998,
+      "cn:relationType": "template",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@type": "Corporation",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes"
+    },
+    "@id": "1508056",
+    "cn:type": "company",
+    "cn:slug": "Home Depot Inc  T:HD",
+    "cn:title": "Home Depot Inc",
+    "headline": "Home Depot Inc",
+    "cn:creatorOverwrite": "",
+    "cn:editedBy": "Aaron.Wertheim",
+    "cn:historicalURL": [],
+    "cn:createdBy": "migration",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/1508056",
+    "url": "/quotes/?symbol=",
+    "datePublished": "2012-06-30T03:16:44+0000",
+    "cn:section": [],
+    "tickerSymbol": " ",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 25,
+      "cn:relationType": "tags",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@type": "Corporation",
+    "cn:settings": {
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:commentsEnabled": "Yes"
+    },
+    "@id": "103109967",
+    "cn:type": "company",
+    "cn:slug": "Square Inc T:SQ",
+    "cn:title": "Square Inc",
+    "cn:editedBy": "ingest",
+    "cn:historicalURL": [],
+    "cn:createdBy": "ingest",
+    "headline": "Square Inc",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103109967",
+    "url": "/quotes/?symbol=SQ",
+    "datePublished": "2016-03-09T18:51:32+0000",
+    "cn:section": [],
+    "cn:symbol": "SQ",
+    "cn:exchangeName": "NYSE",
+    "cn:issuerId": 157183,
+    "tickerSymbol": "NYSE SQ",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 24,
+      "cn:relationType": "tags",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@type": "FinancialProduct",
+    "@id": "101423069",
+    "cn:type": "security",
+    "cn:slug": "Bitcoin/USD - Coinbase T:BTC=",
+    "cn:title": "Bitcoin/USD - Coinbase",
+    "cn:editedBy": "ingest",
+    "cn:historicalURL": [],
+    "cn:createdBy": "ingest",
+    "headline": "Bitcoin/USD - Coinbase",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/101423069",
+    "cn:settings": {
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:commentsEnabled": "Yes"
+    },
+    "url": "/quotes/?symbol=BTC=",
+    "datePublished": "2014-02-18T10:57:18+0000",
+    "cn:section": [],
+    "cn:symbol": "BTC=",
+    "cn:issueId": "76662810",
+    "tickerSymbol": " BTC=",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 23,
+      "cn:relationType": "tags",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@type": "Corporation",
+    "cn:settings": {
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:commentsEnabled": "Yes"
+    },
+    "@id": "103742013",
+    "cn:type": "company",
+    "cn:slug": "Manitowoc Foodservice Inc T:MFS",
+    "cn:createdBy": "ingest",
+    "cn:editedBy": "ingest",
+    "cn:title": "Manitowoc Foodservice Inc",
+    "cn:historicalURL": [],
+    "headline": "Manitowoc Foodservice Inc",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103742013",
+    "url": "/quotes/?symbol=MFS",
+    "datePublished": "2016-06-24T12:30:42+0000",
+    "cn:section": [],
+    "cn:symbol": "MFS",
+    "cn:exchangeName": "NYSE",
+    "cn:issuerId": 160082,
+    "tickerSymbol": "NYSE MFS",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 22,
+      "cn:relationType": "tags",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@type": "Corporation",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes"
+    },
+    "@id": "101758765",
+    "cn:type": "company",
+    "cn:slug": "GoPro Inc T:GPRO",
+    "cn:title": "GoPro Inc",
+    "headline": "GoPro",
+    "cn:creatorOverwrite": "",
+    "cn:editedBy": "brian.beers",
+    "cn:historicalURL": [],
+    "cn:createdBy": "ingest",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/101758765",
+    "url": "/quotes/?symbol=GPRO",
+    "datePublished": "2014-06-26T13:11:20+0000",
+    "cn:section": [],
+    "cn:symbol": "GPRO",
+    "cn:exchangeName": "NASDAQ",
+    "cn:issuerId": 149396,
+    "tickerSymbol": "NASDAQ GPRO",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 21,
+      "cn:relationType": "tags",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@id": "104845405",
+    "cn:type": "image",
+    "cn:slug": "CNBC: Sarah Robb O'Hagan, CEO Flywheel 171115 002",
+    "cn:createdBy": "scott.mlyn",
+    "cn:editedBy": "scott.mlyn",
+    "cn:title": "",
+    "headline": "",
+    "cn:creatorOverwrite": "Scott Mlyn | CNBC",
+    "cn:historicalURL": [],
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:dateline": "Yes",
+      "cn:displayByline": "Yes",
+      "cn:displaySource": "Yes",
+      "cn:outbrainEnabled": "Yes",
+      "cn:isFamilyFriendly": "Yes",
+      "cn:listType": "Virtual",
+      "cn:tweetOnPublish": 0
+    },
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104845405",
+    "author": "",
+    "contentSize": 395634,
+    "datePublished": "2017-11-15T22:33:34+0000",
+    "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104845405-IMG_5267r.jpg?v=1510785159",
+    "cn:section": [],
+    "caption": "Sarah Robb O'Hagan, CEO, Flywheel",
+    "description": "",
+    "height": "1333",
+    "width": "2000",
+    "@type": "ImageObject",
+    "representativeOfPage": "true",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 20,
+      "cn:relationType": "tags",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@id": "104124539",
+    "cn:type": "image",
+    "cn:slug": "Premium: millennials laughing",
+    "cn:title": "",
+    "headline": "",
+    "cn:creatorOverwrite": "Mike Harrington | Getty Images ",
+    "cn:historicalURL": [],
+    "cn:editedBy": "kathleen.elkins",
+    "cn:createdBy": "kathleen.elkins",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:dateline": "Yes",
+      "cn:displayByline": "Yes",
+      "cn:displaySource": "Yes",
+      "cn:outbrainEnabled": "Yes",
+      "cn:isFamilyFriendly": "Yes",
+      "cn:listType": "Virtual"
+    },
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104124539",
+    "author": "                               ",
+    "contentSize": 745438,
+    "datePublished": "2016-11-22T21:30:09+0000",
+    "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104124539-GettyImages-522410613.jpg?v=1479850215",
+    "cn:section": [],
+    "caption": "",
+    "description": "Group of young females laughing together in back of taxi, using mobile phones",
+    "height": "1330",
+    "width": "2000",
+    "@type": "ImageObject",
+    "representativeOfPage": "true",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 19,
+      "cn:relationType": "tags",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@id": "104845377",
+    "cn:type": "image",
+    "cn:slug": "CNBC: Sarah Friar, CFO, Square 171115 001",
+    "cn:createdBy": "scott.mlyn",
+    "cn:editedBy": "scott.mlyn",
+    "cn:title": "",
+    "headline": "",
+    "cn:creatorOverwrite": "Scott Mlyn | CNBC",
+    "cn:historicalURL": [],
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:dateline": "Yes",
+      "cn:displayByline": "Yes",
+      "cn:displaySource": "Yes",
+      "cn:outbrainEnabled": "Yes",
+      "cn:isFamilyFriendly": "Yes",
+      "cn:listType": "Virtual",
+      "cn:tweetOnPublish": 0
+    },
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104845377",
+    "author": "",
+    "contentSize": 244099,
+    "datePublished": "2017-11-15T22:18:34+0000",
+    "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104845377-IMG_5773r.jpg?v=1510785235",
+    "cn:section": [],
+    "caption": "Sarah Friar, CFO, Square",
+    "description": "",
+    "height": "1333",
+    "width": "2000",
+    "@type": "ImageObject",
+    "representativeOfPage": "true",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 18,
+      "cn:relationType": "tags",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@id": "104844699",
+    "cn:type": "cnbcvideo",
+    "cn:slug": "MM Remix GURDUS 171115 EC",
+    "cn:createdBy": "Elizabeth.gurdus@nbcuni.com",
+    "cn:editedBy": "Joe.Rivas",
+    "cn:title": "Cramer Remix: Investors should take shelter in Home Depot’s stock despite today’s action",
+    "headline": "Cramer Remix: Investors should take shelter in Home Depot’s stock despite today’s action",
+    "cn:creatorOverwrite": "",
+    "cn:historicalURL": [],
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104844699",
+    "url": "http://qa-aws01web.cnbc.com/video/2017/11/15/cramer-remix-investors-should-take-shelter-in-home-depots-stock.html",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:dateline": "Yes",
+      "cn:displayByline": "Yes",
+      "cn:displaySource": "Yes",
+      "cn:outbrainEnabled": "Yes",
+      "cn:isFamilyFriendly": "Yes",
+      "cn:listType": "Virtual",
+      "cn:tweetOnPublish": 0,
+      "cn:videoGeoRestrictionEnabled": "No",
+      "cn:isHighPriorityVideo": "No"
+    },
+    "datePublished": "2017-11-16T00:12:21+0000",
+    "uploadDate": "2017-11-15T17:55:43+0000",
+    "cn:section": [{
+      "id": 15838459,
+      "tagName": "Mad Money",
+      "order": 1
+    }, {
+      "id": 100008328,
+      "tagName": "U.S. Business Day",
+      "order": 2
+    }, {
+      "id": 15839263,
+      "tagName": "Video and TV",
+      "order": 3
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 4
+    }],
+    "cn:show": "Mad Money",
+    "description": "Jim Cramer explained why it’s still worth building a position in the stock of Home Depot.",
+    "duration": 70,
+    "thumbnail": "https://qa-aws02capi-img-origin.cnbc.com/image/104845559-4ED2-MM-Remix-111517.jpg?v=1510790886",
+    "cn:network": 1,
+    "encodings": [{
+      "@type": "VideoObject",
+      "url": "http://vcps.cnbc.com/vcps/media/content?id=MzAwMDY3MTU5OQptcGVnNF81MDAwMDAKU3RyZWFtaW5n&UserName=cmsguest@cnbc.com&key=NA",
+      "encodingFormat": "mpeg4",
+      "bitrate": 500000
+    }, {
+      "@type": "VideoObject",
+      "url": "http://pdl.iphone.cnbc.com/VCPS/Y1969/M12D31/3000671599/4ED2-MM-Remix-111517_L.mp4",
+      "encodingFormat": "mpeg4",
+      "bitrate": 500000
+    }, {
+      "@type": "VideoObject",
+      "url": "http://vcps.cnbc.com/vcps/media/content?id=MzAwMDY3MTU5OQptcGVnNHdfNDUwMEsKU3RyZWFtaW5n&UserName=cmsguest@cnbc.com&key=NA",
+      "encodingFormat": "mpeg4",
+      "bitrate": 4500000
+    }, {
+      "@type": "VideoObject",
+      "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M11D15/3000671599/4ED2-MM-Remix-111517_MBR_4500.mp4",
+      "encodingFormat": "mpeg4",
+      "bitrate": 4500000
+    }, {
+      "@type": "VideoObject",
+      "url": "http://vcps.cnbc.com/vcps/media/content?id=MzAwMDY3MTU5OQpGTFZfNDMyeDI0MF8zMHBfNTAwSwpTdHJlYW1pbmc&UserName=cmsguest@cnbc.com&key=NA",
+      "encodingFormat": "flv",
+      "bitrate": 500000
+    }, {
+      "@type": "VideoObject",
+      "url": "ftp://cnbc.upload.akamai.com/23727/flash/VCPS/Y2017/M11D15/3000671599/4ED2-MM-Remix-111517_FLV_432x240_30p_500K.flv",
+      "encodingFormat": "flv",
+      "bitrate": 500000
+    }, {
+      "@type": "VideoObject",
+      "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M11D15/3000671599/4ED2-MM-Remix-111517_H264_720x405_30p_1M.mp4",
+      "encodingFormat": "mpeg4",
+      "bitrate": 1100000
+    }, {
+      "@type": "VideoObject",
+      "url": "http://cnbcmbr-vh.akamaihd.net/i/mp4/VCPS/Y2017/M11D15/3000671599/4ED2-MM-Remix-111517_MBR_0500.mp4/master.m3u8",
+      "encodingFormat": "mpeg4",
+      "bitrate": 500000
+    }, {
+      "@type": "VideoObject",
+      "url": "http://cnbcmbr-vh.akamaihd.net/z/mp4/VCPS/Y2017/M11D15/3000671599/4ED2-MM-Remix-111517_MBR_0500.mp4/manifest.f4m",
+      "encodingFormat": "mpeg4",
+      "bitrate": 500000
+    }, {
+      "@type": "VideoObject",
+      "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M11D15/3000671599/4ED2-MM-Remix-111517_H264_126K.mp4",
+      "encodingFormat": "mpeg4",
+      "bitrate": 200000
+    }, {
+      "@type": "VideoObject",
+      "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M11D15/3000671599/4ED2-MM-Remix-111517_H264_480x270_25p_500K.mp4",
+      "encodingFormat": "mpeg4",
+      "bitrate": 600000
+    }, {
+      "@type": "VideoObject",
+      "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M11D15/3000671599/4ED2-MM-Remix-111517_128K.mp3",
+      "encodingFormat": "mpeg3",
+      "bitrate": 128000
+    }, {
+      "@type": "VideoObject",
+      "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M11D15/3000671599/4ED2-MM-Remix-111517_048K.mp3",
+      "encodingFormat": "mpeg3",
+      "bitrate": 48000
+    }, {
+      "@type": "VideoObject",
+      "url": "http://cnbcmbr-vh.akamaihd.net/i/mp4/VCPS/Y2017/M11D15/3000671599/4ED2-MM-Remix-111517_MBR_,0240,0300,0500,0700,0900,1300,1700,4500,.mp4.csmil/master.m3u8",
+      "encodingFormat": "mpeg4",
+      "bitrate": 1
+    }, {
+      "@type": "VideoObject",
+      "url": "http://cnbcmbr-vh.akamaihd.net/z/mp4/VCPS/Y2017/M11D15/3000671599/4ED2-MM-Remix-111517_MBR_,0240,0300,0500,0700,0900,1300,1700,4500,.mp4.csmil/manifest.f4m",
+      "encodingFormat": "mpeg4",
+      "bitrate": 1
+    }],
+    "@type": "VideoObject",
+    "representativeOfPage": "true",
+    "expireDate": "",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 16,
+      "cn:relationType": "related",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@type": "Collection",
+    "@id": "10000685",
+    "cn:type": "franchise",
+    "cn:slug": "Millennials",
+    "cn:title": "Millennials",
+    "headline": "Millennials",
+    "cn:creatorOverwrite": "",
+    "cn:historicalURL": ["/id/10000685", "/youth-market/"],
+    "cn:editedBy": "brian.beers",
+    "cn:createdBy": "migration",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000685",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Virtual"
+    },
+    "url": "http://qa-aws01web.cnbc.com/millennials/",
+    "datePublished": "2012-01-30T01:54:04+0000",
+    "cn:section": [{
+      "id": 100860757,
+      "tagName": "Art and Culture",
+      "order": 1
+    }, {
+      "id": 10001150,
+      "tagName": "Life",
+      "order": 2
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 3
+    }],
+    "cn:subtype": "section",
+    "description": "Millennials",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 16,
+      "cn:relationType": "tags",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@type": "Collection",
+    "@id": "26201683",
+    "cn:type": "franchise",
+    "cn:slug": "Millennial Money",
+    "cn:title": "Millennial Money with Cliff Mason",
+    "headline": "Millennial Money with Cliff Mason",
+    "cn:creatorOverwrite": "",
+    "cn:editedBy": "Mark.Richards",
+    "cn:historicalURL": ["/millennial-money/"],
+    "cn:createdBy": "migration",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/26201683",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes"
+    },
+    "url": "http://qa-aws01web.cnbc.com/id/26201683",
+    "datePublished": "2012-01-29T18:44:59+0000",
+    "cn:section": [{
+      "id": 100914741,
+      "tagName": "CNBC Franchise Archive",
+      "order": 1
+    }],
+    "cn:subtype": "blog",
+    "description": "Millennial Money with Cliff Mason",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 15,
+      "cn:relationType": "tags",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@id": "104844581",
+    "cn:type": "cnbcvideo",
+    "cn:slug": "MM F Block GURDUS 171115 EC",
+    "cn:createdBy": "ingest",
+    "cn:editedBy": "Joe.Rivas",
+    "cn:title": "Flywheel CEO: We're competing to capitalize on a high-fitness 'lifestyle'",
+    "headline": "Flywheel CEO: We're competing to capitalize on a high-fitness 'lifestyle'",
+    "cn:creatorOverwrite": "",
+    "cn:historicalURL": [],
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104844581",
+    "url": "http://qa-aws01web.cnbc.com/video/2017/11/15/flywheel-ceo-were-competing-to-capitalize-on-a-fitness-lifestyle.html",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:dateline": "Yes",
+      "cn:displayByline": "Yes",
+      "cn:displaySource": "Yes",
+      "cn:outbrainEnabled": "Yes",
+      "cn:isFamilyFriendly": "Yes",
+      "cn:listType": "Virtual",
+      "cn:tweetOnPublish": 0,
+      "cn:videoGeoRestrictionEnabled": "No",
+      "cn:isHighPriorityVideo": "No"
+    },
+    "datePublished": "2017-11-16T00:14:20+0000",
+    "uploadDate": "2017-11-15T17:04:12+0000",
+    "cn:section": [{
+      "id": 15838459,
+      "tagName": "Mad Money",
+      "order": 1
+    }, {
+      "id": 100008328,
+      "tagName": "U.S. Business Day",
+      "order": 2
+    }, {
+      "id": 15839263,
+      "tagName": "Video and TV",
+      "order": 3
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 4
+    }],
+    "cn:show": "Mad Money",
+    "description": "Jim Cramer spoke to Flywheel CEO Sarah Robb O’Hagan about her company's new Fly Anywhere product and the development of spinning.",
+    "duration": 385,
+    "thumbnail": "https://qa-aws02capi-img-origin.cnbc.com/image/104845565-4ED2-MM-Block-F-111517.jpg?v=1510791119",
+    "cn:network": 1,
+    "encodings": [{
+      "@type": "VideoObject",
+      "url": "http://vcps.cnbc.com/vcps/media/content?id=MzAwMDY3MTYwMAptcGVnNF81MDAwMDAKU3RyZWFtaW5n&UserName=cmsguest@cnbc.com&key=NA",
+      "encodingFormat": "mpeg4",
+      "bitrate": 500000
+    }, {
+      "@type": "VideoObject",
+      "url": "http://pdl.iphone.cnbc.com/VCPS/Y1969/M12D31/3000671600/4ED2-MM-Block-F-111517_L.mp4",
+      "encodingFormat": "mpeg4",
+      "bitrate": 500000
+    }, {
+      "@type": "VideoObject",
+      "url": "http://vcps.cnbc.com/vcps/media/content?id=MzAwMDY3MTYwMAptcGVnNHdfNDUwMEsKU3RyZWFtaW5n&UserName=cmsguest@cnbc.com&key=NA",
+      "encodingFormat": "mpeg4",
+      "bitrate": 4500000
+    }, {
+      "@type": "VideoObject",
+      "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M11D15/3000671600/4ED2-MM-Block-F-111517_MBR_4500.mp4",
+      "encodingFormat": "mpeg4",
+      "bitrate": 4500000
+    }, {
+      "@type": "VideoObject",
+      "url": "http://vcps.cnbc.com/vcps/media/content?id=MzAwMDY3MTYwMApGTFZfNDMyeDI0MF8zMHBfNTAwSwpTdHJlYW1pbmc&UserName=cmsguest@cnbc.com&key=NA",
+      "encodingFormat": "flv",
+      "bitrate": 500000
+    }, {
+      "@type": "VideoObject",
+      "url": "ftp://cnbc.upload.akamai.com/23727/flash/VCPS/Y2017/M11D15/3000671600/4ED2-MM-Block-F-111517_FLV_432x240_30p_500K.flv",
+      "encodingFormat": "flv",
+      "bitrate": 500000
+    }, {
+      "@type": "VideoObject",
+      "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M11D15/3000671600/4ED2-MM-Block-F-111517_H264_720x405_30p_1M.mp4",
+      "encodingFormat": "mpeg4",
+      "bitrate": 1100000
+    }, {
+      "@type": "VideoObject",
+      "url": "http://cnbcmbr-vh.akamaihd.net/i/mp4/VCPS/Y2017/M11D15/3000671600/4ED2-MM-Block-F-111517_MBR_0500.mp4/master.m3u8",
+      "encodingFormat": "mpeg4",
+      "bitrate": 500000
+    }, {
+      "@type": "VideoObject",
+      "url": "http://cnbcmbr-vh.akamaihd.net/z/mp4/VCPS/Y2017/M11D15/3000671600/4ED2-MM-Block-F-111517_MBR_0500.mp4/manifest.f4m",
+      "encodingFormat": "mpeg4",
+      "bitrate": 500000
+    }, {
+      "@type": "VideoObject",
+      "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M11D15/3000671600/4ED2-MM-Block-F-111517_H264_126K.mp4",
+      "encodingFormat": "mpeg4",
+      "bitrate": 200000
+    }, {
+      "@type": "VideoObject",
+      "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M11D15/3000671600/4ED2-MM-Block-F-111517_H264_480x270_25p_500K.mp4",
+      "encodingFormat": "mpeg4",
+      "bitrate": 600000
+    }, {
+      "@type": "VideoObject",
+      "url": "http://cnbcmbr-vh.akamaihd.net/i/mp4/VCPS/Y2017/M11D15/3000671600/4ED2-MM-Block-F-111517_MBR_,0240,0300,0500,0700,0900,1300,1700,4500,.mp4.csmil/master.m3u8",
+      "encodingFormat": "mpeg4",
+      "bitrate": 1
+    }, {
+      "@type": "VideoObject",
+      "url": "http://cnbcmbr-vh.akamaihd.net/z/mp4/VCPS/Y2017/M11D15/3000671600/4ED2-MM-Block-F-111517_MBR_,0240,0300,0500,0700,0900,1300,1700,4500,.mp4.csmil/manifest.f4m",
+      "encodingFormat": "mpeg4",
+      "bitrate": 1
+    }],
+    "@type": "VideoObject",
+    "representativeOfPage": "true",
+    "expireDate": "",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 15,
+      "cn:relationType": "related",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@id": "104844577",
+    "cn:type": "cnbcvideo",
+    "cn:slug": "MM D Block GURDUS 171115 EC",
+    "cn:createdBy": "ingest",
+    "cn:editedBy": "Joe.Rivas",
+    "cn:title": "Welbilt CEO: The internet of things is 'very important' to the food service and equipment business",
+    "headline": "Welbilt CEO: The internet of things is 'very important' to the food service and equipment business",
+    "cn:creatorOverwrite": "",
+    "cn:historicalURL": [],
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104844577",
+    "url": "http://qa-aws01web.cnbc.com/video/2017/11/15/welbilt-ceo-internet-of-things-is-very-important-for-food-services.html",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:dateline": "Yes",
+      "cn:displayByline": "Yes",
+      "cn:displaySource": "Yes",
+      "cn:outbrainEnabled": "Yes",
+      "cn:isFamilyFriendly": "Yes",
+      "cn:listType": "Virtual",
+      "cn:tweetOnPublish": 0,
+      "cn:videoGeoRestrictionEnabled": "No",
+      "cn:isHighPriorityVideo": "No"
+    },
+    "datePublished": "2017-11-16T00:06:08+0000",
+    "uploadDate": "2017-11-15T17:04:10+0000",
+    "cn:section": [{
+      "id": 15838459,
+      "tagName": "Mad Money",
+      "order": 1
+    }, {
+      "id": 100008328,
+      "tagName": "U.S. Business Day",
+      "order": 2
+    }, {
+      "id": 15839263,
+      "tagName": "Video and TV",
+      "order": 3
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 4
+    }],
+    "cn:show": "Mad Money",
+    "description": "Jim Cramer sat down with Welbilt CEO Hubertus Muehlhauser to discuss how the internet of things plays a role in his food services business.",
+    "duration": 373,
+    "thumbnail": "https://qa-aws02capi-img-origin.cnbc.com/image/104845537-4ED2-MM-Block-D-111517.jpg?v=1510790409",
+    "cn:network": 1,
+    "encodings": [{
+      "@type": "VideoObject",
+      "url": "http://vcps.cnbc.com/vcps/media/content?id=MzAwMDY3MTU5NAptcGVnNF81MDAwMDAKU3RyZWFtaW5n&UserName=cmsguest@cnbc.com&key=NA",
+      "encodingFormat": "mpeg4",
+      "bitrate": 500000
+    }, {
+      "@type": "VideoObject",
+      "url": "http://pdl.iphone.cnbc.com/VCPS/Y1969/M12D31/3000671594/4ED2-MM-Block-D-111517_L.mp4",
+      "encodingFormat": "mpeg4",
+      "bitrate": 500000
+    }, {
+      "@type": "VideoObject",
+      "url": "http://vcps.cnbc.com/vcps/media/content?id=MzAwMDY3MTU5NAptcGVnNHdfNDUwMEsKU3RyZWFtaW5n&UserName=cmsguest@cnbc.com&key=NA",
+      "encodingFormat": "mpeg4",
+      "bitrate": 4500000
+    }, {
+      "@type": "VideoObject",
+      "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M11D15/3000671594/4ED2-MM-Block-D-111517_MBR_4500.mp4",
+      "encodingFormat": "mpeg4",
+      "bitrate": 4500000
+    }, {
+      "@type": "VideoObject",
+      "url": "http://vcps.cnbc.com/vcps/media/content?id=MzAwMDY3MTU5NApGTFZfNDMyeDI0MF8zMHBfNTAwSwpTdHJlYW1pbmc&UserName=cmsguest@cnbc.com&key=NA",
+      "encodingFormat": "flv",
+      "bitrate": 500000
+    }, {
+      "@type": "VideoObject",
+      "url": "ftp://cnbc.upload.akamai.com/23727/flash/VCPS/Y2017/M11D15/3000671594/4ED2-MM-Block-D-111517_FLV_432x240_30p_500K.flv",
+      "encodingFormat": "flv",
+      "bitrate": 500000
+    }, {
+      "@type": "VideoObject",
+      "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M11D15/3000671594/4ED2-MM-Block-D-111517_H264_720x405_30p_1M.mp4",
+      "encodingFormat": "mpeg4",
+      "bitrate": 1100000
+    }, {
+      "@type": "VideoObject",
+      "url": "http://cnbcmbr-vh.akamaihd.net/i/mp4/VCPS/Y2017/M11D15/3000671594/4ED2-MM-Block-D-111517_MBR_0500.mp4/master.m3u8",
+      "encodingFormat": "mpeg4",
+      "bitrate": 500000
+    }, {
+      "@type": "VideoObject",
+      "url": "http://cnbcmbr-vh.akamaihd.net/z/mp4/VCPS/Y2017/M11D15/3000671594/4ED2-MM-Block-D-111517_MBR_0500.mp4/manifest.f4m",
+      "encodingFormat": "mpeg4",
+      "bitrate": 500000
+    }, {
+      "@type": "VideoObject",
+      "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M11D15/3000671594/4ED2-MM-Block-D-111517_H264_126K.mp4",
+      "encodingFormat": "mpeg4",
+      "bitrate": 200000
+    }, {
+      "@type": "VideoObject",
+      "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M11D15/3000671594/4ED2-MM-Block-D-111517_H264_480x270_25p_500K.mp4",
+      "encodingFormat": "mpeg4",
+      "bitrate": 600000
+    }, {
+      "@type": "VideoObject",
+      "url": "http://cnbcmbr-vh.akamaihd.net/i/mp4/VCPS/Y2017/M11D15/3000671594/4ED2-MM-Block-D-111517_MBR_,0240,0300,0500,0700,0900,1300,1700,4500,.mp4.csmil/master.m3u8",
+      "encodingFormat": "mpeg4",
+      "bitrate": 1
+    }, {
+      "@type": "VideoObject",
+      "url": "http://cnbcmbr-vh.akamaihd.net/z/mp4/VCPS/Y2017/M11D15/3000671594/4ED2-MM-Block-D-111517_MBR_,0240,0300,0500,0700,0900,1300,1700,4500,.mp4.csmil/manifest.f4m",
+      "encodingFormat": "mpeg4",
+      "bitrate": 1
+    }],
+    "@type": "VideoObject",
+    "representativeOfPage": "true",
+    "expireDate": "",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 14,
+      "cn:relationType": "related",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@type": "Collection",
+    "@id": "10001150",
+    "cn:type": "franchise",
+    "cn:slug": "Life",
+    "cn:title": "Life",
+    "headline": "Life",
+    "cn:creatorOverwrite": "",
+    "cn:historicalURL": ["/id/10001150", "/life-and-leisure/"],
+    "cn:editedBy": "Maureen.Gavin@nbcuni.com",
+    "cn:createdBy": "migration",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10001150",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:listType": "Manual and/or populated by feeds",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:tweetOnPublish": 0
+    },
+    "url": "http://qa-aws01web.cnbc.com/life/",
+    "datePublished": "2012-05-02T04:24:09+0000",
+    "cn:section": [{
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 1
+    }],
+    "cn:subtype": "news_section",
+    "description": "Keep on top of the latest trends, tips, and information for life and leisure.",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 14,
+      "cn:relationType": "tags",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@id": "104844642",
+    "cn:type": "blogpost",
+    "cn:slug": "Lightning - GURDUS - 171115 - MM",
+    "cn:createdBy": "Elizabeth.gurdus@nbcuni.com",
+    "cn:editedBy": "Elizabeth.gurdus@nbcuni.com",
+    "cn:title": "Cramer's lightning round: Sell Mallinckrodt after its 'nutty' acquisition of Acthar",
+    "headline": "Cramer's lightning round: Sell Mallinckrodt after its 'nutty' Acthar acquisition",
+    "cn:creatorOverwrite": "",
+    "cn:historicalURL": [],
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104844642",
+    "url": "http://qa-aws01web.cnbc.com/2017/11/15/cramers-lightning-round-sell-mallinckrodt-after-nutty-acquisition.html",
+    "datePublished": "2017-11-15T23:49:20+0000",
+    "cn:section": [{
+      "id": 15838459,
+      "tagName": "Mad Money",
+      "order": 1
+    }, {
+      "id": 100008328,
+      "tagName": "U.S. Business Day",
+      "order": 2
+    }, {
+      "id": 15839263,
+      "tagName": "Video and TV",
+      "order": 3
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 4
+    }],
+    "description": "Jim Cramer shared his take on callers' favorite stocks at lightning speed, including that of a pharmaceutical company.",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:dateline": "Yes",
+      "cn:displayByline": "Yes",
+      "cn:displaySource": "Yes",
+      "cn:outbrainEnabled": "Yes",
+      "cn:isFamilyFriendly": "Yes",
+      "cn:listType": "Virtual",
+      "cn:tweetOnPublish": 0
+    },
+    "author": [{
+      "@type": "Creator",
+      "@id": "103964735",
+      "name": "Elizabeth Gurdus",
+      "url": "http://qa-aws01web.cnbc.com/elizabeth-gurdus/",
+      "position": "5000",
+      "sameAs": ["https://www.twitter.com/lizzygurdus"],
+      "cn:socialMediaInfo": [{
+        "cn:url": "https://twitter.com/lizzygurdus",
+        "cn:displayText": "lizzygurdus",
+        "cn:type": "twitter"
+      }]
+    }],
+    "image": {
+      "representativeOfPage": "true",
+      "@type": "ImageObject",
+      "@id": 104548461,
+      "author": "",
+      "datePublished": "2017-06-23T19:02:42+0000",
+      "caption": "",
+      "description": "",
+      "copyrightHolder": "Gene Blevins | Reuters",
+      "height": "1532",
+      "width": "3000",
+      "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104548461-RTX1ILBY.jpg?v=1498244571"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "@type": "BlogPosting",
+    "cn:relation": [{
+      "position": 13,
+      "cn:relationType": "related",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@type": "Collection",
+    "@id": "10000117",
+    "cn:type": "franchise",
+    "cn:slug": "Sports",
+    "cn:title": "Sports Business",
+    "headline": "Sports",
+    "cn:creatorOverwrite": "",
+    "cn:historicalURL": ["/id/10000117", "/sports/"],
+    "cn:editedBy": "Rick.Levinson",
+    "cn:createdBy": "migration",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000117",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Manual and/or populated by feeds",
+      "cn:tweetOnPublish": 0
+    },
+    "url": "http://qa-aws01web.cnbc.com/sports-business/",
+    "datePublished": "2012-01-30T01:46:41+0000",
+    "cn:section": [{
+      "id": 10001150,
+      "tagName": "Life",
+      "order": 1
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 2
+    }],
+    "cn:subtype": "section",
+    "description": "Find the latest news, headlines, blogs and watch video about sports business, teams, and sports franchises from CNBC.com.\r\n",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 13,
+      "cn:relationType": "tags",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@type": "Corporation",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes"
+    },
+    "@id": "1508347",
+    "cn:type": "company",
+    "cn:slug": "Henry Schein Inc T:HSIC",
+    "cn:title": "Henry Schein Inc",
+    "headline": "Henry Schein Inc",
+    "cn:creatorOverwrite": "",
+    "cn:editedBy": "jcm.cnbc",
+    "cn:historicalURL": [],
+    "cn:createdBy": "migration",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/1508347",
+    "url": "/quotes/?symbol=",
+    "datePublished": "2012-06-30T03:16:48+0000",
+    "cn:section": [],
+    "tickerSymbol": " ",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 12,
+      "cn:relationType": "related",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@type": "Collection",
+    "@id": "10000084",
+    "cn:type": "franchise",
+    "cn:slug": "CEOs",
+    "cn:title": "CEOs",
+    "headline": "CEOS",
+    "cn:creatorOverwrite": "",
+    "cn:historicalURL": ["/id/10000084"],
+    "cn:editedBy": "joseph.odell",
+    "cn:createdBy": "migration",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000084",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Virtual"
+    },
+    "url": "http://qa-aws01web.cnbc.com/ceos/",
+    "datePublished": "2012-01-30T01:47:33+0000",
+    "cn:section": [{
+      "id": 10001286,
+      "tagName": "Business Strategy",
+      "order": 1
+    }, {
+      "id": 10000668,
+      "tagName": "Leadership",
+      "order": 2
+    }, {
+      "id": 10001147,
+      "tagName": "Business",
+      "order": 3
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 4
+    }],
+    "cn:subtype": "section",
+    "description": "US: CEOs",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 12,
+      "cn:relationType": "tags",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@type": "Corporation",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes"
+    },
+    "@id": "1508603",
+    "cn:type": "company",
+    "cn:slug": "IDEXX Laboratories Inc T:IDXX",
+    "cn:title": "IDEXX Laboratories Inc",
+    "cn:editedBy": "ingest",
+    "cn:historicalURL": [],
+    "cn:createdBy": "ingest",
+    "headline": "IDEXX Laboratories Inc",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/1508603",
+    "url": "/quotes/?symbol=IDXX",
+    "datePublished": "2014-12-05T23:25:30+0000",
+    "cn:section": [],
+    "cn:symbol": "IDXX",
+    "cn:exchangeName": "NASDAQ",
+    "cn:issuerId": 20743,
+    "tickerSymbol": "NASDAQ IDXX",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 11,
+      "cn:relationType": "related",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@type": "Collection",
+    "@id": "100004032",
+    "cn:type": "franchise",
+    "cn:slug": "CEO Interviews",
+    "cn:title": "CEO Interviews",
+    "headline": "CEO Interviews",
+    "cn:creatorOverwrite": "",
+    "cn:historicalURL": ["/ceo-interviews/", "/id/100004032"],
+    "cn:editedBy": "brian.beers",
+    "cn:createdBy": "chris.larsen",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100004032",
+    "cn:settings": {
+      "cn:listType": "Virtual"
+    },
+    "url": "http://qa-aws01web.cnbc.com/video-ceo-interviews/",
+    "datePublished": "2014-11-04T20:32:15+0000",
+    "cn:section": [{
+      "id": 15839263,
+      "tagName": "Video and TV",
+      "order": 1
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 2
+    }],
+    "cn:subtype": "videosection",
+    "description": "Watch what CEOs have to say about business news headlines, or get updates on what's next for companies. ",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 11,
+      "cn:relationType": "tags",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@type": "Corporation",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes"
+    },
+    "@id": "1505098",
+    "cn:type": "company",
+    "cn:slug": "Charles River Laboratories International Inc T:CRL",
+    "cn:createdBy": "ingest",
+    "cn:editedBy": "ingest",
+    "cn:title": "Charles River Laboratories International Inc",
+    "cn:historicalURL": [],
+    "headline": "Charles River Laboratories International Inc",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/1505098",
+    "url": "/quotes/?symbol=CRL",
+    "datePublished": "2014-10-30T23:41:03+0000",
+    "cn:section": [],
+    "cn:symbol": "CRL",
+    "cn:exchangeName": "NYSE",
+    "cn:issuerId": 14145,
+    "tickerSymbol": "NYSE CRL",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 10,
+      "cn:relationType": "related",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@type": "Collection",
+    "@id": "10000720",
+    "cn:type": "franchise",
+    "cn:slug": "Professional Services",
+    "cn:title": "Professional Services",
+    "headline": "Professional Services",
+    "cn:creatorOverwrite": "",
+    "cn:editedBy": "jill.weinberger",
+    "cn:historicalURL": ["/professional-services/"],
+    "cn:createdBy": "migration",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000720",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Virtual"
+    },
+    "url": "http://qa-aws01web.cnbc.com/id/10000720",
+    "datePublished": "2012-01-30T01:51:00+0000",
+    "cn:section": [{
+      "id": 10000929,
+      "tagName": "Commercial and Professional Services",
+      "order": 1
+    }, {
+      "id": 10000098,
+      "tagName": "Industrials",
+      "order": 2
+    }, {
+      "id": 10001147,
+      "tagName": "Business",
+      "order": 3
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 4
+    }],
+    "cn:subtype": "section",
+    "description": "Professional Services",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 10,
+      "cn:relationType": "tags",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@id": "104844641",
+    "cn:type": "blogpost",
+    "cn:slug": "Huddle - GURDUS - 171115 - MM",
+    "cn:createdBy": "Elizabeth.gurdus@nbcuni.com",
+    "cn:editedBy": "brian.clark",
+    "cn:title": "Cramer: If companies embrace the change millennials demand, they'll win long term",
+    "headline": "Cramer: If companies embrace the change millennials demand, they'll win",
+    "cn:creatorOverwrite": "",
+    "cn:historicalURL": [],
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104844641",
+    "url": "http://qa-aws01web.cnbc.com/2017/11/15/cramer-companies-win-if-they-embrace-the-change-millennials-demand.html",
+    "datePublished": "2017-11-15T23:35:04+0000",
+    "cn:section": [{
+      "id": 15838459,
+      "tagName": "Mad Money",
+      "order": 1
+    }, {
+      "id": 100008328,
+      "tagName": "U.S. Business Day",
+      "order": 2
+    }, {
+      "id": 15839263,
+      "tagName": "Video and TV",
+      "order": 3
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 4
+    }],
+    "description": "Jim Cramer shared some takeaways he's gleaned from studying how millennials interact with business.",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:dateline": "Yes",
+      "cn:displayByline": "Yes",
+      "cn:displaySource": "Yes",
+      "cn:outbrainEnabled": "Yes",
+      "cn:isFamilyFriendly": "Yes",
+      "cn:listType": "Virtual",
+      "cn:tweetOnPublish": 0
+    },
+    "author": [{
+      "@type": "Creator",
+      "@id": "103964735",
+      "name": "Elizabeth Gurdus",
+      "url": "http://qa-aws01web.cnbc.com/elizabeth-gurdus/",
+      "position": "5000",
+      "sameAs": ["https://www.twitter.com/lizzygurdus"],
+      "cn:socialMediaInfo": [{
+        "cn:url": "https://twitter.com/lizzygurdus",
+        "cn:displayText": "lizzygurdus",
+        "cn:type": "twitter"
+      }]
+    }],
+    "image": {
+      "representativeOfPage": "true",
+      "@type": "ImageObject",
+      "@id": 104124539,
+      "author": "                               ",
+      "datePublished": "2016-11-22T21:30:09+0000",
+      "caption": "",
+      "description": "Group of young females laughing together in back of taxi, using mobile phones",
+      "copyrightHolder": "Mike Harrington | Getty Images ",
+      "height": "1330",
+      "width": "2000",
+      "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104124539-GettyImages-522410613.jpg?v=1479850215"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "@type": "BlogPosting",
+    "cn:relation": [{
+      "position": 9,
+      "cn:relationType": "related",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@type": "Collection",
+    "@id": "10000784",
+    "cn:type": "franchise",
+    "cn:slug": "Diversified Financial Services",
+    "cn:title": "Diversified Financial Services",
+    "headline": "Diversified Financial Services",
+    "cn:creatorOverwrite": "",
+    "cn:editedBy": "joseph.odell",
+    "cn:historicalURL": ["/diversified-financial-services/"],
+    "cn:createdBy": "migration",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000784",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Virtual"
+    },
+    "url": "http://qa-aws01web.cnbc.com/id/10000784",
+    "datePublished": "2012-01-30T01:50:06+0000",
+    "cn:section": [{
+      "id": 10000877,
+      "tagName": "Diversified Financials",
+      "order": 1
+    }, {
+      "id": 10001103,
+      "tagName": "Financials",
+      "order": 2
+    }, {
+      "id": 10000876,
+      "tagName": "Banks",
+      "order": 3
+    }, {
+      "id": 10000664,
+      "tagName": "Finance",
+      "order": 4
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 5
+    }],
+    "cn:subtype": "section",
+    "description": "Diversified Financial Services",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 9,
+      "cn:relationType": "tags",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@id": "104844639",
+    "cn:type": "blogpost",
+    "cn:slug": "Square - GURDUS - 171115 - MM",
+    "cn:createdBy": "Elizabeth.gurdus@nbcuni.com",
+    "cn:editedBy": "vitaly",
+    "cn:title": "Square CFO: We're experimenting with bitcoin to see if it's 'real'",
+    "headline": "Square CFO: We're experimenting with bitcoin to see if it's 'real'",
+    "cn:creatorOverwrite": "",
+    "cn:historicalURL": [],
+    "cn:subDomain": "CNBC.com",
+    "cn:branding": "CNBC",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104844639",
+    "url": "http://qa-aws01web.cnbc.com/2017/11/15/square-cfo-were-experimenting-with-bitcoin-to-see-if-its-real.html",
+    "datePublished": "2017-11-15T23:25:40+0000",
+    "cn:section": [{
+      "id": 15838459,
+      "tagName": "Mad Money",
+      "order": 1
+    }, {
+      "id": 100008328,
+      "tagName": "U.S. Business Day",
+      "order": 2
+    }, {
+      "id": 15839263,
+      "tagName": "Video and TV",
+      "order": 3
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 4
+    }],
+    "description": "Jim Cramer spoke to Square Chief Financial Officer Sarah Friar about her company's latest foray into digital currency.",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:dateline": "Yes",
+      "cn:displayByline": "Yes",
+      "cn:displaySource": "Yes",
+      "cn:outbrainEnabled": "Yes",
+      "cn:isFamilyFriendly": "Yes",
+      "cn:listType": "Virtual",
+      "cn:tweetOnPublish": 0
+    },
+    "author": [{
+      "@type": "Creator",
+      "@id": "103964735",
+      "name": "Elizabeth Gurdus",
+      "url": "http://qa-aws01web.cnbc.com/elizabeth-gurdus/",
+      "position": "5000",
+      "sameAs": ["https://www.twitter.com/lizzygurdus"],
+      "cn:socialMediaInfo": [{
+        "cn:url": "https://twitter.com/lizzygurdus",
+        "cn:displayText": "lizzygurdus",
+        "cn:type": "twitter"
+      }]
+    }],
+    "image": {
+      "representativeOfPage": "true",
+      "@type": "ImageObject",
+      "@id": 104845450,
+      "author": "",
+      "datePublished": "2017-11-15T23:01:03+0000",
+      "caption": "Sarah Friar, CFO, Square",
+      "description": "",
+      "copyrightHolder": "Scott Mlyn | CNBC",
+      "height": "1333",
+      "width": "2000",
+      "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104845450-IMG_5778r.jpg?v=1510786810"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "@type": "BlogPosting",
+    "cn:relation": [{
+      "position": 8,
+      "cn:relationType": "related",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@type": "Collection",
+    "@id": "10001103",
+    "cn:type": "franchise",
+    "cn:slug": "Financials",
+    "cn:title": "Financials",
+    "headline": "Financials",
+    "cn:creatorOverwrite": "",
+    "cn:historicalURL": ["/id/10001103"],
+    "cn:editedBy": "katy.barnato",
+    "cn:createdBy": "migration",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10001103",
+    "cn:settings": {
+      "cn:listType": "Manual and/or populated by feeds"
+    },
+    "url": "http://qa-aws01web.cnbc.com/financials/",
+    "datePublished": "2013-02-27T11:09:10+0000",
+    "cn:section": [{
+      "id": 10000876,
+      "tagName": "Banks",
+      "order": 1
+    }, {
+      "id": 10000664,
+      "tagName": "Finance",
+      "order": 2
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 3
+    }],
+    "cn:subtype": "section",
+    "description": "Find the Latest News, Headlines, Blogs and Watch Video about Financials, banks, investing, corporations and more from CNBC.com.",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 8,
+      "cn:relationType": "tags",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@type": "Collection",
+    "@id": "10000959",
+    "cn:type": "franchise",
+    "cn:slug": "Data Processing and Outsourced Services",
+    "cn:title": "Data Processing and Outsourced Services",
+    "headline": "Data Processing and Outsourced Services",
+    "cn:creatorOverwrite": "",
+    "cn:editedBy": "jill.weinberger",
+    "cn:historicalURL": ["/data-processing-and-outsourced-services/"],
+    "cn:createdBy": "migration",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000959",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Virtual"
+    },
+    "url": "http://qa-aws01web.cnbc.com/id/10000959",
+    "datePublished": "2012-01-30T01:49:46+0000",
+    "cn:section": [{
+      "id": 10001110,
+      "tagName": "IT Services",
+      "order": 1
+    }, {
+      "id": 10001264,
+      "tagName": "Information Technology",
+      "order": 2
+    }, {
+      "id": 101004656,
+      "tagName": "Enterprise",
+      "order": 3
+    }, {
+      "id": 19854910,
+      "tagName": "Technology",
+      "order": 4
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 5
+    }],
+    "cn:subtype": "section",
+    "description": "Data Processing and Outsourced Services",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 7,
+      "cn:relationType": "tags",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@id": "104844005",
+    "cn:type": "cnbcnewsstory",
+    "cn:slug": "SQ bitcoin play CS CHENG 171115 EC",
+    "cn:createdBy": "evelyn.cheng",
+    "cn:editedBy": "evelyn.cheng",
+    "cn:title": "Wall Street's new bitcoin play: Square rises after saying it's testing support of the cryptocurrency",
+    "headline": "Square rises on news it's testing bitcoin",
+    "cn:creatorOverwrite": "",
+    "cn:historicalURL": [],
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104844005",
+    "url": "http://qa-aws01web.cnbc.com/2017/11/15/wall-streets-new-bitcoin-play-square-rises-on-report-its-testing-support-of-the-cryptocurrency.html",
+    "datePublished": "2017-11-15T13:40:24+0000",
+    "cn:section": [{
+      "id": 102,
+      "tagName": "Markets",
+      "order": 1
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 2
+    }],
+    "description": "Shares of Square jump after a report the company's payments app Cash is testing support for bitcoin.",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:dateline": "Yes",
+      "cn:displayByline": "Yes",
+      "cn:displaySource": "Yes",
+      "cn:outbrainEnabled": "Yes",
+      "cn:isFamilyFriendly": "Yes",
+      "cn:listType": "Virtual",
+      "cn:tweetOnPublish": 0
+    },
+    "author": [{
+      "@type": "Creator",
+      "@id": "101069441",
+      "name": "Evelyn Cheng",
+      "url": "http://qa-aws01web.cnbc.com/evelyn-cheng/",
+      "position": "4999",
+      "sameAs": ["https://www.twitter.com/chengevelyn"],
+      "cn:socialMediaInfo": [{
+        "cn:url": "https://twitter.com/chengevelyn",
+        "cn:displayText": "chengevelyn",
+        "cn:type": "twitter"
+      }]
+    }],
+    "image": {
+      "representativeOfPage": "true",
+      "@type": "ImageObject",
+      "@id": 103221726,
+      "author": "Yana Paskova",
+      "datePublished": "2015-12-07T14:03:43+0000",
+      "caption": "Jack Dorsey, chief executive officer of Square on the floor of the New York Stock Exchange at the company's IPO, November 19, 2015.",
+      "description": "Jack Dorsey, chief executive officer of Square Inc., second right, tours the floor of the New York Stock Exchange (NYSE) in New York, U.S., on Thursday, Nov. 19, 2015. Square Inc. jumped more than 60 percent after the mobile payments company priced its initial public offering low enough to entice skeptics as well as bulls who are confident in its growth prospects. Photographer: Yana Paskova/Bloomberg *** Local Caption *** Jack Dorsey",
+      "copyrightHolder": "Yana Paskova | Bloomberg | Getty Images",
+      "height": "2725",
+      "width": "4000",
+      "url": "https://qa-aws02capi-img-origin.cnbc.com/image/103221726-GettyImages-497875206.jpg?v=1510751774"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "@type": "NewsArticle",
+    "cn:relation": [{
+      "position": 7,
+      "cn:relationType": "related",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@type": "Collection",
+    "@id": "10001041",
+    "cn:type": "franchise",
+    "cn:slug": "Credit Cards",
+    "cn:title": "Credit Cards",
+    "headline": "Credit Cards",
+    "cn:creatorOverwrite": "",
+    "cn:editedBy": "jill.weinberger",
+    "cn:historicalURL": ["/credit-cards/"],
+    "cn:createdBy": "migration",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10001041",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Virtual"
+    },
+    "url": "http://qa-aws01web.cnbc.com/id/10001041",
+    "datePublished": "2012-01-30T01:53:56+0000",
+    "cn:section": [{
+      "id": 10000827,
+      "tagName": "Debt",
+      "order": 1
+    }, {
+      "id": 21324812,
+      "tagName": "Personal Finance",
+      "order": 2
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 3
+    }],
+    "cn:subtype": "section",
+    "description": "Credit Cards",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 6,
+      "cn:relationType": "tags",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@type": "Corporation",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes"
+    },
+    "@id": "1502862",
+    "cn:type": "company",
+    "cn:slug": "Amazon.com Inc  T:AMZN",
+    "cn:title": "Amazon.com Inc",
+    "headline": "Amazon.com Inc",
+    "cn:creatorOverwrite": "",
+    "cn:editedBy": "Aaron.Wertheim",
+    "cn:historicalURL": [],
+    "cn:createdBy": "migration",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/1502862",
+    "url": "/quotes/?symbol=",
+    "datePublished": "2012-06-30T03:15:42+0000",
+    "cn:section": [],
+    "cn:issuerId": 9399,
+    "tickerSymbol": " ",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 6,
+      "cn:relationType": "related",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@type": "Collection",
+    "@id": "30231612",
+    "cn:type": "franchise",
+    "cn:slug": "S&P 500",
+    "cn:title": "S&P 500",
+    "headline": "S&P 500",
+    "cn:creatorOverwrite": "",
+    "cn:historicalURL": ["/id/30231612"],
+    "cn:editedBy": "brian.beers",
+    "cn:createdBy": "migration",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/30231612",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Virtual"
+    },
+    "url": "http://qa-aws01web.cnbc.com/sp-500/",
+    "datePublished": "2012-01-29T18:43:36+0000",
+    "cn:section": [{
+      "id": 15839215,
+      "tagName": "Stocks",
+      "order": 1
+    }, {
+      "id": 102,
+      "tagName": "Markets",
+      "order": 2
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 3
+    }],
+    "cn:subtype": "section",
+    "description": "S&P 500: News for companies in the S&P 500 Index",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 5,
+      "cn:relationType": "tags",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@id": "104835073",
+    "cn:type": "cnbcnewsstory",
+    "cn:slug": "hd earnings THOMAS 1711 ec",
+    "cn:createdBy": "Lauren.Thomas",
+    "cn:editedBy": "Lauren.Thomas",
+    "cn:title": "Home Depot same-store sales, boosted by hurricanes and fires, crush Wall Street estimates",
+    "headline": "Home Depot same-store sales crush Wall Street estimates",
+    "cn:creatorOverwrite": "",
+    "cn:historicalURL": [],
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104835073",
+    "url": "http://qa-aws01web.cnbc.com/2017/11/14/heres-everything-you-need-to-know-about-home-depots-earnings.html",
+    "datePublished": "2017-11-14T11:01:54+0000",
+    "cn:section": [{
+      "id": 10000116,
+      "tagName": "Retail",
+      "order": 1
+    }, {
+      "id": 10000826,
+      "tagName": "Consumer",
+      "order": 2
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 3
+    }],
+    "description": "Home Depot saw customer transactions increase, and shoppers on average have been spending more across its stores.",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:dateline": "Yes",
+      "cn:displayByline": "Yes",
+      "cn:displaySource": "Yes",
+      "cn:outbrainEnabled": "Yes",
+      "cn:isFamilyFriendly": "Yes",
+      "cn:listType": "Virtual",
+      "cn:tweetOnPublish": 0
+    },
+    "author": [{
+      "@type": "Creator",
+      "@id": "103647424",
+      "name": "Lauren Thomas",
+      "url": "http://qa-aws01web.cnbc.com/lauren-thomas/",
+      "position": "4999",
+      "sameAs": ["https://www.twitter.com/laurenthomasx3"],
+      "cn:socialMediaInfo": [{
+        "cn:url": "https://twitter.com/laurenthomasx3",
+        "cn:displayText": "laurenthomasx3",
+        "cn:type": "twitter"
+      }]
+    }],
+    "image": {
+      "representativeOfPage": "true",
+      "@type": "ImageObject",
+      "@id": 104840925,
+      "author": "",
+      "datePublished": "2017-11-14T12:21:56+0000",
+      "caption": "",
+      "description": "",
+      "copyrightHolder": "Getty Images",
+      "height": "1361",
+      "width": "2000",
+      "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104840925--sites-default-files-images-104840925-GettyImages-612883178.jpg?v=1510662668"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "@type": "NewsArticle",
+    "cn:relation": [{
+      "position": 5,
+      "cn:relationType": "related",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@id": "104843662",
+    "cn:type": "cnbcnewsstory",
+    "cn:slug": "US premarkets Gibbs 171115 EU",
+    "cn:createdBy": "Alexandra Gibbs",
+    "cn:editedBy": "Rebecca.Ungarino",
+    "cn:title": "Dow sheds 135 points to close at lowest level in three weeks",
+    "headline": "Dow sheds 135 points to close at lowest level in three weeks",
+    "cn:creatorOverwrite": "",
+    "cn:historicalURL": [],
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104843662",
+    "url": "http://qa-aws01web.cnbc.com/2017/11/15/us-stock-futures-earnings-data-tax-fed-on-the-agenda.html",
+    "datePublished": "2017-11-15T10:16:35+0000",
+    "cn:section": [{
+      "id": 102356916,
+      "tagName": "Trading Nation",
+      "order": 1
+    }, {
+      "id": 15839069,
+      "tagName": "Investing",
+      "order": 2
+    }, {
+      "id": 10000664,
+      "tagName": "Finance",
+      "order": 3
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 4
+    }],
+    "description": "U.S. stocks closed lower on Wednesday as the current bull market showed signs of slowing down.",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:dateline": "Yes",
+      "cn:displayByline": "Yes",
+      "cn:displaySource": "Yes",
+      "cn:outbrainEnabled": "No",
+      "cn:isFamilyFriendly": "Yes",
+      "cn:listType": "Virtual",
+      "cn:tweetOnPublish": 0
+    },
+    "author": [{
+      "@type": "Creator",
+      "@id": "102384716",
+      "name": "Alexandra Gibbs",
+      "url": "http://qa-aws01web.cnbc.com/alexandra-gibbs/",
+      "position": "5000",
+      "sameAs": ["https://www.twitter.com/alexgibbsy"],
+      "cn:socialMediaInfo": [{
+        "cn:url": "https://twitter.com/alexgibbsy",
+        "cn:displayText": "alexgibbsy",
+        "cn:type": "twitter"
+      }]
+    }, {
+      "@type": "Creator",
+      "@id": "102270141",
+      "name": "Fred Imbert",
+      "url": "http://qa-aws01web.cnbc.com/fred-imbert/",
+      "position": "4999",
+      "sameAs": ["https://www.twitter.com/foimbert"],
+      "cn:socialMediaInfo": [{
+        "cn:url": "https://twitter.com/foimbert",
+        "cn:displayText": "foimbert",
+        "cn:type": "twitter"
+      }]
+    }, {
+      "@type": "Creator",
+      "@id": "104540348",
+      "name": "Thomas Franck",
+      "url": "http://qa-aws01web.cnbc.com/tom-franck/",
+      "position": "4998",
+      "sameAs": ["https://www.twitter.com/tomwfranck"],
+      "cn:socialMediaInfo": [{
+        "cn:url": "https://twitter.com/tomwfranck",
+        "cn:displayText": "tomwfranck",
+        "cn:type": "twitter"
+      }]
+    }],
+    "image": {
+      "representativeOfPage": "true",
+      "@type": "ImageObject",
+      "@id": 104843876,
+      "author": "",
+      "datePublished": "2017-11-15T11:59:20+0000",
+      "caption": "A pedestrian looks at an electronics stock indicator of the world in Tokyo on November 15, 2017.",
+      "description": "",
+      "copyrightHolder": "Kazuhiro Nogi | AFP | Getty Images",
+      "height": "1333",
+      "width": "2000",
+      "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104843876-GettyImages-874340414.jpg?v=1510747120"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "@type": "NewsArticle",
+    "cn:relation": [{
+      "position": 4,
+      "cn:relationType": "related",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@type": "Person",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:dateline": "Yes",
+      "cn:displayByline": "Yes",
+      "cn:displaySource": "Yes",
+      "cn:outbrainEnabled": "Yes",
+      "cn:listType": "Virtual"
+    },
+    "@id": "15838187",
+    "cn:type": "creator",
+    "cn:slug": "Jim Cramer",
+    "cn:title": "Jim Cramer",
+    "headline": "Jim Cramer",
+    "cn:creatorOverwrite": "",
+    "cn:historicalURL": ["/id/15838187"],
+    "cn:editedBy": "adam.jeffery",
+    "cn:createdBy": "migration",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15838187",
+    "url": "http://qa-aws01web.cnbc.com/jim-cramer/",
+    "image": "https://qa-aws02capi-img-origin.cnbc.com/image/103875926-CRAMER_JIM-264_wht_RGB-1.jpg?v=1476107308",
+    "datePublished": "2010-06-14T05:35:01+0000",
+    "cn:section": [{
+      "id": 15838459,
+      "tagName": "Mad Money",
+      "order": 1
+    }, {
+      "id": 100008328,
+      "tagName": "U.S. Business Day",
+      "order": 2
+    }, {
+      "id": 15839263,
+      "tagName": "Video and TV",
+      "order": 3
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 4
+    }],
+    "name": "Jim Cramer",
+    "givenName": "Jim",
+    "familyName": "Cramer",
+    "jobTitle": "Host of \"Mad Money w/ Jim Cramer\" & Co-Anchor CNBC’s \"Squawk on the Street\"",
+    "email": "MadMoney@cnbc.com",
+    "telephone": "",
+    "sameAs": ["https://www.twitter.com/jimcramer"],
+    "cn:socialMediaInfo": [{
+      "cn:url": "https://twitter.com/jimcramer",
+      "cn:displayText": "jimcramer",
+      "cn:type": "twitter"
+    }],
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 4,
+      "cn:relationType": "tags",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@type": "DigitalDocument",
+    "@id": "100003343",
+    "cn:type": "skin",
+    "cn:slug": "cnbc global skin",
+    "cn:title": "",
+    "headline": "",
+    "cn:creatorOverwrite": "",
+    "cn:editedBy": "matt.shade",
+    "cn:historicalURL": [],
+    "cn:createdBy": "matt.shade",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100003343",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:tweetOnPublish": 0
+    },
+    "datePublished": "2012-07-30T19:54:30+0000",
+    "cn:section": [],
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 3,
+      "cn:relationType": "skin",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@type": "Collection",
+    "@id": "100008328",
+    "cn:type": "franchise",
+    "cn:slug": "US: Business Day",
+    "cn:title": "Business Day",
+    "headline": "Business Day",
+    "cn:creatorOverwrite": "",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100008328",
+    "cn:settings": {
+      "cn:listType": "Manual and/or populated by feeds"
+    },
+    "url": "http://qa-aws01pub.cnbc.com/business-day/",
+    "datePublished": "2012-08-20T14:35:29+0000",
+    "cn:subtype": "section",
+    "description": "CNBC's Business Day shows include Worldwide Exchange, Squawk Box, Futures Now, Fast Money, Street Signs, Mad Money, and Closing Bell. ",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 3,
+      "cn:relationType": "tags",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@type": "Collection",
+    "@id": "15839215",
+    "cn:type": "franchise",
+    "cn:slug": "Stocks",
+    "cn:title": "Stocks",
+    "headline": "Stocks",
+    "cn:creatorOverwrite": "",
+    "cn:historicalURL": ["/id/15839215"],
+    "cn:editedBy": "vitaly",
+    "cn:createdBy": "migration",
+    "cn:subDomain": "Make-It.CNBC.com",
+    "cn:branding": "Make It",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15839215",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Manual and/or populated by feeds",
+      "cn:tweetOnPublish": 0
+    },
+    "url": "http://qa-aws01web.cnbc.com/stocks/",
+    "datePublished": "2012-01-30T01:48:28+0000",
+    "cn:section": [{
+      "id": 102,
+      "tagName": "Markets",
+      "order": 1
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 2
+    }],
+    "cn:subtype": "news_section",
+    "description": "In-depth market analysis, real-time stock market data, research and earnings from CNBC.com. ",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 3,
+      "cn:relationType": "related",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@type": "Collection",
+    "@id": "10001135",
+    "cn:type": "franchise",
+    "cn:slug": "Stock Picks",
+    "cn:title": "Stock Picks",
+    "headline": "Stock Picks",
+    "cn:creatorOverwrite": "",
+    "cn:historicalURL": ["/id/10001135"],
+    "cn:editedBy": "Josephine.Bila",
+    "cn:createdBy": "migration",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10001135",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Manual and/or populated by feeds"
+    },
+    "url": "http://qa-aws01web.cnbc.com/stock-picks/",
+    "datePublished": "2012-01-30T01:54:11+0000",
+    "cn:section": [{
+      "id": 15839215,
+      "tagName": "Stocks",
+      "order": 1
+    }, {
+      "id": 102,
+      "tagName": "Markets",
+      "order": 2
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 3
+    }],
+    "cn:subtype": "section",
+    "description": "Stock Picks",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 2,
+      "cn:relationType": "related",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "cn:relation": [{
+      "position": 2,
+      "cn:relationType": "skin",
+      "cn:isPromoted": "false"
+    }],
+    "@id": "100789669"
+  }, {
+    "@type": "Collection",
+    "@id": "102",
+    "cn:type": "franchise",
+    "cn:slug": "Markets Redesign",
+    "cn:title": "Markets",
+    "headline": "Markets",
+    "cn:creatorOverwrite": "",
+    "cn:historicalURL": ["/markets-redesign/"],
+    "cn:editedBy": "zhao.yu",
+    "cn:createdBy": "zhao.yu",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/102",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:dateline": "Yes",
+      "cn:displayByline": "Yes",
+      "cn:displaySource": "Yes",
+      "cn:outbrainEnabled": "Yes",
+      "cn:isFamilyFriendly": "Yes",
+      "cn:listType": "Manual and/or populated by feeds",
+      "cn:tweetOnPublish": 0
+    },
+    "url": "http://qa-aws01web.cnbc.com/markets/",
+    "datePublished": "2016-10-26T15:47:24+0000",
+    "cn:section": [{
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 1
+    }],
+    "cn:subtype": "marketsection",
+    "description": "View up-to-date U.S. market and world market charts. Get the latest on world economy news and global markets in our Market Overview.",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 2,
+      "cn:relationType": "tags",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@type": "Collection",
+    "@id": "100003242",
+    "cn:type": "franchise",
+    "cn:slug": "US Markets",
+    "cn:title": "US Markets",
+    "headline": "US Markets",
+    "cn:creatorOverwrite": "",
+    "cn:historicalURL": ["/id/100003242"],
+    "cn:editedBy": "Fred.Imbert",
+    "cn:createdBy": "catherina.centanni",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100003242",
+    "cn:settings": {
+      "cn:listType": "Manual and/or populated by feeds",
+      "cn:tweetOnPublish": 0
+    },
+    "url": "http://qa-aws01web.cnbc.com/us-markets/",
+    "datePublished": "2015-08-12T09:33:42+0000",
+    "cn:section": [{
+      "id": 102,
+      "tagName": "Markets",
+      "order": 1
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 2
+    }],
+    "cn:subtype": "section",
+    "description": "Up to date market data and stock market news is available online. View US market headlines and market charts. Get the latest economy news, markets in our Market Overview.",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 1,
+      "cn:relationType": "tags",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@type": "DigitalDocument",
+    "@id": "100003249",
+    "cn:type": "skin",
+    "cn:slug": "mad money skin",
+    "cn:title": "",
+    "headline": "",
+    "cn:creatorOverwrite": "",
+    "cn:editedBy": "matt.shade",
+    "cn:historicalURL": [],
+    "cn:createdBy": "matt.shade",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100003249",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes"
+    },
+    "datePublished": "2012-07-26T18:43:31+0000",
+    "cn:section": [],
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 1,
+      "cn:relationType": "skin",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@type": "Collection",
+    "@id": "15839069",
+    "cn:type": "franchise",
+    "cn:slug": "Investing",
+    "cn:title": "Investing",
+    "headline": "Investing",
+    "cn:creatorOverwrite": "",
+    "cn:historicalURL": ["/id/15839069"],
+    "cn:editedBy": "jeeyeon.park",
+    "cn:createdBy": "migration",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15839069",
+    "cn:settings": {
+      "cn:listType": "Manual and/or populated by feeds",
+      "cn:tweetOnPublish": 0
+    },
+    "url": "http://qa-aws01web.cnbc.com/investing/",
+    "datePublished": "2012-01-30T01:52:25+0000",
+    "cn:section": [{
+      "id": 10000664,
+      "tagName": "Finance",
+      "order": 1
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 2
+    }],
+    "cn:subtype": "section",
+    "description": "Expert Analysis, Investment Tools, Stock Screeners, and Financial Strategy Information.",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "cn:relation": [{
+      "position": 1,
+      "cn:relationType": "related",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@id": "4",
+    "cn:type": "blogpost",
+    "cn:slug": "Blog Post Root",
+    "cn:title": "Blog Post Root",
+    "cn:editedBy": "admin",
+    "cn:historicalURL": [],
+    "cn:createdBy": "admin",
+    "headline": "Blog Post Root",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/4",
+    "url": "http://qa-aws01web.cnbc.com/id/4",
+    "datePublished": "2002-12-01T05:00:00+0000",
+    "cn:section": [],
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "@type": "BlogPosting",
+    "cn:relation": [{
+      "position": 0,
+      "cn:relationType": "parent",
+      "cn:isPromoted": "false"
+    }]
+  }]
+}

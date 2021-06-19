@@ -1,0 +1,52 @@
+{
+  "data": {
+    "section": {
+      "relatedContent": [
+        {
+          "id": 104847857,
+          "type": "cnbcvideo",
+          "url": "https://qa-aws03web.cnbc.com/video/2018/03/08/health-insurer-cigna-buying-express-scripts.html",
+          "title": "Health insurer Cigna buying Express Scripts",
+          "promoImage": {
+            "url": "https://qa-aws02capi-img-origin.cnbc.com/api/v1/image/104847858-5ED1-SB-CignaHealth-03081.jpg?v=1520612920"
+          },
+          "premium": false
+        },
+        {
+          "id": 104847823,
+          "type": "cnbcvideo",
+          "url": "https://qa-aws03web.cnbc.com/video/2018/03/02/test-video-mar2--buffett-looking-at-sustainability-in-apple-says-trader-testing1.html",
+          "title": "Test Video mar2 - Buffett looking at sustainability in Apple, says trader title - title1",
+          "promoImage": {
+            "url": "https://qa-aws02capi-img-origin.cnbc.com/api/v1/image/104847824-6ED2-FMHR-030218-CallOfDay.jpg?v=1520017077"
+          },
+          "premium": true
+        },
+        {
+          "id": 100004036,
+          "type": "franchise",
+          "url": null,
+          "title": "CNBC U.S. Video News Clips on the Stock Market - CNBC",
+          "promoImage": null,
+          "premium": false
+        },
+        {
+          "id": 100004034,
+          "type": "franchise",
+          "url": null,
+          "title": "CNBC Asia Video News Clips on the Stock Market - CNBC",
+          "promoImage": null,
+          "premium": false
+        },
+        {
+          "id": 100004035,
+          "type": "franchise",
+          "url": null,
+          "title": "CNBC Europe Video News Clips on the Stock Market - CNBC",
+          "promoImage": null,
+          "premium": false
+        }
+      ]
+    }
+  }
+}

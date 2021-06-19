@@ -1,0 +1,51 @@
+{
+  "@id": "104847504",
+  "cn:type": "tag",
+  "cn:slug": "Ajit Jain tag",
+  "cn:createdBy": "Steve.Hsu",
+  "cn:editedBy": "rekha.ponnur",
+  "cn:title": "Ajit Jain",
+  "headline": "Ajit Jain",
+  "cn:creatorOverwrite": "",
+  "cn:branding": "makeit",
+  "cn:subDomain": "https://qa-aws01make-it.cnbc.com",
+  "cn:historicalURL": [],
+  "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847504",
+  "cn:liveURL": "/ajit-jain/",
+  "cn:subType": "topic",
+  "datePublished": "2018-01-30T03:17:49+0000",
+  "cn:summary": "",
+  "cn:shorterDescription": "",
+  "cn:shortestDescription": "",
+  "cn:bodyTeaser": "null",
+  "url": "https://qa-aws01make-it.cnbc.com/ajit-jain/",
+  "cn:sectionHierarchy": [],
+  "cn:settings": {
+    "cn:commentsEnabled": "Yes",
+    "cn:socialtoolsEnabled": "Yes",
+    "cn:dateline": "Yes",
+    "cn:displayByline": "Yes",
+    "cn:displaySource": "Yes",
+    "cn:outbrainEnabled": "Yes",
+    "cn:isFamilyFriendly": "Yes",
+    "cn:listType": "Manual and/or populated by feeds",
+    "cn:tweetOnPublish": 0
+  },
+  "description": "",
+  "@context": {
+    "cn": "http://cnbc.com/schema/",
+    "@vocab": "http://schema.org/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "CNBC",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "@type": "CreativeWork",
+  "cn:xmlArticleBody": "null",
+  "articlebody": "null",
+  "cn:xmlKeyPoints": "",
+  "dateModified": "2018-02-05T20:54:47+0000",
+  "cn:dateLastPublished": "2018-02-05T20:54:56+0000",
+  "cn:unpublishDate": ""
+}

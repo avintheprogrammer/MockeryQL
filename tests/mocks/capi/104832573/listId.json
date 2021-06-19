@@ -1,0 +1,296 @@
+{
+  "@id": "104832573",
+  "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104832573",
+  "cn:type": "franchise",
+  "cn:slug": "Collection: Mad Money Sponsor Tray",
+  "cn:subType": "section",
+  "cn:tagName": "",
+  "cn:title": "Collection: Mad Money Sponsor Tray",
+  "url": "https://qa-aws01web.cnbc.com/mad-money-sponsor-tray/",
+  "cn:liveURL": "/mad-money-sponsor-tray/",
+  "cn:createdBy": "Josephine.Bila",
+  "cn:editedBy": "rekha.ponnur",
+  "datePublished": "2017-11-09T16:50:24+0000",
+  "cn:summary": "",
+  "headline": "From Our Sponsor",
+  "cn:shorterDescription": "",
+  "cn:shortestDescription": "",
+  "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><br /></p><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div></div></group></body>",
+  "cn:creatorOverwrite": "",
+  "cn:sectionHierarchy": [{
+      "id": 104832573,
+      "tagName": "",
+      "order": 1
+    },
+    {
+      "id": 15838459,
+      "tagName": "Mad Money",
+      "order": 2
+    },
+    {
+      "id": 100008328,
+      "tagName": "U.S. Business Day",
+      "order": 3
+    },
+    {
+      "id": 15839263,
+      "tagName": "Video and TV",
+      "order": 4
+    },
+    {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 5
+    }
+  ],
+  "cn:settings": {
+    "cn:nsfw": "Yes",
+    "cn:syndicate": "No",
+    "cn:verifyAge": "Yes",
+    "cn:none": "Yes",
+    "cn:commentsEnabled": "No",
+    "cn:socialtoolsEnabled": "No",
+    "cn:dateline": "No",
+    "cn:displayByline": "No",
+    "cn:displaySource": "No",
+    "cn:outbrainEnabled": "No",
+    "cn:isFamilyFriendly": "Yes",
+    "cn:listType": "Manual and/or populated by feeds",
+    "cn:tweetOnPublish": 0
+  },
+  "description": "",
+  "cn:section": {
+    "cn:type": "franchise",
+    "@id": "15838459",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15838459",
+    "cn:slug": "Mad Money",
+    "cn:subType": "news_show",
+    "url": "http://qa-aws01web.cnbc.com/mad-money/",
+    "cn:title": "Mad Money with Jim Cramer",
+    "cn:tagName": "Mad Money",
+    "cn:subDomain": "CNBC.com",
+    "cn:branding": "CNBC",
+    "cn:sectionHierarchy": [{
+        "id": 100008328,
+        "tagName": "U.S. Business Day",
+        "order": 1
+      },
+      {
+        "id": 15839263,
+        "tagName": "Video and TV",
+        "order": 2
+      },
+      {
+        "id": 10000161,
+        "tagName": "CNBC Global",
+        "order": 3
+      }
+    ],
+    "headline": "Mad Money",
+    "cn:creatorOverwrite": "",
+    "cn:liveURL": "/mad-money/",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:dateline": "Yes",
+      "cn:isFamilyFriendly": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:displayByline": "Yes",
+      "cn:displaySource": "Yes",
+      "cn:listType": "Manual and/or populated by feeds",
+      "cn:outbrainEnabled": "Yes",
+      "cn:tweetOnPublish": 0
+    },
+    "description": "Mad Money seeks to help people like you, who own stocks and feel like they're on the outside looking in, become better investors. To teach you how to think about the market like a pro. This show is not about picking stocks. It's not about giving you tips that will make you money overnight. Our mission is educational, to teach you how to analyze stocks and the market through the prism of events.",
+    "datePublished": "2014-02-20T00:07:49+0000",
+    "cn:historicalURL": [
+      "/id/15838459"
+    ],
+    "cn:bodyTeaser": "null",
+    "cn:shortestDescription": "Jim Cramer teaches everyday people how to invest like a pro!",
+    "cn:summary": "Mad Money seeks to help people like you, who own stocks and feel like they're on the outside looking in, become better investors. To teach you how to think about the market like a pro. This show is not about picking stocks. It's not about giving you tips that will make you money overnight. Our mission is educational, to teach you how to analyze stocks and the market through the prism of events.",
+    "cn:editedBy": "Tahir",
+    "cn:createdBy": "migration",
+    "cn:shorterDescription": "Hosted by Jim Cramer, the \"Mad Money\" mission is educational: to teach you how to analyze stocks and the market like a pro.",
+    "name": "Mad Money with Jim Cramer",
+    "cn:tabLabel": "Mad Money",
+    "cn:sectionLinktext": "Mad Money with Jim Cramer"
+  },
+  "cn:branding": "cnbc",
+  "cn:subDomain": "https://qa-aws01web.cnbc.com",
+  "cn:historicalURL": [],
+  "@context": {
+    "@vocab": "http://schema.org/",
+    "cn": "http://cnbc.com/schema/"
+  },
+  "publisher": {
+    "name": "CNBC",
+    "@type": "Organization",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "name": "Collection: Mad Money Sponsor Tray",
+  "cn:sectionColor": "#000000",
+  "cn:promoText": "",
+  "cn:showTime": "",
+  "cn:tabLabel": "From Our Sponsor",
+  "cn:sectionLinktext": "From Our Sponsor",
+  "@type": "Collection",
+  "cn:pagination": {
+    "cn:link": {
+      "cn:self": "https://qa-aws02capi-bl.cnbc.com/list/id/104832573?page=1&pagesize=20",
+      "cn:next": "https://qa-aws02capi-bl.cnbc.com/list/id/104832573?page=1&pagesize=20",
+      "cn:previous": "https://qa-aws02capi-bl.cnbc.com/list/id/104832573?page=1&pagesize=20",
+      "cn:last": "https://qa-aws02capi-bl.cnbc.com/list/id/104832573?page=1&pagesize=20"
+    },
+    "cn:page": 1,
+    "cn:totalCount": 1,
+    "cn:pageSize": 20
+  },
+  "cn:listItem": [{
+    "@id": "104832580",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104832580",
+    "cn:type": "webresource",
+    "cn:slug": "Veterans Make Us Better web resource",
+    "cn:tagName": "",
+    "cn:title": "Veterans Make Us Better",
+    "url": "",
+    "cn:liveURL": "",
+    "cn:createdBy": "Josephine.Bila",
+    "cn:editedBy": "Josephine.Bila",
+    "datePublished": "2017-11-09T19:21:28+0000",
+    "cn:summary": "",
+    "headline": "Veterans Make Us Better",
+    "cn:shorterDescription": "",
+    "cn:shortestDescription": "",
+    "cn:creatorOverwrite": "",
+    "cn:sectionHierarchy": [{
+        "id": 15838459,
+        "tagName": "Mad Money",
+        "order": 1
+      },
+      {
+        "id": 100008328,
+        "tagName": "U.S. Business Day",
+        "order": 2
+      },
+      {
+        "id": 15839263,
+        "tagName": "Video and TV",
+        "order": 3
+      },
+      {
+        "id": 10000161,
+        "tagName": "CNBC Global",
+        "order": 4
+      }
+    ],
+    "image": {
+      "@type": "ImageObject",
+      "representativeOfPage": "true",
+      "caption": "",
+      "author": "",
+      "copyrightHolder": "",
+      "@id": "104832960",
+      "height": "738",
+      "datePublished": "2017-11-09T19:20:53+0000",
+      "description": "",
+      "width": "1410",
+      "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104832960-Boeing_Facebook_Cardimage.png?v=1510255226"
+    },
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:dateline": "Yes",
+      "cn:displayByline": "Yes",
+      "cn:displaySource": "Yes",
+      "cn:outbrainEnabled": "Yes",
+      "cn:isFamilyFriendly": "Yes",
+      "cn:listType": "Virtual",
+      "cn:tweetOnPublish": 0
+    },
+    "description": "",
+    "cn:section": {
+      "cn:type": "franchise",
+      "@id": "15838459",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15838459",
+      "cn:slug": "Mad Money",
+      "cn:subType": "news_show",
+      "url": "http://qa-aws01web.cnbc.com/mad-money/",
+      "cn:title": "Mad Money with Jim Cramer",
+      "cn:tagName": "Mad Money",
+      "cn:subDomain": "CNBC.com",
+      "cn:branding": "CNBC",
+      "cn:sectionHierarchy": [{
+          "id": 100008328,
+          "tagName": "U.S. Business Day",
+          "order": 1
+        },
+        {
+          "id": 15839263,
+          "tagName": "Video and TV",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "headline": "Mad Money",
+      "cn:creatorOverwrite": "",
+      "cn:liveURL": "/mad-money/",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:outbrainEnabled": "Yes",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "Mad Money seeks to help people like you, who own stocks and feel like they're on the outside looking in, become better investors. To teach you how to think about the market like a pro. This show is not about picking stocks. It's not about giving you tips that will make you money overnight. Our mission is educational, to teach you how to analyze stocks and the market through the prism of events.",
+      "datePublished": "2014-02-20T00:07:49+0000",
+      "cn:historicalURL": [
+        "/id/15838459"
+      ],
+      "cn:bodyTeaser": "null",
+      "cn:shortestDescription": "Jim Cramer teaches everyday people how to invest like a pro!",
+      "cn:summary": "Mad Money seeks to help people like you, who own stocks and feel like they're on the outside looking in, become better investors. To teach you how to think about the market like a pro. This show is not about picking stocks. It's not about giving you tips that will make you money overnight. Our mission is educational, to teach you how to analyze stocks and the market through the prism of events.",
+      "cn:editedBy": "Tahir",
+      "cn:createdBy": "migration",
+      "cn:shorterDescription": "Hosted by Jim Cramer, the \"Mad Money\" mission is educational: to teach you how to analyze stocks and the market like a pro.",
+      "name": "Mad Money with Jim Cramer",
+      "cn:tabLabel": "Mad Money",
+      "cn:sectionLinktext": "Mad Money with Jim Cramer"
+    },
+    "cn:historicalURL": [],
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "publisher": {
+      "name": "CNBC",
+      "@type": "Organization",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "cn:webResource": {
+      "cn:webResourceLinkText": "Veterans Make Us Better",
+      "cn:webResourceAttributeUrl": "https://www.cnbc.com/veterans-make-us-better/",
+      "cn:webResourceAttributeTitle": "Veterans Make Us Better",
+      "cn:webResourceIsFeed": 0,
+      "cn:webResourceRefreshInterval": 0,
+      "cn:webResourceLastRefreshTime": 0,
+      "cn:webResourceAttributeTarget": "_blank",
+      "cn:webResourceAttributeRel": "",
+      "cn:webResourceAttributeId": "webresource_",
+      "cn:webResourceAttributeClass": "webresource     "
+    },
+    "@type": "CreativeWork",
+    "cn:relation": [{
+      "cn:isPromoted": "true",
+      "cn:relationType": "outputList",
+      "position": 1
+    }]
+  }]
+}

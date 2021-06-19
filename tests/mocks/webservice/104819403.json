@@ -1,0 +1,31 @@
+{
+  "data": {
+    "webservice": {
+      "id": 104819403,
+      "slug": "youtube obama summit",
+      "type": "webservice",
+      "brand": "cnbc",
+      "summary": "obamasummit",
+      "shorterDescription": "obamasummit",
+      "title": null,
+      "native": false,
+      "premium": false,
+      "publisher": {
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/104819403",
+      "widget": {
+        "widgetType": "facebook",
+        "widgetParams": {
+          "src": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/pg8hU_hmfQg?rel=0&amp;start=5090\" frameborder=\"0\" allowfullscreen></iframe>",
+          "allowfullscreen": "0",
+          "frameborder": "",
+          "height": ""
+        }
+      },
+      "datePublished": "2017-11-03T18:22:39 GMT",
+      "widgetDisplayName": "unique_name::facebook\r\ndisplay_name::Facebook"
+    }
+  }
+}

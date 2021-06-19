@@ -1,0 +1,2704 @@
+{
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws03web.cnbc.com",
+    "url": "https://qa-aws03web.cnbc.com/latest-video/",
+    "cn:type": "franchise",
+    "cn:creatorOverwrite": "",
+    "@id": "100004038",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100004038",
+    "cn:slug": "Video: All",
+    "cn:subType": "original_show",
+    "cn:title": "Latest Video",
+    "cn:tagName": "Video: All",
+    "cn:sectionHierarchy": [
+        {
+            "id": 100004038,
+            "tagName": "Video: All",
+            "order": 1
+        },
+        {
+            "id": 15839263,
+            "tagName": "Video and TV",
+            "order": 2
+        },
+        {
+            "id": 10000161,
+            "tagName": "CNBC Global",
+            "order": 3
+        }
+    ],
+    "cn:sectionLabel": "",
+    "cn:liveURL": "/latest-video/",
+    "cn:settings": {
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+    },
+    "sourceOrganization": [
+        {
+            "@type": "Organization",
+            "@id": "80000022",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/80000022",
+            "cn:type": "source",
+            "cn:slug": "CNBC US Source",
+            "cn:tagName": "CNBC US Source",
+            "cn:title": "",
+            "cn:creatorOverwrite": "",
+            "cn:branding": "cnbc",
+            "cn:subDomain": "https://qa-aws03web.cnbc.com",
+            "url": "https://qa-aws03web.cnbc.com",
+            "cn:sourceLogo": "https://qa-aws01fm.cnbc.com/applications/cnbc.com/resources/source_logo/2018/02/01/132198457-BreakingNews.jpeg",
+            "cn:sourceName": "CNBC.com",
+            "description": "CNBC.com",
+            "name": ""
+        }
+    ],
+    "description": "View our CNBC video gallery and find video news clips on the stock market! Play live videos and find up to date market news. Break down your selection by: Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, CEO Interviews.",
+    "cn:section": {
+        "@id": "15839263",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/15839263",
+        "cn:type": "franchise",
+        "cn:slug": "Video and TV",
+        "cn:subType": "videosection",
+        "cn:tagName": "Video and TV",
+        "cn:title": "Top Video",
+        "cn:creatorOverwrite": "",
+        "cn:liveURL": "/top-video/",
+        "datePublished": "2012-08-04T04:54:10+0000",
+        "cn:dateLastPublished": "2017-11-16T14:25:57+0000",
+        "cn:dateFirstPublished": "2012-08-04T04:54:10+0000",
+        "expires": "",
+        "cn:seoTitle": "CNBC Top Video",
+        "cn:summary": "Play live videos and find up-to-date market news. View Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, and CEO Interviews.",
+        "cn:sectionLinktext": "Top Video",
+        "headline": "Top Video",
+        "cn:sectionLabel": "Top Video",
+        "cn:tabLabel": "Top Video",
+        "cn:shorterDescription": "Play live videos and find up-to-date market news. View Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, and CEO Interviews.",
+        "cn:shortestDescription": "Play live videos and find up-to-date market news.",
+        "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"100197426\"/></assets><div class=\"group\"/></group></body>",
+        "author": [
+            {
+                "cn:type": "creator",
+                "cn:creatorOverwrite": "",
+                "@id": "15920968",
+                "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/15920968",
+                "cn:slug": "Alex Crippen",
+                "cn:title": "Alex Crippen",
+                "cn:tagName": "Alex Crippen",
+                "name": "Alex Crippen",
+                "givenName": "Alex",
+                "familyName": "Crippen",
+                "email": "",
+                "telephone": "",
+                "sameAs": [
+                    "https://www.twitter.com/alexcrippen"
+                ],
+                "cn:socialMediaInfo": [
+                    {
+                        "cn:url": "https://twitter.com/alexcrippen",
+                        "cn:displayText": "alexcrippen",
+                        "cn:type": "twitter"
+                    }
+                ],
+                "@type": "Person"
+            }
+        ],
+        "sourceOrganization": [
+            {
+                "@type": "Organization",
+                "cn:branding": "cnbc",
+                "cn:subDomain": "https://qa-aws03web.cnbc.com",
+                "url": "https://qa-aws03web.cnbc.com",
+                "cn:type": "source",
+                "cn:creatorOverwrite": "",
+                "@id": "80000022",
+                "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/80000022",
+                "cn:slug": "CNBC US Source",
+                "cn:title": "",
+                "cn:tagName": "CNBC US Source",
+                "cn:sourceLogo": "https://qa-aws01fm.cnbc.com/applications/cnbc.com/resources/source_logo/2018/02/01/132198457-BreakingNews.jpeg",
+                "cn:sourceName": "CNBC.com",
+                "description": "CNBC.com",
+                "name": ""
+            }
+        ],
+        "cn:settings": {
+            "cn:listType": "Manual and/or populated by feeds",
+            "cn:tweetOnPublish": 0
+        },
+        "description": "Play live videos and find up-to-date market news. View Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, and CEO Interviews.",
+        "cn:sectionHierarchy": [
+            {
+                "id": 10000161,
+                "tagName": "CNBC Global",
+                "order": 1
+            }
+        ],
+        "cn:historicalURL": [
+            "/id/15839263"
+        ],
+        "cn:editedBy": "Meg.Teckman-Fullard",
+        "cn:createdBy": "migration",
+        "name": "Top Video",
+        "@type": "Collection"
+    },
+    "cn:sectionLinktext": "Latest Video",
+    "headline": "Latest Video",
+    "datePublished": "2014-11-04T20:28:25+0000",
+    "cn:dateLastPublished": "2018-03-22T15:22:43+0000",
+    "cn:dateFirstPublished": "2012-08-03T21:44:59+0000",
+    "expires": "",
+    "cn:historicalURL": [
+        "/id/100004038",
+        "/video-all/"
+    ],
+    "cn:tabLabel": "Latest Video",
+    "cn:bodyTeaser": "null",
+    "cn:shortestDescription": "",
+    "cn:seoTitle": "CNBC Latest Video News Clips on the Stock Market  - CNBC",
+    "cn:summary": "View our CNBC video gallery and find video news clips on the stock market! Play live videos and find up to date market news. Break down your selection by: Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, CEO Interviews.",
+    "cn:editedBy": "rekha.ponnur",
+    "cn:createdBy": "chris.larsen",
+    "cn:shorterDescription": "",
+    "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+    },
+    "name": "Latest Video",
+    "cn:sectionColor": "#000000",
+    "cn:promoText": "",
+    "cn:showTime": "",
+    "@type": "Collection",
+    "cn:xmlArticleBody": "null",
+    "articlebody": "null",
+    "cn:xmlKeyPoints": "null",
+    "dateModified": "2018-03-22T15:21:37+0000",
+    "cn:unpublishDate": "",
+    "cn:association": [
+        {
+            "@id": "15839263",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/15839263",
+            "cn:type": "franchise",
+            "cn:slug": "Video and TV",
+            "cn:subType": "videosection",
+            "cn:tagName": "Video and TV",
+            "cn:title": "Top Video",
+            "cn:creatorOverwrite": "",
+            "cn:liveURL": "/top-video/",
+            "datePublished": "2012-08-04T04:54:10+0000",
+            "cn:dateLastPublished": "2017-11-16T14:25:57+0000",
+            "cn:dateFirstPublished": "2012-08-04T04:54:10+0000",
+            "expires": "",
+            "cn:seoTitle": "CNBC Top Video",
+            "cn:summary": "Play live videos and find up-to-date market news. View Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, and CEO Interviews.",
+            "cn:sectionLinktext": "Top Video",
+            "headline": "Top Video",
+            "cn:sectionLabel": "Top Video",
+            "cn:tabLabel": "Top Video",
+            "cn:shorterDescription": "Play live videos and find up-to-date market news. View Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, and CEO Interviews.",
+            "cn:shortestDescription": "Play live videos and find up-to-date market news.",
+            "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"100197426\"/></assets><div class=\"group\"/></group></body>",
+            "author": [
+                {
+                    "cn:type": "creator",
+                    "cn:creatorOverwrite": "",
+                    "@id": "15920968",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/15920968",
+                    "cn:slug": "Alex Crippen",
+                    "cn:title": "Alex Crippen",
+                    "cn:tagName": "Alex Crippen",
+                    "name": "Alex Crippen",
+                    "givenName": "Alex",
+                    "familyName": "Crippen",
+                    "email": "",
+                    "telephone": "",
+                    "sameAs": [
+                        "https://www.twitter.com/alexcrippen"
+                    ],
+                    "cn:socialMediaInfo": [
+                        {
+                            "cn:url": "https://twitter.com/alexcrippen",
+                            "cn:displayText": "alexcrippen",
+                            "cn:type": "twitter"
+                        }
+                    ],
+                    "@type": "Person"
+                }
+            ],
+            "sourceOrganization": [
+                {
+                    "@type": "Organization",
+                    "cn:branding": "cnbc",
+                    "cn:subDomain": "https://qa-aws03web.cnbc.com",
+                    "url": "https://qa-aws03web.cnbc.com",
+                    "cn:type": "source",
+                    "cn:creatorOverwrite": "",
+                    "@id": "80000022",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/80000022",
+                    "cn:slug": "CNBC US Source",
+                    "cn:title": "",
+                    "cn:tagName": "CNBC US Source",
+                    "cn:sourceLogo": "https://qa-aws01fm.cnbc.com/applications/cnbc.com/resources/source_logo/2018/02/01/132198457-BreakingNews.jpeg",
+                    "cn:sourceName": "CNBC.com",
+                    "description": "CNBC.com",
+                    "name": ""
+                }
+            ],
+            "cn:settings": {
+                "cn:listType": "Manual and/or populated by feeds",
+                "cn:tweetOnPublish": 0
+            },
+            "cn:association": [
+                {
+                    "cn:type": "franchise",
+                    "cn:creatorOverwrite": "",
+                    "@id": "10000161",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000161",
+                    "cn:slug": "CNBC Global",
+                    "cn:subType": "news_section",
+                    "cn:title": "Headlines from CNBC",
+                    "cn:tagName": "CNBC Global",
+                    "description": "CNBC",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "section",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "@type": "Organization",
+                    "cn:branding": "cnbc",
+                    "cn:subDomain": "https://qa-aws03web.cnbc.com",
+                    "url": "https://qa-aws03web.cnbc.com",
+                    "cn:type": "source",
+                    "cn:creatorOverwrite": "",
+                    "@id": "80000022",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/80000022",
+                    "cn:slug": "CNBC US Source",
+                    "cn:title": "",
+                    "cn:tagName": "CNBC US Source",
+                    "cn:sourceLogo": "https://qa-aws01fm.cnbc.com/applications/cnbc.com/resources/source_logo/2018/02/01/132198457-BreakingNews.jpeg",
+                    "cn:sourceName": "CNBC.com",
+                    "description": "CNBC.com",
+                    "name": "",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "source",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "cn:type": "creator",
+                    "cn:creatorOverwrite": "",
+                    "@id": "15920968",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/15920968",
+                    "cn:slug": "Alex Crippen",
+                    "cn:title": "Alex Crippen",
+                    "cn:tagName": "Alex Crippen",
+                    "description": "Alex Crippen is senior coordinating producer at CNBC.com. He started with CNBC television in 1990. Crippen began his media career in affiliate TV and news radio. He holds a degree in economics from Wesleyan University.",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "author",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "cn:type": "franchise",
+                    "cn:title": "CNBC U.S. Video News Clips on the Stock Market - CNBC",
+                    "cn:creatorOverwrite": "",
+                    "@id": "100004036",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100004036",
+                    "cn:slug": "U.S. Video",
+                    "cn:tagName": "U.S. Video",
+                    "cn:subType": "original_show",
+                    "description": "View our CNBC video gallery and find video news clips on the stock market! Play live videos and find up to date market news. Break down your selection by: Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, CEO Interviews.",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "tags",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "cn:type": "franchise",
+                    "cn:title": "Analyst Interviews",
+                    "cn:creatorOverwrite": "",
+                    "@id": "100004033",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100004033",
+                    "cn:slug": "Analyst Interviews",
+                    "cn:tagName": "Analyst Interviews",
+                    "cn:subType": "original_show",
+                    "description": "Hear what analysts have to say about the markets, and get latest stock market data. ",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "related",
+                            "cn:isPromoted": "true"
+                        }
+                    ]
+                },
+                {
+                    "cn:type": "franchise",
+                    "cn:title": "CEO Interviews",
+                    "cn:creatorOverwrite": "",
+                    "@id": "100004032",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100004032",
+                    "cn:slug": "CEO Interviews",
+                    "cn:tagName": "CEO Interviews",
+                    "cn:subType": "videosection",
+                    "description": "Watch what CEOs have to say about business news headlines, or get updates on what's next for companies. ",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "related",
+                            "cn:isPromoted": "true"
+                        }
+                    ]
+                },
+                {
+                    "cn:type": "franchise",
+                    "cn:title": "CNBC Asia Video News Clips on the Stock Market - CNBC",
+                    "cn:creatorOverwrite": "",
+                    "@id": "100004034",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100004034",
+                    "cn:slug": "Asia Video",
+                    "cn:tagName": "Asia Video",
+                    "cn:subType": "original_show",
+                    "description": "View our CNBC video gallery and find video news clips on the stock market! Play live videos and find up to date market news. Break down your selection by: Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, CEO Interviews.",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "tags",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "cn:type": "franchise",
+                    "cn:title": "CNBC Europe Video News Clips on the Stock Market - CNBC",
+                    "cn:creatorOverwrite": "",
+                    "@id": "100004035",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100004035",
+                    "cn:slug": "Europe Video",
+                    "cn:tagName": "Europe Video",
+                    "cn:subType": "original_show",
+                    "description": "View our CNBC video gallery and find video news clips on the stock market! Play live videos and find up to date market news. Break down your selection by: Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, CEO Interviews.",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "tags",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "cn:type": "franchise",
+                    "cn:title": "Franchise Root",
+                    "@id": "17",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/17",
+                    "cn:slug": "Franchise Root",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "parent",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "cn:branding": "cnbc",
+                    "cn:subDomain": "https://qa-aws03web.cnbc.com",
+                    "url": "https://qa-aws03web.cnbc.com/latest-video/",
+                    "cn:type": "franchise",
+                    "cn:creatorOverwrite": "",
+                    "@id": "100004038",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100004038",
+                    "cn:slug": "Video: All",
+                    "cn:subType": "original_show",
+                    "cn:title": "Latest Video",
+                    "cn:tagName": "Video: All",
+                    "description": "View our CNBC video gallery and find video news clips on the stock market! Play live videos and find up to date market news. Break down your selection by: Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, CEO Interviews.",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "related",
+                            "cn:isPromoted": "true"
+                        }
+                    ]
+                }
+            ],
+            "description": "Play live videos and find up-to-date market news. View Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, and CEO Interviews.",
+            "cn:section": {
+                "cn:type": "franchise",
+                "cn:creatorOverwrite": "",
+                "@id": "10000161",
+                "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000161",
+                "cn:slug": "CNBC Global",
+                "cn:subType": "news_section",
+                "cn:title": "Headlines from CNBC",
+                "cn:tagName": "CNBC Global",
+                "cn:sectionHierarchy": [],
+                "cn:sectionLabel": "CNBC",
+                "cn:liveURL": "/cnbc-global/",
+                "cn:settings": {
+                    "cn:listType": "Manual and/or populated by feeds",
+                    "cn:tweetOnPublish": 0
+                },
+                "description": "CNBC",
+                "cn:sectionLinktext": "Headlines from CNBC",
+                "headline": "Headlines from CNBC",
+                "datePublished": "2012-02-03T16:18:58+0000",
+                "cn:dateLastPublished": "2018-02-06T21:21:48+0000",
+                "cn:dateFirstPublished": "2012-02-03T16:18:58+0000",
+                "expires": "",
+                "cn:historicalURL": [
+                    "/id/10000161"
+                ],
+                "cn:tabLabel": "CNBC",
+                "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><br /></p><div id=\"csscan-wrapper\" style=\"display: none; \"><h2 id=\"csscan-header\">element</h2><table id=\"csscan-table\"><tbody><tr><th colspan=\"2\" id=\"csscan-header-font\" class=\"csscan-header\">Font</th></tr><tr id=\"csscan-row-font-family\"><td id=\"csscan-property-font-family\" class=\"csscan-property\">font-family</td><td id=\"csscan-value-font-family\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-size\"><td id=\"csscan-property-font-size\" class=\"csscan-property\">font-size</td><td id=\"csscan-value-font-size\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-style\"><td id=\"csscan-property-font-style\" class=\"csscan-property\">font-style</td><td id=\"csscan-value-font-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-variant\"><td id=\"csscan-property-font-variant\" class=\"csscan-property\">font-variant</td><td id=\"csscan-value-font-variant\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-weight\"><td id=\"csscan-property-font-weight\" class=\"csscan-property\">font-weight</td><td id=\"csscan-value-font-weight\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-letter-spacing\"><td id=\"csscan-property-letter-spacing\" class=\"csscan-property\">letter-spacing</td><td id=\"csscan-value-letter-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-line-height\"><td id=\"csscan-property-line-height\" class=\"csscan-property\">line-height</td><td id=\"csscan-value-line-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-decoration\"><td id=\"csscan-property-text-decoration\" class=\"csscan-property\">text-decoration</td><td id=\"csscan-value-text-decoration\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-align\"><td id=\"csscan-property-text-align\" class=\"csscan-property\">text-align</td><td id=\"csscan-value-text-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-indent\"><td id=\"csscan-property-text-indent\" class=\"csscan-property\">text-indent</td><td id=\"csscan-value-text-indent\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-transform\"><td id=\"csscan-property-text-transform\" class=\"csscan-property\">text-transform</td><td id=\"csscan-value-text-transform\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-white-space\"><td id=\"csscan-property-white-space\" class=\"csscan-property\">white-space</td><td id=\"csscan-value-white-space\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-word-spacing\"><td id=\"csscan-property-word-spacing\" class=\"csscan-property\">word-spacing</td><td id=\"csscan-value-word-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-color\"><td id=\"csscan-property-color\" class=\"csscan-property\">color</td><td id=\"csscan-value-color\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-background\" class=\"csscan-header\">Background</th></tr><tr id=\"csscan-row-background-attachment\"><td id=\"csscan-property-background-attachment\" class=\"csscan-property\">bg-attachment</td><td id=\"csscan-value-background-attachment\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-color\"><td id=\"csscan-property-background-color\" class=\"csscan-property\">bg-color</td><td id=\"csscan-value-background-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-image\"><td id=\"csscan-property-background-image\" class=\"csscan-property\">bg-image</td><td id=\"csscan-value-background-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-position\"><td id=\"csscan-property-background-position\" class=\"csscan-property\">bg-position</td><td id=\"csscan-value-background-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-repeat\"><td id=\"csscan-property-background-repeat\" class=\"csscan-property\">bg-repeat</td><td id=\"csscan-value-background-repeat\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-size\" class=\"csscan-header\">Box</th></tr><tr id=\"csscan-row-width\"><td id=\"csscan-property-width\" class=\"csscan-property\">width</td><td id=\"csscan-value-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-height\"><td id=\"csscan-property-height\" class=\"csscan-property\">height</td><td id=\"csscan-value-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-top\"><td id=\"csscan-property-border-top\" class=\"csscan-property\">border-top</td><td id=\"csscan-value-border-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-right\"><td id=\"csscan-property-border-right\" class=\"csscan-property\">border-right</td><td id=\"csscan-value-border-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-bottom\"><td id=\"csscan-property-border-bottom\" class=\"csscan-property\">border-bottom</td><td id=\"csscan-value-border-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-left\"><td id=\"csscan-property-border-left\" class=\"csscan-property\">border-left</td><td id=\"csscan-value-border-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-margin\"><td id=\"csscan-property-margin\" class=\"csscan-property\">margin</td><td id=\"csscan-value-margin\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-padding\"><td id=\"csscan-property-padding\" class=\"csscan-property\">padding</td><td id=\"csscan-value-padding\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-height\"><td id=\"csscan-property-max-height\" class=\"csscan-property\">max-height</td><td id=\"csscan-value-max-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-height\"><td id=\"csscan-property-min-height\" class=\"csscan-property\">min-height</td><td id=\"csscan-value-min-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-width\"><td id=\"csscan-property-max-width\" class=\"csscan-property\">max-width</td><td id=\"csscan-value-max-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-width\"><td id=\"csscan-property-min-width\" class=\"csscan-property\">min-width</td><td id=\"csscan-value-min-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-color\"><td id=\"csscan-property-outline-color\" class=\"csscan-property\">outline-color</td><td id=\"csscan-value-outline-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-style\"><td id=\"csscan-property-outline-style\" class=\"csscan-property\">outline-style</td><td id=\"csscan-value-outline-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-width\"><td id=\"csscan-property-outline-width\" class=\"csscan-property\">outline-width</td><td id=\"csscan-value-outline-width\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-position\" class=\"csscan-header\">Positioning</th></tr><tr id=\"csscan-row-position\"><td id=\"csscan-property-position\" class=\"csscan-property\">position</td><td id=\"csscan-value-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-top\"><td id=\"csscan-property-top\" class=\"csscan-property\">top</td><td id=\"csscan-value-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-bottom\"><td id=\"csscan-property-bottom\" class=\"csscan-property\">bottom</td><td id=\"csscan-value-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-right\"><td id=\"csscan-property-right\" class=\"csscan-property\">right</td><td id=\"csscan-value-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-left\"><td id=\"csscan-property-left\" class=\"csscan-property\">left</td><td id=\"csscan-value-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-float\"><td id=\"csscan-property-float\" class=\"csscan-property\">float</td><td id=\"csscan-value-float\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-display\"><td id=\"csscan-property-display\" class=\"csscan-property\">display</td><td id=\"csscan-value-display\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-clear\"><td id=\"csscan-property-clear\" class=\"csscan-property\">clear</td><td id=\"csscan-value-clear\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-z-index\"><td id=\"csscan-property-z-index\" class=\"csscan-property\">z-index</td><td id=\"csscan-value-z-index\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-list\" class=\"csscan-header\">List</th></tr><tr id=\"csscan-row-list-style-image\"><td id=\"csscan-property-list-style-image\" class=\"csscan-property\">list-style-image</td><td id=\"csscan-value-list-style-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-type\"><td id=\"csscan-property-list-style-type\" class=\"csscan-property\">list-style-type</td><td id=\"csscan-value-list-style-type\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-position\"><td id=\"csscan-property-list-style-position\" class=\"csscan-property\">list-style-position</td><td id=\"csscan-value-list-style-position\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-table\" class=\"csscan-header\">Table</th></tr><tr id=\"csscan-row-vertical-align\"><td id=\"csscan-property-vertical-align\" class=\"csscan-property\">vertical-align</td><td id=\"csscan-value-vertical-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-collapse\"><td id=\"csscan-property-border-collapse\" class=\"csscan-property\">border-collapse</td><td id=\"csscan-value-border-collapse\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-spacing\"><td id=\"csscan-property-border-spacing\" class=\"csscan-property\">border-spacing</td><td id=\"csscan-value-border-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-caption-side\"><td id=\"csscan-property-caption-side\" class=\"csscan-property\">caption-side</td><td id=\"csscan-value-caption-side\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-empty-cells\"><td id=\"csscan-property-empty-cells\" class=\"csscan-property\">empty-cells</td><td id=\"csscan-value-empty-cells\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-table-layout\"><td id=\"csscan-property-table-layout\" class=\"csscan-property\">table-layout</td><td id=\"csscan-value-table-layout\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-effects\" class=\"csscan-header\">Effects</th></tr><tr id=\"csscan-row-text-shadow\"><td id=\"csscan-property-text-shadow\" class=\"csscan-property\">text-shadow</td><td id=\"csscan-value-text-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row--webkit-box-shadow\"><td id=\"csscan-property--webkit-box-shadow\" class=\"csscan-property\">-webkit-box-shadow</td><td id=\"csscan-value--webkit-box-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-radius\"><td id=\"csscan-property-border-radius\" class=\"csscan-property\">border-radius</td><td id=\"csscan-value-border-radius\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-other\" class=\"csscan-header\">Other</th></tr><tr id=\"csscan-row-overflow\"><td id=\"csscan-property-overflow\" class=\"csscan-property\">overflow</td><td id=\"csscan-value-overflow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-cursor\"><td id=\"csscan-property-cursor\" class=\"csscan-property\">cursor</td><td id=\"csscan-value-cursor\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-visibility\"><td id=\"csscan-property-visibility\" class=\"csscan-property\">visibility</td><td id=\"csscan-value-visibility\" class=\"csscan-value\"></td></tr></tbody></table></div><div id=\"csscan-wrapper\" style=\"display: none; \"><h2 id=\"csscan-header\">element</h2><table id=\"csscan-table\"><tbody><tr><th colspan=\"2\" id=\"csscan-header-font\" class=\"csscan-header\">Font</th></tr><tr id=\"csscan-row-font-family\"><td id=\"csscan-property-font-family\" class=\"csscan-property\">font-family</td><td id=\"csscan-value-font-family\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-size\"><td id=\"csscan-property-font-size\" class=\"csscan-property\">font-size</td><td id=\"csscan-value-font-size\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-style\"><td id=\"csscan-property-font-style\" class=\"csscan-property\">font-style</td><td id=\"csscan-value-font-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-variant\"><td id=\"csscan-property-font-variant\" class=\"csscan-property\">font-variant</td><td id=\"csscan-value-font-variant\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-weight\"><td id=\"csscan-property-font-weight\" class=\"csscan-property\">font-weight</td><td id=\"csscan-value-font-weight\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-letter-spacing\"><td id=\"csscan-property-letter-spacing\" class=\"csscan-property\">letter-spacing</td><td id=\"csscan-value-letter-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-line-height\"><td id=\"csscan-property-line-height\" class=\"csscan-property\">line-height</td><td id=\"csscan-value-line-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-decoration\"><td id=\"csscan-property-text-decoration\" class=\"csscan-property\">text-decoration</td><td id=\"csscan-value-text-decoration\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-align\"><td id=\"csscan-property-text-align\" class=\"csscan-property\">text-align</td><td id=\"csscan-value-text-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-indent\"><td id=\"csscan-property-text-indent\" class=\"csscan-property\">text-indent</td><td id=\"csscan-value-text-indent\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-transform\"><td id=\"csscan-property-text-transform\" class=\"csscan-property\">text-transform</td><td id=\"csscan-value-text-transform\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-white-space\"><td id=\"csscan-property-white-space\" class=\"csscan-property\">white-space</td><td id=\"csscan-value-white-space\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-word-spacing\"><td id=\"csscan-property-word-spacing\" class=\"csscan-property\">word-spacing</td><td id=\"csscan-value-word-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-color\"><td id=\"csscan-property-color\" class=\"csscan-property\">color</td><td id=\"csscan-value-color\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-background\" class=\"csscan-header\">Background</th></tr><tr id=\"csscan-row-background-attachment\"><td id=\"csscan-property-background-attachment\" class=\"csscan-property\">bg-attachment</td><td id=\"csscan-value-background-attachment\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-color\"><td id=\"csscan-property-background-color\" class=\"csscan-property\">bg-color</td><td id=\"csscan-value-background-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-image\"><td id=\"csscan-property-background-image\" class=\"csscan-property\">bg-image</td><td id=\"csscan-value-background-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-position\"><td id=\"csscan-property-background-position\" class=\"csscan-property\">bg-position</td><td id=\"csscan-value-background-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-repeat\"><td id=\"csscan-property-background-repeat\" class=\"csscan-property\">bg-repeat</td><td id=\"csscan-value-background-repeat\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-size\" class=\"csscan-header\">Box</th></tr><tr id=\"csscan-row-width\"><td id=\"csscan-property-width\" class=\"csscan-property\">width</td><td id=\"csscan-value-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-height\"><td id=\"csscan-property-height\" class=\"csscan-property\">height</td><td id=\"csscan-value-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-top\"><td id=\"csscan-property-border-top\" class=\"csscan-property\">border-top</td><td id=\"csscan-value-border-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-right\"><td id=\"csscan-property-border-right\" class=\"csscan-property\">border-right</td><td id=\"csscan-value-border-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-bottom\"><td id=\"csscan-property-border-bottom\" class=\"csscan-property\">border-bottom</td><td id=\"csscan-value-border-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-left\"><td id=\"csscan-property-border-left\" class=\"csscan-property\">border-left</td><td id=\"csscan-value-border-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-margin\"><td id=\"csscan-property-margin\" class=\"csscan-property\">margin</td><td id=\"csscan-value-margin\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-padding\"><td id=\"csscan-property-padding\" class=\"csscan-property\">padding</td><td id=\"csscan-value-padding\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-height\"><td id=\"csscan-property-max-height\" class=\"csscan-property\">max-height</td><td id=\"csscan-value-max-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-height\"><td id=\"csscan-property-min-height\" class=\"csscan-property\">min-height</td><td id=\"csscan-value-min-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-width\"><td id=\"csscan-property-max-width\" class=\"csscan-property\">max-width</td><td id=\"csscan-value-max-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-width\"><td id=\"csscan-property-min-width\" class=\"csscan-property\">min-width</td><td id=\"csscan-value-min-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-color\"><td id=\"csscan-property-outline-color\" class=\"csscan-property\">outline-color</td><td id=\"csscan-value-outline-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-style\"><td id=\"csscan-property-outline-style\" class=\"csscan-property\">outline-style</td><td id=\"csscan-value-outline-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-width\"><td id=\"csscan-property-outline-width\" class=\"csscan-property\">outline-width</td><td id=\"csscan-value-outline-width\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-position\" class=\"csscan-header\">Positioning</th></tr><tr id=\"csscan-row-position\"><td id=\"csscan-property-position\" class=\"csscan-property\">position</td><td id=\"csscan-value-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-top\"><td id=\"csscan-property-top\" class=\"csscan-property\">top</td><td id=\"csscan-value-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-bottom\"><td id=\"csscan-property-bottom\" class=\"csscan-property\">bottom</td><td id=\"csscan-value-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-right\"><td id=\"csscan-property-right\" class=\"csscan-property\">right</td><td id=\"csscan-value-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-left\"><td id=\"csscan-property-left\" class=\"csscan-property\">left</td><td id=\"csscan-value-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-float\"><td id=\"csscan-property-float\" class=\"csscan-property\">float</td><td id=\"csscan-value-float\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-display\"><td id=\"csscan-property-display\" class=\"csscan-property\">display</td><td id=\"csscan-value-display\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-clear\"><td id=\"csscan-property-clear\" class=\"csscan-property\">clear</td><td id=\"csscan-value-clear\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-z-index\"><td id=\"csscan-property-z-index\" class=\"csscan-property\">z-index</td><td id=\"csscan-value-z-index\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-list\" class=\"csscan-header\">List</th></tr><tr id=\"csscan-row-list-style-image\"><td id=\"csscan-property-list-style-image\" class=\"csscan-property\">list-style-image</td><td id=\"csscan-value-list-style-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-type\"><td id=\"csscan-property-list-style-type\" class=\"csscan-property\">list-style-type</td><td id=\"csscan-value-list-style-type\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-position\"><td id=\"csscan-property-list-style-position\" class=\"csscan-property\">list-style-position</td><td id=\"csscan-value-list-style-position\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-table\" class=\"csscan-header\">Table</th></tr><tr id=\"csscan-row-vertical-align\"><td id=\"csscan-property-vertical-align\" class=\"csscan-property\">vertical-align</td><td id=\"csscan-value-vertical-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-collapse\"><td id=\"csscan-property-border-collapse\" class=\"csscan-property\">border-collapse</td><td id=\"csscan-value-border-collapse\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-spacing\"><td id=\"csscan-property-border-spacing\" class=\"csscan-property\">border-spacing</td><td id=\"csscan-value-border-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-caption-side\"><td id=\"csscan-property-caption-side\" class=\"csscan-property\">caption-side</td><td id=\"csscan-value-caption-side\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-empty-cells\"><td id=\"csscan-property-empty-cells\" class=\"csscan-property\">empty-cells</td><td id=\"csscan-value-empty-cells\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-table-layout\"><td id=\"csscan-property-table-layout\" class=\"csscan-property\">table-layout</td><td id=\"csscan-value-table-layout\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-effects\" class=\"csscan-header\">Effects</th></tr><tr id=\"csscan-row-text-shadow\"><td id=\"csscan-property-text-shadow\" class=\"csscan-property\">text-shadow</td><td id=\"csscan-value-text-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row--webkit-box-shadow\"><td id=\"csscan-property--webkit-box-shadow\" class=\"csscan-property\">-webkit-box-shadow</td><td id=\"csscan-value--webkit-box-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-radius\"><td id=\"csscan-property-border-radius\" class=\"csscan-property\">border-radius</td><td id=\"csscan-value-border-radius\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-other\" class=\"csscan-header\">Other</th></tr><tr id=\"csscan-row-overflow\"><td id=\"csscan-property-overflow\" class=\"csscan-property\">overflow</td><td id=\"csscan-value-overflow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-cursor\"><td id=\"csscan-property-cursor\" class=\"csscan-property\">cursor</td><td id=\"csscan-value-cursor\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-visibility\"><td id=\"csscan-property-visibility\" class=\"csscan-property\">visibility</td><td id=\"csscan-value-visibility\" class=\"csscan-value\"></td></tr></tbody></table></div></div></group></body>",
+                "cn:shortestDescription": "",
+                "cn:seoTitle": "Headlines from CNBC",
+                "cn:summary": "",
+                "cn:editedBy": "chelsea.qiao",
+                "cn:createdBy": "migration",
+                "cn:shorterDescription": "CNBC",
+                "name": "Headlines from CNBC",
+                "cn:sectionColor": "#000000",
+                "cn:promoText": "",
+                "cn:showTime": "",
+                "@type": "Collection"
+            },
+            "cn:sectionHierarchy": [
+                {
+                    "id": 10000161,
+                    "tagName": "CNBC Global",
+                    "order": 1
+                }
+            ],
+            "cn:historicalURL": [
+                "/id/15839263"
+            ],
+            "cn:editedBy": "Meg.Teckman-Fullard",
+            "cn:createdBy": "migration",
+            "publisher": {
+                "name": "CNBC",
+                "@type": "Organization",
+                "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+            },
+            "@context": {
+                "cn": "http://cnbc.com/schema/",
+                "@vocab": "http://schema.org/"
+            },
+            "name": "Top Video",
+            "@type": "Collection",
+            "cn:relation": [
+                {
+                    "position": 5000,
+                    "cn:relationType": "section",
+                    "cn:isPromoted": "false"
+                },
+                {
+                    "position": 1,
+                    "cn:relationType": "tags",
+                    "cn:isPromoted": "false"
+                }
+            ]
+        },
+        {
+            "@id": "101500928",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/101500928",
+            "cn:type": "wildcard",
+            "cn:slug": "newsletters opt-in form right rail",
+            "cn:tagName": "",
+            "cn:title": "",
+            "cn:creatorOverwrite": "",
+            "cn:liveURL": "/morning-squawk-newsletter-opt-in/",
+            "cn:createdBy": "matt.shade",
+            "cn:editedBy": "matt.shade",
+            "datePublished": "2014-03-17T19:48:30+0000",
+            "cn:dateLastPublished": "2017-09-21T20:03:03+0000",
+            "cn:dateFirstPublished": "2014-03-17T19:48:30+0000",
+            "expires": "",
+            "cn:seoTitle": "morning squawk newsletter opt in",
+            "cn:summary": "",
+            "cn:linkHeadline": "",
+            "headline": "",
+            "cn:shorterHeadline": "",
+            "cn:shortestHeadline": "",
+            "cn:shorterDescription": "",
+            "cn:shortestDescription": "",
+            "cn:sectionHierarchy": [],
+            "cn:settings": {
+                "cn:commentsEnabled": "Yes",
+                "cn:socialtoolsEnabled": "Yes",
+                "cn:listType": "Virtual",
+                "cn:tweetOnPublish": 0
+            },
+            "description": "",
+            "cn:historicalURL": [],
+            "publisher": {
+                "name": "CNBC",
+                "@type": "Organization",
+                "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+            },
+            "@context": {
+                "cn": "http://cnbc.com/schema/",
+                "@vocab": "http://schema.org/"
+            },
+            "cn:wildcard": {
+                "cn:wildcardContent": {
+                    "cn:__cdata": "<div id=\"nl-optin-rr-move\">\r\n<link href=\"//fm.cnbc.com/applications/cnbc.com/resources/styles/skin/MARKETING/EMAIL/EXACT-TARGET/FORMS/CNBC-API/css/embed-form.css\" rel=\"stylesheet\">\r\n<style>\r\n#optIn-right-rail .has-error label, #optIn-right-rail .has-error .with-errors, #optIn-right-rail .has-error{color:orangered;}\r\n#optIn-right-rail .required {float: none!important;color: orangered;}\r\n#optIn-right-rail .blank-email-error, #optIn-right-rail .subscriptions-alert{display:none;}\r\n#optIn-right-rail .newsletter-choice, #optIn-right-rail .newsletter-info{cursor:pointer;font-weight:normal;}\r\n#optIn-right-rail .newsletter-info h2{margin-top:0px;margin-left:5px;font-size:1.2em;margin-bottom:0px;border-bottom:none;}\r\n#optIn-right-rail .checkbox, #optIn-right-rail .bootstrap-select.btn-group .btn .filter-option{font-weight:normal!important;letter-spacing:0px;}\r\n#optIn-right-rail .checkbox{border:#efefef solid 1px;border-radius:3px; padding-left:0px;}\r\n#optIn-right-rail #nl-submit, #optIn-right-rail .btn.modal-button{height:auto;border-color:#b0b9bd; color:white; background:#b0b9bd; text-transform:uppercase;font-weight:normal;letter-spacing:0px;font-size:16px;padding:5px 8px;}\r\n#optIn-right-rail #nl-submit:hover, #optIn-right-rail .btn.modal-button:hover{background:#2aa6e7!important;border-color:#2aa6e7;}\r\n#optIn-right-rail .checkbox label{display:block;background: #e9e9e9;border: solid #dfdfdf 1px;padding:10px;}\r\n#optIn-right-rail .nl-privacy{font-size:11px; display:block; clear:both;border-bottom:#CCD6D8 solid 1px;border-top:#CCD6D8 solid 1px;padding-bottom:5px;padding-top:5px; margin-bottom:5px; margin-top:20px;text-align:center;}\r\n#optIn-right-rail .nl-privacy a{font-size:11px;}\r\n#optIn-right-rail p{font-size:16px;margin-bottom:10px;}\r\n#optIn-right-rail{background:#efefef;border-radius:3px;padding:20px;margin-bottom:30px;}\r\n#optIn-right-rail input[type=checkbox]{position: static; margin-left: 0px; float: left;margin-right: 5px;}\r\n#optIn-right-rail h5{border-bottom: lightgrey solid 2px;margin-bottom: 10px;padding-bottom: 5px;font-size: 22px;font-weight:normal;margin-top:0px;}\r\n#optIn-right-rail #collapse{display:none;}\r\n#optIn-right-rail #toggle-close{color:white;padding:4px 7px 4px 0px;border-radius:3px;background:#427a92;font-size:12px;display:none;cursor:pointer;position: relative;right: -290px;text-align:right;top:5px;width: 20px;}\r\n#optIn-right-rail #toggle-close:hover{background:#3f9ccd;}\r\n#optIn-right-rail .form-group.check{margin-bottom:5px;}\r\n#optIn-right-rail .btn{height:auto;}\r\n#optIn-right-rail .alert{padding:0px;}\r\n#rt_contact h3, #rt_contact h4{display:none;}\r\n</style>\r\n\r\n<!--[if lt IE 9]>\r\n<script src=\"//fm.cnbc.com/applications/cnbc.com/resources/styles/skin/MARKETING/EMAIL/EXACT-TARGET/FORMS/CNBC-API/js/html5shiv.js\"></script>\r\n<![endif]-->    \r\n<div id=\"optIn-right-rail\">\r\n<h5>CNBC NEWSLETTERS</h5>\r\n<p>Get the best of CNBC in your inbox</p>\r\n        \r\n<div class=\"newslettersForm\">\r\n    <div id=\"collapse\">\r\n    <div class=\"alert subscriptions-alert has-error\">Please choose a subscription</div>\r\n\r\n     <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000031\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"make-it\" checked>            \r\n            <div class=\"newsletter-info\">\r\n                <h2>Make It</h2>\r\n                <small>A daily email for dreamers, seekers and game changers.</small>\r\n            </div>\r\n          </label>        \r\n        </div>\r\n    </div>\r\n    \r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000007\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"breaking-news\" checked>            \r\n            <div class=\"newsletter-info\">\r\n                <h2>Breaking News</h2>\r\n                <small>CNBC's latest news headlines</small>\r\n            </div>\r\n          </label>        \r\n        </div>\r\n    </div>\r\n    \r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000001\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"morning-squawk\" checked>           \r\n            <div class=\"newsletter-info\">\r\n                <h2>Morning Squawk</h2>\r\n                <small>Daily before the bell news roundup</small>\r\n            </div>\r\n          </label>        \r\n        </div>\r\n    </div>\r\n    \r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000002\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"evening-brief\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Evening Brief</h2>\r\n                <small>Daily recap of the day's top headlines</small>\r\n            </div>\r\n          </label>        \r\n        </div>\r\n    </div>\r\n      \r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000003\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"guest-alerts\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Guest Alerts</h2>\r\n                <small>Guest information &amp; reminders for your calendar</small>\r\n            </div>          \r\n          </label>        \r\n        </div>\r\n    </div>\r\n\r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000004\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"your-wealth\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Your Wealth</h2>\r\n                <small>Weekly advice on managing your money</small>\r\n            </div>\r\n          </label>        \r\n        </div>\r\n    </div>\r\n    \r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000005\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"options-action\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Options Action</h2>\r\n                <small>Insight from the Options Action panel</small>\r\n            </div>\r\n          </label>        \r\n        </div>\r\n    </div>\r\n\r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000030\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"your-money-your-vote\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Your Money Your Vote</h2>\r\n                <small>Everything you need to know about the coming election</small>\r\n            </div>          \r\n          </label>        \r\n        </div>\r\n    </div>\r\n    \r\n<br>    \r\n<div class=\"form-group\">\r\n    <select class=\"select-picker form-control\" id=\"rr-job-industry\" name=\"job_industry\" size=\"1\" autocomplete=\"off\">\r\n        <option value=\"\">Job Industry</option>\r\n        <option value=\"Advertising/Marketing\">Advertising/Marketing</option>\r\n        <option value=\"Automotive\">Automotive</option>\r\n        <option value=\"Communications/PR\">Communications/PR</option>\r\n        <option value=\"Construction/Manufacturing\">Construction/Manufacturing</option>\r\n        <option value=\"Education\">Education</option>\r\n        <option value=\"Finance/Banking/Insurance\">Finance/Banking/Insurance</option>\r\n        <option value=\"Legal\">Legal</option>\r\n        <option value=\"Media/Entertainment\">Media/Entertainment</option>\r\n        <option value=\"Medical/Health Care\">Medical/Health Care</option>\r\n        <option value=\"Mining/Oil/Gas/Utilities\">Mining/Oil/Gas/Utilities</option>\r\n        <option value=\"Gov't/Non-Profit\">Gov't/Non-Profit</option>\r\n        <option value=\"Real Estate\">Real Estate</option>\r\n        <option value=\"Retail\">Retail</option>\r\n        <option value=\"Technology/IT\">Technology/IT</option>\r\n        <option value=\"Transportation/Shipping\">Transportation/Shipping</option>\r\n        <option value=\"Travel/Hospitality\">Travel/Hospitality</option>\r\n        <option value=\"Other\">Other</option>\r\n    </select>\r\n</div>\r\n\r\n</div>  <!-- END COLLAPSE -->  \r\n <div class=\"form-group\">\r\n     <input type=\"email\" class=\"form-control\" id=\"inputEmail\" placeholder=\" Email (Required)\" autocomplete=\"off\" data-error=\"Please enter a valid email address\" required>\r\n     <div class=\"help-block with-errors\"></div>\r\n     <div class=\"blank-email-error has-error\">Please enter a valid email address</div>\r\n   </div>\r\n   \r\n   \r\n</div> <!-- FORM -->\r\n\r\n<div class=\"nl-privacy\">Get these newsletters delivered to your inbox, and more info about about our products and service. <a href=\"//nbcuni.com/privacy/\">Privacy Policy</a>.</div>\r\n\r\n   <div class=\"form-group\">\r\n       <button id=\"nl-submit\" type=\"submit\" class=\"btn btn-primary\">Submit</button>\r\n     </div>\r\n\r\n\r\n \r\n\r\n<div id=\"toggle-close\">&#x25B2;</div>\r\n\r\n\r\n\r\n\r\n\r\n\r\n<script>\r\nvar i_am_old_ie = false;\r\n</script>\r\n<!--[if lte IE 9]>\r\n<script>\r\ni_am_old_ie = true;\r\n</script>\r\n<![endif]-->\r\n\r\n\r\n<script type=\"text/javascript\">\r\n\r\n\r\n\r\n    postLoadFunctions = postLoadFunctions || {};\r\n    postLoadFunctions.newslettersright = function(){ \r\n     \r\n     var pico_code = window.document.createElement( 'script' );\r\npico_code.src = '//fm.cnbc.com/applications/cnbc.com/resources/styles/skin/MARKETING/EMAIL/EXACT-TARGET/FORMS/CNBC-API/js/picoModal.js';\r\nwindow.document.getElementsByTagName( 'body' )[ 0 ].appendChild( pico_code );\r\n\r\nvar vd = window.document.createElement( 'script' );\r\nvd.src = '//fm.cnbc.com/applications/cnbc.com/resources/styles/skin/MARKETING/EMAIL/EXACT-TARGET/FORMS/CNBC-API/js/validator.js';\r\nwindow.document.getElementsByTagName( 'body' )[ 0 ].appendChild( vd );\t\r\n \r\n\r\n \r\n \r\nconsole.log(\"newsletter real right rail js ready\");\r\n\t\t\t   $.support.cors = true;\r\n\t\t\t   \r\n\t\t\t   $.ajaxSetup({ cache: false });\r\n\t\t\t   \r\n\t\t\t   var url = \"//register.cnbc.com/auth/api/153/\";\r\n\t\t\t   var email =\"\";\r\n\t\t\t   var subscriptions =\"\";\r\n\t\t\t   var income =\"\";\r\n\t\t\t   var occupation =\"\";\r\n\t\t\t   var industry =\"\";\r\n\t\t\t   var source =\"\";\r\n\t\t\t   var subscriptionArray =[];\r\n\t\t\t   var newsletterIDArray=[];\r\n\t\t\t   var newsletterConstruct =\"\";\r\n\t\t\t   var theURL =\"\";\r\n\t\t\t   \r\n   \t\t\tvar rightrail_locationSource =[];\r\n\t\t\t\r\n\t\t\t\r\n   \t\t\t\r\n\t\t\t   \r\n\t\t\t   $('#nl-submit').prop('disabled', false);\r\n\t\t\t   // $('.select-picker').selectpicker('refresh');\r\n\t\t\t   \r\n\t\t\t   $('#optIn-right-rail label').on('click', function(){\r\n\t\t\t\t   if($(this).hasClass(\"newsletter-selected\")){\r\n\t\t\t\t\t   console.log('has te class');\r\n\t\t\t\t\t   $(this).removeClass(\"newsletter-selected\");\r\n\t\t\t\t   }else{\r\n\t\t\t\t\t   $(this).addClass(\"newsletter-selected\");\r\n\t\t\t\t   }\r\n\t\t\t   \t\r\n\t\t\t   });\r\n\t\t\t   \r\n\t\t\t   \r\n\t\t\t   $('#optIn-right-rail .reload').on('click', function(){\r\n\t\t   \t\twhile(subscriptionArray.length > 0) {\r\n\t\t   \t\t    subscriptionArray.pop();\r\n\t\t   \t\t}\r\n\t\t\t   \t\r\n\t\t\t   });\r\n\t\t\t   \r\n\r\n\t\t\t   \r\n\t\t\t   \r\n$('#optIn-right-rail .newsletter-choice').on('change', function(){\r\n\t$('#optIn-right-rail .subscriptions-alert').hide();\r\n});\r\n\r\n\r\n\r\n$('#optIn-right-rail #inputEmail').on('keyup', function(){\r\n\temail = $('#optIn-right-rail #inputEmail').val();\r\n\tif (validateEmail(email)) {\r\n\t$('#nl-submit').prop('disabled', false);\r\n\t$('#optIn-right-rail .blank-email-error').hide();\r\n}\r\n});\r\n\r\n$('#optIn-right-rail #inputEmail').on('focus', function(){\r\n\tconsole.log('we are focused');\r\n\t$('#optIn-right-rail .blank-email-error').hide();\t\t\r\n\t$(\"#optIn-right-rail #collapse\").slideDown();\t\r\n\t$('#optIn-right-rail #toggle-close').fadeIn('fast');\t\t\t\r\n\r\n});\r\n\r\n$('#optIn-right-rail #toggle-close').on('click', function(){\r\n\t$(\"#optIn-right-rail #collapse\").slideToggle();\r\n\t$('#optIn-right-rail #toggle-close').fadeOut('fast');\r\n});\r\n\r\n\r\n$(\"#optIn-right-rail #inputEmail\").on('keypress',function(e){\r\n     var p = e.which;\r\n     if(p==13 && $(\"#optIn-right-rail #inputEmail\").is(\":focus\")){\r\n         $(\"#optIn-right-rail #nl-submit\").trigger( \"click\" );\r\n\t\t return false\r\n     }\r\n });\r\n function validateEmail(email) { \r\n     var re = /^(([^<>()[\\]\\\\.,;:\\s@\\\"]+(\\.[^<>()[\\]\\\\.,;:\\s@\\\"]+)*)|(\\\".+\\\"))@((\\[[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\])|(([a-zA-Z\\-0-9]+\\.)+[a-zA-Z]{2,}))$/;\r\n     return re.test(email);\r\n\t console.log();\r\n }  \r\n \r\n$('#optIn-right-rail #nl-submit').on('click', function(e){\r\n\temail = $('#optIn-right-rail #inputEmail').val();\r\n\tconsole.log('press');\r\n\tif (validateEmail(email)) {\r\n\t\t\r\n\t\tconsole.log(\"email is good\");\r\n\t\t\r\n\t\tif(!s.prop31 == \"\"){\r\n\t\t\trightrail_locationSource.push(s.prop31);\r\n\t\t}\r\n\t\tif(!s.prop32 == \"\"){\r\n\t\t\trightrail_locationSource.push(s.prop32);\r\n\t\t}\r\n\t\tif(!s.prop33 == \"\"){\r\n\t\t\trightrail_locationSource.push(s.prop33);\r\n\t\t}\r\n\t\tif(!s.prop34 == \"\"){\r\n\t\t\trightrail_locationSource.push(s.prop34);\r\n\t\t}\r\n\t\tif(!s.prop35 == \"\"){\r\n\t\t\trightrail_locationSource.push(s.prop35);\r\n\t\t}\r\n\t\t\r\n\t\t\r\n\t\t\r\n\t\t$('#nl-submit').prop('disabled', true);\r\n\t\t$('#optIn-right-rail #inputEmail').prop('disabled', true);\r\n\t\tnewsletterConstruct =\"\";\r\n\t\t$('#optIn-right-rail .subscriptions-alert').hide();\r\n\t\t$('#optIn-right-rail .blank-email-error').hide();\r\n\t\t$(this).parent().removeClass('has-error');\t\t\r\n\t\t\r\n\t\t$( \"#optIn-right-rail .newsletter-choice\" ).each(function() {\r\n\t\t\tif($(this).is(':checked')){\r\n\t\t\t\tsubscriptionArray.push($(this).data('subscription'));\r\n\t\t\t\tnewsletterIDArray.push($(this).attr('id'))\r\n\t\t\t}else{\r\n\t\t\t\t\r\n\t\t\t\r\n\t\t\t}\t\t\r\n\t\t});\t\r\n\t\t\r\n\t\t\r\n\t\t\r\n\t\r\n\t\tif(subscriptionArray.length == 0){\r\n\t\t\tconsole.log(\"no subs\");\r\n\t\t\twhile(subscriptionArray.length > 0) {\r\n\t\t\t    subscriptionArray.pop();\r\n\t\t\t}\r\n\t\t\t$('#optIn-right-rail .subscriptions-alert').show();\r\n\t\t}else{\r\n\t\t\tconsole.log(subscriptionArray);\r\n\t\t\temail = email + \"/sync\";\r\n\t\t\tindustry = \"&industry=\" + encodeURIComponent($('#rr-job-industry').val());\r\n\t\t\tsource = \"&source=newsletters\";\r\n\t\t\tsubscriptions = \"?callback=nil&subscriptions=\" + subscriptionArray.join(\"|\");\t\r\n\t\t\t\r\n\t\t\ttheURL = url + email;\r\n\t\t\t\r\n\t\t\tnewsletterConstruct += subscriptions;\r\n\t\r\n\t\t\tif(!$('#rr-job-industry').val() == \"\"){\r\n\t\t\t\tnewsletterConstruct += industry;\r\n\t\t\t\t\t\r\n\t\t\t}\r\n\t\t\tnewsletterConstruct += source;\r\n\t\t\trail_locationSource = \"&location_source=RightRail|\" + rightrail_locationSource.join(\"|\");\r\n\t\t\tnewsletterConstruct += rail_locationSource;\r\n\t\t\tconsole.log(newsletterConstruct);\r\n\t\t\tsendNewsletterData(newsletterConstruct);\r\n\t\t}\r\n\t\t\r\n\t  } else {\r\n\t\t  console.log(\"email is bad\")\r\n  \t\t$('#nl-submit').prop('disabled', true);\r\n  \t\t$('#optIn-right-rail .blank-email-error').show();\r\n\t\tnewsletterConstruct =\"\";\r\n  \t\twhile(subscriptionArray.length > 0) {\r\n  \t\t    subscriptionArray.pop();\r\n  \t\t}\r\n  \t\twhile(rightrail_locationSource.length > 0) {\r\n  \t\t    rightrail_locationSource.pop();\r\n  \t\t}\r\n\t  }\r\n\t\r\n});\t\r\n\r\n\t\r\n\tfunction sendNewsletterData(newsletterConstruct){\r\n\r\nif(i_am_old_ie) {\r\n                (function(c){if(i_am_old_ie){c.__jquery_xdomain__=c.support.cors=!0;var e=function(a){return\"object\"===c.type(a)?a:(a=/^(((([^:\\/#\\?]+:)?(?:\\/\\/((?:(([^:@\\/#\\?]+)(?:\\:([^:@\\/#\\?]+))?)@)?(([^:\\/#\\?]+)(?:\\:([0-9]+))?))?)?)?((\\/?(?:[^\\/\\?#]+\\/+)*)([^\\?#]*)))?(\\?[^#]+)?)(#.*)?/.exec(a))?{href:a[0]||\"\",hrefNoHash:a[1]||\"\",hrefNoSearch:a[2]||\"\",domain:a[3]||\"\",protocol:a[4]||\"\",authority:a[5]||\"\",username:a[7]||\"\",password:a[8]||\"\",host:a[9]||\"\", hostname:a[10]||\"\",port:a[11]||\"\",pathname:a[12]||\"\",directory:a[13]||\"\",filename:a[14]||\"\",search:a[15]||\"\",hash:a[16]||\"\"}:{}},f=c.ajaxSettings.xhr,d=\"SESSION_COOKIE_NAME\"in window?window.SESSION_COOKIE_NAME:\"jsessionid\",g=e(document.location.href).domain;c.ajaxSettings.xhr=function(){var a=e(this.url).domain;if(\"\"===a||a===g)return f.call(c.ajaxSettings);try{var b=new XDomainRequest;if(!b.setRequestHeader)b.setRequestHeader=c.noop;if(!b.getAllResponseHeaders)b.getAllResponseHeaders=c.noop;if(d){var h= b.open;b.open=function(){var a=RegExp(\"(?:^|; )\"+d+\"=([^;]*)\",\"i\").exec(document.cookie);if(a=a&&a[1]){var b=arguments[1].indexOf(\"?\");arguments[1]=-1==b?arguments[1]+(\";\"+d+\"=\"+a):arguments[1].substring(0,b)+\";\"+d+\"=\"+a+arguments[1].substring(b)}return h.apply(this,arguments)}}b.onload=function(){if(\"function\"===typeof b.onreadystatechange)b.readyState=4,b.status=200,b.onreadystatechange.call(b,null,!1)};b.onerror=b.ontimeout=function(){if(\"function\"===typeof b.onreadystatechange)b.readyState=4, b.status=500,b.onreadystatechange.call(b,null,!1)};return b}catch(i){}}}})(jQuery);\r\n};\r\n\t\t\r\n\t\t$.ajax({\r\n\t\t\ttype: \"POST\"\r\n\t\t\t,crossDomain: true\r\n\t\t\t,url:theURL\r\n\t\t\t,data: newsletterConstruct\r\n\t\t\t,contentType: \"application/x-www-form-urlencoded\"\t\t  \r\n\t\t}).success(function(data){\r\n\t\t\tconsole.log(theURL + newsletterConstruct);\r\n\t\t\tnewsletterConstruct =\"\";\r\n\t\t\t\r\n\t\t\ts.linkTrackVars=\"events,eVar43,eVar17\";\r\n\t\t\ts.linkTrackEvents=\"event40\";\r\n\t\t\t s.events=\"event40\";\r\n\t\t\t s.eVar43=\"RightRail|\" + rightrail_locationSource.join(\"|\");\r\n\t\t\t \r\n\t\t\t s.eVar17 = newsletterIDArray.join(\"|\");\r\n\t\t\t \r\n\t\t\t\r\n\t\t\tMODULELOCATION = \"RightRail|\" + rightrail_locationSource.join(\"|\");\r\n\t\t\tNEWSLETTERARRAY = newsletterIDArray.join(\"|\");\r\n\t\t\t\r\n\t\t\t// console.log(\"evar43: \" + s.eVar43 +\"\\n\"+ \"evar17: \" + s.eVar17 + \"\\n\" + \"module location: \" + MODULELOCATION)\r\n\t\t\t\r\n\t\t s.tl(this,'o','Newsletter Subscribe');\r\n\t\t \r\n\t\t\twhile(subscriptionArray.length > 0) {\r\n\t\t\t    subscriptionArray.pop();\r\n\t\t\t}\r\n\t  \t\twhile(rightrail_locationSource.length > 0) {\r\n\t  \t\t    rightrail_locationSource.pop();\r\n\t  \t\t}\r\n\t\t\t\r\n\t\t\tsuccessModal();\r\n\t\t\t\r\n\t\t}).error(function(data){\r\n\t\t\tconsole.log(\"error captain\");\r\n\t\t\tnewsletterConstruct =\"\";\r\n\t\t\twhile(subscriptionArray.length > 0) {\r\n\t\t\t    subscriptionArray.pop();\r\n\t\t\t}\r\n\t  \t\twhile(rightrail_locationSource.length > 0) {\r\n\t  \t\t    rightrail_locationSource.pop();\r\n\t  \t\t}\r\n\t\t\t\r\n\t\t\terrorModal();\r\n\t\t});\r\n\t}\r\n\t\r\n\t\r\n\tfunction successModal(){\r\n\t\t\r\n\t\tpicoModal({\r\n\t\t      content: \"Thank You for Subscribing!\",\r\n\t\t      overlayStyles: function ( styles ) { styles.opacity = 0; },\r\n\t\t      modalStyles: function ( styles ) { styles.opacity = 0; }\r\n\t\t  })\r\n\t\t  .afterShow(function(modal){\t\t\t\r\n\t\t      $(modal.overlayElem()).animate({opacity: .5});\r\n\t\t      $(modal.modalElem()).animate({opacity: 1});\r\n\t\t  })\r\n\t\t  .afterClose(function(modal, event){\r\n\t\t\t  \r\n  \t\t\t$('#nl-submit').prop('disabled', false);\r\n\t   \t\t$('#optIn-right-rail #inputEmail').prop('disabled', false);\r\n  \t\t\t$('#optIn-right-rail #inputEmail').val(\" \");\r\n\t\t\t$('#optIn-right-rail #inputEmail').blur();\r\n\t\t\t$(\"#optIn-right-rail #collapse\").slideUp();\t\r\n\t\t\t$('#optIn-right-rail #toggle-close').fadeOut('fast');\r\n\t\t\tevent.preventDefault();\r\n  \t\t\t$('#optIn-right-rail #rr-job-industry').prop('selectedIndex',0);\r\n  \t\t\t$('#optIn-right-rail .newsletter-choice').prop('checked', true);\r\n\t\t  })\r\n\t\t  .beforeClose(function(modal, event) {\r\n\t\t      event.preventDefault();\r\n\t\t      $(modal.overlayElem()).add(modal.modalElem())\r\n\t\t          .animate(\r\n\t\t              { opacity: 0 },\r\n\t\t              { complete: modal.forceClose }\r\n\t\t          );\r\n\t\t  })\r\n\t\t  .show();\r\n\t}\r\n\t\r\n\tfunction errorModal(){\r\n\t\t\r\n\t\tpicoModal({\r\n\t\t      content: \"Oops!  Something went wrong, please try again.\",\r\n\t\t      overlayStyles: function ( styles ) { styles.opacity = 0; },\r\n\t\t      modalStyles: function ( styles ) { styles.opacity = 0; }\r\n\t\t  })\r\n\t\t  .afterShow(function(modal){\r\n\t\t   \r\n\t\t      $(modal.overlayElem()).animate({opacity: .5});\r\n\t\t      $(modal.modalElem()).animate({opacity: 1});\r\n\t\t  })\r\n\t\t  .afterClose(function(modal, event){\r\n\t\t\t  event.preventDefault();\r\n   \t\t   console.log(\"right rail error modal hide\");\r\n   \t\t\r\n   \t\t$('#nl-submit').prop('disabled', false);\r\n   \t\t$('#optIn-right-rail #inputEmail').prop('disabled', false);\r\n\t\t  })\r\n\t\t  .beforeClose(function(modal, event) {\r\n\t\t      event.preventDefault();\r\n\t\t      $(modal.overlayElem()).add(modal.modalElem())\r\n\t\t          .animate(\r\n\t\t              { opacity: 0 },\r\n\t\t              { complete: modal.forceClose }\r\n\t\t          );\r\n\t\t  })\r\n\t\t  .show();\r\n\t}              \r\n}\r\n</script>\r\n</div>"
+                },
+                "cn:wildcardPromo": {
+                    "cn:__cdata": "<div id=\"nl-optin-rr-move\">\r\n<!-- <link href=\"//fm.cnbc.com/applications/cnbc.com/resources/styles/skin/MARKETING/EMAIL/EXACT-TARGET/FORMS/CNBC-API/css/embed-form.css\" rel=\"stylesheet\"> -->\r\n<style>\r\n#optIn-right-rail .has-error label, #optIn-right-rail .has-error .with-errors, #optIn-right-rail .has-error{color:orangered;}\r\n#optIn-right-rail .required {float: none!important;color: orangered;}\r\n#optIn-right-rail .blank-email-error, #optIn-right-rail .subscriptions-alert{display:none;}\r\n#optIn-right-rail .newsletter-choice, #optIn-right-rail .newsletter-info{cursor:pointer;font-weight:normal;}\r\n#optIn-right-rail .newsletter-info h2{margin-top:0px;margin-left:5px;font-size:1.2em;margin-bottom:0px;border-bottom:none;}\r\n#optIn-right-rail .checkbox, #optIn-right-rail .bootstrap-select.btn-group .btn .filter-option{font-weight:normal!important;letter-spacing:0px;}\r\n#optIn-right-rail .checkbox{border:#efefef solid 1px;border-radius:3px; padding-left:0px;}\r\n#optIn-right-rail #nl-submit, #optIn-right-rail .btn.modal-button{height:auto;border-color:#b0b9bd; color:white; background:#b0b9bd; text-transform:uppercase;font-weight:normal;letter-spacing:0px;font-size:16px;padding:5px 8px;}\r\n#optIn-right-rail #nl-submit:hover, #optIn-right-rail .btn.modal-button:hover{background:#2aa6e7!important;border-color:#2aa6e7;}\r\n#optIn-right-rail .checkbox label{display:block;background: #e9e9e9;border: solid #dfdfdf 1px;padding:10px;}\r\n#optIn-right-rail .nl-privacy{font-size:11px; display:block; clear:both;border-bottom:#CCD6D8 solid 1px;border-top:#CCD6D8 solid 1px;padding-bottom:5px;padding-top:5px; margin-bottom:5px; margin-top:20px;text-align:center;}\r\n#optIn-right-rail .nl-privacy a{font-size:11px;}\r\n#optIn-right-rail p{font-size:16px;margin-bottom:10px;}\r\n#optIn-right-rail{background:#efefef;border-radius:3px;padding:20px;margin-bottom:30px;}\r\n#optIn-right-rail input[type=checkbox]{position: static; margin-left: 0px; float: left;margin-right: 5px;}\r\n#optIn-right-rail h5{border-bottom: lightgrey solid 2px;margin-bottom: 10px;padding-bottom: 5px;font-size: 22px;font-weight:normal;margin-top:0px;}\r\n#optIn-right-rail #collapse{display:none;}\r\n#optIn-right-rail #toggle-close{color:white;padding:4px 7px 4px 0px;border-radius:3px;background:#427a92;font-size:12px;display:none;cursor:pointer;position: relative;right: -290px;text-align:right;top:5px;width: 20px;}\r\n#optIn-right-rail #toggle-close:hover{background:#3f9ccd;}\r\n#optIn-right-rail .form-group.check{margin-bottom:5px;}\r\n#optIn-right-rail .btn{height:auto;}\r\n#optIn-right-rail .alert{padding:0px;}\r\n#rt_contact h3, #rt_contact h4{display:none;}\r\n.newspop .newsletter-choice {margin-bottom: 40px; margin-top: 10px;}\r\n#optIn-right-rail #inputEmail{width: 90%; padding: 10px; font-size: 14px; border: none; border-radius: 3px;}\r\n</style>\r\n\r\n<!--[if lt IE 9]>\r\n<script src=\"//fm.cnbc.com/applications/cnbc.com/resources/styles/skin/MARKETING/EMAIL/EXACT-TARGET/FORMS/CNBC-API/js/html5shiv.js\"></script>\r\n<![endif]-->\r\n<div id=\"optIn-right-rail\">\r\n<h5>CNBC NEWSLETTERS</h5>\r\n<p>Get the best of CNBC in your inbox</p>\r\n\r\n<div class=\"newslettersForm\">\r\n    <div id=\"collapse\">\r\n    <div class=\"alert subscriptions-alert has-error\">Please choose a subscription</div>\r\n\r\n     <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000031\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"make-it\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Make It</h2>\r\n                <small>A daily email for dreamers, seekers and game changers.</small>\r\n            </div>\r\n          </label>\r\n        </div>\r\n    </div>\r\n\r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000007\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"breaking-news\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Breaking News</h2>\r\n                <small>CNBC's latest news headlines</small>\r\n            </div>\r\n          </label>\r\n        </div>\r\n    </div>\r\n\r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000001\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"morning-squawk\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Morning Squawk</h2>\r\n                <small>Daily before the bell news roundup</small>\r\n            </div>\r\n          </label>\r\n        </div>\r\n    </div>\r\n\r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000002\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"evening-brief\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Evening Brief</h2>\r\n                <small>Daily recap of the day's top headlines</small>\r\n            </div>\r\n          </label>\r\n        </div>\r\n    </div>\r\n\r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000003\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"guest-alerts\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Guest Alerts</h2>\r\n                <small>Guest information &amp; reminders for your calendar</small>\r\n            </div>\r\n          </label>\r\n        </div>\r\n    </div>\r\n\r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000004\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"your-wealth\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Your Wealth</h2>\r\n                <small>Weekly advice on managing your money</small>\r\n            </div>\r\n          </label>\r\n        </div>\r\n    </div>\r\n\r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000005\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"options-action\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Options Action</h2>\r\n                <small>Insight from the Options Action panel</small>\r\n            </div>\r\n          </label>\r\n        </div>\r\n    </div>\r\n\r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000030\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"your-money-your-vote\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Your Money Your Vote</h2>\r\n                <small>Everything you need to know about the coming election</small>\r\n            </div>\r\n          </label>\r\n        </div>\r\n    </div>\r\n\r\n<br>\r\n<div class=\"form-group\">\r\n    <select class=\"select-picker form-control\" id=\"rr-job-industry\" name=\"job_industry\" size=\"1\" autocomplete=\"off\">\r\n        <option value=\"\">Job Industry</option>\r\n        <option value=\"Advertising/Marketing\">Advertising/Marketing</option>\r\n        <option value=\"Automotive\">Automotive</option>\r\n        <option value=\"Communications/PR\">Communications/PR</option>\r\n        <option value=\"Construction/Manufacturing\">Construction/Manufacturing</option>\r\n        <option value=\"Education\">Education</option>\r\n        <option value=\"Finance/Banking/Insurance\">Finance/Banking/Insurance</option>\r\n        <option value=\"Legal\">Legal</option>\r\n        <option value=\"Media/Entertainment\">Media/Entertainment</option>\r\n        <option value=\"Medical/Health Care\">Medical/Health Care</option>\r\n        <option value=\"Mining/Oil/Gas/Utilities\">Mining/Oil/Gas/Utilities</option>\r\n        <option value=\"Gov't/Non-Profit\">Gov't/Non-Profit</option>\r\n        <option value=\"Real Estate\">Real Estate</option>\r\n        <option value=\"Retail\">Retail</option>\r\n        <option value=\"Technology/IT\">Technology/IT</option>\r\n        <option value=\"Transportation/Shipping\">Transportation/Shipping</option>\r\n        <option value=\"Travel/Hospitality\">Travel/Hospitality</option>\r\n        <option value=\"Other\">Other</option>\r\n    </select>\r\n</div>\r\n\r\n</div>  <!-- END COLLAPSE -->\r\n <div class=\"form-group\">\r\n     <input type=\"email\" class=\"form-control\" id=\"inputEmail\" placeholder=\" Email (Required)\" autocomplete=\"off\" data-error=\"Please enter a valid email address\" required>\r\n     <div class=\"help-block with-errors\"></div>\r\n     <div class=\"blank-email-error has-error\">Please enter a valid email address</div>\r\n   </div>\r\n\r\n\r\n</div> <!-- FORM -->\r\n\r\n<div class=\"nl-privacy\">Get these newsletters delivered to your inbox, and more info about about our products and service. <a href=\"//nbcuni.com/privacy/\">Privacy Policy</a>.</div>\r\n\r\n   <div class=\"form-group\">\r\n       <button id=\"nl-submit\" type=\"submit\" class=\"btn btn-primary\">Go</button>\r\n     </div>\r\n\r\n\r\n\r\n\r\n<div id=\"toggle-close\">&#x25B2;</div>\r\n\r\n\r\n\r\n\r\n\r\n\r\n<script>\r\nvar i_am_old_ie = false;\r\n</script>\r\n<!--[if lte IE 9]>\r\n<script>\r\ni_am_old_ie = true;\r\n</script>\r\n<![endif]-->\r\n\r\n\r\n<script type=\"text/javascript\">\r\n\r\nwindow.postLoadFunctions = window.postLoadFunctions || {};\r\nwindow.postLoadFunctions['newslettersRight'] = function() {\r\n  var newsletterJSCall = function() {\r\n    (function($) {\r\n\r\n var pico_code = window.document.createElement('script');\r\n      pico_code.src = '//fm.cnbc.com/applications/cnbc.com/resources/styles/skin/MARKETING/EMAIL/EXACT-TARGET/FORMS/CNBC-API/js/picoModal.js';\r\n      window.document.getElementsByTagName('body')[0].appendChild(pico_code);\r\n\r\n      $(\".news-widget #inputEmail, #optIn-right-rail #inputEmail\").on('keypress', function(e) {\r\n        var p = e.which;\r\n        if (p == 13 && $(\".news-widget #inputEmail\").is(\":focus\")) {\r\n          $(\".news-widget #nl-submit, #optIn-right-rail #nl-submit\").trigger(\"click\");\r\n          return false;\r\n        }\r\n      });\r\n\r\n\r\n      $('.news-widget #nl-submit, #optIn-right-rail #nl-submit').on('click', function(e) {\r\n\r\n    \t    var newspop = document.createElement(\"script\");\r\n    \t    newspop.type = \"text/javascript\";\r\n    \t    newspop.src = \"https://fm.cnbc.com/applications/cnbc.com/resources/styles/skin/MARKETING/EMAIL/MODAL/newspop.js?v=20\";\r\n    \t    document.getElementsByTagName(\"head\")[0].appendChild(newspop);\r\n\r\n\r\n  setTimeout(function() {\r\n   $('.newspop #inputEmail').val(inputValue);\r\n  }, 1000);\r\n\r\n      });\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n    })(jQuery);\r\n\r\n  };\r\n\r\n  setTimeout(function() {\r\n    newsletterJSCall();\r\n  }, 200);\r\n};\r\n</script>\r\n</div>\r\n"
+                }
+            },
+            "@type": "CreativeWork",
+            "cn:relation": [
+                {
+                    "position": 4999,
+                    "cn:relationType": "contact_info",
+                    "cn:isPromoted": "false"
+                }
+            ]
+        },
+        {
+            "@type": "Organization",
+            "@id": "80000022",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/80000022",
+            "cn:type": "source",
+            "cn:slug": "CNBC US Source",
+            "cn:tagName": "CNBC US Source",
+            "cn:title": "",
+            "cn:creatorOverwrite": "",
+            "cn:branding": "cnbc",
+            "cn:subDomain": "https://qa-aws03web.cnbc.com",
+            "url": "https://qa-aws03web.cnbc.com",
+            "cn:sourceLogo": "https://qa-aws01fm.cnbc.com/applications/cnbc.com/resources/source_logo/2018/02/01/132198457-BreakingNews.jpeg",
+            "cn:sourceName": "CNBC.com",
+            "cn:createdBy": "migration",
+            "cn:editedBy": "ritesh.shah",
+            "datePublished": "2011-10-06T17:33:47+0000",
+            "cn:dateLastPublished": "2018-03-20T19:34:09+0000",
+            "cn:dateFirstPublished": "2011-10-06T17:33:47+0000",
+            "expires": "",
+            "cn:summary": "",
+            "cn:linkHeadline": "",
+            "headline": "",
+            "cn:shorterHeadline": " ",
+            "cn:shortestHeadline": "CNBC",
+            "cn:shorterDescription": "CNBC.com",
+            "cn:shortestDescription": "",
+            "cn:bodyTeaser": "null",
+            "cn:sectionHierarchy": [],
+            "cn:liveURL": "",
+            "sourceOrganization": [
+                {
+                    "@type": "Organization",
+                    "cn:branding": "cnbc",
+                    "cn:subDomain": "https://qa-aws03web.cnbc.com",
+                    "url": "https://qa-aws03web.cnbc.com",
+                    "cn:type": "source",
+                    "cn:creatorOverwrite": "PAID POST BY BOEING",
+                    "@id": "104826690",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104826690",
+                    "cn:slug": "BOEING",
+                    "cn:title": "",
+                    "cn:tagName": "",
+                    "cn:sourceLogo": "https://qa-aws01fm.cnbc.com/applications/cnbc.com/resources/source_logo/2018/01/17/132198323-boeing.png",
+                    "cn:sourceUrl": "test",
+                    "cn:sourceName": "BOEING",
+                    "description": "BOEING",
+                    "name": ""
+                }
+            ],
+            "cn:settings": {
+                "cn:commentsEnabled": "Yes",
+                "cn:socialtoolsEnabled": "Yes",
+                "cn:tweetOnPublish": 0
+            },
+            "cn:association": [
+                {
+                    "@type": "Organization",
+                    "cn:branding": "cnbc",
+                    "cn:subDomain": "https://qa-aws03web.cnbc.com",
+                    "url": "https://qa-aws03web.cnbc.com",
+                    "cn:type": "source",
+                    "cn:creatorOverwrite": "PAID POST BY BOEING",
+                    "@id": "104826690",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104826690",
+                    "cn:slug": "BOEING",
+                    "cn:title": "",
+                    "cn:tagName": "",
+                    "cn:sourceLogo": "https://qa-aws01fm.cnbc.com/applications/cnbc.com/resources/source_logo/2018/01/17/132198323-boeing.png",
+                    "cn:sourceUrl": "test",
+                    "cn:sourceName": "BOEING",
+                    "description": "BOEING",
+                    "name": "",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "source",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                }
+            ],
+            "description": "CNBC.com",
+            "cn:historicalURL": [],
+            "publisher": {
+                "name": "CNBC",
+                "@type": "Organization",
+                "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+            },
+            "@context": {
+                "cn": "http://cnbc.com/schema/",
+                "@vocab": "http://schema.org/"
+            },
+            "name": "",
+            "cn:relation": [
+                {
+                    "position": 4998,
+                    "cn:relationType": "source",
+                    "cn:isPromoted": "false"
+                }
+            ]
+        },
+        {
+            "fileFormat": "text/tpl",
+            "@id": "103032829",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/103032829",
+            "cn:type": "markup_template",
+            "cn:slug": "Video Section Front Template",
+            "cn:tagName": "",
+            "cn:title": "Video Section Front Template",
+            "cn:creatorOverwrite": "",
+            "cn:liveURL": "",
+            "cn:createdBy": "yogen.patel",
+            "cn:editedBy": "yogen.patel",
+            "datePublished": "2015-09-28T23:01:10+0000",
+            "cn:dateLastPublished": "2015-09-28T23:01:14+0000",
+            "cn:dateFirstPublished": "2015-09-28T23:01:14+0000",
+            "expires": "",
+            "cn:seoTitle": "",
+            "cn:summary": "",
+            "cn:linkHeadline": "",
+            "headline": "Video Section Front Template",
+            "cn:shorterHeadline": "",
+            "cn:shortestHeadline": "",
+            "cn:shorterDescription": "",
+            "cn:shortestDescription": "",
+            "cn:bodyTeaser": "null",
+            "cn:sectionHierarchy": [],
+            "cn:settings": {
+                "cn:commentsEnabled": "Yes",
+                "cn:socialtoolsEnabled": "Yes",
+                "cn:dateline": "Yes",
+                "cn:displayByline": "Yes",
+                "cn:displaySource": "Yes",
+                "cn:outbrainEnabled": "Yes",
+                "cn:isFamilyFriendly": "Yes",
+                "cn:listType": "Virtual"
+            },
+            "description": "",
+            "cn:historicalURL": [],
+            "publisher": {
+                "name": "CNBC",
+                "@type": "Organization",
+                "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+            },
+            "@context": {
+                "cn": "http://cnbc.com/schema/",
+                "@vocab": "http://schema.org/"
+            },
+            "name": "video_section_front.tpl",
+            "url": "file://video_section_front.tpl",
+            "@type": "DigitalDocument",
+            "cn:relation": [
+                {
+                    "position": 4996,
+                    "cn:relationType": "template",
+                    "cn:isPromoted": "false"
+                }
+            ]
+        },
+        {
+            "cn:relation": [
+                {
+                    "position": 4995,
+                    "cn:relationType": "feed",
+                    "cn:isPromoted": "false"
+                }
+            ],
+            "@id": "100016182"
+        },
+        {
+            "@type": "VideoObject",
+            "@id": "104847857",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104847857",
+            "cn:type": "cnbcvideo",
+            "cn:slug": "Test Video march8 - SB Health insurer Cigna buying Express Scripts COOMBS 180308",
+            "cn:subType": "clips",
+            "cn:tagName": "",
+            "cn:title": "Health insurer Cigna buying Express Scripts",
+            "cn:creatorOverwrite": "",
+            "cn:branding": "cnbc",
+            "cn:subDomain": "https://qa-aws03web.cnbc.com",
+            "url": "https://qa-aws03web.cnbc.com/video/2018/03/08/health-insurer-cigna-buying-express-scripts.html",
+            "uploadDate": "2018-03-08T14:17:36+0000",
+            "cn:liveURL": "/video/2018/03/08/health-insurer-cigna-buying-express-scripts.html",
+            "cn:createdBy": "caroline.shiny",
+            "cn:editedBy": "darshini.oza",
+            "datePublished": "2018-03-08T14:07:53+0000",
+            "cn:dateLastPublished": "2018-03-15T18:56:10+0000",
+            "cn:dateFirstPublished": "2018-03-08T14:18:00+0000",
+            "expires": "",
+            "cn:seoTitle": "Health insurer Cigna buying Express Scripts",
+            "cn:summary": "CNBC's Bertha Coombs report terms of the deal between Cigna and Express Scripts.",
+            "cn:linkHeadline": "link headline",
+            "headline": "link headline",
+            "cn:shorterHeadline": "shorter headline",
+            "cn:shortestHeadline": "shortest headline",
+            "cn:shorterDescription": "shorter summary",
+            "cn:shortestDescription": "shortest summary",
+            "cn:sectionHierarchy": [
+                {
+                    "id": 10000108,
+                    "tagName": "Health Care",
+                    "order": 1
+                },
+                {
+                    "id": 10000161,
+                    "tagName": "CNBC Global",
+                    "order": 2
+                }
+            ],
+            "image": {
+                "@type": "ImageObject",
+                "representativeOfPage": "true",
+                "caption": "",
+                "author": "",
+                "copyrightHolder": "",
+                "@id": "104847858",
+                "height": "1080",
+                "datePublished": "2018-03-09T16:29:00+0000",
+                "description": "",
+                "width": "1920",
+                "url": "https://qa-aws02capi-img-origin.cnbc.com/api/v1/image/104847858-5ED1-SB-CignaHealth-03081.jpg?v=1520612920"
+            },
+            "thumbnail": "https://qa-aws02capi-img-origin.cnbc.com/api/v1/image/104847858-5ED1-SB-CignaHealth-03081.jpg?v=1520612920",
+            "author": [
+                {
+                    "cn:type": "creator",
+                    "cn:creatorOverwrite": "",
+                    "@id": "104775715",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104775715",
+                    "cn:slug": "Joe Lonsdale",
+                    "cn:title": "Joe Lonsdale",
+                    "cn:tagName": "Joe Lonsdale",
+                    "name": "Joe Lonsdale",
+                    "givenName": "Joe",
+                    "familyName": "Lonsdale",
+                    "email": "",
+                    "telephone": "",
+                    "@type": "Person"
+                },
+                {
+                    "cn:type": "creator",
+                    "cn:creatorOverwrite": "",
+                    "@id": "104790444",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104790444",
+                    "cn:slug": "Rani Molla",
+                    "cn:title": "Rani Molla",
+                    "cn:tagName": "Rani Molla",
+                    "name": "Rani Molla",
+                    "givenName": "Rani",
+                    "familyName": "Molla",
+                    "email": "",
+                    "telephone": "",
+                    "@type": "Person"
+                },
+                {
+                    "cn:branding": "buffett",
+                    "cn:subDomain": "https://qa-aws03buffett.cnbc.com",
+                    "url": "https://qa-aws03buffett.cnbc.com/sharon-l-lynch/",
+                    "cn:type": "creator",
+                    "cn:creatorOverwrite": "",
+                    "@id": "104799799",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104799799",
+                    "cn:slug": "Sharon L. Lynch",
+                    "cn:title": "Sharon L. Lynch",
+                    "cn:tagName": "Sharon L. Lynch",
+                    "name": "Sharon L. Lynch",
+                    "givenName": "Sharon",
+                    "familyName": "Lynch",
+                    "email": "",
+                    "telephone": "",
+                    "@type": "Person"
+                }
+            ],
+            "sourceOrganization": [
+                {
+                    "@type": "Organization",
+                    "cn:branding": "cnbc",
+                    "cn:subDomain": "https://qa-aws03web.cnbc.com",
+                    "url": "https://qa-aws03web.cnbc.com",
+                    "cn:type": "source",
+                    "cn:creatorOverwrite": "",
+                    "@id": "80000022",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/80000022",
+                    "cn:slug": "CNBC US Source",
+                    "cn:title": "",
+                    "cn:tagName": "CNBC US Source",
+                    "cn:sourceLogo": "https://qa-aws01fm.cnbc.com/applications/cnbc.com/resources/source_logo/2018/02/01/132198457-BreakingNews.jpeg",
+                    "cn:sourceName": "CNBC.com",
+                    "description": "CNBC.com",
+                    "name": ""
+                }
+            ],
+            "cn:settings": {
+                "cn:commentsEnabled": "Yes",
+                "cn:socialtoolsEnabled": "Yes",
+                "cn:dateline": "Yes",
+                "cn:displayByline": "Yes",
+                "cn:displaySource": "Yes",
+                "cn:outbrainEnabled": "Yes",
+                "cn:isFamilyFriendly": "Yes",
+                "cn:listType": "Virtual",
+                "cn:tweetOnPublish": 0,
+                "cn:videoGeoRestrictionEnabled": "No",
+                "cn:isHighPriorityVideo": "No"
+            },
+            "cn:association": [
+                {
+                    "cn:branding": "cnbc",
+                    "cn:subDomain": "https://qa-aws03web.cnbc.com",
+                    "url": "https://qa-aws03web.cnbc.com/health-care/",
+                    "cn:type": "franchise",
+                    "cn:creatorOverwrite": "",
+                    "@id": "10000108",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000108",
+                    "cn:slug": "Health Care",
+                    "cn:subType": "special_report",
+                    "cn:title": "Health Care",
+                    "cn:tagName": "Health Care",
+                    "description": "Latest news for health care. ",
+                    "name": "Health Care",
+                    "cn:sectionColor": "#000000",
+                    "cn:promoText": "",
+                    "cn:showTime": "",
+                    "@type": "Collection",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "section",
+                            "cn:isPromoted": "false"
+                        },
+                        {
+                            "cn:relationType": "additional_sections",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "cn:type": "creator",
+                    "cn:creatorOverwrite": "",
+                    "@id": "104775715",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104775715",
+                    "cn:slug": "Joe Lonsdale",
+                    "cn:title": "Joe Lonsdale",
+                    "cn:tagName": "Joe Lonsdale",
+                    "description": "",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "author",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "cn:type": "creator",
+                    "cn:creatorOverwrite": "",
+                    "@id": "104790444",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104790444",
+                    "cn:slug": "Rani Molla",
+                    "cn:title": "Rani Molla",
+                    "cn:tagName": "Rani Molla",
+                    "description": " Rani Molla covers business and technology news through charts, images, maps and sometimes even text.",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "author",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "cn:branding": "buffett",
+                    "cn:subDomain": "https://qa-aws03buffett.cnbc.com",
+                    "url": "https://qa-aws03buffett.cnbc.com/sharon-l-lynch/",
+                    "cn:type": "creator",
+                    "cn:creatorOverwrite": "",
+                    "@id": "104799799",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104799799",
+                    "cn:slug": "Sharon L. Lynch",
+                    "cn:title": "Sharon L. Lynch",
+                    "cn:tagName": "Sharon L. Lynch",
+                    "description": "Sharon L. Lynch is a New York-based reporter and editor with more than two decades of experience in wire-service, online and broadcast journalism.",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "author",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "@type": "Organization",
+                    "cn:branding": "cnbc",
+                    "cn:subDomain": "https://qa-aws03web.cnbc.com",
+                    "url": "https://qa-aws03web.cnbc.com",
+                    "cn:type": "source",
+                    "cn:creatorOverwrite": "",
+                    "@id": "80000022",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/80000022",
+                    "cn:slug": "CNBC US Source",
+                    "cn:title": "",
+                    "cn:tagName": "CNBC US Source",
+                    "cn:sourceLogo": "https://qa-aws01fm.cnbc.com/applications/cnbc.com/resources/source_logo/2018/02/01/132198457-BreakingNews.jpeg",
+                    "cn:sourceName": "CNBC.com",
+                    "description": "CNBC.com",
+                    "name": "",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "source",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "@type": "ImageObject",
+                    "cn:branding": "cnbc",
+                    "cn:subDomain": "https://qa-aws03web.cnbc.com",
+                    "cn:type": "image",
+                    "cn:creatorOverwrite": "",
+                    "@id": "104847858",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104847858",
+                    "cn:slug": "Test Video march8 - SB Health insurer Cigna buying Express Scripts COOMBS 180308_1520518650",
+                    "cn:title": "Health insurer Cigna buying Express Scripts",
+                    "cn:tagName": "",
+                    "url": "https://qa-aws02capi-img-origin.cnbc.com/api/v1/image/104847858-5ED1-SB-CignaHealth-03081.jpg?v=1520612920",
+                    "description": "",
+                    "author": "",
+                    "contentSize": 637085,
+                    "caption": "",
+                    "copyrightHolder": "",
+                    "height": "1080",
+                    "width": "1920",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "promo",
+                            "cn:isPromoted": "true"
+                        }
+                    ]
+                },
+                {
+                    "cn:branding": "cnbc",
+                    "cn:subDomain": "https://qa-aws03web.cnbc.com",
+                    "url": "https://qa-aws03web.cnbc.com/breaking-news/",
+                    "cn:type": "franchise",
+                    "cn:creatorOverwrite": "",
+                    "@id": "20991458",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/20991458",
+                    "cn:slug": "Breaking news",
+                    "cn:subType": "news_section",
+                    "cn:title": "Breaking news",
+                    "cn:tagName": "Breaking News",
+                    "description": "Breaking News",
+                    "name": "Breaking news",
+                    "cn:sectionColor": "#000000",
+                    "cn:promoText": "",
+                    "cn:showTime": "",
+                    "@type": "Collection",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "additional_sections",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "cn:type": "franchise",
+                    "cn:title": "Wall Street",
+                    "cn:creatorOverwrite": "",
+                    "@id": "10000958",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000958",
+                    "cn:slug": "Wall Street",
+                    "cn:tagName": "Wall Street",
+                    "cn:subType": "section",
+                    "description": "Breaking news and latest headlines from Wall Street including articles, videos, photos, and blogs. ",
+                    "name": "Wall Street",
+                    "@type": "Collection",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "related",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "cn:branding": "Make It",
+                    "cn:subDomain": null,
+                    "url": "/stocks/",
+                    "cn:type": "franchise",
+                    "cn:creatorOverwrite": "",
+                    "@id": "15839215",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/15839215",
+                    "cn:slug": "Stocks",
+                    "cn:subType": "news_section",
+                    "cn:title": "Stocks",
+                    "cn:tagName": "Stocks from tag name",
+                    "description": "In-depth market analysis, real-time stock market data, research and earnings from CNBC.com. ",
+                    "name": "Stocks",
+                    "@type": "Collection",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "related",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "cn:type": "franchise",
+                    "cn:title": "Acquisitions",
+                    "cn:creatorOverwrite": "",
+                    "@id": "10001010",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10001010",
+                    "cn:slug": "Acquisitions",
+                    "cn:tagName": "Acquisitions",
+                    "cn:subType": "section",
+                    "description": "Acquisitions",
+                    "name": "Acquisitions",
+                    "@type": "Collection",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "additional_sections",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                }
+            ],
+            "description": "CNBC's Bertha Coombs report terms of the deal between Cigna and Express Scripts.",
+            "cn:section": {
+                "cn:branding": "cnbc",
+                "cn:subDomain": "https://qa-aws03web.cnbc.com",
+                "url": "https://qa-aws03web.cnbc.com/health-care/",
+                "cn:type": "franchise",
+                "cn:creatorOverwrite": "",
+                "@id": "10000108",
+                "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000108",
+                "cn:slug": "Health Care",
+                "cn:subType": "special_report",
+                "cn:title": "Health Care",
+                "cn:tagName": "Health Care",
+                "cn:sectionHierarchy": [
+                    {
+                        "id": 10000108,
+                        "tagName": "Health Care",
+                        "order": 1
+                    },
+                    {
+                        "id": 10000161,
+                        "tagName": "CNBC Global",
+                        "order": 2
+                    }
+                ],
+                "cn:sectionLabel": "Health Care",
+                "cn:liveURL": "/health-care/",
+                "cn:settings": {
+                    "cn:listType": "Manual and/or populated by feeds",
+                    "cn:tweetOnPublish": 0
+                },
+                "description": "Latest news for health care. ",
+                "cn:sectionLinktext": "Health Care",
+                "headline": "Health Care",
+                "datePublished": "2012-01-30T01:47:33+0000",
+                "cn:dateLastPublished": "2018-03-13T02:52:28+0000",
+                "cn:dateFirstPublished": "2012-01-30T01:47:33+0000",
+                "expires": "",
+                "cn:historicalURL": [
+                    "/id/10000108"
+                ],
+                "cn:tabLabel": "Health Care",
+                "cn:bodyTeaser": "null",
+                "cn:shortestDescription": "Latest news for health care. ",
+                "cn:seoTitle": "Health Care News",
+                "cn:summary": "Latest news for health care. ",
+                "cn:editedBy": "Devi.Chapidi",
+                "cn:createdBy": "migration",
+                "cn:shorterDescription": "Latest news for health care. ",
+                "name": "Health Care",
+                "cn:sectionColor": "#000000",
+                "cn:promoText": "",
+                "cn:showTime": "",
+                "@type": "Collection"
+            },
+            "cn:historicalURL": [],
+            "cn:bodyTeaser": "<body></body>",
+            "publisher": {
+                "name": "CNBC",
+                "@type": "Organization",
+                "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+            },
+            "@context": {
+                "cn": "http://cnbc.com/schema/",
+                "@vocab": "http://schema.org/"
+            },
+            "cn:keyword": "cigna, express scripts, m&a",
+            "cn:vcpsId": 5000002652,
+            "cn:transcriptUrl": "",
+            "cn:closedCaptionUrl": "",
+            "name": "Health insurer Cigna buying Express Scripts",
+            "cn:show": "Health Care",
+            "duration": 100,
+            "cn:network": 1,
+            "encodings": [
+                {
+                    "@type": "VideoObject",
+                    "url": "http://cnbcmbr-vh.akamaihd.net/i/mp4/VCPSQA/Y2018/M03D08/5000002652/8d86b270-22da-11e8-8894-dd7f7be51e52/5ED1-SB-CignaHealth-03081_MBR_,0240,0300,0500,0700,0900,1300,1700,4500,.mp4.csmil/master.m3u8",
+                    "encodingFormat": "mpeg4",
+                    "bitrate": 1,
+                    "cn:protocol": "HLSMBRStreaming",
+                    "cn:formatName": "mpeg4_1_HLSMBRStreaming"
+                },
+                {
+                    "@type": "VideoObject",
+                    "url": "http://pdl.iphone.cnbc.com/VCPSQA/Y2018/M03D08/5000002652/8d86b270-22da-11e8-8894-dd7f7be51e52/5ED1-SB-CignaHealth-03081_H264_126K.mp4",
+                    "encodingFormat": "mpeg4",
+                    "bitrate": 200000,
+                    "cn:protocol": "Download",
+                    "cn:formatName": "mpeg4_200000_Download"
+                },
+                {
+                    "@type": "VideoObject",
+                    "url": "http://pdl.iphone.cnbc.com/VCPSQA/Y2018/M03D08/5000002652/5ED1-SB-CignaHealth-03081_L.mp4",
+                    "encodingFormat": "mpeg4",
+                    "bitrate": 500000,
+                    "cn:protocol": "Download",
+                    "cn:formatName": "mpeg4_500000_Download"
+                },
+                {
+                    "@type": "VideoObject",
+                    "url": "http://videoman-ec-dev.cnbc.com/vcps/media/content?id=NTAwMDAwMjY1MgptcGVnNF81MDAwMDAKU3RyZWFtaW5n&UserName=cmsguest@cnbc.com&key=NA",
+                    "encodingFormat": "mpeg4",
+                    "bitrate": 500000,
+                    "cn:protocol": "Streaming",
+                    "cn:formatName": "mpeg4_500000_Streaming"
+                },
+                {
+                    "@type": "VideoObject",
+                    "url": "http://pdl.iphone.cnbc.com/VCPSQA/Y2018/M03D08/5000002652/8d86b270-22da-11e8-8894-dd7f7be51e52/5ED1-SB-CignaHealth-03081_mp3w_048K.mp3",
+                    "encodingFormat": "mpeg3",
+                    "bitrate": 48000,
+                    "cn:protocol": "Download",
+                    "cn:formatName": "mpeg3_48000_Download"
+                },
+                {
+                    "@type": "VideoObject",
+                    "url": "http://pdl.iphone.cnbc.com/VCPSQA/Y2018/M03D08/5000002652/8d86b270-22da-11e8-8894-dd7f7be51e52/5ED1-SB-CignaHealth-03081_mp3w_128K.mp3",
+                    "encodingFormat": "mpeg3",
+                    "bitrate": 128000,
+                    "cn:protocol": "Download",
+                    "cn:formatName": "mpeg3_128000_Download"
+                },
+                {
+                    "@type": "VideoObject",
+                    "url": "http://cnbcmbr-vh.akamaihd.net/z/mp4/VCPSQA/Y2018/M03D08/5000002652/8d86b270-22da-11e8-8894-dd7f7be51e52/5ED1-SB-CignaHealth-03081_MBR_,0240,0300,0500,0700,0900,1300,1700,4500,.mp4.csmil/manifest.f4m",
+                    "encodingFormat": "mpeg4",
+                    "bitrate": 1,
+                    "cn:protocol": "HDNMBRStreaming",
+                    "cn:formatName": "mpeg4_1_HDNMBRStreaming"
+                },
+                {
+                    "@type": "VideoObject",
+                    "url": "http://pdl.iphone.cnbc.com/VCPSQA/Y2018/M03D08/5000002652/8d86b270-22da-11e8-8894-dd7f7be51e52/5ED1-SB-CignaHealth-03081_H264_1M_720x405.mp4",
+                    "encodingFormat": "mpeg4",
+                    "bitrate": 1100000,
+                    "cn:protocol": "Download",
+                    "cn:formatName": "mpeg4_1100000_Download"
+                },
+                {
+                    "@type": "VideoObject",
+                    "url": "http://videoman-ec-dev.cnbc.com/vcps/media/content?id=NTAwMDAwMjY1MgptcGVnNF9wYXNzXzQ1MDBLClN0cmVhbWluZw&UserName=cmsguest@cnbc.com&key=NA",
+                    "encodingFormat": "",
+                    "bitrate": "",
+                    "cn:protocol": "Streaming",
+                    "cn:formatName": "__Streaming"
+                },
+                {
+                    "@type": "VideoObject",
+                    "url": "http://pdl.iphone.cnbc.com/VCPSQA/Y2018/M03D08/5000002652/8d86b270-22da-11e8-8894-dd7f7be51e52/5ED1-SB-CignaHealth-03081.vtt",
+                    "encodingFormat": "WebVTT",
+                    "bitrate": 0,
+                    "cn:protocol": "Download",
+                    "cn:formatName": "WebVTT_0_Download"
+                },
+                {
+                    "@type": "VideoObject",
+                    "url": "ftp://cnbc.upload.akamai.com/h/VCPSQA/Y2018/M03D08/5000002652/8d86b270-22da-11e8-8894-dd7f7be51e52/5ED1-SB-CignaHealth-03081_flv_432x240_30p_500k.flv",
+                    "encodingFormat": "flv",
+                    "bitrate": 500000,
+                    "cn:protocol": "Download",
+                    "cn:formatName": "flv_500000_Download"
+                },
+                {
+                    "@type": "VideoObject",
+                    "url": "http://videoman-ec-dev.cnbc.com/vcps/media/content?id=NTAwMDAwMjY1MgpGTFZfNDMyeDI0MF8zMHBfNTAwSwpTdHJlYW1pbmc&UserName=cmsguest@cnbc.com&key=NA",
+                    "encodingFormat": "flv",
+                    "bitrate": 500000,
+                    "cn:protocol": "Streaming",
+                    "cn:formatName": "flv_500000_Streaming"
+                },
+                {
+                    "@type": "VideoObject",
+                    "url": "http://pdl.iphone.cnbc.com/VCPSQA/Y2018/M03D08/5000002652/8d86b270-22da-11e8-8894-dd7f7be51e52/5ED1-SB-CignaHealth-03081_H264_480x270_25p_500K.mp4",
+                    "encodingFormat": "mpeg4",
+                    "bitrate": 600000,
+                    "cn:protocol": "Download",
+                    "cn:formatName": "mpeg4_600000_Download"
+                },
+                {
+                    "@type": "VideoObject",
+                    "url": "http://pdl.iphone.cnbc.com//VCPSQA/Y2018/M03D08/5000002652/8d86b270-22da-11e8-8894-dd7f7be51e52/5ED1-SB-CignaHealth-03081_MBR_4500.mp4",
+                    "encodingFormat": "mpeg4",
+                    "bitrate": 4500000,
+                    "cn:protocol": "Download",
+                    "cn:formatName": "mpeg4_4500000_Download"
+                },
+                {
+                    "@type": "VideoObject",
+                    "url": "http://videoman-ec-dev.cnbc.com/vcps/media/content?id=NTAwMDAwMjY1MgptcGVnNHdfNDUwMEsKU3RyZWFtaW5n&UserName=cmsguest@cnbc.com&key=NA",
+                    "encodingFormat": "mpeg4",
+                    "bitrate": 4500000,
+                    "cn:protocol": "Streaming",
+                    "cn:formatName": "mpeg4_4500000_Streaming"
+                },
+                {
+                    "@type": "VideoObject",
+                    "url": "http://cnbcmbr-vh.akamaihd.net/z/mp4/VCPSQA/Y2018/M03D08/5000002652/8d86b270-22da-11e8-8894-dd7f7be51e52/5ED1-SB-CignaHealth-03081_MBR_0500.mp4/manifest.f4m",
+                    "encodingFormat": "mpeg4",
+                    "bitrate": 500000,
+                    "cn:protocol": "HDNSBRStreaming",
+                    "cn:formatName": "mpeg4_500000_HDNSBRStreaming"
+                },
+                {
+                    "@type": "VideoObject",
+                    "url": "http://cnbcmbr-vh.akamaihd.net/i/mp4/VCPSQA/Y2018/M03D08/5000002652/8d86b270-22da-11e8-8894-dd7f7be51e52/5ED1-SB-CignaHealth-03081_MBR_0500.mp4/master.m3u8",
+                    "encodingFormat": "mpeg4",
+                    "bitrate": 500000,
+                    "cn:protocol": "HLSSBRStreaming",
+                    "cn:formatName": "mpeg4_500000_HLSSBRStreaming"
+                }
+            ],
+            "cn:relation": [
+                {
+                    "position": 5,
+                    "cn:relationType": "related",
+                    "cn:isPromoted": "false"
+                }
+            ]
+        },
+        {
+            "@type": "VideoObject",
+            "@id": "104847823",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104847823",
+            "cn:type": "cnbcvideo",
+            "cn:slug": "Test Video Mar2",
+            "cn:subType": "clips",
+            "cn:tagName": "",
+            "cn:title": "Test Video mar2 - Buffett looking at sustainability in Apple, says trader title - title1",
+            "cn:creatorOverwrite": "",
+            "cn:branding": "cnbc",
+            "cn:subDomain": "https://qa-aws03web.cnbc.com",
+            "url": "https://qa-aws03web.cnbc.com/video/2018/03/02/test-video-mar2--buffett-looking-at-sustainability-in-apple-says-trader-testing1.html",
+            "uploadDate": "2018-03-02T18:58:02+0000",
+            "cn:liveURL": "/video/2018/03/02/test-video-mar2--buffett-looking-at-sustainability-in-apple-says-trader-testing1.html",
+            "cn:createdBy": "caroline.shiny",
+            "cn:editedBy": "caroline.shiny",
+            "datePublished": "2018-03-02T18:39:30+0000",
+            "cn:dateLastPublished": "2018-03-20T17:29:38+0000",
+            "cn:dateFirstPublished": "2018-03-02T18:58:26+0000",
+            "expires": "",
+            "cn:seoTitle": "Test Video mar2 - Buffett looking at sustainability in Apple, says trader title - SEO title",
+            "cn:summary": "The “Fast Money Halftime Report” traders discuss Warren Buffett's comments to CNBC about his investment in Apple.",
+            "cn:linkHeadline": "link headline",
+            "headline": "link headline",
+            "cn:shorterHeadline": "Test Video mar2 - Buffett looking at sustainability in Apple, says trader title",
+            "cn:shortestHeadline": "shortest headline",
+            "cn:shorterDescription": "shorter summary",
+            "cn:shortestDescription": "shortest summary",
+            "cn:sectionHierarchy": [
+                {
+                    "id": 10001062,
+                    "tagName": "Elections",
+                    "order": 1
+                },
+                {
+                    "id": 10000113,
+                    "tagName": "Politics",
+                    "order": 2
+                },
+                {
+                    "id": 10000161,
+                    "tagName": "CNBC Global",
+                    "order": 3
+                }
+            ],
+            "image": {
+                "@type": "ImageObject",
+                "representativeOfPage": "true",
+                "caption": "",
+                "author": "",
+                "copyrightHolder": "",
+                "@id": "104847824",
+                "height": "1080",
+                "datePublished": "",
+                "description": "",
+                "width": "1920",
+                "url": "https://qa-aws02capi-img-origin.cnbc.com/api/v1/image/104847824-6ED2-FMHR-030218-CallOfDay.jpg?v=1520017077"
+            },
+            "thumbnail": "https://qa-aws02capi-img-origin.cnbc.com/api/v1/image/104847824-6ED2-FMHR-030218-CallOfDay.jpg?v=1520017077",
+            "cn:settings": {
+                "cn:nsfw": "Yes",
+                "cn:syndicate": "Yes",
+                "cn:verifyAge": "Yes",
+                "cn:premium": "Yes",
+                "cn:commentsEnabled": "Yes",
+                "cn:socialtoolsEnabled": "Yes",
+                "cn:dateline": "Yes",
+                "cn:displayByline": "Yes",
+                "cn:displaySource": "Yes",
+                "cn:outbrainEnabled": "Yes",
+                "cn:isFamilyFriendly": "Yes",
+                "cn:listType": "Virtual",
+                "cn:tweetOnPublish": 0,
+                "cn:videoGeoRestrictionEnabled": "No",
+                "cn:isHighPriorityVideo": "No"
+            },
+            "author": [
+                {
+                    "cn:type": "creator",
+                    "cn:creatorOverwrite": "",
+                    "@id": "104799735",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104799735",
+                    "cn:slug": "Kelly Lin",
+                    "cn:title": "Kelly Lin",
+                    "cn:tagName": "Kelly Lin",
+                    "name": "Kelly Lin",
+                    "givenName": "Kelly",
+                    "familyName": "Lin",
+                    "email": "",
+                    "telephone": "",
+                    "@type": "Person"
+                },
+                {
+                    "cn:type": "creator",
+                    "cn:creatorOverwrite": "",
+                    "@id": "104790444",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104790444",
+                    "cn:slug": "Rani Molla",
+                    "cn:title": "Rani Molla",
+                    "cn:tagName": "Rani Molla",
+                    "name": "Rani Molla",
+                    "givenName": "Rani",
+                    "familyName": "Molla",
+                    "email": "",
+                    "telephone": "",
+                    "@type": "Person"
+                }
+            ],
+            "sourceOrganization": [
+                {
+                    "@type": "Organization",
+                    "cn:branding": "cnbc",
+                    "cn:subDomain": "https://qa-aws03web.cnbc.com",
+                    "url": "https://qa-aws03web.cnbc.com",
+                    "cn:type": "source",
+                    "cn:creatorOverwrite": "",
+                    "@id": "80000022",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/80000022",
+                    "cn:slug": "CNBC US Source",
+                    "cn:title": "",
+                    "cn:tagName": "CNBC US Source",
+                    "cn:sourceLogo": "https://qa-aws01fm.cnbc.com/applications/cnbc.com/resources/source_logo/2018/02/01/132198457-BreakingNews.jpeg",
+                    "cn:sourceName": "CNBC.com",
+                    "description": "CNBC.com",
+                    "name": ""
+                }
+            ],
+            "cn:association": [
+                {
+                    "@type": "Organization",
+                    "cn:branding": "cnbc",
+                    "cn:subDomain": "https://qa-aws03web.cnbc.com",
+                    "url": "https://qa-aws03web.cnbc.com",
+                    "cn:type": "source",
+                    "cn:creatorOverwrite": "",
+                    "@id": "80000022",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/80000022",
+                    "cn:slug": "CNBC US Source",
+                    "cn:title": "",
+                    "cn:tagName": "CNBC US Source",
+                    "cn:sourceLogo": "https://qa-aws01fm.cnbc.com/applications/cnbc.com/resources/source_logo/2018/02/01/132198457-BreakingNews.jpeg",
+                    "cn:sourceName": "CNBC.com",
+                    "description": "CNBC.com",
+                    "name": "",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "source",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "cn:type": "usage_rule",
+                    "cn:title": "Premium Usage Rule",
+                    "cn:creatorOverwrite": "",
+                    "@id": "101903750",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/101903750",
+                    "cn:slug": "Premium Usage Rule",
+                    "cn:tagName": "Premium Usage Rule",
+                    "description": "",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "usageRule",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "cn:type": "franchise",
+                    "cn:title": "Elections",
+                    "cn:creatorOverwrite": "",
+                    "@id": "10001062",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10001062",
+                    "cn:slug": "Elections",
+                    "cn:tagName": "Elections",
+                    "cn:subType": "section",
+                    "description": "Find top elections stories, headlines, video, and more pertaining to candidates, polls, fact checking, campaigning, and campaign finance on CNBC.com.",
+                    "name": "Elections",
+                    "@type": "Collection",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "section",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "cn:type": "creator",
+                    "cn:creatorOverwrite": "",
+                    "@id": "104799735",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104799735",
+                    "cn:slug": "Kelly Lin",
+                    "cn:title": "Kelly Lin",
+                    "cn:tagName": "Kelly Lin",
+                    "description": " Senior Field Producer for CNBC",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "author",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "cn:type": "creator",
+                    "cn:creatorOverwrite": "",
+                    "@id": "104790444",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104790444",
+                    "cn:slug": "Rani Molla",
+                    "cn:title": "Rani Molla",
+                    "cn:tagName": "Rani Molla",
+                    "description": " Rani Molla covers business and technology news through charts, images, maps and sometimes even text.",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "author",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "@type": "ImageObject",
+                    "cn:branding": "cnbc",
+                    "cn:subDomain": "https://qa-aws03web.cnbc.com",
+                    "cn:type": "image",
+                    "cn:creatorOverwrite": "",
+                    "@id": "104847824",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104847824",
+                    "cn:slug": "Test Video Mar2_1520017075",
+                    "cn:title": "Test Video mar2 - Buffett looking at sustainability in Apple, says trader",
+                    "cn:tagName": "",
+                    "url": "https://qa-aws02capi-img-origin.cnbc.com/api/v1/image/104847824-6ED2-FMHR-030218-CallOfDay.jpg?v=1520017077",
+                    "description": "",
+                    "author": "",
+                    "contentSize": 611447,
+                    "caption": "",
+                    "copyrightHolder": "",
+                    "height": "1080",
+                    "width": "1920",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "promo",
+                            "cn:isPromoted": "true"
+                        }
+                    ]
+                },
+                {
+                    "cn:branding": "makeit",
+                    "cn:subDomain": "https://qa-aws03makeit.cnbc.com",
+                    "url": "https://qa-aws03makeit.cnbc.com/buffetts-investing-philosophy-now/",
+                    "cn:type": "tag",
+                    "cn:creatorOverwrite": "",
+                    "@id": "104847519",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104847519",
+                    "cn:slug": "Buffett's Investing Philosophy",
+                    "cn:subType": "topic",
+                    "cn:title": "Buffett's Investing Philosophy",
+                    "cn:tagName": "Buffett's Investing Philosophy",
+                    "description": "",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "tags",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "cn:type": "franchise",
+                    "cn:title": "Investment Strategy",
+                    "cn:creatorOverwrite": "",
+                    "@id": "10000953",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000953",
+                    "cn:slug": "Investment Strategy",
+                    "cn:tagName": "Investment Strategy",
+                    "cn:subType": "section",
+                    "description": "Investment Strategy",
+                    "name": "Investment Strategy",
+                    "@type": "Collection",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "additional_sections",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "cn:type": "franchise",
+                    "cn:creatorOverwrite": "",
+                    "@id": "104303519",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104303519",
+                    "cn:slug": "Collection: Trader Blitz",
+                    "cn:subType": "collection",
+                    "cn:title": "Trader Blitz",
+                    "cn:tagName": "Trader Biltz",
+                    "description": "",
+                    "name": "Trader Blitz",
+                    "@type": "Collection",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "related",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "cn:type": "tag",
+                    "cn:creatorOverwrite": "",
+                    "@id": "104847535",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/104847535",
+                    "cn:slug": "Berkshire Hathaway Annual Meeting",
+                    "cn:subType": "topic",
+                    "cn:title": "Berkshire Hathaway Annual Meeting",
+                    "cn:tagName": "Annual Meeting",
+                    "description": "",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "tags",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "cn:type": "franchise",
+                    "cn:title": "Consumer Technology",
+                    "cn:creatorOverwrite": "",
+                    "@id": "10000070",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000070",
+                    "cn:slug": "Consumer Technology",
+                    "cn:tagName": "Consumer Technology",
+                    "cn:subType": "section",
+                    "description": "Consumer Technology",
+                    "name": "Consumer Technology",
+                    "@type": "Collection",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "additional_sections",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                }
+            ],
+            "description": "The “Fast Money Halftime Report” traders discuss Warren Buffett's comments to CNBC about his investment in Apple.",
+            "cn:section": {
+                "cn:type": "franchise",
+                "cn:title": "Elections",
+                "cn:creatorOverwrite": "",
+                "@id": "10001062",
+                "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10001062",
+                "cn:slug": "Elections",
+                "cn:tagName": "Elections",
+                "cn:subType": "section",
+                "cn:shortestDescription": "Election news on candidates, polls, and campaign finance.",
+                "cn:sectionHierarchy": [
+                    {
+                        "id": 10000113,
+                        "tagName": "Politics",
+                        "order": 1
+                    },
+                    {
+                        "id": 10000161,
+                        "tagName": "CNBC Global",
+                        "order": 2
+                    }
+                ],
+                "cn:seoTitle": "Election News and Coverage",
+                "cn:sectionLabel": "Elections",
+                "cn:liveURL": "/elections/",
+                "cn:summary": "Find top elections stories, headlines, video, and more pertaining to candidates, polls, fact checking, campaigning, and campaign finance on CNBC.com.",
+                "cn:settings": {
+                    "cn:listType": "Manual and/or populated by feeds",
+                    "cn:tweetOnPublish": 0
+                },
+                "description": "Find top elections stories, headlines, video, and more pertaining to candidates, polls, fact checking, campaigning, and campaign finance on CNBC.com.",
+                "cn:sectionLinktext": "Elections",
+                "headline": "Elections",
+                "cn:editedBy": "Josephine.Bila",
+                "datePublished": "2012-01-30T01:54:23+0000",
+                "cn:dateLastPublished": "2017-04-24T19:41:55+0000",
+                "cn:dateFirstPublished": "2012-01-30T01:54:23+0000",
+                "expires": "",
+                "cn:historicalURL": [
+                    "/id/10001062",
+                    "/your-taxes-your-vote-2010/"
+                ],
+                "cn:tabLabel": "Elections",
+                "cn:createdBy": "migration",
+                "cn:bodyTeaser": "null",
+                "cn:shorterDescription": "Top elections stories pertaining to candidates, polls, fact checking, campaigning, and campaign finance on CNBC.com.",
+                "name": "Elections",
+                "@type": "Collection"
+            },
+            "cn:historicalURL": [
+                "/video/2018/03/02/test-video-mar2--buffett-looking-at-sustainability-in-apple-says-trader-testing.html",
+                "/video/2018/03/02/test-video-mar2--buffett-looking-at-sustainability-in-apple-says-trader.html"
+            ],
+            "cn:bodyTeaser": "<body></body>",
+            "publisher": {
+                "name": "CNBC",
+                "@type": "Organization",
+                "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+            },
+            "@context": {
+                "cn": "http://cnbc.com/schema/",
+                "@vocab": "http://schema.org/"
+            },
+            "cn:keyword": "Buffett looking at sustainability in Apple says trader",
+            "cn:vcpsId": 5000002405,
+            "cn:transcriptUrl": "",
+            "cn:closedCaptionUrl": "",
+            "name": "Test Video mar2 - Buffett looking at sustainability in Apple, says trader title - title1",
+            "cn:show": "Elections",
+            "duration": 229,
+            "cn:network": 1,
+            "encodings": [
+                {
+                    "@type": "VideoObject",
+                    "url": "http://cnbcmbr-vh.akamaihd.net/i/mp4/VCPSQA/Y2018/M03D02/5000002405/c55c3dd0-1e4a-11e8-9a77-bf2ee5913214/6ED2-FMHR-030218-CallOfDay_MBR_,0240,0300,0500,0700,0900,1300,1700,4500,.mp4.csmil/master.m3u8",
+                    "encodingFormat": "mpeg4",
+                    "bitrate": 1,
+                    "cn:protocol": "HLSMBRStreaming",
+                    "cn:formatName": "mpeg4_1_HLSMBRStreaming"
+                },
+                {
+                    "@type": "VideoObject",
+                    "url": "http://pdl.iphone.cnbc.com/VCPSQA/Y2018/M03D02/5000002405/c55c3dd0-1e4a-11e8-9a77-bf2ee5913214/6ED2-FMHR-030218-CallOfDay_H264_126K.mp4",
+                    "encodingFormat": "mpeg4",
+                    "bitrate": 200000,
+                    "cn:protocol": "Download",
+                    "cn:formatName": "mpeg4_200000_Download"
+                },
+                {
+                    "@type": "VideoObject",
+                    "url": "http://pdl.iphone.cnbc.com/VCPSQA/Y2018/M03D02/5000002405/6ED2-FMHR-030218-CallOfDay_L.mp4",
+                    "encodingFormat": "mpeg4",
+                    "bitrate": 500000,
+                    "cn:protocol": "Download",
+                    "cn:formatName": "mpeg4_500000_Download"
+                },
+                {
+                    "@type": "VideoObject",
+                    "url": "http://videoman-ec-dev.cnbc.com/vcps/media/content?id=NTAwMDAwMjQwNQptcGVnNF81MDAwMDAKU3RyZWFtaW5n&UserName=cmsguest@cnbc.com&key=NA",
+                    "encodingFormat": "mpeg4",
+                    "bitrate": 500000,
+                    "cn:protocol": "Streaming",
+                    "cn:formatName": "mpeg4_500000_Streaming"
+                },
+                {
+                    "@type": "VideoObject",
+                    "url": "http://pdl.iphone.cnbc.com/VCPSQA/Y2018/M03D02/5000002405/c55c3dd0-1e4a-11e8-9a77-bf2ee5913214/6ED2-FMHR-030218-CallOfDay_mp3w_048K.mp3",
+                    "encodingFormat": "mpeg3",
+                    "bitrate": 48000,
+                    "cn:protocol": "Download",
+                    "cn:formatName": "mpeg3_48000_Download"
+                },
+                {
+                    "@type": "VideoObject",
+                    "url": "http://pdl.iphone.cnbc.com/VCPSQA/Y2018/M03D02/5000002405/c55c3dd0-1e4a-11e8-9a77-bf2ee5913214/6ED2-FMHR-030218-CallOfDay_mp3w_128K.mp3",
+                    "encodingFormat": "mpeg3",
+                    "bitrate": 128000,
+                    "cn:protocol": "Download",
+                    "cn:formatName": "mpeg3_128000_Download"
+                },
+                {
+                    "@type": "VideoObject",
+                    "url": "http://cnbcmbr-vh.akamaihd.net/z/mp4/VCPSQA/Y2018/M03D02/5000002405/c55c3dd0-1e4a-11e8-9a77-bf2ee5913214/6ED2-FMHR-030218-CallOfDay_MBR_,0240,0300,0500,0700,0900,1300,1700,4500,.mp4.csmil/manifest.f4m",
+                    "encodingFormat": "mpeg4",
+                    "bitrate": 1,
+                    "cn:protocol": "HDNMBRStreaming",
+                    "cn:formatName": "mpeg4_1_HDNMBRStreaming"
+                },
+                {
+                    "@type": "VideoObject",
+                    "url": "http://pdl.iphone.cnbc.com/VCPSQA/Y2018/M03D02/5000002405/c55c3dd0-1e4a-11e8-9a77-bf2ee5913214/6ED2-FMHR-030218-CallOfDay_H264_1M_720x405.mp4",
+                    "encodingFormat": "mpeg4",
+                    "bitrate": 1100000,
+                    "cn:protocol": "Download",
+                    "cn:formatName": "mpeg4_1100000_Download"
+                },
+                {
+                    "@type": "VideoObject",
+                    "url": "http://videoman-ec-dev.cnbc.com/vcps/media/content?id=NTAwMDAwMjQwNQptcGVnNF9wYXNzXzQ1MDBLClN0cmVhbWluZw&UserName=cmsguest@cnbc.com&key=NA",
+                    "encodingFormat": "",
+                    "bitrate": "",
+                    "cn:protocol": "Streaming",
+                    "cn:formatName": "__Streaming"
+                },
+                {
+                    "@type": "VideoObject",
+                    "url": "http://pdl.iphone.cnbc.com/VCPSQA/Y2018/M03D02/5000002405/c55c3dd0-1e4a-11e8-9a77-bf2ee5913214/6ED2-FMHR-030218-CallOfDay.vtt",
+                    "encodingFormat": "WebVTT",
+                    "bitrate": 0,
+                    "cn:protocol": "Download",
+                    "cn:formatName": "WebVTT_0_Download"
+                },
+                {
+                    "@type": "VideoObject",
+                    "url": "ftp://cnbc.upload.akamai.com/h/VCPSQA/Y2018/M03D02/5000002405/c55c3dd0-1e4a-11e8-9a77-bf2ee5913214/6ED2-FMHR-030218-CallOfDay_flv_432x240_30p_500k.flv",
+                    "encodingFormat": "flv",
+                    "bitrate": 500000,
+                    "cn:protocol": "Download",
+                    "cn:formatName": "flv_500000_Download"
+                },
+                {
+                    "@type": "VideoObject",
+                    "url": "http://videoman-ec-dev.cnbc.com/vcps/media/content?id=NTAwMDAwMjQwNQpGTFZfNDMyeDI0MF8zMHBfNTAwSwpTdHJlYW1pbmc&UserName=cmsguest@cnbc.com&key=NA",
+                    "encodingFormat": "flv",
+                    "bitrate": 500000,
+                    "cn:protocol": "Streaming",
+                    "cn:formatName": "flv_500000_Streaming"
+                },
+                {
+                    "@type": "VideoObject",
+                    "url": "http://pdl.iphone.cnbc.com/VCPSQA/Y2018/M03D02/5000002405/c55c3dd0-1e4a-11e8-9a77-bf2ee5913214/6ED2-FMHR-030218-CallOfDay_H264_480x270_25p_500K.mp4",
+                    "encodingFormat": "mpeg4",
+                    "bitrate": 600000,
+                    "cn:protocol": "Download",
+                    "cn:formatName": "mpeg4_600000_Download"
+                },
+                {
+                    "@type": "VideoObject",
+                    "url": "http://pdl.iphone.cnbc.com//VCPSQA/Y2018/M03D02/5000002405/c55c3dd0-1e4a-11e8-9a77-bf2ee5913214/6ED2-FMHR-030218-CallOfDay_MBR_4500.mp4",
+                    "encodingFormat": "mpeg4",
+                    "bitrate": 4500000,
+                    "cn:protocol": "Download",
+                    "cn:formatName": "mpeg4_4500000_Download"
+                },
+                {
+                    "@type": "VideoObject",
+                    "url": "http://videoman-ec-dev.cnbc.com/vcps/media/content?id=NTAwMDAwMjQwNQptcGVnNHdfNDUwMEsKU3RyZWFtaW5n&UserName=cmsguest@cnbc.com&key=NA",
+                    "encodingFormat": "mpeg4",
+                    "bitrate": 4500000,
+                    "cn:protocol": "Streaming",
+                    "cn:formatName": "mpeg4_4500000_Streaming"
+                },
+                {
+                    "@type": "VideoObject",
+                    "url": "http://cnbcmbr-vh.akamaihd.net/z/mp4/VCPSQA/Y2018/M03D02/5000002405/c55c3dd0-1e4a-11e8-9a77-bf2ee5913214/6ED2-FMHR-030218-CallOfDay_MBR_0500.mp4/manifest.f4m",
+                    "encodingFormat": "mpeg4",
+                    "bitrate": 500000,
+                    "cn:protocol": "HDNSBRStreaming",
+                    "cn:formatName": "mpeg4_500000_HDNSBRStreaming"
+                },
+                {
+                    "@type": "VideoObject",
+                    "url": "http://cnbcmbr-vh.akamaihd.net/i/mp4/VCPSQA/Y2018/M03D02/5000002405/c55c3dd0-1e4a-11e8-9a77-bf2ee5913214/6ED2-FMHR-030218-CallOfDay_MBR_0500.mp4/master.m3u8",
+                    "encodingFormat": "mpeg4",
+                    "bitrate": 500000,
+                    "cn:protocol": "HLSSBRStreaming",
+                    "cn:formatName": "mpeg4_500000_HLSSBRStreaming"
+                }
+            ],
+            "cn:relation": [
+                {
+                    "position": 4,
+                    "cn:relationType": "related",
+                    "cn:isPromoted": "false"
+                }
+            ]
+        },
+        {
+            "@id": "100004036",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100004036",
+            "cn:type": "franchise",
+            "cn:slug": "U.S. Video",
+            "cn:subType": "original_show",
+            "cn:tagName": "U.S. Video",
+            "cn:title": "CNBC U.S. Video News Clips on the Stock Market - CNBC",
+            "cn:creatorOverwrite": "",
+            "cn:liveURL": "/us-video/",
+            "datePublished": "2014-11-04T20:29:53+0000",
+            "cn:dateLastPublished": "2017-07-12T18:03:20+0000",
+            "cn:dateFirstPublished": "2012-08-03T21:40:01+0000",
+            "expires": "",
+            "cn:seoTitle": "CNBC U.S. Video News Clips on the Stock Market - CNBC",
+            "cn:summary": "View our CNBC video gallery and find video news clips on the stock market! Play live videos and find up to date market news. Break down your selection by: Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, CEO Interviews.",
+            "cn:sectionLinktext": "U.S. Video",
+            "headline": "U.S. Video",
+            "cn:sectionLabel": "",
+            "cn:tabLabel": "U.S.",
+            "cn:shorterDescription": "",
+            "cn:shortestDescription": "",
+            "cn:bodyTeaser": "null",
+            "sourceOrganization": [
+                {
+                    "@type": "Organization",
+                    "cn:branding": "cnbc",
+                    "cn:subDomain": "https://qa-aws03web.cnbc.com",
+                    "url": "https://qa-aws03web.cnbc.com",
+                    "cn:type": "source",
+                    "cn:creatorOverwrite": "",
+                    "@id": "80000022",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/80000022",
+                    "cn:slug": "CNBC US Source",
+                    "cn:title": "",
+                    "cn:tagName": "CNBC US Source",
+                    "cn:sourceLogo": "https://qa-aws01fm.cnbc.com/applications/cnbc.com/resources/source_logo/2018/02/01/132198457-BreakingNews.jpeg",
+                    "cn:sourceName": "CNBC.com",
+                    "description": "CNBC.com",
+                    "name": ""
+                }
+            ],
+            "cn:settings": {
+                "cn:listType": "Manual and/or populated by feeds",
+                "cn:tweetOnPublish": 0
+            },
+            "cn:association": [
+                {
+                    "cn:branding": "cnbc",
+                    "cn:subDomain": "https://qa-aws03web.cnbc.com",
+                    "url": "https://qa-aws03web.cnbc.com/latest-video/",
+                    "cn:type": "franchise",
+                    "cn:creatorOverwrite": "",
+                    "@id": "100004038",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100004038",
+                    "cn:slug": "Video: All",
+                    "cn:subType": "original_show",
+                    "cn:title": "Latest Video",
+                    "cn:tagName": "Video: All",
+                    "description": "View our CNBC video gallery and find video news clips on the stock market! Play live videos and find up to date market news. Break down your selection by: Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, CEO Interviews.",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "section",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "@type": "Organization",
+                    "cn:branding": "cnbc",
+                    "cn:subDomain": "https://qa-aws03web.cnbc.com",
+                    "url": "https://qa-aws03web.cnbc.com",
+                    "cn:type": "source",
+                    "cn:creatorOverwrite": "",
+                    "@id": "80000022",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/80000022",
+                    "cn:slug": "CNBC US Source",
+                    "cn:title": "",
+                    "cn:tagName": "CNBC US Source",
+                    "cn:sourceLogo": "https://qa-aws01fm.cnbc.com/applications/cnbc.com/resources/source_logo/2018/02/01/132198457-BreakingNews.jpeg",
+                    "cn:sourceName": "CNBC.com",
+                    "description": "CNBC.com",
+                    "name": "",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "source",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "cn:type": "franchise",
+                    "cn:title": "Franchise Root",
+                    "@id": "17",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/17",
+                    "cn:slug": "Franchise Root",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "parent",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "cn:type": "franchise",
+                    "cn:title": "CNBC TV Worldwide",
+                    "cn:creatorOverwrite": "",
+                    "@id": "15837856",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/15837856",
+                    "cn:slug": "CNBC TV Worldwide",
+                    "cn:tagName": "CNBC TV Worldwide",
+                    "cn:subType": "section",
+                    "description": "CNBC Television worldwide, show schedules, and prime-time television programs. ",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "tags",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                }
+            ],
+            "description": "View our CNBC video gallery and find video news clips on the stock market! Play live videos and find up to date market news. Break down your selection by: Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, CEO Interviews.",
+            "cn:section": {
+                "cn:branding": "cnbc",
+                "cn:subDomain": "https://qa-aws03web.cnbc.com",
+                "url": "https://qa-aws03web.cnbc.com/latest-video/",
+                "cn:type": "franchise",
+                "cn:creatorOverwrite": "",
+                "@id": "100004038",
+                "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100004038",
+                "cn:slug": "Video: All",
+                "cn:subType": "original_show",
+                "cn:title": "Latest Video",
+                "cn:tagName": "Video: All",
+                "cn:sectionHierarchy": [
+                    {
+                        "id": 100004038,
+                        "tagName": "Video: All",
+                        "order": 1
+                    },
+                    {
+                        "id": 15839263,
+                        "tagName": "Video and TV",
+                        "order": 2
+                    },
+                    {
+                        "id": 10000161,
+                        "tagName": "CNBC Global",
+                        "order": 3
+                    }
+                ],
+                "cn:sectionLabel": "",
+                "cn:liveURL": "/latest-video/",
+                "cn:settings": {
+                    "cn:listType": "Manual and/or populated by feeds",
+                    "cn:tweetOnPublish": 0
+                },
+                "description": "View our CNBC video gallery and find video news clips on the stock market! Play live videos and find up to date market news. Break down your selection by: Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, CEO Interviews.",
+                "cn:sectionLinktext": "Latest Video",
+                "headline": "Latest Video",
+                "datePublished": "2014-11-04T20:28:25+0000",
+                "cn:dateLastPublished": "2018-03-22T15:22:43+0000",
+                "cn:dateFirstPublished": "2012-08-03T21:44:59+0000",
+                "expires": "",
+                "cn:historicalURL": [
+                    "/id/100004038",
+                    "/video-all/"
+                ],
+                "cn:tabLabel": "Latest Video",
+                "cn:bodyTeaser": "null",
+                "cn:shortestDescription": "",
+                "cn:seoTitle": "CNBC Latest Video News Clips on the Stock Market  - CNBC",
+                "cn:summary": "View our CNBC video gallery and find video news clips on the stock market! Play live videos and find up to date market news. Break down your selection by: Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, CEO Interviews.",
+                "cn:editedBy": "rekha.ponnur",
+                "cn:createdBy": "chris.larsen",
+                "cn:shorterDescription": "",
+                "name": "Latest Video",
+                "cn:sectionColor": "#000000",
+                "cn:promoText": "",
+                "cn:showTime": "",
+                "@type": "Collection"
+            },
+            "cn:sectionHierarchy": [
+                {
+                    "id": 100004038,
+                    "tagName": "Video: All",
+                    "order": 1
+                },
+                {
+                    "id": 15839263,
+                    "tagName": "Video and TV",
+                    "order": 2
+                },
+                {
+                    "id": 10000161,
+                    "tagName": "CNBC Global",
+                    "order": 3
+                }
+            ],
+            "cn:historicalURL": [
+                "/id/100004036"
+            ],
+            "cn:editedBy": "Devin.Hance",
+            "cn:createdBy": "chris.larsen",
+            "publisher": {
+                "name": "CNBC",
+                "@type": "Organization",
+                "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+            },
+            "@context": {
+                "cn": "http://cnbc.com/schema/",
+                "@vocab": "http://schema.org/"
+            },
+            "name": "CNBC U.S. Video News Clips on the Stock Market - CNBC",
+            "@type": "Collection",
+            "cn:relation": [
+                {
+                    "position": 3,
+                    "cn:relationType": "related",
+                    "cn:isPromoted": "false"
+                }
+            ]
+        },
+        {
+            "@id": "100004034",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100004034",
+            "cn:type": "franchise",
+            "cn:slug": "Asia Video",
+            "cn:subType": "original_show",
+            "cn:tagName": "Asia Video",
+            "cn:title": "CNBC Asia Video News Clips on the Stock Market - CNBC",
+            "cn:creatorOverwrite": "",
+            "cn:liveURL": "/asia-video/",
+            "datePublished": "2014-11-04T20:30:57+0000",
+            "cn:dateLastPublished": "2016-07-22T11:17:27+0000",
+            "cn:dateFirstPublished": "2012-08-03T21:34:12+0000",
+            "expires": "",
+            "cn:seoTitle": "CNBC Asia Video News Clips on the Stock Market - CNBC",
+            "cn:summary": "View our CNBC video gallery and find video news clips on the stock market! Play live videos and find up to date market news. Break down your selection by: Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, CEO Interviews.",
+            "cn:sectionLinktext": "Asia Video",
+            "headline": "Asia Video",
+            "cn:sectionLabel": "Asia Video",
+            "cn:tabLabel": "Asia Video",
+            "cn:shorterDescription": "",
+            "cn:shortestDescription": "",
+            "cn:bodyTeaser": "null",
+            "sourceOrganization": [
+                {
+                    "@type": "Organization",
+                    "cn:branding": "cnbc",
+                    "cn:subDomain": "https://qa-aws03web.cnbc.com",
+                    "url": "https://qa-aws03web.cnbc.com",
+                    "cn:type": "source",
+                    "cn:creatorOverwrite": "",
+                    "@id": "80000022",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/80000022",
+                    "cn:slug": "CNBC US Source",
+                    "cn:title": "",
+                    "cn:tagName": "CNBC US Source",
+                    "cn:sourceLogo": "https://qa-aws01fm.cnbc.com/applications/cnbc.com/resources/source_logo/2018/02/01/132198457-BreakingNews.jpeg",
+                    "cn:sourceName": "CNBC.com",
+                    "description": "CNBC.com",
+                    "name": ""
+                }
+            ],
+            "cn:settings": {
+                "cn:listType": "Manual and/or populated by feeds"
+            },
+            "cn:association": [
+                {
+                    "cn:branding": "cnbc",
+                    "cn:subDomain": "https://qa-aws03web.cnbc.com",
+                    "url": "https://qa-aws03web.cnbc.com/latest-video/",
+                    "cn:type": "franchise",
+                    "cn:creatorOverwrite": "",
+                    "@id": "100004038",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100004038",
+                    "cn:slug": "Video: All",
+                    "cn:subType": "original_show",
+                    "cn:title": "Latest Video",
+                    "cn:tagName": "Video: All",
+                    "description": "View our CNBC video gallery and find video news clips on the stock market! Play live videos and find up to date market news. Break down your selection by: Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, CEO Interviews.",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "section",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "@type": "Organization",
+                    "cn:branding": "cnbc",
+                    "cn:subDomain": "https://qa-aws03web.cnbc.com",
+                    "url": "https://qa-aws03web.cnbc.com",
+                    "cn:type": "source",
+                    "cn:creatorOverwrite": "",
+                    "@id": "80000022",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/80000022",
+                    "cn:slug": "CNBC US Source",
+                    "cn:title": "",
+                    "cn:tagName": "CNBC US Source",
+                    "cn:sourceLogo": "https://qa-aws01fm.cnbc.com/applications/cnbc.com/resources/source_logo/2018/02/01/132198457-BreakingNews.jpeg",
+                    "cn:sourceName": "CNBC.com",
+                    "description": "CNBC.com",
+                    "name": "",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "source",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "cn:type": "franchise",
+                    "cn:title": "Franchise Root",
+                    "@id": "17",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/17",
+                    "cn:slug": "Franchise Root",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "parent",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "cn:type": "franchise",
+                    "cn:title": "CNBC Television | Asia",
+                    "cn:creatorOverwrite": "",
+                    "@id": "15838789",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/15838789",
+                    "cn:slug": "Asia: Television",
+                    "cn:tagName": "Asia: Television",
+                    "cn:subType": "section",
+                    "description": "CNBC Asia Business Day shows include The Rundown, Squawk Box Asia, Street Signs Asia, Capital Connection, and more. ",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "tags",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                }
+            ],
+            "description": "View our CNBC video gallery and find video news clips on the stock market! Play live videos and find up to date market news. Break down your selection by: Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, CEO Interviews.",
+            "cn:section": {
+                "cn:branding": "cnbc",
+                "cn:subDomain": "https://qa-aws03web.cnbc.com",
+                "url": "https://qa-aws03web.cnbc.com/latest-video/",
+                "cn:type": "franchise",
+                "cn:creatorOverwrite": "",
+                "@id": "100004038",
+                "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100004038",
+                "cn:slug": "Video: All",
+                "cn:subType": "original_show",
+                "cn:title": "Latest Video",
+                "cn:tagName": "Video: All",
+                "cn:sectionHierarchy": [
+                    {
+                        "id": 100004038,
+                        "tagName": "Video: All",
+                        "order": 1
+                    },
+                    {
+                        "id": 15839263,
+                        "tagName": "Video and TV",
+                        "order": 2
+                    },
+                    {
+                        "id": 10000161,
+                        "tagName": "CNBC Global",
+                        "order": 3
+                    }
+                ],
+                "cn:sectionLabel": "",
+                "cn:liveURL": "/latest-video/",
+                "cn:settings": {
+                    "cn:listType": "Manual and/or populated by feeds",
+                    "cn:tweetOnPublish": 0
+                },
+                "description": "View our CNBC video gallery and find video news clips on the stock market! Play live videos and find up to date market news. Break down your selection by: Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, CEO Interviews.",
+                "cn:sectionLinktext": "Latest Video",
+                "headline": "Latest Video",
+                "datePublished": "2014-11-04T20:28:25+0000",
+                "cn:dateLastPublished": "2018-03-22T15:22:43+0000",
+                "cn:dateFirstPublished": "2012-08-03T21:44:59+0000",
+                "expires": "",
+                "cn:historicalURL": [
+                    "/id/100004038",
+                    "/video-all/"
+                ],
+                "cn:tabLabel": "Latest Video",
+                "cn:bodyTeaser": "null",
+                "cn:shortestDescription": "",
+                "cn:seoTitle": "CNBC Latest Video News Clips on the Stock Market  - CNBC",
+                "cn:summary": "View our CNBC video gallery and find video news clips on the stock market! Play live videos and find up to date market news. Break down your selection by: Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, CEO Interviews.",
+                "cn:editedBy": "rekha.ponnur",
+                "cn:createdBy": "chris.larsen",
+                "cn:shorterDescription": "",
+                "name": "Latest Video",
+                "cn:sectionColor": "#000000",
+                "cn:promoText": "",
+                "cn:showTime": "",
+                "@type": "Collection"
+            },
+            "cn:sectionHierarchy": [
+                {
+                    "id": 100004038,
+                    "tagName": "Video: All",
+                    "order": 1
+                },
+                {
+                    "id": 15839263,
+                    "tagName": "Video and TV",
+                    "order": 2
+                },
+                {
+                    "id": 10000161,
+                    "tagName": "CNBC Global",
+                    "order": 3
+                }
+            ],
+            "cn:historicalURL": [
+                "/id/100004034"
+            ],
+            "cn:editedBy": "bryn.bache",
+            "cn:createdBy": "chris.larsen",
+            "publisher": {
+                "name": "CNBC",
+                "@type": "Organization",
+                "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+            },
+            "@context": {
+                "cn": "http://cnbc.com/schema/",
+                "@vocab": "http://schema.org/"
+            },
+            "name": "CNBC Asia Video News Clips on the Stock Market - CNBC",
+            "@type": "Collection",
+            "cn:relation": [
+                {
+                    "position": 2,
+                    "cn:relationType": "related",
+                    "cn:isPromoted": "false"
+                }
+            ]
+        },
+        {
+            "@id": "100003343",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100003343",
+            "cn:type": "skin",
+            "cn:slug": "cnbc global skin",
+            "cn:tagName": "",
+            "cn:title": "",
+            "cn:creatorOverwrite": "",
+            "cn:liveURL": "",
+            "datePublished": "2012-07-30T19:54:30+0000",
+            "cn:dateLastPublished": "2017-07-13T22:32:47+0000",
+            "cn:dateFirstPublished": "2012-07-30T19:54:30+0000",
+            "expires": "",
+            "cn:summary": "",
+            "cn:linkHeadline": "",
+            "headline": "",
+            "cn:shorterHeadline": "",
+            "cn:shortestHeadline": "",
+            "cn:shorterDescription": "",
+            "cn:shortestDescription": "",
+            "cn:bodyTeaser": "null",
+            "cn:settings": {
+                "cn:commentsEnabled": "Yes",
+                "cn:socialtoolsEnabled": "Yes",
+                "cn:tweetOnPublish": 0
+            },
+            "description": "",
+            "cn:sectionHierarchy": [],
+            "cn:editedBy": "matt.shade",
+            "cn:historicalURL": [],
+            "cn:createdBy": "matt.shade",
+            "publisher": {
+                "name": "CNBC",
+                "@type": "Organization",
+                "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+            },
+            "@context": {
+                "cn": "http://cnbc.com/schema/",
+                "@vocab": "http://schema.org/"
+            },
+            "@type": "DigitalDocument",
+            "cn:relation": [
+                {
+                    "position": 2,
+                    "cn:relationType": "skin",
+                    "cn:isPromoted": "false"
+                }
+            ]
+        },
+        {
+            "@id": "102152071",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/102152071",
+            "cn:type": "skin",
+            "cn:slug": "Video Gallery Gotham Optimizer Skin",
+            "cn:tagName": "",
+            "cn:title": "",
+            "cn:creatorOverwrite": "",
+            "cn:liveURL": "",
+            "datePublished": "2014-11-04T19:58:03+0000",
+            "cn:dateLastPublished": "2016-06-29T17:26:26+0000",
+            "cn:dateFirstPublished": "2014-11-04T19:58:03+0000",
+            "expires": "",
+            "cn:seoTitle": "",
+            "cn:summary": "",
+            "cn:linkHeadline": "",
+            "headline": "",
+            "cn:shorterHeadline": "",
+            "cn:shortestHeadline": "",
+            "cn:shorterDescription": "",
+            "cn:shortestDescription": "",
+            "cn:bodyTeaser": "null",
+            "cn:settings": {
+                "cn:commentsEnabled": "Yes",
+                "cn:socialtoolsEnabled": "Yes",
+                "cn:dateline": "Yes",
+                "cn:displayByline": "Yes",
+                "cn:displaySource": "Yes",
+                "cn:outbrainEnabled": "Yes",
+                "cn:isFamilyFriendly": "Yes",
+                "cn:listType": "Virtual"
+            },
+            "description": "",
+            "cn:sectionHierarchy": [],
+            "cn:editedBy": "joseph.odell",
+            "cn:historicalURL": [],
+            "cn:createdBy": "brian.beers",
+            "publisher": {
+                "name": "CNBC",
+                "@type": "Organization",
+                "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+            },
+            "@context": {
+                "cn": "http://cnbc.com/schema/",
+                "@vocab": "http://schema.org/"
+            },
+            "@type": "DigitalDocument",
+            "cn:relation": [
+                {
+                    "position": 1,
+                    "cn:relationType": "skin",
+                    "cn:isPromoted": "false"
+                }
+            ]
+        },
+        {
+            "@id": "100004035",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100004035",
+            "cn:type": "franchise",
+            "cn:slug": "Europe Video",
+            "cn:subType": "original_show",
+            "cn:tagName": "Europe Video",
+            "cn:title": "CNBC Europe Video News Clips on the Stock Market - CNBC",
+            "cn:creatorOverwrite": "",
+            "cn:liveURL": "/europe-video/",
+            "datePublished": "2014-11-04T20:35:42+0000",
+            "cn:dateLastPublished": "2016-07-21T11:57:28+0000",
+            "cn:dateFirstPublished": "2012-08-03T21:36:34+0000",
+            "expires": "",
+            "cn:seoTitle": "CNBC Europe Video News Clips on the Stock Market - CNBC",
+            "cn:summary": "View our CNBC video gallery and find video news clips on the stock market! Play live videos and find up to date market news. Break down your selection by: Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, CEO Interviews.",
+            "cn:sectionLinktext": "Europe Video",
+            "headline": "Europe Video",
+            "cn:sectionLabel": "",
+            "cn:tabLabel": "Europe Video",
+            "cn:shorterDescription": "",
+            "cn:shortestDescription": "",
+            "cn:bodyTeaser": "null",
+            "sourceOrganization": [
+                {
+                    "@type": "Organization",
+                    "cn:branding": "cnbc",
+                    "cn:subDomain": "https://qa-aws03web.cnbc.com",
+                    "url": "https://qa-aws03web.cnbc.com",
+                    "cn:type": "source",
+                    "cn:creatorOverwrite": "",
+                    "@id": "80000022",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/80000022",
+                    "cn:slug": "CNBC US Source",
+                    "cn:title": "",
+                    "cn:tagName": "CNBC US Source",
+                    "cn:sourceLogo": "https://qa-aws01fm.cnbc.com/applications/cnbc.com/resources/source_logo/2018/02/01/132198457-BreakingNews.jpeg",
+                    "cn:sourceName": "CNBC.com",
+                    "description": "CNBC.com",
+                    "name": ""
+                }
+            ],
+            "cn:association": [
+                {
+                    "cn:branding": "cnbc",
+                    "cn:subDomain": "https://qa-aws03web.cnbc.com",
+                    "url": "https://qa-aws03web.cnbc.com/latest-video/",
+                    "cn:type": "franchise",
+                    "cn:creatorOverwrite": "",
+                    "@id": "100004038",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100004038",
+                    "cn:slug": "Video: All",
+                    "cn:subType": "original_show",
+                    "cn:title": "Latest Video",
+                    "cn:tagName": "Video: All",
+                    "description": "View our CNBC video gallery and find video news clips on the stock market! Play live videos and find up to date market news. Break down your selection by: Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, CEO Interviews.",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "section",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "@type": "Organization",
+                    "cn:branding": "cnbc",
+                    "cn:subDomain": "https://qa-aws03web.cnbc.com",
+                    "url": "https://qa-aws03web.cnbc.com",
+                    "cn:type": "source",
+                    "cn:creatorOverwrite": "",
+                    "@id": "80000022",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/80000022",
+                    "cn:slug": "CNBC US Source",
+                    "cn:title": "",
+                    "cn:tagName": "CNBC US Source",
+                    "cn:sourceLogo": "https://qa-aws01fm.cnbc.com/applications/cnbc.com/resources/source_logo/2018/02/01/132198457-BreakingNews.jpeg",
+                    "cn:sourceName": "CNBC.com",
+                    "description": "CNBC.com",
+                    "name": "",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "source",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "cn:type": "franchise",
+                    "cn:title": "Franchise Root",
+                    "@id": "17",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/17",
+                    "cn:slug": "Franchise Root",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "parent",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "cn:type": "franchise",
+                    "cn:title": "CNBC Television | Europe",
+                    "cn:creatorOverwrite": "",
+                    "@id": "15838668",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/15838668",
+                    "cn:slug": "Europe: Television",
+                    "cn:tagName": "Europe: Television",
+                    "cn:subType": "section",
+                    "description": "CNBC Europe TV: On-air Anchor and Reporter Bios, Show Descriptions and Online TV Schedule",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "tags",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                }
+            ],
+            "description": "View our CNBC video gallery and find video news clips on the stock market! Play live videos and find up to date market news. Break down your selection by: Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, CEO Interviews.",
+            "cn:section": {
+                "cn:branding": "cnbc",
+                "cn:subDomain": "https://qa-aws03web.cnbc.com",
+                "url": "https://qa-aws03web.cnbc.com/latest-video/",
+                "cn:type": "franchise",
+                "cn:creatorOverwrite": "",
+                "@id": "100004038",
+                "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100004038",
+                "cn:slug": "Video: All",
+                "cn:subType": "original_show",
+                "cn:title": "Latest Video",
+                "cn:tagName": "Video: All",
+                "cn:sectionHierarchy": [
+                    {
+                        "id": 100004038,
+                        "tagName": "Video: All",
+                        "order": 1
+                    },
+                    {
+                        "id": 15839263,
+                        "tagName": "Video and TV",
+                        "order": 2
+                    },
+                    {
+                        "id": 10000161,
+                        "tagName": "CNBC Global",
+                        "order": 3
+                    }
+                ],
+                "cn:sectionLabel": "",
+                "cn:liveURL": "/latest-video/",
+                "cn:settings": {
+                    "cn:listType": "Manual and/or populated by feeds",
+                    "cn:tweetOnPublish": 0
+                },
+                "description": "View our CNBC video gallery and find video news clips on the stock market! Play live videos and find up to date market news. Break down your selection by: Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, CEO Interviews.",
+                "cn:sectionLinktext": "Latest Video",
+                "headline": "Latest Video",
+                "datePublished": "2014-11-04T20:28:25+0000",
+                "cn:dateLastPublished": "2018-03-22T15:22:43+0000",
+                "cn:dateFirstPublished": "2012-08-03T21:44:59+0000",
+                "expires": "",
+                "cn:historicalURL": [
+                    "/id/100004038",
+                    "/video-all/"
+                ],
+                "cn:tabLabel": "Latest Video",
+                "cn:bodyTeaser": "null",
+                "cn:shortestDescription": "",
+                "cn:seoTitle": "CNBC Latest Video News Clips on the Stock Market  - CNBC",
+                "cn:summary": "View our CNBC video gallery and find video news clips on the stock market! Play live videos and find up to date market news. Break down your selection by: Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, CEO Interviews.",
+                "cn:editedBy": "rekha.ponnur",
+                "cn:createdBy": "chris.larsen",
+                "cn:shorterDescription": "",
+                "name": "Latest Video",
+                "cn:sectionColor": "#000000",
+                "cn:promoText": "",
+                "cn:showTime": "",
+                "@type": "Collection"
+            },
+            "cn:sectionHierarchy": [
+                {
+                    "id": 100004038,
+                    "tagName": "Video: All",
+                    "order": 1
+                },
+                {
+                    "id": 15839263,
+                    "tagName": "Video and TV",
+                    "order": 2
+                },
+                {
+                    "id": 10000161,
+                    "tagName": "CNBC Global",
+                    "order": 3
+                }
+            ],
+            "cn:historicalURL": [
+                "/id/100004035"
+            ],
+            "cn:editedBy": "bryn.bache",
+            "cn:createdBy": "chris.larsen",
+            "publisher": {
+                "name": "CNBC",
+                "@type": "Organization",
+                "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+            },
+            "@context": {
+                "cn": "http://cnbc.com/schema/",
+                "@vocab": "http://schema.org/"
+            },
+            "name": "CNBC Europe Video News Clips on the Stock Market - CNBC",
+            "@type": "Collection",
+            "cn:relation": [
+                {
+                    "position": 1,
+                    "cn:relationType": "related",
+                    "cn:isPromoted": "false"
+                }
+            ]
+        },
+        {
+            "@id": "17",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/17",
+            "cn:type": "franchise",
+            "cn:slug": "Franchise Root",
+            "cn:title": "Franchise Root",
+            "cn:liveURL": "/id/17",
+            "datePublished": "2002-12-01T05:00:00+0000",
+            "cn:dateLastPublished": "2002-12-01T05:00:00+0000",
+            "cn:dateFirstPublished": "2002-12-01T05:00:00+0000",
+            "cn:seoTitle": "Franchise Root",
+            "cn:bodyTeaser": "",
+            "cn:settings": {
+                "cn:commentsEnabled": "Yes",
+                "cn:socialtoolsEnabled": "Yes"
+            },
+            "cn:sectionHierarchy": [],
+            "cn:editedBy": "admin",
+            "cn:historicalURL": [],
+            "cn:createdBy": "admin",
+            "cn:sectionLinktext": "",
+            "headline": "Franchise Root",
+            "cn:sectionLabel": "",
+            "publisher": {
+                "name": "CNBC",
+                "@type": "Organization",
+                "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+            },
+            "@context": {
+                "cn": "http://cnbc.com/schema/",
+                "@vocab": "http://schema.org/"
+            },
+            "name": "Franchise Root",
+            "@type": "Collection",
+            "cn:relation": [
+                {
+                    "position": 1,
+                    "cn:relationType": "parent",
+                    "cn:isPromoted": "false"
+                }
+            ]
+        }
+    ]
+}

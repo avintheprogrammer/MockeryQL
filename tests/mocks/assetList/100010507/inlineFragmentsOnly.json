@@ -1,0 +1,61 @@
+{
+  "data": {
+    "assetList": {
+      "id": 100010507,
+      "type": "franchise",
+      "slug": "US Economy",
+      "url": "http://qa-pa13pub.cnbc.com/us-economy/",
+      "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/100010507",
+      "datePublished": "2014-09-02T17:20:56 GMT",
+      "subType": "section",
+      "name": "US Economy",
+      "description": "Latest news and headlines affecting the United States economy.",
+      "publisher": {
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "pagination": {
+        "link": {
+          "self": "http://qa-pa20capi-bl.cnbc.com/list/id/100010507?page=1&pagesize=20",
+          "next": "http://qa-pa20capi-bl.cnbc.com/list/id/100010507?page=2&pagesize=20",
+          "previous": "http://qa-pa20capi-bl.cnbc.com/list/id/100010507?page=1&pagesize=20",
+          "last": "http://qa-pa20capi-bl.cnbc.com/list/id/100010507?page=96&pagesize=20"
+        },
+        "page": 1,
+        "totalCount": 1920,
+        "pageSize": 20
+      },
+      "assets": [
+        {
+          "id": 104823320,
+          "type": "cnbcnewsstory",
+          "slug": "The Trump Fed Cox 171106 EC ",
+          "datePublished": "2017-11-06T19:38:39 GMT",
+          "description": "The Federal Reserve will not only lose its three top-ranking officials but also the more than three decades of experience they brought to policymaking.\r\n\r\n",
+          "headline": "The Trump Fed: New faces, but less experience and so bigger chances for a market disruption",
+          "title": "The Trump Fed: New faces, but less experience and so bigger chances for a market disruption",
+          "keyPoints": []
+        },
+        {
+          "id": 104768689,
+          "type": "partnerstory",
+          "slug": "Tax reform cuts versus rates commentary NATIONAL REVIEW 171012 EC",
+          "datePublished": "2017-10-12T15:40:06 GMT",
+          "description": "Here's what Republicans should prioritize when it comes to tax reform, Jeffrey Dorfman writes in the National Review.",
+          "headline": "This should be the GOP's priority for tax reform",
+          "title": "This should be the GOP's priority for tax reform",
+          "keyPoints": []
+        },
+        {
+          "id": 104823866,
+          "type": "wildcard",
+          "slug": "phoenix wyldcard test",
+          "datePublished": "2017-12-06T17:10:12 GMT",
+          "promoText": "<style>\r\n  .crazy-div {\r\n      animation: colorchange 5s infinite; /* animation-name followed by duration in seconds*/\r\n         /* you could also use milliseconds (ms) or something like 2.5s */\r\n      -webkit-animation: colorchange 5s infinite; /* Chrome and Safari */\r\n    }\r\n\r\n    @keyframes colorchange\r\n    {\r\n      0%   {background: red;}\r\n      25%  {background: yellow;}\r\n      50%  {background: blue;}\r\n      75%  {background: green;}\r\n      100% {background: red;}\r\n    }\r\n\r\n    @-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */\r\n    {\r\n      0%   {background: red;}\r\n      25%  {background: yellow;}\r\n      50%  {background: blue;}\r\n      75%  {background: green;}\r\n      100% {background: red;}\r\n    }\r\n</style>\r\n\r\n<div class=\"crazy-div\" style=\"height:250px;width:100%\"></div>\r\n\r\n<style>\r\n.trumpy:nth-child(2){display:none;}\r\n.trumpy{width:100%;}\r\n</style>\r\n<script type=\"text/javascript\" src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js\"></script>\r\n<script>\r\njQuery(document).ready(function($){\r\n  $('.trumpy').on(\"click\", function(){\r\n    $(this).toggle();\r\n    $(this).siblings().toggle();\r\n  });\r\n});\r\n</script>\r\n<div>\r\n<img class=\"trumpy\" src=\"http://staging.snopes.com/app/uploads/2017/01/melania_smile_frown_tw-1024x512.jpg\" />\r\n<img class=\"trumpy\" src=\"https://content.newsinc.com/jpg/415/31892452/49596246.jpg\" />\r\n<a href=\"/wildcard\">link technology</a>\r\n</div>\r\nthis is the promo text"
+        }
+      ],
+      "summary": "Latest news and headlines affecting the United States economy.",
+      "shorterDescription": "Latest news and headlines affecting the United States economy."
+    }
+  }
+}

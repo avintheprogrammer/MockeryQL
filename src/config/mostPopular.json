@@ -1,0 +1,42 @@
+{
+  "PARSELY": {
+    "baseUrl": "https://parsely.cnbc.com/v2/analytics/posts",
+    "configKeyValues": [
+      "PARSELY_API_KEY",
+      "PARSELY_API_SECRET"
+    ],
+    "queryStringMapping": {
+      "tag": "tag",
+      "sortBy": "sort",
+      "startPeriod": "period_start",
+      "endPeriod": "period_end",
+      "section": "section",
+      "count": "limit",
+      "author": "author"
+    }
+  },
+  "PARSELY_RELATED": {
+    "baseUrl": "https://parsely.cnbc.com/v2/related",
+    "queryStringMapping": {
+      "tag": "tag",
+      "url": "url",
+      "count": "limit"
+    },
+    "fixedParams": {
+      "respect_empty_results": 1,
+      "apikey": "cnbc.com"
+    }
+  },
+  "DYNAMIC_YIELD": {
+    "baseUrl": "https://parsely.cnbc.com/v2/analytics/posts",
+    "queryStringMapping": {
+      "tag": "tag",
+      "sortBy": "sort",
+      "startPeriod": "period_start",
+      "endPeriod": "period_end",
+      "section": "section",
+      "count": "limit",
+      "author": "author"
+    }
+  }
+}

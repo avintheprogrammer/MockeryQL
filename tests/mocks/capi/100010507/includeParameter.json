@@ -1,0 +1,237 @@
+{
+  "@type": "Collection",
+  "@id": "100010507",
+  "cn:type": "franchise",
+  "cn:slug": "US Economy",
+  "cn:title": "US Economy",
+  "headline": "US Economy",
+  "cn:sectionLabel": "US Economy",
+  "cn:creatorOverwrite": "",
+  "cn:historicalURL": ["/economics/", "/id/100010507"],
+  "cn:editedBy": "Anusha.Gogineni",
+  "cn:createdBy": "Mark.Richards",
+  "cn:subDomain": "CNBC.com",
+  "cn:branding": "CNBC",
+  "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100010507",
+  "cn:settings": {
+    "cn:commentsEnabled": "Yes",
+    "cn:socialtoolsEnabled": "Yes",
+    "cn:listType": "Manual and/or populated by feeds",
+    "cn:tweetOnPublish": 0
+  },
+  "url": "http://qa-aws01web.cnbc.com/us-economy/",
+  "datePublished": "2014-09-02T17:20:56+0000",
+  "cn:unpublishDate": "",
+  "cn:liveURL": "/us-economy/",
+  "cn:summary": "Latest news and headlines affecting the United States economy.",
+  "cn:shorterDescription": "Latest news and headlines affecting the United States economy.",
+  "cn:shortestDescription": "Latest news affecting the United States economy.",
+  "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><br /></p><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div></div></group></body>",
+  "cn:sectionHierarchy": [{
+    "id": 20910258,
+    "tagName": "Economy",
+    "order": 1
+  }, {
+    "id": 10000161,
+    "tagName": "CNBC Global",
+    "order": 2
+  }],
+  "cn:subtype": "news_section",
+  "description": "Latest news and headlines affecting the United States economy.",
+  "cn:tabLabel": "US Economy",
+  "cn:sectionLinktext": "US Economy",
+  "@context": {
+    "@vocab": "http://schema.org/",
+    "cn": "http://cnbc.com/schema/"
+  },
+  "publisher": {
+    "name": "CNBC",
+    "@type": "Organization",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "cn:pagination": {
+    "cn:link": {
+      "cn:self": "https://qa-aws02capi-bl.cnbc.com/list/id/100010507?page=1&pagesize=2",
+      "cn:next": "https://qa-aws02capi-bl.cnbc.com/list/id/100010507?page=2&pagesize=2",
+      "cn:previous": "https://qa-aws02capi-bl.cnbc.com/list/id/100010507?page=1&pagesize=2",
+      "cn:last": "https://qa-aws02capi-bl.cnbc.com/list/id/100010507?page=908&pagesize=2"
+    },
+    "cn:page": 1,
+    "cn:totalCount": 1815,
+    "cn:pageSize": 2
+  },
+  "cn:listItem": [{
+    "@id": "104846604",
+    "cn:type": "cnbcnewsstory",
+    "cn:slug": "Impact cybersecurity tips GRANT 20171116",
+    "cn:createdBy": "kelli.grant",
+    "cn:editedBy": "roshan.varghese",
+    "cn:title": "Smart behaviors that can improve your cybersecurity",
+    "headline": "Smart behaviors to improve your cybersecurity",
+    "cn:creatorOverwrite": "",
+    "cn:historicalURL": ["/2017/11/16/smart-behaviors-that-can-improve-your-cybersecurity.html"],
+    "cn:subDomain": "https://qa-aws01make-it.cnbc.com",
+    "cn:branding": "makeit",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104846604",
+    "url": "https://qa-aws01make-it.cnbc.com/2017/11/16/the-new-url.html",
+    "datePublished": "2017-11-16T14:46:38+0000",
+    "cn:liveURL": "/2017/11/16/the-new-url.html",
+    "cn:summary": "Both advisors and consumers could stand to improve their email habits and password use, to thwart would-be thieves. ",
+    "cn:shorterDescription": "The financial services sector is a prime target for cyberattacks. What consumers and advisors can learn from that. ",
+    "cn:shortestDescription": "Both advisors and investors could stand to improve their email habits and password use.",
+    "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104844227\" autoplay_flag=\"false\"/></assets><div class=\"group\"><p>Some of the cybersecurity best practices for advisors are smart moves for consumers, too.</p><p>\"Don't make the mistake of thinking of [cybersecurity] as a technology thing. It's not,\" Adam Moseley, managing director of Schwab Business Consulting and Education at Charles Schwab, told advisors Tuesday at Schwab IMPACT 2017 in Chicago.</p><p>Much of protecting yourself is about behavior and education, he said. (See infographic below for tips.)</p><p>Advisors are right to be <asset_inline nid=\"103939381\">worried about cybersecurity</asset_inline>. The broader financial services sector has been attacked more than any other industry, according to the <asset_inline ext_link=\"https://www.ibm.com/security/data-breach/mss-security-threat-research.html\" ext_title=\"https://www.ibm.com/security/data-breach/mss-security-threat-research.html\">2017 IBM X-Force Intelligence Index</asset_inline>.</p></div></group></body>",
+    "cn:sectionHierarchy": [{
+      "id": 102091434,
+      "tagName": "Impact conference",
+      "order": 1
+    }, {
+      "id": 15839069,
+      "tagName": "Investing",
+      "order": 2
+    }, {
+      "id": 10000664,
+      "tagName": "Finance",
+      "order": 3
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 4
+    }],
+    "description": "Both advisors and consumers could stand to improve their email habits and password use, to thwart would-be thieves. ",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:dateline": "Yes",
+      "cn:displayByline": "Yes",
+      "cn:displaySource": "Yes",
+      "cn:outbrainEnabled": "Yes",
+      "cn:isFamilyFriendly": "Yes",
+      "cn:listType": "Virtual",
+      "cn:tweetOnPublish": 0
+    },
+    "author": [{
+      "@type": "Creator",
+      "@id": "100770389",
+      "name": "Kelli B. Grant",
+      "url": "http://qa-aws01web.cnbc.com/kelli-b-grant/",
+      "position": "5000",
+      "sameAs": ["https://www.facebook.com/KelliGrant.money", "https://www.twitter.com/kelligrant", "https://www.plus.google.com/116379376975025392080"],
+      "cn:socialMediaInfo": [{
+        "cn:url": "https://facebook.com/KelliGrant.money",
+        "cn:displayText": "KelliGrant.money",
+        "cn:type": "facebook"
+      }, {
+        "cn:url": "https://twitter.com/kelligrant",
+        "cn:displayText": "kelligrant",
+        "cn:type": "twitter"
+      }, {
+        "cn:url": "https://plus.google.com/116379376975025392080",
+        "cn:displayText": "116379376975025392080",
+        "cn:type": "googlePlus"
+      }]
+    }],
+    "image": {
+      "representativeOfPage": "true",
+      "@type": "ImageObject",
+      "@id": 104382104,
+      "author": "Linus Strandholm",
+      "datePublished": "2017-04-04T00:10:18+0000",
+      "caption": "",
+      "description": "",
+      "copyrightHolder": "Linus Strandholm | EyeEm | Getty Images",
+      "height": "1414",
+      "width": "2121",
+      "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104382104-GettyImages-707592073_1.jpg?v=1510833535"
+    },
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "publisher": {
+      "name": "CNBC",
+      "@type": "Organization",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "cn:unpublishDate": "",
+    "@type": "NewsArticle",
+    "cn:relation": [{
+      "cn:isPromoted": "true",
+      "cn:relationType": "outputList",
+      "position": 10549
+    }]
+  }, {
+    "@id": "104845578",
+    "cn:type": "partnerstory",
+    "cn:slug": "China wind tunnel SCMP 171116 Asia",
+    "cn:createdBy": "Graham.Smith@cnbc.com",
+    "cn:editedBy": "Anusha.Gogineni",
+    "cn:title": "China builds world's fastest wind tunnel to test weapons that could strike US within 14 minutes",
+    "headline": "China gears up to test weapons that could hit US in 14 minutes",
+    "cn:creatorOverwrite": "Stephen Chen",
+    "cn:historicalURL": [],
+    "cn:subDomain": "CNBC.com",
+    "cn:branding": "CNBC",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104845578",
+    "url": "http://qa-aws01web.cnbc.com/2017/11/15/china-builds-worlds-fastest-wind-tunnel-to-test-weapons-that-could-strike-us-within-14-minutes.html",
+    "datePublished": "2017-11-16T01:45:00+0000",
+    "cn:liveURL": "/2017/11/15/china-builds-worlds-fastest-wind-tunnel-to-test-weapons-that-could-strike-us-within-14-minutes.html",
+    "cn:summary": "China is building the world's fastest wind tunnel to simulate hypersonic flight at speeds of up to 12 kilometres per second.",
+    "cn:shorterDescription": "China is building the world's fastest wind tunnel to simulate hypersonic flight at speeds of up to 12 kilometers per second.",
+    "cn:shortestDescription": "China is building the world's fastest wind tunnel to simulate hypersonic flight at speeds of up to 12 km per second.",
+    "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104845581\"/></assets><div class=\"group\"><p><asset_inline nid=\"10000018\">China</asset_inline> is building the world's fastest wind tunnel to simulate hypersonic flight at speeds of up to 12 kilometres per second.</p><p>A hypersonic vehicle flying at this speed from China could reach the west coast of the <asset_inline nid=\"10000385\">United States</asset_inline> in less than 14 minutes.</p><p>Zhao Wei, a senior scientist working on the project, said researchers aimed to have the facility up and running by around 2020 to meet the pressing demand of China's hypersonic weapon development programme.</p><p>\"It will boost the engineering application of hypersonic technology, mostly in military sectors, by duplicating the environment of extreme hypersonic flights, so problems can be discovered and solved on the ground,\" said Zhao, a deputy director of the State Key Laboratory of High Temperature Gas Dynamics at the Chinese Academy of Sciences in Beijing.</p><p>The ground tests will significantly reduce the risk of failure when test flights of hypersonic aircraft start.</p><p>The world's most powerful wind tunnel at present is America's LENX-X facility in Buffalo, New York state, which operates at speeds of up to 10 kilometres per second – 30 times the speed of sound.</p><p>Hypersonic aircraft are defined as vehicles that travel of speeds of Mach 5, five times the speed of sound, or above.</p><p>The US military tested HTV-2, a Mach 20 unmanned aircraft in 2011 but the hypersonic flight lasted only a few minutes before the vehicle crashed in to the Pacific Ocean.</p><p>In March China conducted seven successful test flights of its hypersonic glider WU-14, also known as the DF-ZF, at speeds of between Mach 5 and Mach 10.</p><p>Other countries including <asset_inline nid=\"10000054\">Russia</asset_inline>, <asset_inline nid=\"10000019\">India</asset_inline> and <asset_inline nid=\"10000176\">Australia</asset_inline> have also tested some early prototypes of the aircraft, which could be used to deliver missiles including nuclear weapons.</p><p>\"China and the US have started a hypersonic race,\" said Wu Dafang, professor at the school of aeronautic science and engineering at Beihang University in Beijing who received a national technology award for the invention of a new heat shield used on hypersonic vehicles in 2013.</p><p>Wu has worked on the development of hypersonic cruise missiles, a near space vehicle, high-speed drones and other possible weapons for the People's Liberation Army.</p><p>He said there were a number of hypersonic wind tunnels in mainland China which had helped ensure the high success rate of its hypersonic weapon tests.</p><p>The new wind tunnel will be \"one of the most powerful and advanced ground test facilities for hypersonic vehicles in the world\", said Wu, who was not involved in the project.</p><p>\"This is definitely good news for us. I look forward to its completion,\" he added.</p><p><strong>More from the South China Morning Post:<br /></strong> <asset_inline ext_link=\"http://www.scmp.com/news/china/society/article/2117709/china-tests-new-spy-drones-near-space-death-zone\" ext_title=\"www.scmp.com\">China tests new spy drones in near space 'death zone'</asset_inline><br /> <asset_inline ext_link=\"http://www.scmp.com/news/china/society/article/2119270/how-beijing-and-taipei-are-teaming-space-track-earthquakes\" ext_title=\"www.scmp.com\">How Beijing and Taipei are teaming up in space to track earthquakes</asset_inline><br /> <asset_inline ext_link=\"http://www.scmp.com/news/china/policies-politics/article/2119699/praise-xi-jinping-not-jesus-escape-poverty-christian\" ext_title=\"Replace pictures of Jesus with Xi to escape poverty, Chinese villagers urged\">Replace pictures of Jesus with Xi to escape poverty, Chinese villagers urged</asset_inline></p><p>In the new tunnel there will be a test chamber with room for relatively large aircraft models with a wing span of almost three metres.</p><p>To generate an airflow at extremely high speeds, the researchers will detonate several tubes containing a mixture of oxygen, hydrogen and nitrogen gases for a series of explosions that could discharge one gigawatt of power within a split second, according to Zhao.</p><p>This is more than half of the total power generation capacity of the Daya Bay nuclear power plant in Guangdong.</p><p>The shock waves, channelled into the test chamber through a metallic tunnel, will envelope the prototype vehicle and increase the temperature over its body to 8,000 Kelvins, or 7,727 degrees Celsius, Zhao said.</p><p>That is nearly 50 per cent hotter than the surface of the Sun.</p></div></group></body>",
+    "cn:sectionHierarchy": [{
+      "id": 10001059,
+      "tagName": "Defense",
+      "order": 1
+    }, {
+      "id": 10001147,
+      "tagName": "Business",
+      "order": 2
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 3
+    }],
+    "description": "China is building the world's fastest wind tunnel to simulate hypersonic flight at speeds of up to 12 kilometres per second.",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:dateline": "Yes",
+      "cn:displayByline": "Yes",
+      "cn:displaySource": "Yes",
+      "cn:outbrainEnabled": "Yes",
+      "cn:isFamilyFriendly": "Yes",
+      "cn:listType": "Virtual",
+      "cn:tweetOnPublish": 0
+    },
+    "image": {
+      "representativeOfPage": "true",
+      "@type": "ImageObject",
+      "@id": 104845581,
+      "author": "VCG",
+      "datePublished": "2017-11-16T00:35:34+0000",
+      "caption": "A J-10 jet fighter performs during the International Army Games on August 13, 2017 in Changchun, Jilin Province of China.",
+      "description": "",
+      "copyrightHolder": "VCG | VCG | Getty Images",
+      "height": "576",
+      "width": "1024",
+      "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104845581-GettyImages-831498598.jpg?v=1510792521"
+    },
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "publisher": {
+      "name": "CNBC",
+      "@type": "Organization",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "cn:unpublishDate": "",
+    "@type": "NewsArticle",
+    "cn:relation": [{
+      "cn:isPromoted": "false",
+      "cn:relationType": "outputList",
+      "position": 10548
+    }]
+  }]
+}

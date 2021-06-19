@@ -1,0 +1,1969 @@
+{
+  "@type": "Collection",
+  "@id": "100003114",
+  "cn:type": "franchise",
+  "cn:slug": "US Top News and Analysis",
+  "cn:title": "US Top News and Analysis",
+  "headline": "Top News & Analysis",
+  "cn:sectionLabel": "Top News & Analysis",
+  "cn:creatorOverwrite": "",
+  "cn:historicalURL": [
+    "/id/100003114"
+  ],
+  "cn:editedBy": "ritesh.shah",
+  "cn:createdBy": "catherina.centanni",
+  "cn:subDomain": "",
+  "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100003114",
+  "cn:settings": {
+    "cn:listType": "Manual and/or populated by feeds",
+    "cn:tweetOnPublish": 0
+  },
+  "url": "/us-top-news-and-analysis/",
+  "datePublished": "2016-10-21T12:30:51+0000",
+  "cn:unpublishDate": "2014-10-31T11:12:36+0000",
+  "cn:liveURL": "/us-top-news-and-analysis/",
+  "cn:subType": "news_section",
+  "cn:seoTitle": "US Top News and Analysis",
+  "cn:summary": "",
+  "cn:shorterDescription": "",
+  "cn:shortestDescription": "",
+  "cn:bodyTeaser": "null",
+  "cn:sectionHierarchy": [],
+  "description": "",
+  "cn:sectionColor": "#000000",
+  "cn:promoText": "",
+  "cn:showTime": "",
+  "cn:tabLabel": "Top News",
+  "cn:sectionLinktext": "Top News & Analysis",
+  "@context": {
+    "@vocab": "http://schema.org/",
+    "cn": "http://cnbc.com/schema/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "CNBC",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "cn:pagination": {
+    "cn:link": {
+      "cn:self": "https://qa-aws02capi-bl.cnbc.com/list/id/100003114?page=1&pagesize=20",
+      "cn:next": "https://qa-aws02capi-bl.cnbc.com/list/id/100003114?page=2&pagesize=20",
+      "cn:previous": "https://qa-aws02capi-bl.cnbc.com/list/id/100003114?page=1&pagesize=20",
+      "cn:last": "https://qa-aws02capi-bl.cnbc.com/list/id/100003114?page=1454&pagesize=20"
+    },
+    "cn:page": 1,
+    "cn:totalCount": 29071,
+    "cn:pageSize": 20
+  },
+  "cn:listItem": [{
+      "@id": "104846707",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "John Malone investor day KIM 171116 EC  [Related tags setup - Please do not update]",
+      "cn:title": "John Malone says Amazon is a 'Death Star' moving in 'striking range of every industry on the planet'",
+      "headline": "John Malone says Amazon is a 'Death Star' ",
+      "cn:creatorOverwrite": "",
+      "cn:editedBy": "ashish.gupta",
+      "cn:historicalURL": [],
+      "cn:createdBy": "tae.kim1",
+      "cn:subDomain": "https://qa-aws01web.cnbc.com",
+      "cn:branding": "cnbc",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104846707",
+      "url": "https://qa-aws01web.cnbc.com/2017/11/16/john-malone-says-amazon-is-a-death-star-moving-in-striking-range-of-every-industry-on-the-planet.html",
+      "datePublished": "2017-11-16T14:27:29+0000",
+      "cn:liveURL": "/2017/11/16/john-malone-says-amazon-is-a-death-star-moving-in-striking-range-of-every-industry-on-the-planet.html",
+      "cn:seoTitle": "John Malone says Amazon is a 'Death Star' moving in 'striking range of every industry on the planet'",
+      "cn:summary": "Liberty Media Chairman John Malone shares his views in an exclusive interview with CNBC’s David Faber Thursday.",
+      "cn:shorterDescription": "Liberty Media Chairman John Malone shares his views in an exclusive interview with CNBC’s David Faber Thursday.",
+      "cn:shortestDescription": "Liberty Media Chairman John Malone shares his views in an exclusive interview with CNBC’s David Faber Thursday.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104097353\"/></assets><div class=\"group\"><p><span><asset_inline nid=\"100381291\">Liberty Media</asset_inline> Chairman John Malone believes&#160;<asset_inline nid=\"1502862\">Amazon</asset_inline>&#160;will dominate the future and is the only company that has a chance to beat <asset_inline nid=\"1510971\">Netflix</asset_inline>.</span></p><p><span>Netflix CEO Reed Hastings \"has been successful in throwing hail Mary passes and then growing into them. And I think he is going to continue doing that. He's got a great service. He's disintermediating&#160;the studio industry by going directly to the talent,\" Malone said&#160;</span>in an exclusive interview with CNBC's <asset_inline nid=\"15838155\">David Faber</asset_inline> Thursday at the Liberty Media annual investor meeting.</p><p>\"The only outfit right now that has a chance of overtaking them would be Amazon.\"</p><p>The investor noted the cable industry&#160;missed its opportunity&#160;to compete with Netflix&#160;in the past and said \"it's way too late\" now. He added that in today's media world Netflix has the lead position due to its size and subscriber base.&#160;</p><p>The internet \"makes scale even more important in the media business, where scale always was important. It's all about scale,\" he said. Netflix was \"the first wave. And I think Jeff [Bezos] is gonna be the most disruptive. As [his] Death Star moves into striking range of every industry on the planet.\"</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 15839069,
+          "tagName": "Investing",
+          "order": 1
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "Liberty Media Chairman John Malone shares his views in an exclusive interview with CNBC’s David Faber Thursday.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+          "@type": "Creator",
+          "@id": "102870727",
+          "name": "Tae Kim",
+          "url": "https://qa-aws01make-it.cnbc.com/tae-kim/",
+          "position": "5000",
+          "sameAs": [
+            "https://www.twitter.com/firstadopter"
+          ],
+          "cn:socialMediaInfo": [{
+            "cn:url": "https://twitter.com/firstadopter",
+            "cn:displayText": "firstadopter",
+            "cn:type": "twitter"
+          }]
+        },
+        {
+          "@type": "Creator",
+          "@id": "104803012",
+          "name": "Gene Munster",
+          "url": "http://qa-aws01pub.cnbc.com/gene-munster/",
+          "position": "4999"
+        }
+      ],
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 256658
+      }]
+    },
+    {
+      "@id": "104845427",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Trump’s tax reform HARWOOD 171115 EC",
+      "cn:createdBy": "Beatriz.BajuelosCastillo@nbcuni.com",
+      "cn:editedBy": "ashish.gupta",
+      "cn:title": "Trump’s core supporters are about to be handed the bill for tax reform",
+      "headline": "Trump’s core supporters are about to be handed the bill for tax reform",
+      "cn:creatorOverwrite": "",
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01web.cnbc.com",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104845427",
+      "url": "https://qa-aws01web.cnbc.com/2017/11/16/trumps-core-supporters-are-about-to-be-handed-the-bill-for-tax-reform.html",
+      "datePublished": "2017-11-16T12:04:23+0000",
+      "cn:liveURL": "/2017/11/16/trumps-core-supporters-are-about-to-be-handed-the-bill-for-tax-reform.html",
+      "cn:seoTitle": "Trump’s core supporters are about to be handed the bill for tax reform",
+      "cn:summary": "President Trump's white working-class supporters don't gain much from the Republican tax cut push. They support it anyway.",
+      "cn:shorterDescription": "President Trump's white working-class supporters don't gain much from the Republican tax cut push. They support it anyway.",
+      "cn:shortestDescription": "President Trump's white working-class supporters don't gain much from the GOP tax cuts. They support it anyway.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104143295\"/></assets><div class=\"group\"><p><strong class=\"\"></strong><asset_inline nid=\"10000329\">President Donald Trump</asset_inline>'s white working-class supporters don't gain much from <asset_inline nid=\"104845065\">the Republican tax cut push</asset_inline>. So far, they're among its strongest early supporters anyway.</p><p>But their personal loyalty to Trump and his party faces a big test from <asset_inline nid=\"104844820\">the tax cut debate</asset_inline> — and spending cut debate soon to follow.</p><p>The House bill Republicans hope to pass Thursday, tax analysts for Congress say, will reduce effective tax rates twice as much for those earning $1 million or more as for those earning $100,000 or less. <asset_inline nid=\"104844030\">The Senate bill makes big tax cuts for corporations permanent</asset_inline>&#160;but makes smaller ones for moderate-income families only temporary.</p><p>Those specifics contradict what Trump's base&#160;— heavily weighted toward older whites without college educations&#160;— has said it wants from Washington. In an in-depth study of voter attitudes after the 2016 election, his core supporters expressed disdain for Wall Street and advocated higher, not lower, taxes on the wealthy.</p><p>On the eve of 2018 elections, Democrats have begun a high-volume effort to highlight that contradiction in priorities. Even if they can't stop the tax bill, the stated plans of congressional Republicans and the Trump White House will give them fresh material.</p><p>\"One thing we're going to be looking at very strongly is welfare reform,\" Trump told his Cabinet last month. \"People are taking advantage of the system.\"</p><p>But this may diverge from racially charged welfare debates of the past, fueled by blue-collar whites resentful that their tax dollars financed benefit rolls containing disproportionate numbers of African-Americans. This time, benefits at risk include those largely benefitting blue-collar whites themselves.</p><p>One big target is Medicaid, which provides health care to low-income Americans. Republicans have sought to cut it by hundreds of billions of dollars in their proposals to repeal and replace Obamacare.</p><p>Low-income whites represent a majority of nonelderly Medicaid beneficiaries in numerous states Trump carried such as Ohio, Wisconsin, Michigan, West Virginia, Kentucky and Arkansas. They also represent a majority of elderly Medicaid beneficiaries receiving nursing home care financed by the federal government.</p><p>Trump has pledged not to cut Social Security benefits. But his budget director, <asset_inline nid=\"104507035\">Mick Mulvaney</asset_inline>, persuaded him to seek reductions in Social Security disability benefits by arguing, as he explained to Politico, that \"<asset_inline ext_link=\"https://www.politico.com/magazine/story/2017/09/01/mick-mulvaney-omb-trump-budget-profile-feature-215546\" ext_title=\"https://www.politico.com/magazine/story/2017/09/01/mick-mulvaney-omb-trump-budget-profile-feature-215546\">It's welfare</asset_inline>.\"</p><p>In fact, policy experts in both parties see the disability program as swollen and ripe for reform. They say disability has become a damaging trap for millions with medical problems who still could work&#160;— but are forbidden from doing so once they qualify for its benefits.</p><p>Reductions will hit home with core Trump supporters in any case. Seven in 10 Social Security disability recipients are white, many of them aging, blue-collar workers displaced from good-paying jobs by competition from imports and other shifts in the global economy.</p><p>\"It affects the white working-class guys as they get older,\" said Jason Turner, a conservative welfare expert. \"That's the impetus for a lot of them asking for disability.\"</p><p>Trump has also pledged not to touch Medicare benefits. But <asset_inline nid=\"104398705\">Mulvaney told me earlier this year</asset_inline> the administration would \"talk about it\" if congressional Republicans pass longstanding proposals to cut spending by converting Medicare to a \"premium support\" program for private insurance.</p><p>House Speaker <asset_inline nid=\"10000488\">Paul Ryan</asset_inline> has been a principal advocate of that idea, as well as for curbing Social Security as baby boom retirements expand benefit rolls. Despite Trump's pledges, the speaker hasn't given up.</p><p>Indeed, the higher deficits that analysts forecast from the GOP tax proposals will only increase pressure to curb benefits.</p><p>\"There's two things you have to do to get our fiscal house in order,\" Ryan told reporters last week. \"Grow the economy, get people working and paying taxes, and deal with spending&#160;— especially entitlement spending.\"</p><p>\"We've got a lot more work to do on that front,\" he concluded.</p><p>Seven in 10 Americans age 65 or older are white. One-third of them rely on Social Security to lift them out of poverty, according to Census data.</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 10001075,
+          "tagName": "Taxes",
+          "order": 1
+        },
+        {
+          "id": 10000113,
+          "tagName": "Politics",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "President Trump's white working-class supporters don't gain much from the Republican tax cut push. They support it anyway.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "15838123",
+        "name": "John Harwood",
+        "url": "http://qa-aws01web.cnbc.com/john-harwood/",
+        "position": "4998",
+        "sameAs": [
+          "https://www.twitter.com/johnjharwood"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/johnjharwood",
+          "cn:displayText": "johnjharwood",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104143295,
+        "author": "",
+        "datePublished": "2016-12-02T16:05:48+0000",
+        "caption": "Supporters listen as President-elect Donald Trump and Vice President-elect Mike Pence speak at U.S. Bank Arena on Dec. 1, 2016, in Cincinnati.",
+        "description": "",
+        "copyrightHolder": "Getty Images",
+        "height": "1333",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104143295-GettyImages-627104906.jpg?v=1481719301"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 256657
+      }]
+    },
+    {
+      "@id": "104846858",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "ATT Time Warner chance CHENG 171116 EC",
+      "cn:title": "Legendary cable dealmaker Malone: AT&T-Time Warner deal still has 75% chance, with CNN included",
+      "headline": "John Malone: AT&T-Time Warner deal still has 75% chance, with CNN included",
+      "cn:creatorOverwrite": "",
+      "cn:editedBy": "Devi.Chapidi",
+      "cn:historicalURL": [],
+      "cn:createdBy": "evelyn.cheng",
+      "cn:subDomain": "https://qa-aws01web.cnbc.com",
+      "cn:branding": "cnbc",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104846858",
+      "url": "https://qa-aws01web.cnbc.com/2017/11/16/john-malone-att-time-warner-deal-still-has-75-percent-chance.html",
+      "datePublished": "2017-11-16T16:08:09+0000",
+      "cn:liveURL": "/2017/11/16/john-malone-att-time-warner-deal-still-has-75-percent-chance.html",
+      "cn:seoTitle": "John Malone: AT&T-Time Warner deal still has 75% chance",
+      "cn:summary": "An AT&T takeover of Time Warner, without a sale of CNN, is still quite likely, media mogul John Malone says. ",
+      "cn:shorterDescription": "An AT&T takeover of Time Warner, without a sale of CNN, is still quite likely, media mogul John Malone says. ",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104847271\" autoplay_flag=\"true\"/></assets><div class=\"group\"><p>An <asset_inline nid=\"1514403\">AT&amp;T</asset_inline> takeover of <asset_inline nid=\"1515006\">Time Warner,</asset_inline> without a sale of CNN, is still quite likely, media mogul John Malone told CNBC on Thursday.&#160;</p><p>\"I was quite surprised to see that divestiture was proposed or offered,\" <asset_inline nid=\"100381291\">Liberty Media</asset_inline> Chairman Malone said in an exclusive&#160;interview with CNBC's <asset_inline nid=\"15838155\">David Faber</asset_inline> at the Liberty Media annual investor meeting.&#160;</p><p>\"Today, I would be 75 percent of it getting done on the current terms, without divestiture,\" Malone said. He said a month ago he would have given the deal \"100 percent probability of getting done with behavioral agreements.\"&#160;</p><p>AT&amp;T agreed to buy Time Warner last fall in a massive $85 billion deal. But in the latest challenge for the deal,&#160;CNBC reported last week&#160;the Department of Justice could sue to block&#160;the takeover unless AT&amp;T agrees to sell its DirectTV division or Time Warner's Turner Broadcasting, owner of CNN.</p><p>The <asset_inline nid=\"104832821\">Justice Department has pushed back</asset_inline> on the idea that it is trying to force a sale of either of those assets, while AT&amp;T's CEO has said he has no intention of selling CNN.</p><p>\"These deals generally get done,\" Malone said. \"Frankly I have not read what the government's case is.\"</p><p>Malone is widely respected as one of the most astute dealmakers in media and cable. He built and ran his cable empire TCI from the 1970s and sold it to AT&amp;T in 1999 for roughly $50 billion. The investor has a net worth of nearly $8 billion, according to Forbes.</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 10000621,
+          "tagName": "Mergers and Acquisitions",
+          "order": 1
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "An AT&T takeover of Time Warner, without a sale of CNN, is still quite likely, media mogul John Malone says. ",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "101069441",
+        "name": "Evelyn Cheng",
+        "url": "http://qa-aws01web.cnbc.com/evelyn-cheng/",
+        "position": "4999",
+        "sameAs": [
+          "https://www.twitter.com/chengevelyn"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/chengevelyn",
+          "cn:displayText": "chengevelyn",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104570724,
+        "author": "Andrew Harrer",
+        "datePublished": "2017-07-06T14:22:00+0000",
+        "caption": "Randall Stephenson, chairman and chief executive officer of AT&T Inc., right, speaks with Jeffrey 'Jeff' Bewkes, chairman and chief executive officer of Time Warner Inc.",
+        "description": "Randall Stephenson, chairman and chief executive officer of AT&T Inc., right, speaks with Jeffrey \"Jeff\" Bewkes, chairman and chief executive officer of Time Warner Inc., before a Senate Judiciary Subcommittee hearing in Washington, D.C., U.S., on Wednesday, Dec. 7, 2016. Stephenson told Congress his company's planned $85.4 billion purchase of HBO and CNN owner Time Warner Inc. will help the telecommunications provider challenge cable companies for customers. Photographer: Andrew Harrer/Bloomberg",
+        "copyrightHolder": "Andrew Harrer | Bloomberg | Getty Images",
+        "height": "396",
+        "width": "594",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104570724-GettyImages-628282192.jpg?v=1499350922"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 256656
+      }]
+    },
+    {
+      "@id": "104846845",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Ron Johnson 2 LOVELACE 171116 ec",
+      "cn:createdBy": "Berkeley.LovelaceJr",
+      "cn:editedBy": "matthew.belvedere",
+      "cn:title": "GOP’s Ron Johnson: Trump told me he’d get me information I need to propose a fix to the Senate tax bill",
+      "headline": "Sen. Ron Johnson: Trump promises details so I can try to fix tax bill",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104846845",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/16/sen-ron-johnson-trump-promises-details-so-i-can-try-to-fix-gop-tax-reform-bill.html",
+      "datePublished": "2017-11-16T15:19:20+0000",
+      "cn:liveURL": "/2017/11/16/sen-ron-johnson-trump-promises-details-so-i-can-try-to-fix-gop-tax-reform-bill.html",
+      "cn:seoTitle": "Sen. Ron Johnson: Trump promises details so I can try to fix tax bill",
+      "cn:summary": "Johnson says President Trump personally promised to \"'work my tail off'\" to win the Wisconsin Republican's vote.",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104846368\" autoplay_flag=\"true\"/></assets><div class=\"group\"><p>Sen. <asset_inline nid=\"103059363\">Ron Johnson</asset_inline>&#160;told CNBC on Thursday that President <asset_inline nid=\"10000329\">Donald Trump</asset_inline> personally promised to \"'work my tail off'\" to win the Wisconsin Republican's vote on the Senate's tax overhaul plan.</p><p>A day after becoming the first Senate Republican <asset_inline nid=\"104845065\">to explicitly say</asset_inline> he would not back the plan, Johnson said on <asset_inline nid=\"15838368\">\"Squawk Box\"</asset_inline> that he would not vote for the bill in its current form.&#160;</p><p>He said he's concerned that there isn't enough information available to make an informed&#160;vote. He also said the&#160;plan may benefit corporations more than other smaller businesses.</p><p>\"I don't have the information on how much it would cost, how many <asset_inline nid=\"104846621\">pass-through businesses</asset_inline> are being left behind that do compete globally. I can't get the information. I've been asking. They don't give it to me,\" Johnson&#160;said.</p><p>\"I got a call from President Trump last night. He's telling me 'I'll get the information. I'll meet with Treasury officials today. I will work my tail off over the weekend to fix this problem so we can move forward with pro-growth tax reform,'\" Johnson added.</p><p>Johnson appeared on CNBC before <asset_inline ext_link=\"https://www.jct.gov/\" ext_title=\"https://www.jct.gov/\">the Joint Committee on Taxation</asset_inline> released on Thursday its latest look at the GOP Senate bill.</p><p>Trump has been pushing lawmakers to pass a tax bill, which he says would ease the burden on middle-class Americans and give U.S. businesses incentives to invest at home.</p><p>Johnson&#160;said&#160;the process for working on the bill has not been transparent. \"It's not a real good process,\" he said. \"The House is voting on theirs today. We're going to be voting on ours right after Thanksgiving.\"</p><p>Sens. <asset_inline nid=\"104451132\">Susan Collins</asset_inline> of Maine, <asset_inline nid=\"103056482\">Bob Corker</asset_inline> of Tennessee and John McCain of Arizona have also voiced concerns over the Senate's tax plan. They <asset_inline ext_link=\"https://www.nytimes.com/2017/11/15/us/politics/senate-house-tax-cut.html\" ext_title=\"https://www.nytimes.com/2017/11/15/us/politics/senate-house-tax-cut.html\">refused to say</asset_inline> whether they would ultimately vote for the bill.</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 10001075,
+          "tagName": "Taxes",
+          "order": 1
+        },
+        {
+          "id": 10000113,
+          "tagName": "Politics",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "Johnson says President Trump personally promised to \"'work my tail off'\" to win the Wisconsin Republican's vote.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "103703155",
+        "name": "Berkeley Lovelace Jr.",
+        "url": "http://qa-aws01web.cnbc.com/berkeley-lovelace-jr/",
+        "position": "5000",
+        "sameAs": [
+          "https://www.linkedin.com//in/berkeleylovelace",
+          "https://www.twitter.com/BerkeleyJr"
+        ],
+        "cn:socialMediaInfo": [{
+            "cn:url": "https://linkedin.com//in/berkeleylovelace",
+            "cn:displayText": "/in/berkeleylovelace",
+            "cn:type": "linkedin"
+          },
+          {
+            "cn:url": "https://twitter.com/BerkeleyJr",
+            "cn:displayText": "BerkeleyJr",
+            "cn:type": "twitter"
+          }
+        ]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104653968,
+        "author": "",
+        "datePublished": "2017-08-15T15:01:22+0000",
+        "caption": "Sen. Ron Johnson",
+        "description": "",
+        "copyrightHolder": "Cameron Costa | CNBC",
+        "height": "1333",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104653968-IMG_6501.JPG?v=1510778825"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 256655
+      }]
+    },
+    {
+      "@id": "104847196",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Malone charter KIM 171116 EC ",
+      "cn:title": "John Malone: There have been 'four different approaches’ for Charter",
+      "headline": "John Malone: There have been 'four different approaches’ for Charter",
+      "cn:creatorOverwrite": "",
+      "cn:editedBy": "rekha.ponnur",
+      "cn:historicalURL": [],
+      "cn:createdBy": "tae.kim1",
+      "cn:subDomain": "https://qa-aws01web.cnbc.com",
+      "cn:branding": "cnbc",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847196",
+      "url": "https://qa-aws01web.cnbc.com/2017/11/16/john-malone-there-have-been-four-different-approaches-for-charter.html",
+      "datePublished": "2017-11-16T16:39:57+0000",
+      "cn:liveURL": "/2017/11/16/john-malone-there-have-been-four-different-approaches-for-charter.html",
+      "cn:seoTitle": "John Malone: There have been 'four different approaches’ for Charter",
+      "cn:summary": "Charter director John Malone shares his views in an exclusive interview with CNBC’s David Faber Thursday.",
+      "cn:shorterDescription": "Charter director John Malone shares his views in an exclusive interview with CNBC’s David Faber Thursday.",
+      "cn:shortestDescription": "Charter director John Malone shares his views in an exclusive interview with CNBC’s David Faber Thursday.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104112420\"/></assets><div class=\"group\"><p>Charter Communications director John Malone tells CNBC&#160;several&#160;firms have talked to the cable company about a potential merger or acquisition.</p><p>The company has received \"four different approaches,\" Malone said in an exclusive interview with CNBC's David Faber Thursday at the Liberty Media annual investor meeting.</p><p>\"The problem is none of them at this point have made a pitch that was worthy of bringing it to the board and proposing it seriously to the board.\"</p><p>He mentioned the names of executives from Altice, Softbank and Verizon as potential acquirers of <asset_inline nid=\"1504598\">Charter</asset_inline>. When Faber asked for the identity of the fourth company, Malone said \"I'm not going to tell ya.\"</p><p>The investor explained the company has valued Charter's business using growth projections for the next four to five years. The company would need to see a bid above this internal estimate on a risk-adjusted basis to consider a sale.</p><p>\"We have a wonderful business and wonderful business plan,\" he said. \"Anything I'm involved in is for sale every day of the week. The store is always open … Have we seen anything yet that gets even close to ringing the bell? No.\"</p><p>Charter shares rose off its low after Malone's remarks aired on CNBC.&#160;The stock&#160;is up 1 percent Thursday morning.</p><p>Image</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 10000621,
+          "tagName": "Mergers and Acquisitions",
+          "order": 1
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "Charter director John Malone shares his views in an exclusive interview with CNBC’s David Faber Thursday.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+          "@type": "Creator",
+          "@id": "102870727",
+          "name": "Tae Kim",
+          "url": "https://qa-aws01make-it.cnbc.com/tae-kim/",
+          "position": "5000",
+          "sameAs": [
+            "https://www.twitter.com/firstadopter"
+          ],
+          "cn:socialMediaInfo": [{
+            "cn:url": "https://twitter.com/firstadopter",
+            "cn:displayText": "firstadopter",
+            "cn:type": "twitter"
+          }]
+        },
+        {
+          "@type": "Creator",
+          "@id": "104775715",
+          "name": "Joe Lonsdale",
+          "url": "http://qa-aws01pub.cnbc.com/joe-lonsdale/",
+          "position": "4999"
+        }
+      ],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104112420,
+        "author": "Bloomberg",
+        "datePublished": "2016-11-16T17:17:47+0000",
+        "caption": "John Malone",
+        "description": "UNITED STATES - JULY 08:  John Malone, chairman of Liberty Media Corp., speaks to the media as he arrives for a session during the Allen & Co. Media and Technology Conference in Sun Valley, Idaho, U.S., on Wednesday, July 8, 2009. Malone said television, film and publishing companies must find a way to charge Internet users for the content they provide.  (Photo by Matthew Staver/Bloomberg via Getty Images)",
+        "copyrightHolder": "Matthew Staver | Bloomberg | Getty Images",
+        "height": "618",
+        "width": "880",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104112420-GettyImages-94968911.jpg?v=1516649960"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 256654
+      }]
+    },
+    {
+      "@id": "104847085",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "tax reform trouble Commentary BOUROUDJIAN 171116 EC",
+      "cn:title": "The market could be 'in the crosshairs’ of a 20% drop if tax reform fails",
+      "headline": "The market could be 'in the crosshairs’ of a 20% drop if tax reform fails",
+      "cn:creatorOverwrite": "",
+      "cn:editedBy": "roshan.varghese",
+      "cn:historicalURL": [],
+      "cn:createdBy": "Valerie Block",
+      "cn:subDomain": "https://qa-aws01make-it.cnbc.com",
+      "cn:branding": "makeit",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847085",
+      "url": "https://qa-aws01make-it.cnbc.com/2017/11/16/tax-reform-failure-could-cause-20-percent-market-drop-commentary.html",
+      "datePublished": "2017-11-16T16:19:35+0000",
+      "cn:liveURL": "/2017/11/16/tax-reform-failure-could-cause-20-percent-market-drop-commentary.html",
+      "cn:seoTitle": "Tax reform failure could cause 20% market drop-commentary",
+      "cn:summary": "Adding ACA repeal to tax reform is a distraction that could kill the bill and sink the market, says Jack Bouroudjian.",
+      "cn:shorterDescription": "Adding ACA repeal to tax reform is a distraction that could kill the bill and sink the market, says Jack Bouroudjian.",
+      "cn:shortestDescription": "Adding ACA repeal to tax reform is a distraction that could kill the bill and sink the market, says Jack Bouroudjian.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104190690\"/></assets><div class=\"group\"><p>Being a product of the late seventies and early eighties, I saw first-hand the impact tax reform can have on a faltering economy. Entering college in 1979, the dark days of Jimmy Carter left us with high inflation, high interest rates, high unemployment and low job creation. Worse yet, instead of investing in new ideas, capital went into ways to shield income from ridiculously high taxes.</p><p>Though the economy is in better shape today, students of the market know that tax reform is an absolute must if the market rally is to continue. There are three critical components we must focus on: Time, momentum and value.</p><p>We're running out of <strong>time</strong>. It's unfortunate that the Republican controlled congress did not act on tax reform before trying to tackle Obamacare repeal. The distractions have left little time for republican leadership to create a package acceptable to its own members, let alone others from across the aisle.</p><p>The latest attempt by the Senate to include repeal of the Affordable Care Act in the tax reform bill has left legislative print in jeopardy. What was supposed to be the first real reform in 30 years is in the process of being watered down, and even worse, the end product could be unpassable. ACA repeal must be separated from the reform package or it could fail. Repealing the ACA is a distraction, period.</p></div></group></body>",
+      "cn:featuredMedia": {
+        "cn:isPromoted": "true",
+        "cn:isHighTouch": "true",
+        "cn:subDomain": "CNBC.com",
+        "cn:branding": "CNBC",
+        "cn:type": "image",
+        "headline": "test-imagedd1",
+        "cn:creatorOverwrite": "",
+        "@id": "104847468",
+        "cn:slug": "test-imagedd1",
+        "cn:historicalURL": [],
+        "cn:title": "test-imagedd1",
+        "cn:editedBy": "qauser",
+        "cn:createdBy": "qauser",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847468",
+        "author": "",
+        "contentSize": 103323,
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104847468-tropical_beach_204377.jpg?v=1516644087",
+        "caption": "",
+        "description": "",
+        "height": "368",
+        "width": "552",
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "cn:unpublishDate": ""
+      },
+      "cn:sectionHierarchy": [{
+          "id": 102,
+          "tagName": "Markets",
+          "order": 1
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 2
+        }
+      ],
+      "description": "Adding ACA repeal to tax reform is a distraction that could kill the bill and sink the market, says Jack Bouroudjian.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "24759973",
+        "name": "Jack Bouroudjian",
+        "url": "http://qa-aws01web.cnbc.com/jack-bouroudjian/",
+        "position": "4999",
+        "sameAs": [
+          "https://www.twitter.com/@JackBouroudjian"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/@JackBouroudjian",
+          "cn:displayText": "@JackBouroudjian",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104190690,
+        "author": "",
+        "datePublished": "2016-12-29T06:08:02+0000",
+        "caption": "",
+        "description": "",
+        "copyrightHolder": "PeskyMonkey | E+ | Getty Images",
+        "height": "2816",
+        "width": "4250",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104190690-GettyImages-182178417.jpg?v=1482991705"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 256652
+      }]
+    },
+    {
+      "@id": "104835075",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "wmt earnings THOMAS 1711 ec",
+      "cn:createdBy": "Lauren.Thomas",
+      "cn:editedBy": "Lauren.Thomas",
+      "cn:title": "Wal-Mart surges to all-time high after earnings crush expectations",
+      "headline": "Wal-Mart's earnings crush expectations as grocery and online sales surge",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104835075",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/16/wmt-q3-earnings-2017.html",
+      "datePublished": "2017-11-16T12:01:40+0000",
+      "cn:liveURL": "/2017/11/16/wmt-q3-earnings-2017.html",
+      "cn:seoTitle": "Wal-Mart's earnings crush expectations as grocery, online sales surge",
+      "cn:summary": "Wal-Mart reports strong growth online, with e-commerce sales growing 50 percent in the fiscal third quarter.",
+      "cn:shorterDescription": "Wal-Mart reports strong growth online, with e-commerce sales growing 50 percent in the fiscal third quarter.",
+      "cn:shortestDescription": "Wal-Mart reports strong growth online, with e-commerce sales growing 50 percent in the fiscal third quarter.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104846354\" autoplay_flag=\"true\"/></assets><div class=\"group\"><p><asset_inline nid=\"1515906\">Wal-Mart</asset_inline>&#160;shares surged to an all-time high, jumping more than 8 percent Thursday after the world's largest retailer showed it can hold its own in a challenging retail environment.</p><p>Same-store sales for its U.S. locations climbed for the 13th-consecutive quarter, as the big-box retailer cited a bright spot in its food business and a boost from shoppers stocking up on hurricane supplies.</p><p>The Arkansas-based company reported strong growth online, with e-commerce sales&#160;soaring&#160;50 percent in the fiscal third quarter, a year after it acquired Jet.com. That's a slower pace than&#160;<asset_inline nid=\"104648367\">in the prior period</asset_inline>&#160;when digital sales were up 60 percent.</p><p>Wal-Mart also raised its full-year earnings expectations,&#160;taking an aggressive stance heading into the important holiday season.</p><p>Here's what Wal-Mart reported, compared with what Wall Street was expecting, based on a Thomson Reuters survey of analysts:</p><ul>\n<li>Earnings of $1 a share, excluding items, compared with a forecast profit of 97 cents per share.</li>\n<li>Revenue was $123.18 billion, versus an estimate of $121 billion.</li>\n<li>Same-store sales for U.S. stores, excluding fuel, climbed 2.7 percent, compared with an anticipated increase of 1.8 percent.</li>\n</ul><p>\"We have momentum, and it's encouraging to see customers responding to our store and eCommerce initiatives,\" CEO Doug McMillon said in a statement.</p><p>\"Existing customers have become advocates for popular initiatives like online grocery and free two-day shipping, and as a result, new customers, suppliers and partnerships are coming to Walmart.\"</p><p>In the third quarter, Wal-Mart reported net income of $1.75 billion, or 58 cents a share, which included a $283 million charge to account for a likely fine related to&#160;a Foreign Corrupt Practices Act violation investigation that has been ongoing since 2012. Excluding that charge and other one-time costs, Wal-Mart earned $1 a share, outpacing Wall Street estimates.</p><p>A year ago, Wal-Mart posted net income of $3.02 billion, or 98 cents a share.</p><p>Total revenue for the third quarter climbed 4.2 percent, to $123.18 billion from $118.18 billion. This included sales growth of 4.3 percent for Wal-Mart's U.S. business, 4.1 percent growth for Wal-Mart's international stores and 4.4 percent growth at Sam's Club.</p><p>The average ticket at Wal-Mart's U.S. stores was up 1.2 percent, helped by the rapid growth of its food business. Wal-Mart said its&#160;grocery categories delivered the strongest quarterly comparable sales performance in&#160;nearly&#160;six years, with fresh meat, bakery and produce leading the&#160;way.</p><p>\"Market share in the critical food category continues to grow as the expansion of its buy-online/pick-up in store capability is driving increased sales, and the focus on improving working capital continues,\" Moody's retail analyst Charlie O'Shea wrote in a note to clients.</p><p>\"As usual, we expect Walmart to largely set the tone on multiple fronts and in multiple categories for the Holiday season.\"</p><p>Comparable sales at U.S. stores, excluding fuel, were up 2.7 percent, versus a 1.2 percent increase a year ago, also outpacing analysts' estimates. Wal-Mart said hurricane-related impacts benefited comparable sales by roughly 30 to 50 basis points. And with fuel, total U.S. comparable sales were up 3 percent, versus a 1.1 percent increase a year ago.</p><p>Same-store sales at Sam's Club, excluding fuel, climbed 2.8 percent in the fiscal third quarter, compared with an increase of 1.4 percent one year ago. With fuel, Sam's Club's comparable sales grew 4 percent, versus 0.7 percent growth a year ago.</p><p>Looking to the full year, Wal-Mart is now calling for adjusted earnings per share ranging from $4.38 to $4.46 in fiscal 2018. It previously expected earning $4.30 to $4.40 a share, while analysts had forecast a per-share profit of $4.38.</p><p>\"We expect top line growth going forward to be led more by comp sales and eCommerce with less emphasis on new units in the U.S.,\" Chief Financial Officer&#160;Brett Biggs said on a prerecorded conference call.</p><p>\"We're prioritizing eCommerce, technology, supply chain and store remodels over new stores and clubs.\"</p><p>Wal-Mart's latest results show the company is holding its own in a competitive field, which includes rival <asset_inline nid=\"1514583\">Target</asset_inline>. On Wednesday, <asset_inline nid=\"104835074\">Target issue a more conservative outlook for the holidays</asset_inline>, sending its shares tumbling.</p><p>Meantime, all&#160;signs point to Wal-Mart&#160;being in a retail&#160;war with internet giant&#160;<asset_inline nid=\"1502862\">Amazon</asset_inline>.</p><p>After acquiring Jet.com,&#160;the big-box retailer's&#160;online sales have skyrocketed, as Wal-Mart brought other brands including Bonobos, Modcloth and Moosejaw into its portfolio. The company is also expanding curbside grocery pick-up service, beefing up its digital assortment and working with Amazon-rival&#160;<asset_inline nid=\"1501792\">Google</asset_inline> on voice-activated shopping.</p><p>One weakness for Wal-Mart has been that <asset_inline nid=\"104648367\">its profit margins&#160;have dipped&#160;slightly</asset_inline>&#160;due to more aggressive promotions. The retailer has been investing heavily to keep its prices competitive, and operating margins fell to 3.9 percent during the fiscal third quarter, from 4.4 percent a year ago.</p><p>\"Price investments in certain markets and the mix effects of our growing eCommerce business were the primary contributors to the decline, although the impact from hurricanes in the U.S. was a significant contributor as well,\" Biggs said.</p><p>Heading into the holidays, Wal-Mart plans to invest more in its stores — holding seasonal parties for customers — and offer more merchandise online. Just this week, <asset_inline nid=\"104839606\">the company announced</asset_inline> a partnership with Lord &amp; Taylor in which Walmart.com will begin selling the department store chain's high-end apparel next spring.</p><p>McMillon said Thursday the company is focused on attracting more \"premium brands,\" such as KitchenAid and Bose, to&#160;the company's&#160;website.</p><p>Including Thursday's gains, Wal-Mart&#160;shares have&#160;climbed&#160;more than&#160;40 percent in 2017.</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 10000116,
+          "tagName": "Retail",
+          "order": 1
+        },
+        {
+          "id": 10000826,
+          "tagName": "Consumer",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "Wal-Mart reports strong growth online, with e-commerce sales growing 50 percent in the fiscal third quarter.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "103647424",
+        "name": "Lauren Thomas",
+        "url": "http://qa-aws01web.cnbc.com/lauren-thomas/",
+        "position": "4999",
+        "sameAs": [
+          "https://www.twitter.com/laurenthomasx3"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/laurenthomasx3",
+          "cn:displayText": "laurenthomasx3",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104166951,
+        "author": "",
+        "datePublished": "2016-12-14T19:37:08+0000",
+        "caption": "A Walmart worker organizes products for Christmas season at a Walmart store in Teterboro, New Jersey.",
+        "description": "",
+        "copyrightHolder": "Eduardo Munoz | Reuters ",
+        "height": "1333",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104166951-RTX2QKP4.jpg?v=1484848115"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 256651
+      }]
+    },
+    {
+      "@id": "104846856",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Disney Fox logic Malone CHENG 171116 EC",
+      "cn:createdBy": "evelyn.cheng",
+      "cn:editedBy": "ritesh.shah",
+      "cn:title": "John Malone says Disney-Fox deal makes sense and benefits both sides",
+      "headline": "John Malone says Disney-Fox deal makes sense and benefits both sides",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "cn:subDomain": "https://qa-aws01make-it.cnbc.com",
+      "cn:branding": "makeit",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104846856",
+      "url": "https://qa-aws01make-it.cnbc.com/2017/11/16/john-malone-says-disney-fox-deal-makes-sense-and-benefits-both-sides.html",
+      "datePublished": "2017-11-16T16:46:18+0000",
+      "cn:liveURL": "/2017/11/16/john-malone-says-disney-fox-deal-makes-sense-and-benefits-both-sides.html",
+      "cn:seoTitle": "John Malone says Disney-Fox deal makes sense and benefits both sides",
+      "cn:summary": "Liberty Media Chairman John Malone thinks a Walt Disney purchase of 21st Century Fox makes sense and would benefit both sides. ",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104825376\"/></assets><div class=\"group\"><p><asset_inline nid=\"100381291\">Liberty Media</asset_inline> Chairman John Malone thinks a <asset_inline nid=\"1505684\">Walt Disney</asset_inline> purchase of some&#160;<asset_inline nid=\"1511388\">21st Century Fox</asset_inline>&#160;assets makes sense and would benefit both sides.&#160;</p><p>\"To me, it's a logical thing for them to be studying,\"&#160;Malone said in an exclusive interview with CNBC's <asset_inline nid=\"15838155\">David Faber</asset_inline> Thursday at the Liberty Media annual investor meeting.</p><p>\"Of all the guys in the studio business, Disney is the most unique in the sense that it owns its IP on its most important entertainment product,\" Malone said.&#160;\"So if you think that whole structure is going to be under stress, why wouldn't the <asset_inline nid=\"10000251\">Murdochs</asset_inline> want to put their stuff in and ride along in something&#160;that they'd help make bigger scale and that&#160;has this&#160;protective element of intellectual property ownership?\"</p><p>\"My guess is that Fox shareholders would end up being Disney shareholders in some tax efficient structure,\" Malone said.&#160;</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 102,
+          "tagName": "Markets",
+          "order": 1
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 2
+        }
+      ],
+      "description": "Liberty Media Chairman John Malone thinks a Walt Disney purchase of 21st Century Fox makes sense and would benefit both sides. ",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "101069441",
+        "name": "Evelyn Cheng",
+        "url": "http://qa-aws01web.cnbc.com/evelyn-cheng/",
+        "position": "4999",
+        "sameAs": [
+          "https://www.twitter.com/chengevelyn"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/chengevelyn",
+          "cn:displayText": "chengevelyn",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104825376,
+        "author": "",
+        "datePublished": "2017-11-07T12:03:19+0000",
+        "caption": "Bob Iger (R), CEO of Walt Disney Co. and Rupert Murdoch, Chairman and CEO of News Corp.",
+        "description": "",
+        "copyrightHolder": "Getty Images",
+        "height": "1200",
+        "width": "1800",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104825376-Untitled-1.jpg?v=1510056195"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 256650
+      }]
+    },
+    {
+      "@id": "104845029",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "TN Saut Pullback Prediction LANDSMAN 171115 EC",
+      "cn:createdBy": "stephanie.landsman",
+      "cn:editedBy": "stephanie.landsman",
+      "cn:title": "Wall Street bull warns a major pullback is near, and here’s what could spark it",
+      "headline": " Wall Street bull warns a major pullback is near, and here’s what could spark it",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104845029",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/16/jeffrey-saut-major-stock-market-pullback-is-near-this-could-spark-it.html",
+      "datePublished": "2017-11-16T12:30:00+0000",
+      "cn:liveURL": "/2017/11/16/jeffrey-saut-major-stock-market-pullback-is-near-this-could-spark-it.html",
+      "cn:seoTitle": "Jeffrey Saut: Major stock market pullback is near. This could spark it.",
+      "cn:summary": "Secular bull Jeffrey Saut of Raymond James sees trouble for the rally.",
+      "cn:shorterDescription": "Secular bull Jeffrey Saut of Raymond James sees trouble for the rally.",
+      "cn:shortestDescription": "Secular bull Jeffrey Saut of Raymond James sees trouble for the rally.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p></p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 102356916,
+          "tagName": "Trading Nation",
+          "order": 1
+        },
+        {
+          "id": 15839069,
+          "tagName": "Investing",
+          "order": 2
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "description": "Secular bull Jeffrey Saut of Raymond James sees trouble for the rally.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "No",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "40198614",
+        "name": "Stephanie Landsman",
+        "url": "http://qa-aws01web.cnbc.com/stephanie-landsman/",
+        "position": "4997",
+        "sameAs": [
+          "https://www.twitter.com/stephlandsman"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/stephlandsman",
+          "cn:displayText": "stephlandsman",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104183134,
+        "author": "",
+        "datePublished": "2016-12-22T17:14:09+0000",
+        "caption": "",
+        "description": "",
+        "copyrightHolder": "Getty Images",
+        "height": "1729",
+        "width": "2953",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104183134-GettyImages-1300928.jpg?v=1490298268"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 256649
+      }]
+    },
+    {
+      "@id": "104847131",
+      "cn:type": "partnerstory",
+      "cn:slug": "Immigrants resubmitting DACA VOX 171116 EC",
+      "cn:createdBy": "Beatriz.BajuelosCastillo@nbcuni.com",
+      "cn:editedBy": "Beatriz.BajuelosCastillo@nbcuni.com",
+      "cn:title": "Hundreds of immigrants will get to resubmit DACA renewals originally rejected as 'late'",
+      "headline": "Hundreds of immigrants will get to resubmit DACA renewals originally rejected as 'late'",
+      "cn:creatorOverwrite": "Dara Lind",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847131",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/16/hundreds-of-immigrants-will-get-to-resubmit-daca-renewals-originally-rejected-as-late.html",
+      "datePublished": "2017-11-16T15:52:35+0000",
+      "cn:liveURL": "/2017/11/16/hundreds-of-immigrants-will-get-to-resubmit-daca-renewals-originally-rejected-as-late.html",
+      "cn:seoTitle": "Hundreds of immigrants will get to resubmit DACA renewals originally rejected as 'late'",
+      "cn:summary": "Immigrants who applied for the last round of protection under the DACA program but missed the deadline are going to get another chance, Vox reports.",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104693025\"/></assets><div class=\"group\"><p>Many immigrants who did everything right to reapply for one last round of protection under the <asset_inline ext_link=\"https://www.vox.com/policy-and-politics/2017/8/31/16226934/daca-trump-dreamers-immigration\" ext_title=\"\"> Deferred Action for Childhood Arrivals program</asset_inline> — but missed the deadline due to circumstances beyond their control — are going to get another chance after reporting by Vox and others about how unfairly the administration enforced the deadline.</p><p>The Trump administration initially claimed that 4,000 immigrants missed the October 5 deadline to apply for one last two-year extension of protections under the DACA program, which the administration announced in September would be shut down over the next six months (with an official end date of March 5, 2018).</p><p>But reporting in recent days <asset_inline ext_link=\"https://www.vox.com/policy-and-politics/2017/11/15/16650400/daca-renewal-deadline-rejected-lockbox-uscis\" ext_title=\"\"> by Vox</asset_inline> and the <asset_inline ext_link=\"https://www.nytimes.com/2017/11/10/nyregion/post-office-mail-delays-daca-applications.html?_r=0\" ext_title=\"\"> New York Times</asset_inline> showed that an untold number of those applications had been mailed well in advance of the deadline — and had been delayed due to a mysterious weeks-long Postal Service slowdown, or had been dropped in a U.S. Citizenship and Immigration Services mailbox on Oct. 5 but not picked up by a courier service until the next day.</p><p><strong>More from Vox:<br /> </strong><asset_inline ext_link=\"https://www.vox.com/policy-and-politics/2017/11/15/16650400/daca-renewal-deadline-rejected-lockbox-uscis\" ext_title=\"https://www.vox.com/policy-and-politics/2017/11/15/16650400/daca-renewal-deadline-rejected-lockbox-uscis\">The Trump administration rejected 4,000 'late' DACA renewals. Some were sitting in its mailbox at the deadline.</asset_inline><strong> <br /> </strong><asset_inline ext_link=\"https://www.vox.com/policy-and-politics/2017/11/15/16658562/assault-allegations-roy-moore-tina-johnson\" ext_title=\"https://www.vox.com/policy-and-politics/2017/11/15/16658562/assault-allegations-roy-moore-tina-johnson\">More women come forward with allegations against Roy Moore</asset_inline><strong> <br /> </strong><asset_inline ext_link=\"https://www.vox.com/2017/11/2/16596896/house-republican-tax-reform-cuts-trump-ryan-explained\" ext_title=\"https://www.vox.com/2017/11/2/16596896/house-republican-tax-reform-cuts-trump-ryan-explained\">The House Republican tax bill, explained</asset_inline><strong> <br /></strong></p><p>On Wednesday night, <asset_inline ext_link=\"https://www.uscis.gov/news/alerts/uscis-guidance-daca-renewal-requests-affected-mail-service-issues\" ext_title=\"\"> the Department of Homeland Security announced</asset_inline> that those DACA recipients will be allowed to reapply for renewal.</p><p>The Trump administration isn't guaranteeing that these applications will be approved. But it's at least agreeing to consider applications it had previously rejected out of hand.</p><p>That could mean another two years of protection from deportation for hundreds, maybe even thousands, of immigrants. And it marks the first major reversal on immigration policy from an administration that has generally taken pride in its hardline stance.</p><p>The announcement, made <asset_inline ext_link=\"https://www.uscis.gov/news/alerts/uscis-guidance-daca-renewal-requests-affected-mail-service-issues\" ext_title=\"\"> late Wednesday night</asset_inline> by the Department of Homeland Security and <asset_inline ext_link=\"https://mobile.nytimes.com/2017/11/15/nyregion/uscis-immigration-daca-requests.html?smid=tw-share&amp;referer=https://t.co/JUXrE1CjPx?amp=1\" ext_title=\"\"> first reported by the New York Times</asset_inline>, affects two different groups of immigrants whose DACA renewal applications were originally rejected. And it gives each group a different path to resubmitting the application. The Trump administration is taking a more generous attitude toward immigrants whose DACA renewal applications were sitting in U.S. Citizenship and Immigration Services mailboxes as of Oct. 5, but were marked late because they weren't picked up by a courier service until Oct. 6.</p><p>As <asset_inline ext_link=\"https://www.vox.com/policy-and-politics/2017/11/15/16650400/daca-renewal-deadline-rejected-lockbox-uscis\" ext_title=\"\"> Vox first reported Wednesday morning</asset_inline>, this happened in at least two of the three USCIS mailboxes, and could have affected hundreds of applications. \"USCIS will proactively reach out to those DACA requestors,\" the administration's new guidance says, \"to inform them that they may resubmit their DACA request.\"</p><p>It's not clear exactly how that notification is going to happen, or how much time USCIS will give immigrants to resubmit their applications.</p><p>The second group of DACA recipients affected by the new announcement are immigrants whose applications arrived in USCIS mailboxes on Oct. 6 or later, but were sent well in advance of the deadline. As the <asset_inline ext_link=\"https://www.nytimes.com/2017/11/10/nyregion/post-office-mail-delays-daca-applications.html?_r=0\" ext_title=\"\"> New York Times first reported</asset_inline> last week, some applications were stuck in a weeks-long mysterious Postal Service slowdown.</p><p>The scope of the slowdown is still unknown, but <asset_inline ext_link=\"https://www.vox.com/policy-and-politics/2017/11/15/16650400/daca-renewal-deadline-rejected-lockbox-uscis\" ext_title=\"\"> Vox reported Wednesday</asset_inline> that it affected immigrants in more states than were originally reported — and that it affected applications sent as early as Sept. 11.</p><p>Immigrants whose applications arrived late due to the mail slowdown will <em>not</em> be contacted by the government to reapply. They'll have to show the government \"individualized proof that the request was originally mailed in a timely manner,\" and that the reason it arrived late was because of the Postal Service. (It's not yet clear exactly what proof the government will accept; immigrants who sent their applications by certified mail, and therefore were able to track their packages through the system, will have more evidence available than others.)</p><p>DHS's reversal probably doesn't cover all the applications that were received late. But it's probable that it covers a substantial portion of them.</p><p>And even if not all of the immigrants who are eligible end up reapplying, or if all resubmitted applications are ultimately approved, it's all but certain that the reversal will result in some immigrants getting two more years of protections instead of losing them imminently.</p><p>The Trump administration didn't have to do this.</p><p>When DHS was first told about the Postal Service slowdown, and when it was first told about the cases where applications in the mailbox on Oct. 5 had been rejected, it refused to reconsider the applications.</p><p>There isn't any law or policy that forces the government to reconsider applications that are rejected for reasons outside the applicant's control. USCIS has discretion in cases like this.</p><p>It's just that generally, the government <em>does</em> use that discretion to accept applications that arrive at the office a day late because they've been sitting in the mailbox overnight.</p><p>And from the perspective of immigration advocates, the Postal Service slowdown wasn't that different from Hurricane Maria — both caused applications to arrive late through no fault of the immigrants' own — but the government accepted late applications affected by Maria, and not those affected by the slowdown.</p><p>Except that now, it will.</p><p>This is extremely unusual. The government doesn't usually reject a bunch of applications and then change its mind and allow people to reapply. And the Trump administration, in particular, doesn't usually reverse its position in order to give unauthorized immigrants a pass.</p><p>In its first 10 months, the Trump administration's policy impact has been felt more on immigration than on any other issue. And in nearly every case, the administration has taken the most restrictive possible approach: granting relief to immigrants (legal and unauthorized) only where it has no choice but to do so.</p><p>Indeed, administration officials all but brag about the change in approach. They see it as a restoration of the \"rule of law.\" And they don't generally buckle in the face of public criticism.</p><p>But this time, something appears to have led them to change their minds, and give immigrants one more chance.</p><p>This reversal could affect the progressive effort to sue the administration into keeping the DACA program. Some of those lawsuits — such as the one filed in New York that first revealed the overnight mailbox problem — hinge on the idea that the administration is shutting down the program in a capricious manner. It's possible that this second-thought generosity will make it easier for the feds to argue they aren't being capricious; it's also possible, on the other hand, that they'll have more trouble claiming that DACA shutdown was a well-thought-through and deliberate process.</p><p>Legislatively, it's possible that some members of Congress will feel less urgency in passing a bill to address the status of DACA recipients as quickly as possible. But even though fewer people are likely to lose their protections in the coming weeks and months because of DHS's reversal, thousands still will.</p><p>At least 18,000 immigrants are going to lose their DACA protections because they didn't apply for renewal in time at all (possibly because they didn't know about the Oct. 5 deadline, which was announced only a month in advance, and which immigrants weren't informed by the government about). At least some of the 4,000 late applications probably aren't eligible to be reconsidered. And, of course, it's not at all clear how stingy USCIS will be in actually approving DACA renewal applications on the merits.</p><p><asset_inline nid=\"10000329\">President Donald Trump</asset_inline> has said nothing will happen to DACA recipients for six months, but his administration has guaranteed that thousands of them will lose protections before March 5. That's still true, even after the reversal on late applications. But now, the administration is taking a less aggressive stance toward stripping DACA recipients of the protections they currently have. And it's no longer using \"the rule of law\" to penalize immigrants who, when applying for one last DACA renewal, did all the right things.</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 10001067,
+          "tagName": "Immigration",
+          "order": 1
+        },
+        {
+          "id": 10000109,
+          "tagName": "Law",
+          "order": 2
+        },
+        {
+          "id": 10000113,
+          "tagName": "Politics",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "description": "Immigrants who applied for the last round of protection under the DACA program but missed the deadline are going to get another chance, Vox reports.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104693025,
+        "author": "",
+        "datePublished": "2017-09-06T14:22:50+0000",
+        "caption": "Demonstrators display American and Mexican flags while protesting the end of the Deferred Action for Childhood Arrivals (DACA) program in Chicago, Illinois, on Tuesday, Sept. 5, 2017.",
+        "description": "",
+        "copyrightHolder": "Christopher Dilts | Bloomberg | Getty Images",
+        "height": "1334",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104693025-GettyImages-843113446-daca.jpg?v=1504707790"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 256648
+      }]
+    },
+    {
+      "@id": "104847087",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Wall Street concerned NFL 171116 Franck EC",
+      "cn:createdBy": "Tom.Franck",
+      "cn:editedBy": "roshan.varghese",
+      "cn:title": "Wall Street's NFL worries mount as viewership slides with tough weeks ahead",
+      "headline": "Wall Street's NFL worries mount as viewership slides with tough weeks ahead",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "cn:subDomain": "https://qa-aws01web.cnbc.com",
+      "cn:branding": "cnbc",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847087",
+      "url": "https://qa-aws01web.cnbc.com/2017/11/16/nfl-worries-climb-with-tough-weeks-ahead.html",
+      "datePublished": "2017-11-16T16:08:11+0000",
+      "cn:liveURL": "/2017/11/16/nfl-worries-climb-with-tough-weeks-ahead.html",
+      "cn:seoTitle": "Wall Street's NFL worries climb with tough weeks ahead",
+      "cn:summary": "The National Football League's weak viewership has Wall Street on edge, and the numbers aren't looking any better for Week 10.",
+      "cn:shorterDescription": "The National Football League's weak viewership has Wall Street on edge, and the numbers aren't looking any better for Week 10.",
+      "cn:shortestDescription": "The National Football League's weak viewership has Wall Street on edge, and numbers aren't looking better for Week 10.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104065127\"/></assets><div class=\"group\"><p>The National Football League's weak viewership has Wall Street on edge, and the numbers don't look any better for Week 10.</p><p>Viewership fell 18 percent year over year in Week 10, which ended Monday, with lower ratings in all six game-time windows. JPMorgan analyst Alexia Quandrani noted that the slip in Week 10 puts the NFL's season-to-date audience decline at roughly 7 percent.</p><p><span>While that compares well with the NFL's 12 percent audience decline at this point in 2016, much of last year's showing was written off as a one-time effect from the presidential election. That</span>&#160;may translate into some tough year over year comparisons for the NFL in the weeks ahead.</p><p>\"Ratings are down in 8 of 10 weeks this season,\" wrote Quandrani. \"We note that ratings picked up in 2016 starting in Week 10, which was the first post-Election Day slate of games. Total audiences were down only 3 percent post-election versus -12 percent through Week 9.\"</p><p>ESPN's \"Monday Night Football\" viewership fell 18 percent year over year during Week 10 after a 20 percent slip last week, while viewership of the late-afternoon national game on FOX featuring the Cowboys and the Falcons fell 24 percent, according to JPMorgan.</p><p>The National Football League did not immediately respond to CNBC's request for comment.</p><p>President <asset_inline nid=\"10000329\">Donald Trump</asset_inline>&#160;contends that NFL television ratings have been down largely because of an ongoing controversy over players kneeling during the playing of the national anthem.</p><p><asset_inline ext_link=\"https://twitter.com/realDonaldTrump/status/911911385176723457\" ext_title=\"https://twitter.com/realDonaldTrump/status/911911385176723457\">Tweet Link</asset_inline></p><p>The weak viewership numbers are taking a toll on media companies, from Wall Street's perspective.</p><p>Just last month, Credit Suisse's Omar Sheikh cut earnings expectations at <asset_inline nid=\"1504253\">CBS</asset_inline>, explicitly citing soft Sunday NFL ratings. In CBS's third-quarter earnings report earlier this month, Chairman and CEO Leslie Moonves briefly addressed the concerns, but still called the NFL a \"great product.\"</p><p>\"Look, the NFL, obviously there's been a lot going on. The ratings are down a bit this year,\" he said. \"There's been a lot of talk on it. Obviously, there were political issues that came up about kneeling during the anthem, and it became very controversial.\"</p><p>\"But once again, we're still happy we have the NFL.\"</p><p>Credit Suisse's Sheikh also&#160;<asset_inline nid=\"104768938\">lowered</asset_inline> his price target and earnings per share forecasts for <asset_inline nid=\"1511388\">Twenty-first Century Fox</asset_inline>, citing Fox's poor Sunday NFL ratings on Oct. 12.</p><p>\"NFL ratings [are] weak so far,\" he wrote. \"This was negatively impacted during the first 2 weeks by hurricane disruption, but is disappointing given the soft comps – if ratings do not improve materially, we see a potential headwind to domestic advertising revenues in Q2/Q3 '18.\"</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 15839069,
+          "tagName": "Investing",
+          "order": 1
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "cn:featuredMedia": {
+        "cn:isPromoted": "true"
+      },
+      "description": "The National Football League's weak viewership has Wall Street on edge, and the numbers aren't looking any better for Week 10.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "104540348",
+        "name": "Thomas Franck",
+        "url": "http://qa-aws01web.cnbc.com/tom-franck/",
+        "position": "4999",
+        "sameAs": [
+          "https://www.twitter.com/tomwfranck"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/tomwfranck",
+          "cn:displayText": "tomwfranck",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104847468,
+        "author": "",
+        "datePublished": "2018-01-22T18:01:28+0000",
+        "caption": "",
+        "description": "",
+        "copyrightHolder": "",
+        "height": "368",
+        "width": "552",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104847468-tropical_beach_204377.jpg?v=1516644087"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 256647
+      }]
+    },
+    {
+      "@id": "104819615",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": " top underwater hotels MONTAG 171103 nyc",
+      "cn:createdBy": "Ali.Montag",
+      "cn:editedBy": "Brandon.Ancil",
+      "cn:title": "See inside 5 of the world's most amazing underwater hotels and restaurants",
+      "headline": "See inside 5 of the world's most amazing underwater hotels and restaurants",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104819615",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/07/underwater-hotels-and-restaurants-in-the-maldives-and-beyond.html",
+      "datePublished": "2017-11-08T14:45:00+0000",
+      "cn:liveURL": "/2017/11/07/underwater-hotels-and-restaurants-in-the-maldives-and-beyond.html",
+      "cn:seoTitle": "Underwater hotels and restaurants in the Maldives and beyond",
+      "cn:summary": "These underwater bars, hotels and restaurants are sure to impress luxury travelers.",
+      "cn:shorterDescription": "Instead of a cocktail on the beach, try under it!",
+      "cn:shortestDescription": "Instead of a cocktail on the beach, try under it!",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p>Why scuba dive when you can eat, drink and sleep amid the crystal blue waters of the some of the most beautiful oceans around the world? Here&#160;are five swanky below-sea-level hot spots where the <asset_inline nid=\"104817092\">ultra-wealthy</asset_inline>&#160;can have a truly immersive experience.&#160;</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 104732712,
+          "tagName": "CNBC First Class",
+          "order": 1
+        },
+        {
+          "id": 103402510,
+          "tagName": "Make It In Depth",
+          "order": 2
+        },
+        {
+          "id": 103395579,
+          "tagName": "Make It",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "description": "These underwater bars, hotels and restaurants are sure to impress luxury travelers.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "No",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "102745262",
+        "name": "Ali Montag",
+        "url": "http://qa-aws01web.cnbc.com/ali-montag/",
+        "position": "5000",
+        "sameAs": [
+          "https://www.twitter.com/Ali_Montag"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/Ali_Montag",
+          "cn:displayText": "Ali_Montag",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104827242,
+        "author": "Jesper Anhede",
+        "datePublished": "2017-11-07T23:23:55+0000",
+        "caption": "",
+        "description": "",
+        "copyrightHolder": "Source: The Manta Resort",
+        "height": "1333",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104827242-Above-and-under-water.jpg?v=1510097004"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 256646
+      }]
+    },
+    {
+      "@id": "104846992",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Cisco stox BALAKRISHNAN 171116 EC",
+      "cn:title": "Cisco stock pops 6% as earnings beat, solidifying a transformation toward the cloud",
+      "headline": "Cisco stock pops 6% after earnings beat improves turnaround outlook",
+      "cn:creatorOverwrite": "",
+      "cn:editedBy": "rekha.ponnur",
+      "cn:historicalURL": [],
+      "cn:createdBy": "Anita.Balakrishnan",
+      "cn:subDomain": "CNBC.com",
+      "cn:branding": "CNBC",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104846992",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/16/cisco-csco-stock-up-after-earnings-for-q1-2018.html",
+      "datePublished": "2017-11-16T15:32:37+0000",
+      "cn:liveURL": "/2017/11/16/cisco-csco-stock-up-after-earnings-for-q1-2018.html",
+      "cn:seoTitle": "Cisco (CSCO) stock up after earnings for Q1 2018",
+      "cn:summary": "Sales were boosted by the company's growing security business and subscription software. ",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104845042\" autoplay_flag=\"true\"/></assets><div class=\"group\"><p><strong><em class=\"\"></em></strong>Shares of <asset_inline nid=\"1505169\">Cisco</asset_inline> rallied on Thursday after the enterprise technology giant wowed Wall Street with better-than-expected earnings.</p><p>Cisco also said it expects 1 percent to 3 percent year-over-year revenue growth next quarter, the first inkling of an increase after 8 quarters of declines.</p><p>The stock rose about 6 percent Thursday morning after about a dozen Wall Street analysts listed in FactSet raised their earnings expectations for Cisco going forward.</p><p><img class=\"inlineChart\" src=\"https://fm.cnbc.com/applications/cnbc.com/resources/editorialfiles/charts/2017/11/1510845785_CSCO_chart.jpeg\"></p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 10000066,
+          "tagName": "Mobile from tag name",
+          "order": 1
+        },
+        {
+          "id": 19854910,
+          "tagName": "Technology",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "Sales were boosted by the company's growing security business and subscription software. ",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+          "@type": "Creator",
+          "@id": "102394084",
+          "name": "Anita Balakrishnan",
+          "url": "http://qa-aws01web.cnbc.com/anita-balakrishnan/",
+          "position": "5000",
+          "sameAs": [
+            "https://www.twitter.com/@MsABalakrishnan"
+          ],
+          "cn:socialMediaInfo": [{
+            "cn:url": "https://twitter.com/@MsABalakrishnan",
+            "cn:displayText": "@MsABalakrishnan",
+            "cn:type": "twitter"
+          }]
+        },
+        {
+          "@type": "Creator",
+          "@id": "104806090",
+          "name": "Jake Callahan",
+          "url": "http://qa-aws01pub.cnbc.com/jake-callahan/",
+          "position": "4999"
+        }
+      ],
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 256645
+      }]
+    },
+    {
+      "@id": "104846991",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Coca-Cola investor day LAVITO 171116 EC",
+      "cn:createdBy": "Angelica.Lavito@nbcuni.com",
+      "cn:editedBy": "christina.cheddar-berk",
+      "cn:title": "Coca-Cola CEO: 'Never say never' on getting into booze, but it 'doesn't make sense' right now",
+      "headline": "Coca-Cola CEO: 'Never say never' on getting into booze, but it 'doesn't make sense' ",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104846991",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/16/coca-cola-ceo-james-quincey.html",
+      "datePublished": "2017-11-16T15:18:40+0000",
+      "cn:liveURL": "/2017/11/16/coca-cola-ceo-james-quincey.html",
+      "cn:seoTitle": "Coca-Cola CEO James Quincey says booze doesn't make sense right now",
+      "cn:summary": "Coca-Cola CEO James Quincey, who took over in May after serving as chief operating officer, reaffirmed guidance ahead of investor day.",
+      "cn:shorterDescription": "Coca-Cola CEO James Quincey, who took over in May after serving as chief operating officer, reaffirmed guidance ahead of investor day.",
+      "cn:shortestDescription": "Coca-Cola CEO James Quincey reaffirmed guidance ahead of investor day.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104847003\" autoplay_flag=\"true\"/></assets><div class=\"group\"><p><asset_inline nid=\"1509490\">Coca-Cola</asset_inline> will never say never on getting into alcoholic beverages, but it doesn't make sense right now, CEO <asset_inline nid=\"104623588\">James Quincey</asset_inline>&#160;told CNBC on Thursday.&#160;</p><p>Analysts recently speculated that Coke would expand its portfolio to include cocktail mixers or actual alcoholic drinks, in an effort to drive growth.</p><p>\"Philosophically, I never say never about most things, but the way I look at it, there's just so much more we already have strength and capability in, it just doesn't make sense to do that next. It makes more sense to do things that are more synergistic with your consumers and your capabilities as a company and a system,\" Quincey told CNBC's&#160;<asset_inline nid=\"15838381\">\"Squawk on the Street.\"</asset_inline></p><p>Innovation will continue to be part of Coke's strategy, Quincey said. Some consumer goods companies have bought innovation by acquiring small, on-trend brands.</p><p>When asked specifically about whether Coke would buy energy drink company <asset_inline nid=\"1520691\">Monster</asset_inline>, which it already has a 16.7 percent stake in, Quincey declined to comment on speculation. However, he said the beverage company will continue to make bolt-on acquisitions.</p><p>\"Whether it's a bolt-on or it's anything transformational, it's always got to obey three criteria: there's a strategic fit, there's a logic strategically, and the numbers financially add up, and there's opportunity,\" he said. \"It takes two to tango.\"</p><p>Another issue confronting Coke is soda taxes, which have been popping up in more jurisdictions to raise revenue and push consumers to healthier drinks.&#160;</p><p>Soda taxes aren't an \"existential\" crisis to Coke, Quincey said, though he shared his doubt on their effect on solving the obesity crisis. As to what Coke can do, he said that includes its formulations, packages and information it shares on products.</p><p>\"When we can take action, we absolutely have the responsibility to do so, but we believe that solving the obesity crisis, which does need to be solved, will require a much broader response from private companies and the government rather than thinking a narrow tax is going to solve it,\" he said.&#160;</p><p>Coke's new Zero Sugar offering is growing, Quincey said. The drink was introduced in the U.S. in August to replace Coke Zero after proving successful overseas. The introduction helped boost the <asset_inline nid=\"104793850\">company's performance last quarter</asset_inline>.&#160;</p><p>Coke&#160;reaffirmed its full-year guidance ahead of Thursday's&#160;investor day, the company's first in eight years. Quincey took over in May after serving as Coke's chief operating officer.&#160;</p><p>Shares of Coke have gained 13 percent this year, a rare story in the consumer goods industry that has been hammered amid changing shopping and eating habits. They were up 0.3 percent on Thursday.&#160;</p><p><em>—CNBC's Sara Eisen contributed to this reporting.&#160;</em></p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 10000740,
+          "tagName": "Food and Beverage",
+          "order": 1
+        },
+        {
+          "id": 10000826,
+          "tagName": "Consumer",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "Coca-Cola CEO James Quincey, who took over in May after serving as chief operating officer, reaffirmed guidance ahead of investor day.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "104511208",
+        "name": "Angelica LaVito",
+        "url": "http://qa-aws01web.cnbc.com/angelica-lavito/",
+        "position": "4999"
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104846984,
+        "author": "",
+        "datePublished": "2017-11-16T14:50:54+0000",
+        "caption": "James Quincey, CEO of Coca-Cola.",
+        "description": "",
+        "copyrightHolder": "Sipa | AP Images",
+        "height": "782",
+        "width": "1318",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104846984-AP_623426446392.jpg?v=1515094220"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 256644
+      }]
+    },
+    {
+      "@id": "104842398",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Anti-Silicon Valley fund IOANNOU Disruptor 50 171114 EC",
+      "cn:createdBy": "Lori.Ioannou",
+      "cn:editedBy": "Lori.Ioannou",
+      "cn:title": "A fund launches to disrupt Silicon Valley and back moonshots for social good",
+      "headline": "A fund launches to disrupt Silicon Valley ",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104842398",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/16/fund-to-disrupt-silicon-valley-and-back-moonshots-for-social-good.html",
+      "datePublished": "2017-11-16T11:55:47+0000",
+      "cn:liveURL": "/2017/11/16/fund-to-disrupt-silicon-valley-and-back-moonshots-for-social-good.html",
+      "cn:seoTitle": "Fund to disrupt Silicon Valley and back moonshots for social good",
+      "cn:summary": "Kairos Society launched a $25 million fund Thursday to back young entrepreneurs with big ideas to change the world and help society.",
+      "cn:shorterDescription": "Kairos Society launched a $25 million fund Thursday to back young entrepreneurs with big ideas to change the world and help society.",
+      "cn:shortestDescription": "Kairos Society launched a $25 million fund Thursday to back young entrepreneurs with big ideas to change the world.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104841606\" autoplay_flag=\"true\"/></assets><div class=\"group\"><p>While many in Silicon Valley focus on futuristic technology&#160;— ranging from cryptocurrency to drone delivery&#160;— a quiet movement is afoot among young entrepreneurs that have audacious ideas to change the world and help society.</p><p>To help these start-ups take flight, the $25 million Kairos Fund was launched Thursday. It&#160;will provide $250,000 to $1 million in seed financing to fledglings, as well as management guidance to&#160;help scale up their business.</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 102602634,
+          "tagName": "CNBC Disruptor 50",
+          "order": 1
+        },
+        {
+          "id": 19854910,
+          "tagName": "Technology",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "Kairos Society launched a $25 million fund Thursday to back young entrepreneurs with big ideas to change the world and help society.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "100975243",
+        "name": "Lori Ioannou",
+        "url": "http://qa-aws01web.cnbc.com/lori-ioannou/",
+        "position": "5000",
+        "sameAs": [
+          "https://www.twitter.com/LoriIoannou1"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/LoriIoannou1",
+          "cn:displayText": "LoriIoannou1",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 102183688,
+        "author": "",
+        "datePublished": "2014-11-13T20:27:45+0000",
+        "caption": "Ankur Jain of the Kairos Society at the New York Stock Exchange",
+        "description": "",
+        "copyrightHolder": "Getty Images",
+        "height": "1333",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/102183688-162492024.jpg?v=1492710500"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 256643
+      }]
+    },
+    {
+      "@id": "104846923",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Cramer Ge LOVELACE 171116 ec",
+      "cn:createdBy": "Berkeley.LovelaceJr",
+      "cn:editedBy": "Berkeley.LovelaceJr",
+      "cn:title": "Should GE put ex-CEO Jack Welch on the board to help fix things? Cramer says it's not a bad idea",
+      "headline": "Cramer: Ex-CEO Jack Welch back on GE's board isn't a bad idea",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104846923",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/16/cramer-ex-ceo-jack-welch-back-on-ges-board-isnt-a-bad-idea.html",
+      "datePublished": "2017-11-16T15:26:24+0000",
+      "cn:liveURL": "/2017/11/16/cramer-ex-ceo-jack-welch-back-on-ges-board-isnt-a-bad-idea.html",
+      "cn:seoTitle": "Cramer: Ex-CEO Jack Welch back on GE's board isn't a bad idea",
+      "cn:summary": "\"Jack's got more business sense than ever,\" Jim Cramer says.",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104847001\" autoplay_flag=\"true\"/></assets><div class=\"group\"><p>As <asset_inline nid=\"1507447\">General Electric</asset_inline> attempts to implement sweeping changes, putting former Chairman and CEO <asset_inline nid=\"10001249\">Jack Welch</asset_inline> on the board wouldn't be a bad idea, CNBC's <asset_inline nid=\"15838187\">Jim Cramer</asset_inline> said Thursday.</p><p>GE stock was slightly lower on Thursday, after falling more than 12 percent drop earlier this week. The 125-year-old industrial conglomerate began the week by announcing restructuring plans and a 50 percent dividend cut.</p><p>When asked whether the 81-year-old Welch, who served as chairman and CEO from 1981 to 2001, should return to help the company, Cramer said, \"Who wouldn't want Jack Welch on the board? Because Jack's got more business sense than ever.\"</p><p>Welch increased the value of GE from $13 billion to \"several hundred billion,\"&#160;<asset_inline ext_link=\"https://www.ge.com/about-us/leadership/profiles/john-f-welch-jr\" ext_title=\"https://www.ge.com/about-us/leadership/profiles/john-f-welch-jr\">according to company's website.</asset_inline> GE's stock is down more than 50 percent over the last 10 years.</p><p>\"I know that [Chairman and CEO John] Flannery and Jack talk, which is good,\" Cramer said on \"<asset_inline nid=\"15838368\">Squawk Box</asset_inline>.\"</p><p>\"If you put him on, maybe he can find out what went wrong, fix a lot of the stuff that went wrong, so it can inform Flannery's decisions,\" Cramer said. \"And he wouldn't be afraid — he's a tough guy, but he's a fair guy.\"</p><p>Cramer also said Flannery wouldn't be bothered by Welch coming in. He's \"very comfortable in his own skin,\" Cramer said. Cramer also suggested that Flannery could make Welch a \"special advisor.\"</p><p>Flannery told CNBC earlier this week that&#160;<asset_inline nid=\"104840912\">he was not surprised</asset_inline> by the stock's recent downturn, but said he has a \"strong command\" of the company.</p><p>\"I'm not trying to run the company for the reaction on Monday and Tuesday or Wednesday of this week,\" Flannery told CNBC on Tuesday.&#160; \"We have a long-term plan. We have a lot of work to do.\"</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 10000697,
+          "tagName": "Industrial Conglomerates",
+          "order": 1
+        },
+        {
+          "id": 10000928,
+          "tagName": "Capital Goods",
+          "order": 2
+        },
+        {
+          "id": 10000098,
+          "tagName": "Industrials",
+          "order": 3
+        },
+        {
+          "id": 10001147,
+          "tagName": "Business",
+          "order": 4
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 5
+        }
+      ],
+      "description": "\"Jack's got more business sense than ever,\" Jim Cramer says.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 1
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "103703155",
+        "name": "Berkeley Lovelace Jr.",
+        "url": "http://qa-aws01web.cnbc.com/berkeley-lovelace-jr/",
+        "position": "5000",
+        "sameAs": [
+          "https://www.linkedin.com//in/berkeleylovelace",
+          "https://www.twitter.com/BerkeleyJr"
+        ],
+        "cn:socialMediaInfo": [{
+            "cn:url": "https://linkedin.com//in/berkeleylovelace",
+            "cn:displayText": "/in/berkeleylovelace",
+            "cn:type": "linkedin"
+          },
+          {
+            "cn:url": "https://twitter.com/BerkeleyJr",
+            "cn:displayText": "BerkeleyJr",
+            "cn:type": "twitter"
+          }
+        ]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104098135,
+        "author": "",
+        "datePublished": "2016-11-10T19:20:35+0000",
+        "caption": "Jack Welch",
+        "description": "",
+        "copyrightHolder": "Scott Mlyn | CNBC ",
+        "height": "1333",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104098135-IMG_3527.jpg?v=1478805921"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 256642
+      }]
+    },
+    {
+      "@id": "104847005",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Stadium college basketball Facebook CASTILLO 171116 EC",
+      "cn:title": "Facebook will stream exclusively 47 college basketball games this season",
+      "headline": "Facebook will stream exclusively 47 college basketball games this season",
+      "cn:creatorOverwrite": "",
+      "cn:editedBy": "qauser",
+      "cn:historicalURL": [],
+      "cn:createdBy": "michelle.castillo",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847005",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/16/stadium-bring-47-college-basketball-games-exclusively-to-facebook.html",
+      "datePublished": "2017-11-16T15:37:12+0000",
+      "cn:liveURL": "/2017/11/16/stadium-bring-47-college-basketball-games-exclusively-to-facebook.html",
+      "cn:seoTitle": "Stadium bring 47 college basketball games exclusively to Facebook",
+      "cn:summary": "Games from the Mountain West, West Coast Conference, Conference USA, and the Atlantic 10 divisions will be streamed live from the platform. ",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104847068\"/></assets><div class=\"group\"><p><asset_inline nid=\"100005111\">Facebook</asset_inline>&#160;will be the only place to watch 47 college basketball games this season.&#160;</p><p>Multi-platform sports network <asset_inline ext_link=\"https://watchstadium.com/\" ext_title=\"https://watchstadium.com/\">Stadium</asset_inline> announced on Thursday it was streaming 47 college basketball games exclusively through Facebook this season. The games feature teams from the&#160;Mountain West, West Coast Conference, Conference USA, and the Atlantic 10 divisions, including&#160;Dayton, Saint Mary's, Wake Forest, VCU,&#160; Pittsburgh, UNLV, Utah, Washington State, Ole Miss, George Washington, and UMass, among others.&#160;</p><p>Stadium's on-air talent will interact with comments posted on Facebook in real-time, and the company&#160;will also post a Facebook-only 30-minute commentary show on every Wednesday evening. Stadium will also make other college games it owns the streaming rights to available on other digital platforms, including its own app and Pluto TV .</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 19854910,
+          "tagName": "Technology",
+          "order": 1
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 2
+        }
+      ],
+      "description": "Games from the Mountain West, West Coast Conference, Conference USA, and the Atlantic 10 divisions will be streamed live from the platform. ",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "102676333",
+        "name": "Michelle Castillo",
+        "url": "http://qa-aws01web.cnbc.com/michelle-castillo/",
+        "position": "4998",
+        "sameAs": [
+          "https://www.twitter.com/mishcastillo"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/mishcastillo",
+          "cn:displayText": "mishcastillo",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104847068,
+        "author": "",
+        "datePublished": "2017-11-16T15:19:26+0000",
+        "caption": "UC Davis Aggies Guard Siler Schneider (5) changes direction with his dribble upon seeing the double team defense of Kansas Jayhawks Guard Josh Jackson (11) and Kansas Jayhawks Guard Devonte' Graham (4) during the Kansas Jayhawks game versus the UC Davis Aggies in the first round of the NCAA Division I Men's Basketball Championship on March 17, 2017, at the Bank of Oklahoma Center in Tulsa, Oklahoma.",
+        "description": "",
+        "copyrightHolder": "Getty Images",
+        "height": "1477",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104847068-GettyImages-656637866.jpg?v=1510845510"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 256641
+      }]
+    },
+    {
+      "@id": "104846687",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Apple trillion KHARPAL 171116 EU",
+      "cn:createdBy": "Arjun.Kharpal",
+      "cn:editedBy": "maurice.avalishvili@nbcuni.com",
+      "cn:title": "Apple could be a $1 trillion company within the next year, top analyst says",
+      "headline": "Apple could be a $1 trillion company within the next year, top analyst says ",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104846687",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/16/apple-1-trillion-company-within-the-next-year-analyst.html",
+      "datePublished": "2017-11-16T12:46:07+0000",
+      "cn:liveURL": "/2017/11/16/apple-1-trillion-company-within-the-next-year-analyst.html",
+      "cn:seoTitle": "Apple could be a $1 trillion company within the next year: Analyst",
+      "cn:summary": "Apple shares could trade between $210 and $230 over the next year, GBH Insights analyst Daniel Ives said in a note.\r\n",
+      "cn:shorterDescription": "Apple shares could trade between $210 and $230 over the next year, GBH Insights analyst Daniel Ives said in a note.\r\n",
+      "cn:shortestDescription": "Apple shares could trade between $210 and $230 over the next year, GBH Insights analyst Daniel Ives said in a note.\r\n",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104818498\"/></assets><div class=\"group\"><p><asset_inline nid=\"1500014\">Apple</asset_inline> will be the first $1 trillion company within the next year thanks to the iPhone X, a \"major upgrade cycle\" and a \"renaissance\" in China,&#160;GBH Insights said in a note Thursday.</p><p>The tech giant's market capitalization — which refers to the total value of all of a company's stock in circulation — currently sits at $868.1 billion.</p><p>Analyst Daniel Ives of GBH Insights said that over the next 12 months, Apple's shares could trade between $210 and $230. At the higher end of this range, it would represent nearly 35 percent upside from Wednesday's closing price.</p><p>Ives explained the factors he expects to drive the share price higher.</p><p>Firstly, he said the iPhone 8, 8 Plus and <asset_inline nid=\"104805782\">X launches</asset_inline> will&#160;sell more than the peak iPhone 6 upgrade cycle. This would mean 258 million iPhone units for Apple's fiscal year to the end of September 2018, exceeding the record 231 million shipped in the fiscal year ending September 2015.</p><p>GBH Insights forecasts that there are over 350 million users with iPhone models that are at least two years old. A \"sizeable portion\" of these users could upgrade.</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 19854910,
+          "tagName": "Technology",
+          "order": 1
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 2
+        }
+      ],
+      "description": "Apple shares could trade between $210 and $230 over the next year, GBH Insights analyst Daniel Ives said in a note.\r\n",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "101091325",
+        "name": "Arjun Kharpal",
+        "url": "http://qa-aws01web.cnbc.com/arjun-kharpal/",
+        "position": "4998",
+        "sameAs": [
+          "https://www.linkedin.com/profile/view?id=142872004",
+          "https://www.twitter.com/ArjunKharpal",
+          "https://www.plus.google.com/+ArjunKharpal"
+        ],
+        "cn:socialMediaInfo": [{
+            "cn:url": "https://linkedin.com/profile/view?id=142872004",
+            "cn:displayText": "profile/view?id=142872004",
+            "cn:type": "linkedin"
+          },
+          {
+            "cn:url": "https://twitter.com/ArjunKharpal",
+            "cn:displayText": "ArjunKharpal",
+            "cn:type": "twitter"
+          },
+          {
+            "cn:url": "https://plus.google.com/+ArjunKharpal",
+            "cn:displayText": "+ArjunKharpal",
+            "cn:type": "googlePlus"
+          }
+        ]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104818498,
+        "author": "",
+        "datePublished": "2017-11-03T11:40:00+0000",
+        "caption": "Tim Cook",
+        "description": "",
+        "copyrightHolder": "Getty Images",
+        "height": "1333",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104818498-GettyImages-864097706-tim-cook.jpg?v=1509709181"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 256640
+      }]
+    },
+    {
+      "@id": "104844963",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Vail ski pass Cox 171115 EC",
+      "cn:createdBy": "jeff.cox",
+      "cn:editedBy": "Elisabeth.Cordova",
+      "cn:title": "How a resort CEO transformed his business with one simple idea",
+      "headline": "How a resort CEO transformed his business with one simple idea",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104844963",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/16/how-vail-resorts-ceo-robert-katz-transformed-his-business.html",
+      "datePublished": "2017-11-16T14:26:00+0000",
+      "cn:liveURL": "/2017/11/16/how-vail-resorts-ceo-robert-katz-transformed-his-business.html",
+      "cn:seoTitle": "How Vail Resorts CEO Robert Katz transformed his business",
+      "cn:summary": "Vail Resorts CEO Robert Katz was looking for ways to energize a boring business when he put a new twist on an old concept: the season pass.\r\n\r\n",
+      "cn:shorterDescription": "\"Everyone thought we were nuts,\" said Vail Resorts CEO Robert Katz.\r\n\r\n",
+      "cn:shortestDescription": "\"Everyone thought we were nuts,\" said Vail Resorts CEO Robert Katz.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p>Vail Resorts CEO Robert Katz was looking for ways to energize a boring business in the&#160;stale skiing industry when he had a simple idea: to reinvent the season pass.</p><p>Some seven or eight years ago, <asset_inline nid=\"1510677\">Vail Resorts</asset_inline>&#160;slashed the price of its season pass from $1,500 to $600. Then Katz started finding new ways to tailor the pass to customers' wants and needs, using the information gleaned in the process to mine their profiles and deliver&#160;better products.</p><p>The results have been stellar — a company considered a leading innovator in the vacation and leisure industries and a stock that has outperformed the market. Vail shares have risen more than 40 percent in 2017 and more than 300 percent over the past five years.</p><p>\"Everyone thought we were nuts, (that) there was some mistake,\" Katz said during a speech Friday at the Baron Investment Conference in New York.</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 103775541,
+          "tagName": "Make It - Leadership",
+          "order": 1
+        },
+        {
+          "id": 103395579,
+          "tagName": "Make It",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "Vail Resorts CEO Robert Katz was looking for ways to energize a boring business when he put a new twist on an old concept: the season pass.\r\n\r\n",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "36003787",
+        "name": "Jeff Cox",
+        "url": "http://qa-aws01pub.cnbc.com/id/36003787",
+        "position": "5000",
+        "sameAs": [
+          "https://www.facebook.com/jeff.cox.7528",
+          "https://www.twitter.com/JeffCoxCNBCcom",
+          "https://www.plus.google.com/108326509113152516426"
+        ],
+        "cn:socialMediaInfo": [{
+            "cn:url": "https://facebook.com/jeff.cox.7528",
+            "cn:displayText": "jeff.cox.7528",
+            "cn:type": "facebook"
+          },
+          {
+            "cn:url": "https://twitter.com/JeffCoxCNBCcom",
+            "cn:displayText": "JeffCoxCNBCcom",
+            "cn:type": "twitter"
+          },
+          {
+            "cn:url": "https://plus.google.com/108326509113152516426",
+            "cn:displayText": "108326509113152516426",
+            "cn:type": "googlePlus"
+          }
+        ]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 103703377,
+        "author": "EyesWideOpen",
+        "datePublished": "2016-06-09T16:24:27+0000",
+        "caption": "Views of Vail Ski Resort.",
+        "description": "",
+        "copyrightHolder": "EyesWideOpen | Getty Images",
+        "height": "3536",
+        "width": "5196",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/103703377-GettyImages-109820993.jpg?v=1510779089"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 256639
+      }]
+    },
+    {
+      "@id": "104835774",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Lady Gaga Airbnb MARTIN 111017 nyc",
+      "cn:createdBy": "Emmie.Martin@nbcuni.com",
+      "cn:editedBy": "Jenna.Goudreau",
+      "cn:title": "Look inside the $10,000-a-night Airbnb mansion where Lady Gaga stayed",
+      "headline": "Look inside the $10,000-a-night Airbnb mansion where Lady Gaga stayed ",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104835774",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/13/10000-a-night-airbnb-mansion-where-lady-gaga-stayed-during-coachella.html",
+      "datePublished": "2017-11-13T14:45:55+0000",
+      "cn:liveURL": "/2017/11/13/10000-a-night-airbnb-mansion-where-lady-gaga-stayed-during-coachella.html",
+      "cn:seoTitle": "$10,000-a-night Airbnb mansion where Lady Gaga stayed during Coachella",
+      "cn:summary": "It feels like a private resort. ",
+      "cn:shorterDescription": "It feels like a private resort. ",
+      "cn:shortestDescription": "It feels like a private resort. ",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p>Whatever Lady Gaga does, she does it <asset_inline nid=\"104780815\">with style</asset_inline>&#160;— and that includes shacking up at luxurious Airbnb rentals when traveling.</p><p>For $10,000 a night, anyone can book a stay at this gorgeous <asset_inline ext_link=\"https://www.airbnb.com/rooms/3218927\" ext_title=\"https://www.airbnb.com/rooms/3218927\">Mediterranean desert estate </asset_inline>where Gaga stayed, right in the heart of Rancho Mirage, Calif., just south of Palm Springs. The lavish mansion, which played host to pop music icon Lady Gaga during 2017's Coachella music festival, is only available a few months per year.</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 104732712,
+          "tagName": "CNBC First Class",
+          "order": 1
+        },
+        {
+          "id": 103402510,
+          "tagName": "Make It In Depth",
+          "order": 2
+        },
+        {
+          "id": 103395579,
+          "tagName": "Make It",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "description": "It feels like a private resort. ",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "104374937",
+        "name": "Emmie Martin",
+        "url": "http://qa-aws01web.cnbc.com/emmie-martin/",
+        "position": "4999",
+        "sameAs": [
+          "https://www.twitter.com/emmiemartin"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/emmiemartin",
+          "cn:displayText": "emmiemartin",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104835824,
+        "author": "Anthony Ghiglia",
+        "datePublished": "2017-11-10T20:42:33+0000",
+        "caption": "",
+        "description": "",
+        "copyrightHolder": "Airbnb",
+        "height": "999",
+        "width": "1500",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104835824-Gaga_Estate_POOL.jpg?v=1510346513"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 256638
+      }]
+    }
+  ]
+}

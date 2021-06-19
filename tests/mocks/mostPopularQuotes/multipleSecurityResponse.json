@@ -1,0 +1,24 @@
+{
+  "data": {
+    "mostPopularQuotes": {
+      "assets": [
+        {
+          "issueId": 136780,
+          "issuerId": 18425,
+          "exchangeName": "NYSE",
+          "symbol": "GE",
+          "name": "General Electric Co",
+          "url": "https://www.cnbc.com/quotes/?symbol=GE"
+        },
+        {
+          "issueId": 36276,
+          "issuerId": 8016,
+          "exchangeName": "NASDAQ",
+          "symbol": "AAPL",
+          "name": "Apple Inc",
+          "url": "https://www.cnbc.com/quotes/?symbol=aapl"
+        }
+      ]
+    }
+  }
+}

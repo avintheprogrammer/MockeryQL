@@ -1,0 +1,152 @@
+{
+  "@type": "Corporation",
+  "cn:settings": {
+    "cn:socialtoolsEnabled": "Yes",
+    "cn:commentsEnabled": "Yes",
+    "cn:tweetOnPublish": 0
+  },
+  "@id": "104835413",
+  "cn:type": "company",
+  "cn:slug": "Prospect Co Ltd T:3528.T-JP",
+  "cn:createdBy": "ingest",
+  "cn:editedBy": "nathaniel.quashie",
+  "cn:title": "Prospect Co Ltd",
+  "cn:historicalURL": [],
+  "cn:subDomain": "",
+  "headline": "Prospect Co Ltd",
+  "cn:creatorOverwrite": "",
+  "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104835413",
+  "url": "/quotes/?symbol=3528.T-JP",
+  "datePublished": "2017-11-10T17:16:06+0000",
+  "cn:liveURL": "",
+  "cn:bodyTeaser": "null",
+  "cn:sectionHierarchy": [],
+  "cn:shortestDescription": "company this",
+  "cn:summary": "this is a company",
+  "cn:shorterDescription": "this is company",
+  "cn:symbol": "3528.T-JP",
+  "cn:exchangeName": "Tokyo Stock Exchange",
+  "cn:issuerId": 3928,
+  "tickerSymbol": "Tokyo Stock Exchange 3528.T-JP",
+  "publisher": {
+    "@type": "Organization",
+    "name": "CNBC",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "@context": {
+    "@vocab": "http://schema.org/",
+    "cn": "http://cnbc.com/schema/"
+  },
+  "cn:unpublishDate": "",
+  "cn:xmlArticleBody": "null",
+  "articlebody": "null",
+  "cn:xmlKeyPoints": "null",
+  "description": "this is a company",
+  "dateModified": "2018-02-03T05:56:19+0000",
+  "cn:dateLastPublished": "2018-02-03T05:56:22+0000",
+  "cn:association": [{
+      "@type": "DigitalDocument",
+      "fileFormat": "text/tpl",
+      "@id": "10007",
+      "cn:type": "markup_template",
+      "cn:slug": "Topic Template",
+      "cn:createdBy": "ingest",
+      "cn:editedBy": "chris.larsen",
+      "cn:title": "Topic Template",
+      "headline": "Topic Template",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "cn:settings": {
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:commentsEnabled": "Yes"
+      },
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10007",
+      "datePublished": "2012-08-09T14:58:03+0000",
+      "cn:liveURL": "",
+      "cn:summary": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><br /></p></div></group></body>",
+      "cn:sectionHierarchy": [],
+      "name": "franchise.tpl",
+      "url": "file://franchise.tpl",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "cn:relation": [{
+        "position": 1,
+        "cn:relationType": "template",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@type": "Collection",
+      "@id": "15839215",
+      "cn:type": "franchise",
+      "cn:slug": "Stocks",
+      "cn:title": "Stocks",
+      "headline": "Stocks",
+      "cn:sectionLabel": "Stocks",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [
+        "/id/15839215"
+      ],
+      "cn:editedBy": "vitaly",
+      "cn:createdBy": "migration",
+      "cn:subDomain": "Make-It.CNBC.com",
+      "cn:branding": "Make It",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15839215",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "url": "http://qa-aws01web.cnbc.com/stocks/",
+      "datePublished": "2012-01-30T01:48:28+0000",
+      "cn:unpublishDate": "2013-04-16T11:52:02+0000",
+      "cn:liveURL": "/stocks/",
+      "cn:subType": "news_section",
+      "cn:seoTitle": "Stock Market News",
+      "cn:summary": "In-depth market analysis, real-time stock market data, research and earnings from CNBC.com. ",
+      "cn:shorterDescription": "In-depth market analysis, real-time stock market data, research and earnings from CNBC.com. ",
+      "cn:shortestDescription": "In-depth market analysis and real-time stock market data",
+      "cn:bodyTeaser": "null",
+      "cn:sectionHierarchy": [{
+          "id": 102,
+          "tagName": "Markets",
+          "order": 1
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 2
+        }
+      ],
+      "description": "In-depth market analysis, real-time stock market data, research and earnings from CNBC.com. ",
+      "cn:tabLabel": "Stocks",
+      "cn:sectionLinktext": "Stocks",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+        "position": 1,
+        "cn:relationType": "section",
+        "cn:isPromoted": "false"
+      }]
+    }
+  ]
+}

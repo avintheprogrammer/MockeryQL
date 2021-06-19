@@ -1,0 +1,1028 @@
+{
+  "results": [
+    {
+      "headline":
+        "A bitcoin spin-off briefly replaced rival digital coin ether as the second-largest cryptocurrency",
+      "alternativeHeadline":
+        "Bitcoin cash briefly replaced rival digital coin ether as the second-largest cryptocurrency",
+      "cn:state": "Publish",
+      "cn:shorterHeadline":
+        "A bitcoin spin-off briefly replaced rival ether as the second-largest cryptocurrency",
+      "cn:shortSummary": "",
+      "cn:keypoints":
+        "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><ul>\n<li>The market capitalization of bitcoin cash briefly surpassed that of ethereum on Sunday</li>\n<li>Bitcoin cash rallied after plans for a \"hard fork\" in the original bitcoin blockchain were called off</li>\n</ul></div></group></body>",
+      "cn:dateline": "2017-11-13T06:39:26 GMT",
+      "dateCreated": "2017-11-13T06:39:35 GMT",
+      "datePublished": "2017-11-13T06:39:53 GMT",
+      "cn:lastPubDate": "2017-11-14T08:41:52 GMT",
+      "dateModified": "2017-11-14T08:41:37 GMT",
+      "@id": "104837847",
+      "cn:type": "cnbcnewsstory",
+      "cn:promoImage":
+        "https://qa-aws02capi-img-origin.cnbc.com/image/104829053-GettyImages-869865530.jpg?v=1510155089",
+      "cn:slug": "Bitcoin cash BROWNE 171113 EU",
+      "cn:createdBy": "Arjun.Kharpal",
+      "cn:editedBy": "Ryan.Browne@nbcuni.com",
+      "cn:title":
+        "Bitcoin cash briefly replaced rival digital coin ether as the second-largest cryptocurrency",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104837847",
+      "url":
+        "http://qa-aws01web.cnbc.com/2017/11/13/bitcoin-cash-ether-market-cap.html",
+      "cn:source": [
+        {
+          "@type": "Organization",
+          "@id": "100005495",
+          "cn:type": "source",
+          "cn:slug": "CNBC Europe Source",
+          "cn:title": "",
+          "headline": "",
+          "cn:creatorOverwrite": "",
+          "cn:editedBy": "bryn.bache",
+          "cn:historicalURL": [],
+          "cn:createdBy": "chris.larsen",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100005495",
+          "url": "",
+          "cn:sourceName": "CNBC.com",
+          "description": "CNBC.com"
+        }
+      ],
+      "cn:tickerSymbol": [{
+        "@id": "105424238",
+        "cn:type": "security",
+        "url": "https://qa-aws06web.cnbc.com/quotes/?symbol=.DJUS",
+        "cn:symbol": ".DJUS",
+        "cn:exchangeName": "Dow Jones Global Indexes",
+        "cn:issuerId": 0,
+        "cn:issueId": 596782,
+        "cn:chartSymbol": "596782",
+        "tickerSymbol": "Dow Jones Global Indexes .DJUS"
+      }, {
+        "@id": "100005111",
+        "cn:type": "company",
+        "url": "https://qa-aws06web.cnbc.com/quotes?symbol=FB",
+        "cn:symbol": "FB",
+        "cn:exchangeName": "NASDAQ",
+        "cn:issuerId": 139619,
+        "cn:chartSymbol": "FB.O",
+        "tickerSymbol": "NASDAQ FB"
+      }],
+      "description":
+        "Bitcoin cash rallied after plans for a \"hard fork\" in the original bitcoin blockchain were called off.",
+      "author": [
+        {
+          "@type": "Creator",
+          "@id": "104551502",
+          "name": "Ryan Browne",
+          "url": "http://qa-aws01web.cnbc.com/ryan-browne/",
+          "position": "5000",
+          "sameAs": ["https://www.twitter.com/@Ryan_Browne_"],
+          "cn:socialMediaInfo": [
+            {
+              "cn:url": "https://twitter.com/@Ryan_Browne_",
+              "cn:displayText": "@Ryan_Browne_",
+              "cn:type": "twitter"
+            }
+          ]
+        }
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo":
+          "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "NewsArticle",
+      "cn:highlights": {
+        "summary": [
+          "<em>Bitcoin</em> cash rallied after plans for a \"hard fork\" in the original <em>bitcoin</em> blockchain were called off."
+        ],
+        "bodyText": [
+          "A cryptocurrency that split away from <em>bitcoin</em> was temporarily the second-largest virtual currency",
+          " by market value on Sunday.The market capitalization of <em>bitcoin</em> cash surged to more than $41 billion",
+          " billion at 10:30 p.m. ET.&#160;<em>Bitcoin</em> cash usurped rival digital coin ether&#160;— the digital token of",
+          " number of hours.Vitalik Buterin, co-founder of Ethereum, congratulated backers of the <em>bitcoin</em> offshoot",
+          " on Twitter.TweetIn response to a Twitter user that questioned the dominance of <em>bitcoin</em>, Buterin said"
+        ],
+        "keywords": [
+          "<em>Bitcoin</em> cash, <em>bitcoin</em> gold, price, usd, hard fork, "
+        ],
+        "keypointsText": [
+          "\nThe market capitalization of <em>bitcoin</em> cash briefly surpassed that of ethereum on Sunday\n<em>Bitcoin</em>",
+          " cash rallied after plans for a \"hard fork\" in the original <em>bitcoin</em> blockchain were called off\n"
+        ],
+        "title": [
+          "<em>Bitcoin</em> cash briefly replaced rival digital coin ether as the second-largest cryptocurrency"
+        ],
+        "tagName": ["<em>Bitcoin</em>"],
+        "slug": ["<em>Bitcoin</em> cash BROWNE 171113 EU"]
+      }
+    },
+    {
+      "headline":
+        "Bitcoin investing is not for the faint of heart, advisor says",
+      "alternativeHeadline":
+        "As bitcoin soars and ICOs spread, advisors urge caution",
+      "cn:state": "Publish",
+      "cn:shorterHeadline":
+        "Bitcoin investing is not for the faint of heart, advisor says",
+      "cn:shortSummary":
+        "Enthusiasts say bitcoin is the future of money, yet it is about as volatile as you can get when it comes to investments.",
+      "cn:keypoints":
+        "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><ul>\n<li>The total value of the 16 million bitcoins in existence were worth more than $110 billion a week ago, as the price of each one soared to a record high of $7,879 before plummeting by 30 percent on Saturday.</li>\n<li>CME Group annou<span>nce</span><span>d it would launch a futures contract on bitcoin.</span></li>\n<li>Advisors might buy bitcoin themselves, but most still aren't recomme<span>nd</span><span>ing them to clients.</span></li>\n</ul></div></group></body>",
+      "cn:dateline": "2017-11-13T14:03:55 GMT",
+      "dateCreated": "2017-11-08T19:44:41 GMT",
+      "datePublished": "2017-11-13T14:03:56 GMT",
+      "cn:lastPubDate": "2017-11-13T16:53:19 GMT",
+      "dateModified": "2017-11-13T16:52:37 GMT",
+      "@id": "104829648",
+      "cn:type": "cnbcnewsstory",
+      "cn:promoImage":
+        "https://qa-aws02capi-img-origin.cnbc.com/image/101496711-167578473.jpg?v=1496233850",
+      "cn:slug": "Bitcoin soars OSTERLAND 171113 EC",
+      "cn:createdBy": "Kenneth.Kiesnoski",
+      "cn:editedBy": "James.Pavia",
+      "cn:title": "As bitcoin soars and ICOs spread, advisors urge caution",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104829648",
+      "url":
+        "http://qa-aws01web.cnbc.com/2017/11/13/as-bitcoin-soars-and-icos-spread-advisors-urge-caution.html",
+      "cn:source": [
+        {
+          "@type": "Organization",
+          "@id": "80000022",
+          "cn:type": "source",
+          "cn:slug": "CNBC US Source",
+          "cn:title": "",
+          "headline": "",
+          "cn:creatorOverwrite": "",
+          "cn:editedBy": "john.schoen",
+          "cn:historicalURL": [],
+          "cn:createdBy": "migration",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/80000022",
+          "url": "",
+          "cn:sourceName": "CNBC.com",
+          "description": "CNBC.com"
+        }
+      ],
+      "cn:tickerSymbol": [{
+        "@id": "105424238",
+        "cn:type": "security",
+        "url": "https://qa-aws06web.cnbc.com/quotes/?symbol=.DJUS",
+        "cn:symbol": ".DJUS",
+        "cn:exchangeName": "Dow Jones Global Indexes",
+        "cn:issuerId": 0,
+        "cn:issueId": 596782,
+        "cn:chartSymbol": "596782",
+        "tickerSymbol": "Dow Jones Global Indexes .DJUS"
+      }, {
+        "@id": "100005111",
+        "cn:type": "company",
+        "url": "https://qa-aws06web.cnbc.com/quotes?symbol=FB",
+        "cn:symbol": "FB",
+        "cn:exchangeName": "NASDAQ",
+        "cn:issuerId": 139619,
+        "cn:chartSymbol": "FB.O",
+        "tickerSymbol": "NASDAQ FB"
+      }],
+      "description":
+        "Enthusiasts say bitcoin is the future of money, yet it is about as volatile as you can get when it comes to investments.",
+      "author": [
+        {
+          "@type": "Creator",
+          "@id": "101573270",
+          "name": "Andrew Osterland",
+          "url": "http://qa-aws01web.cnbc.com/andrew-osterland/",
+          "position": "5000"
+        }
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo":
+          "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "NewsArticle",
+      "cn:highlights": {
+        "summary": [
+          "Enthusiasts say <em>bitcoin</em> is the future of money, yet it is about as volatile as you can get when it comes to investments."
+        ],
+        "bodyText": [
+          " rewarded with new <em>bitcoins</em> — could manipulate the blockchain, but it would likely not be in their best",
+          " open questions about <em>bitcoin's</em> future viability:• Will it evolve to be a better currency, or will",
+          " upgrade or fork, called Segwit2x, that was scrapped last week would have doubled <em>bitcoin's</em> transaction",
+          " $400 million in <em>bitcoins</em> in 2014&#160;(yes,&#160;they can be stolen) torpedoed the largest such",
+          " years ago but owns about 5 percent of existing <em>bitcoins</em>, a potentially ominous overhang on the"
+        ],
+        "keywords": [
+          "<em>Bitcoin</em>, cryptocurrency, alternatives, Financial adviser, advisor"
+        ],
+        "keypointsText": [
+          "\nThe total value of the 16 million <em>bitcoins</em> in existence were worth more than $110 billion a week",
+          " Saturday.\nCME Group announced it would launch a futures contract on <em>bitcoin</em>.\nAdvisors might buy",
+          " <em>bitcoin</em> themselves, but most still aren't recommending them to clients.\n"
+        ],
+        "title": [
+          "As <em>bitcoin</em> soars and ICOs spread, advisors urge caution"
+        ],
+        "tagName": ["<em>Bitcoin</em>"],
+        "slug": ["<em>Bitcoin</em> soars OSTERLAND 171113 EC"]
+      }
+    },
+    {
+      "headline":
+        "Bitcoin is a market for criminals and millennials, Dennis Gartman says",
+      "alternativeHeadline":
+        "Bitcoin is a market for criminals and millennials, Dennis Gartman says",
+      "cn:state": "Publish",
+      "cn:shorterHeadline":
+        "Bitcoin is a market for criminals and millennials, Dennis Gartman says",
+      "cn:shortSummary":
+        "Bitcoin bear Dennis Gartman still will not buy bitcoin, despite predictions that the cryptocurrency will rebound.",
+      "cn:keypoints":
+        "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><ul>\n<li class=\"\">Analysts&#160;expect bitcoin's value will surge again following a recent dramatic decline,&#160;but bitcoin&#160;bear Dennis Gartman said he still will not invest in it.</li>\n<li>\"This is a market ... for criminals, this is a market for millennials,\" the commodities guru told CNBC's \"Fast Money.\"</li>\n</ul></div></group></body>",
+      "cn:dateline": "2017-11-13T05:00:00 GMT",
+      "dateCreated": "2017-11-13T23:42:32 GMT",
+      "datePublished": "2017-11-14T00:00:40 GMT",
+      "cn:lastPubDate": "2017-11-15T00:55:47 GMT",
+      "dateModified": "2017-11-15T00:54:49 GMT",
+      "@id": "104839833",
+      "cn:type": "cnbcnewsstory",
+      "cn:promoImage":
+        "https://qa-aws02capi-img-origin.cnbc.com/image/104811258-GettyImages-866164382.jpg?v=1509530376",
+      "cn:slug": "Gartman millennial bitcoin AIELLO 171113 EC",
+      "cn:createdBy": "Stacey.Yuen",
+      "cn:editedBy": "tess.bonn@nbcuni.com",
+      "cn:title":
+        "Bitcoin is a market for criminals and millennials, Dennis Gartman says",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104839833",
+      "url":
+        "http://qa-aws01web.cnbc.com/2017/11/13/bitcoin-is-a-market-for-criminals-and-millennials-dennis-gartman-says.html",
+      "cn:source": [
+        {
+          "@type": "Organization",
+          "@id": "80000022",
+          "cn:type": "source",
+          "cn:slug": "CNBC US Source",
+          "cn:title": "",
+          "headline": "",
+          "cn:creatorOverwrite": "",
+          "cn:editedBy": "john.schoen",
+          "cn:historicalURL": [],
+          "cn:createdBy": "migration",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/80000022",
+          "url": "",
+          "cn:sourceName": "CNBC.com",
+          "description": "CNBC.com"
+        }
+      ],
+      "cn:tickerSymbol": [{
+        "@id": "105424238",
+        "cn:type": "security",
+        "url": "https://qa-aws06web.cnbc.com/quotes/?symbol=.DJUS",
+        "cn:symbol": ".DJUS",
+        "cn:exchangeName": "Dow Jones Global Indexes",
+        "cn:issuerId": 0,
+        "cn:issueId": 596782,
+        "cn:chartSymbol": "596782",
+        "tickerSymbol": "Dow Jones Global Indexes .DJUS"
+      }, {
+        "@id": "100005111",
+        "cn:type": "company",
+        "url": "https://qa-aws06web.cnbc.com/quotes?symbol=FB",
+        "cn:symbol": "FB",
+        "cn:exchangeName": "NASDAQ",
+        "cn:issuerId": 139619,
+        "cn:chartSymbol": "FB.O",
+        "tickerSymbol": "NASDAQ FB"
+      }],
+      "description":
+        "Bitcoin bear Dennis Gartman still will not buy bitcoin, despite predictions that the cryptocurrency will rebound.",
+      "author": [
+        {
+          "@type": "Creator",
+          "@id": "104775193",
+          "name": "Chloe Aiello",
+          "url": "http://qa-aws01web.cnbc.com/chloe-aiello/",
+          "position": "4999",
+          "sameAs": ["https://www.twitter.com/chlobo_ilo"],
+          "cn:socialMediaInfo": [
+            {
+              "cn:url": "https://twitter.com/chlobo_ilo",
+              "cn:displayText": "chlobo_ilo",
+              "cn:type": "twitter"
+            }
+          ]
+        }
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo":
+          "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "NewsArticle",
+      "cn:highlights": {
+        "summary": [
+          "<em>Bitcoin</em> bear Dennis Gartman still will not buy <em>bitcoin</em>, despite predictions that the cryptocurrency will rebound."
+        ],
+        "bodyText": [
+          "Commodities guru Dennis Gartman is not backing off his dramatically bearish stance on <em>bitcoin</em>.\"This",
+          ".\"How can you buy or sell a painting using <em>bitcoin</em>, when the change in volatility is 20-30-40 percent",
+          " in the course of a week? It's nonsense,\" he said. \"I shall not trade it.\"<em>Bitcoin</em> fell about 20"
+        ],
+        "keywords": [
+          "<em>bitcoin</em>, cryptocurrency, commodities wiz, millennials, bubble"
+        ],
+        "keypointsText": [
+          "\nAnalysts&#160;expect <em>bitcoin's</em> value will surge again following a recent dramatic decline,&#160",
+          ";but <em>bitcoin</em>&#160;bear Dennis Gartman said he still will not invest in it.\n\"This is a market ... for"
+        ],
+        "title": [
+          "<em>Bitcoin</em> is a market for criminals and millennials, Dennis Gartman says"
+        ],
+        "tagName": ["<em>Bitcoin</em>"],
+        "slug": ["Gartman millennial <em>bitcoin</em> AIELLO 171113 EC"]
+      }
+    },
+    {
+      "headline":
+        "Bitcoin plunges after upgrade is called off, but offshoot 'bitcoin cash' surges more than 40%",
+      "alternativeHeadline":
+        "Bitcoin plunges after upgrade is called off, but offshoot 'bitcoin cash' surges more than 40%",
+      "cn:state": "Publish",
+      "cn:shorterHeadline":
+        "Bitcoin tumbles from record after upgrade called off",
+      "cn:shortSummary":
+        "Bitcoin price sinks as traders bet on its offshoot, bitcoin cash.",
+      "cn:keypoints":
+        "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><ul>\n<li class=\"\">Bitcoin's offshoot bitcoin cash climbs more than 40 percent as traders shift away from the original bitcoin.&#160;</li>\n<li>Bitcoin hit a record high this week after developers called off an increasingly contentious upgrade proposal that would have caused another split in the currency.&#160;</li>\n<li>Some traders had bought bitcoin ahead of the planned upgrade in expectation of further gains.&#160;</li>\n</ul></div></group></body>",
+      "cn:dateline": "2017-11-10T14:38:08 GMT",
+      "dateCreated": "2017-11-10T13:36:07 GMT",
+      "datePublished": "2017-11-10T14:38:08 GMT",
+      "cn:lastPubDate": "2017-11-10T22:07:43 GMT",
+      "dateModified": "2017-11-10T22:07:07 GMT",
+      "@id": "104834995",
+      "cn:type": "cnbcnewsstory",
+      "cn:promoImage":
+        "https://qa-aws02capi-img-origin.cnbc.com/image/101655816-483520319rr.jpg?v=1510328103",
+      "cn:slug": "Bitcoin bitcoin cash CHENG 171110 EC ",
+      "cn:createdBy": "evelyn.cheng",
+      "cn:editedBy": "tess.bonn@nbcuni.com",
+      "cn:title":
+        "Bitcoin plunges after upgrade is called off, but offshoot 'bitcoin cash' surges more than 40%",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104834995",
+      "url":
+        "http://qa-aws01web.cnbc.com/2017/11/10/bitcoin-falls-after-developers-call-off-segwit2x-bitcoin-cash-surges.html",
+      "cn:source": [
+        {
+          "@type": "Organization",
+          "@id": "80000022",
+          "cn:type": "source",
+          "cn:slug": "CNBC US Source",
+          "cn:title": "",
+          "headline": "",
+          "cn:creatorOverwrite": "",
+          "cn:editedBy": "john.schoen",
+          "cn:historicalURL": [],
+          "cn:createdBy": "migration",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/80000022",
+          "url": "",
+          "cn:sourceName": "CNBC.com",
+          "description": "CNBC.com"
+        }
+      ],
+      "cn:tickerSymbol": [{
+        "@id": "105424238",
+        "cn:type": "security",
+        "url": "https://qa-aws06web.cnbc.com/quotes/?symbol=.DJUS",
+        "cn:symbol": ".DJUS",
+        "cn:exchangeName": "Dow Jones Global Indexes",
+        "cn:issuerId": 0,
+        "cn:issueId": 596782,
+        "cn:chartSymbol": "596782",
+        "tickerSymbol": "Dow Jones Global Indexes .DJUS"
+      }, {
+        "@id": "100005111",
+        "cn:type": "company",
+        "url": "https://qa-aws06web.cnbc.com/quotes?symbol=FB",
+        "cn:symbol": "FB",
+        "cn:exchangeName": "NASDAQ",
+        "cn:issuerId": 139619,
+        "cn:chartSymbol": "FB.O",
+        "tickerSymbol": "NASDAQ FB"
+      }],
+      "description":
+        "Bitcoin price sinks as traders bet on its offshoot, bitcoin cash.",
+      "author": [
+        {
+          "@type": "Creator",
+          "@id": "101069441",
+          "name": "Evelyn Cheng",
+          "url": "http://qa-aws01web.cnbc.com/evelyn-cheng/",
+          "position": "4999",
+          "sameAs": ["https://www.twitter.com/chengevelyn"],
+          "cn:socialMediaInfo": [
+            {
+              "cn:url": "https://twitter.com/chengevelyn",
+              "cn:displayText": "chengevelyn",
+              "cn:type": "twitter"
+            }
+          ]
+        }
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo":
+          "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "NewsArticle",
+      "cn:highlights": {
+        "summary": [
+          "<em>Bitcoin</em> price sinks as traders bet on its offshoot, <em>bitcoin</em> cash."
+        ],
+        "bodyText": [
+          " that were stockpiling <em>bitcoin</em> to get their '<em>bitcoin2x</em> dividend.'\"Investors at the time of a <em>bitcoin</em>",
+          "<em>Bitcoin</em>&#160;fell Friday to its lowest since Nov. 1 as traders bet on its offshoot, <em>bitcoin</em> cash",
+          " was last trading near&#160;$947,&#160;according to CoinMarketCap. <em>Bitcoin</em> cash split off from the",
+          " original version of <em>bitcoin</em> in August as a minority group of developers decided to implement an upgrade",
+          " in an effort to increase transaction speeds for the digital currency.&#160;An alternative <em>bitcoin</em>"
+        ],
+        "keywords": [
+          "<em>bitcoin</em>, ethereum, digital currency, cryptocurrency, blockchain, ICO"
+        ],
+        "keypointsText": [
+          "\n<em>Bitcoin's</em> offshoot <em>bitcoin</em> cash climbs more than 40 percent as traders shift away from the",
+          " original <em>bitcoin</em>.&#160;\n<em>Bitcoin</em> hit a record high this week after developers called off an increasingly",
+          " had bought <em>bitcoin</em> ahead of the planned upgrade in expectation of further gains.&#160;\n"
+        ],
+        "title": [
+          "<em>Bitcoin</em> plunges after upgrade is called off, but offshoot '<em>bitcoin</em> cash' surges more than 40%"
+        ],
+        "tagName": [
+          "<em>Bitcoin</em>",
+          ["<em>Bitcoin</em>/USD - Coinbase"],
+          ["<em>Bitcoin</em>/USD - Coinbase"]
+        ],
+        "slug": ["<em>Bitcoin</em> <em>bitcoin</em> cash CHENG 171110 EC "]
+      }
+    },
+    {
+      "headline":
+        "Bitcoin briefly drops 15% in rocky weekend on controversy over the digital currency's future",
+      "alternativeHeadline":
+        "Bitcoin briefly drops 15% in rocky weekend amid controversy over digital currency's future",
+      "cn:state": "Publish",
+      "cn:shorterHeadline":
+        "Bitcoin briefly drops 15% in rocky weekend trading",
+      "cn:shortSummary": "",
+      "cn:keypoints":
+        "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><ul>\n<li>Bitcoin drops almost $1,000&#160;in less than 24 hours, while its offshoot bitcoin cash also loses half its value after soaring to a record high.&#160;</li>\n<li>The high volatility reflects disagreement among developers about which iteration will be the primary version of bitcoin.&#160;</li>\n<li>However, the world's largest futures exchange plans to launch bitcoin futures by the end of the year, potentially allowing traders to protect themselves from major losses amid bitcoin's price swings.</li>\n</ul></div></group></body>",
+      "cn:dateline": "2017-11-12T21:00:40 GMT",
+      "dateCreated": "2017-11-12T18:29:41 GMT",
+      "datePublished": "2017-11-12T21:00:41 GMT",
+      "cn:lastPubDate": "2017-11-13T17:40:07 GMT",
+      "dateModified": "2017-11-13T17:39:25 GMT",
+      "@id": "104837375",
+      "cn:type": "cnbcnewsstory",
+      "cn:promoImage":
+        "https://qa-aws02capi-img-origin.cnbc.com/image/104823673-RTX3IEU9.jpg?v=1510002110",
+      "cn:slug": "bitcoin swings CHENG 171112 EC",
+      "cn:createdBy": "evelyn.cheng",
+      "cn:editedBy": "jaden.urbi@nbcuni.com",
+      "cn:title":
+        "Bitcoin briefly drops 15% in rocky weekend amid controversy over digital currency's future",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104837375",
+      "url":
+        "http://qa-aws01web.cnbc.com/2017/11/12/bitcoin-briefly-drops-15-percent-amid-debate-over-digital-currencys-future.html",
+      "cn:source": [
+        {
+          "@type": "Organization",
+          "@id": "80000022",
+          "cn:type": "source",
+          "cn:slug": "CNBC US Source",
+          "cn:title": "",
+          "headline": "",
+          "cn:creatorOverwrite": "",
+          "cn:editedBy": "john.schoen",
+          "cn:historicalURL": [],
+          "cn:createdBy": "migration",
+          "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/80000022",
+          "url": "",
+          "cn:sourceName": "CNBC.com",
+          "description": "CNBC.com"
+        }
+      ],
+      "cn:tickerSymbol": [{
+        "@id": "105424238",
+        "cn:type": "security",
+        "url": "https://qa-aws06web.cnbc.com/quotes/?symbol=.DJUS",
+        "cn:symbol": ".DJUS",
+        "cn:exchangeName": "Dow Jones Global Indexes",
+        "cn:issuerId": 0,
+        "cn:issueId": 596782,
+        "cn:chartSymbol": "596782",
+        "tickerSymbol": "Dow Jones Global Indexes .DJUS"
+      }, {
+        "@id": "100005111",
+        "cn:type": "company",
+        "url": "https://qa-aws06web.cnbc.com/quotes?symbol=FB",
+        "cn:symbol": "FB",
+        "cn:exchangeName": "NASDAQ",
+        "cn:issuerId": 139619,
+        "cn:chartSymbol": "FB.O",
+        "tickerSymbol": "NASDAQ FB"
+      }],
+      "description":
+        "High volatility isn't going away for bitcoin, raising questions about whether the digital currency can be a sustainable investment asset.",
+      "author": [
+        {
+          "@type": "Creator",
+          "@id": "101069441",
+          "name": "Evelyn Cheng",
+          "url": "http://qa-aws01web.cnbc.com/evelyn-cheng/",
+          "position": "4999",
+          "sameAs": ["https://www.twitter.com/chengevelyn"],
+          "cn:socialMediaInfo": [
+            {
+              "cn:url": "https://twitter.com/chengevelyn",
+              "cn:displayText": "chengevelyn",
+              "cn:type": "twitter"
+            }
+          ]
+        }
+      ],
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo":
+          "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "@type": "NewsArticle",
+      "cn:highlights": {
+        "summary": [
+          "High volatility isn't going away for <em>bitcoin</em>, raising questions about whether the digital currency can be a sustainable investment asset."
+        ],
+        "bodyText": [
+          " say a major factor behind <em>bitcoin's</em> seven-fold surge to record highs this year is increased",
+          " SegWit2x, initially planned for around Nov. 16.The proposal was an attempt to improve <em>bitcoin's</em>",
+          " two megabytes.The high cost and slowness of transaction speeds have limited <em>bitcoin's</em> usability as a",
+          " means of sending payments overseas than using <em>bitcoin.Bitcoin</em> vs. <em>bitcoin</em> cash share of total",
+          " cryptocurrency market capitalizationSource: CoinMarketCapAdding to the debate over <em>bitcoin's</em> future"
+        ],
+        "keywords": [
+          "<em>bitcoin</em>, blockchain, digital currency, crypto, <em>bitcoin</em> gold, <em>bitcoin</em> cash"
+        ],
+        "keypointsText": [
+          " allowing traders to protect themselves from major losses amid <em>bitcoin's</em> price swings.\n",
+          "\n<em>Bitcoin</em> drops almost $1,000&#160;in less than 24 hours, while its offshoot <em>bitcoin</em> cash also loses",
+          " among developers about which iteration will be the primary version of <em>bitcoin</em>.&#160;\nHowever, the",
+          " world's largest futures exchange plans to launch <em>bitcoin</em> futures by the end of the year, potentially"
+        ],
+        "title": [
+          "<em>Bitcoin</em> briefly drops 15% in rocky weekend amid controversy over digital currency's future"
+        ],
+        "tagName": [
+          "<em>Bitcoin</em>",
+          ["<em>Bitcoin</em>/USD - Coinbase"],
+          ["<em>Bitcoin</em>/USD - Coinbase"]
+        ],
+        "slug": ["<em>bitcoin</em> swings CHENG 171112 EC"]
+      }
+    }
+  ],
+  "metadata": {
+    "totalCount": 136,
+    "pageSize": 5,
+    "currentPage": 1,
+    "q": "bitcoin",
+    "totalresults": 136,
+    "pagesize": 5,
+    "totalpage": 28,
+    "pagerequested": 1,
+    "corrections": [],
+    "stems": [
+      "bitcoin"
+    ],
+    "suggestions": [
+      "Bitcoin",
+      "bitcoins",
+      "bitcoin's",
+      "bitcoin2x",
+      "bitcoin.Bitcoin"
+    ],
+    "facetsuggestions": [
+      {
+        "facet": "tags:topic",
+        "suggestions": [
+          "Bitcoin"
+        ]
+      }
+    ],
+    "related": [],
+    "resultgenerationtime": "7.0004 ms"
+  },
+  "filters": {
+    "author": [
+      {
+        "key": "Evelyn Cheng",
+        "count": 124
+      },
+      {
+        "key": "Stephanie Landsman",
+        "count": 115
+      },
+      {
+        "key": "Arjun Kharpal",
+        "count": 109
+      },
+      {
+        "key": "Jacob Pramuk",
+        "count": 83
+      },
+      {
+        "key": "Jeff Cox",
+        "count": 59
+      },
+      {
+        "key": "Christine Wang",
+        "count": 54
+      },
+      {
+        "key": "Peter Schacknow",
+        "count": 52
+      },
+      {
+        "key": "Luke Graham",
+        "count": 41
+      },
+      {
+        "key": "Ryan Browne",
+        "count": 41
+      },
+      {
+        "key": "Matthew J. Belvedere",
+        "count": 39
+      }
+    ],
+    "section": [
+      {
+        "key": "Fast Money",
+        "count": 395
+      },
+      {
+        "key": "Tech Transformers",
+        "count": 160
+      },
+      {
+        "key": "Markets",
+        "count": 111
+      },
+      {
+        "key": "Technology",
+        "count": 102
+      },
+      {
+        "key": "The Bottom Line",
+        "count": 88
+      },
+      {
+        "key": "Bitcoin",
+        "count": 67
+      },
+      {
+        "key": "Wires",
+        "count": 64
+      },
+      {
+        "key": "Digital Original",
+        "count": 47
+      },
+      {
+        "key": "morning brief",
+        "count": 45
+      },
+      {
+        "key": "Investing",
+        "count": 39
+      }
+    ],
+    "dateRange": [
+      {
+        "key": "past one year",
+        "count": 1377
+      },
+      {
+        "key": "past 7 days",
+        "count": 1
+      },
+      {
+        "key": "today",
+        "count": null
+      }
+    ],
+    "resultType": [
+      {
+        "key": "cnbcnewsstory",
+        "count": 941
+      },
+      {
+        "key": "image",
+        "count": 728
+      },
+      {
+        "key": "cnbcvideo",
+        "count": 469
+      },
+      {
+        "key": "blogpost",
+        "count": 361
+      },
+      {
+        "key": "wirestory",
+        "count": 67
+      },
+      {
+        "key": "partnerstory",
+        "count": 49
+      },
+      {
+        "key": "pressrelease",
+        "count": 17
+      },
+      {
+        "key": "wildcard",
+        "count": 10
+      },
+      {
+        "key": "chart",
+        "count": 7
+      },
+      {
+        "key": "franchise",
+        "count": 7
+      }
+    ]
+  },
+  "tags": [
+    {
+      "group": "ticker",
+      "totalresults": 2,
+      "results": [
+        {
+          "issuerid": "9210",
+          "type": "STOCK",
+          "country": "US",
+          "exchange": "NASDAQ",
+          "issueid": "44128",
+          "symbol": "AMAT",
+          "name": "Applied Materials Inc",
+          "url": "http://www.cnbc.com/quotes/?symbol=agpl",
+          "index": 1
+        },
+        {
+          "issuerid": "52071",
+          "type": "FUND",
+          "country": "US",
+          "exchange": "NASDAQ",
+          "issueid": "5957079",
+          "symbol": "APPLX",
+          "name": "Appleseed Fund Investor Share",
+          "url": "http://www.cnbc.com/quotes/?symbol=APPLX",
+          "index": 1
+        }
+      ]
+    },
+    {
+      "group": "newsmaker",
+      "totalresults": 2,
+      "results": [
+        {
+          "id": 11,
+          "type": "people",
+          "name": "John Doe",
+          "title": "CEO",
+          "image": {
+            "url":
+              "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/07/07/104572907-earny.530x298.JPG?v=1499429596",
+            "source": "CNBC"
+          },
+          "profileurl": "www.cnbc.com/bio/J_Doe",
+          "social": {
+            "twitter": "johndoe"
+          }
+        },
+        {
+          "id": 11,
+          "type": "people",
+          "name": "Jane Doo",
+          "title": "CTO",
+          "image": {
+            "url":
+              "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/07/07/104572907-earny.530x298.JPG?v=1499429596",
+            "source": "CNBC"
+          },
+          "profileurl": "www.cnbc.com/bio/J_Doo",
+          "social": {
+            "twitter": "therealjanedoo",
+            "LinkedIn": "Jane Doo"
+          }
+        }
+      ]
+    },
+    {
+      "group": "contributor",
+      "totalresults": 2,
+      "results": [
+        {
+          "id": 11,
+          "type": "contributor",
+          "name": "John Doe",
+          "title": "CEO",
+          "image": {
+            "url":
+              "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/07/07/104572907-earny.530x298.JPG?v=1499429596",
+            "source": "CNBC"
+          },
+          "profileurl": "www.cnbc.com/bio/J_Doe",
+          "social": {
+            "twitter": "johndoe"
+          }
+        },
+        {
+          "id": 11,
+          "type": "contributor",
+          "name": "Jane Doo",
+          "title": "CTO",
+          "image": {
+            "url":
+              "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/07/07/104572907-earny.530x298.JPG?v=1499429596",
+            "source": "CNBC"
+          },
+          "profileurl": "www.cnbc.com/bio/J_Doo",
+          "social": {
+            "twitter": "therealjanedoo",
+            "LinkedIn": "Jane Doo"
+          }
+        }
+      ]
+    },
+    {
+      "group": "topic",
+      "totalresults": 0,
+      "results": [
+        {
+          "id": 1,
+          "type": "topic",
+          "name": "wifi",
+          "image": {
+            "url":
+              "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/07/07/104572907-earny.530x298.JPG?v=1499429596",
+            "source": "Reuters"
+          },
+          "url": "www.cnbc.com/topic/wifi"
+        },
+        {
+          "id": 2,
+          "type": "topic",
+          "name": "computers",
+          "image": {
+            "url":
+              "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/07/07/104572907-earny.530x298.JPG?v=1499429596",
+            "source": "New York Times"
+          },
+          "url": "www.cnbc.com/topic/computers"
+        }
+      ]
+    },
+    {
+      "group": "source",
+      "totalresults": 0,
+      "results": [
+        {
+          "id": 1,
+          "type": "source",
+          "name": "CNBC",
+          "image": {
+            "url":
+              "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/07/07/104572907-earny.530x298.JPG?v=1499429596",
+            "source": "CNBC"
+          },
+          "url": "www.cnbc.com",
+          "description": "CNBC is the leading provider in Business news."
+        },
+        {
+          "id": 2,
+          "type": "source",
+          "name": "MakeIt",
+          "image": {
+            "url":
+              "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/07/07/104572907-earny.530x298.JPG?v=1499429596",
+            "source": "MakeIt"
+          },
+          "url": "http://www.cnbc.com/make-it/",
+          "description":
+            "Make It is the leading provider in business news for the new generation."
+        }
+      ]
+    },
+    {
+      "group": "person",
+      "totalresults": 2,
+      "results": [
+        {
+          "id": 1,
+          "type": "person",
+          "name": "John Doe",
+          "title": "CEO",
+          "image": {
+            "url":
+              "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/07/07/104572907-earny.530x298.JPG?v=1499429596",
+            "source": "CNBC"
+          },
+          "profileurl": "www.cnbc.com/bio/J_Doe",
+          "social": {
+            "twitter": "johndoe"
+          }
+        },
+        {
+          "id": 11,
+          "type": "person",
+          "name": "Jane Doo",
+          "title": "CTO",
+          "image": {
+            "url":
+              "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/07/07/104572907-earny.530x298.JPG?v=1499429596",
+            "source": "CNBC"
+          },
+          "profileurl": "www.cnbc.com/bio/J_Doo",
+          "social": {
+            "twitter": "therealjanedoo",
+            "LinkedIn": "Jane Doo"
+          }
+        }
+      ]
+    },
+    {
+      "group": "show",
+      "totalresults": 1,
+      "results": [
+        {
+          "id": 11,
+          "type": "show",
+          "name": "Mad Money",
+          "image": {
+            "url":
+              "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/07/07/104572907-earny.530x298.JPG?v=1499429596",
+            "source": "CNBC"
+          }
+        }
+      ]
+    },
+    {
+      "group": "special_report",
+      "totalresults": 1,
+      "results": [
+        {
+          "id": 11,
+          "type": "special_report",
+          "name": "Investing",
+          "image": {
+            "url":
+              "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/07/07/104572907-earny.530x298.JPG?v=1499429596",
+            "source": "CNBC"
+          }
+        }
+      ]
+    }
+  ]
+}

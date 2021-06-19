@@ -1,0 +1,713 @@
+{
+  "@id": "100746233",
+  "cn:type": "franchise",
+  "cn:slug": "US homepage",
+  "cn:creatorOverwrite": "",
+  "datePublished": "2013-07-12T14:06:53 GMT",
+  "cn:dateLastPublished": "2017-10-20T12:13:09 GMT",
+  "dateModified": "2017-10-20T12:13:11 GMT",
+  "description": "Get latest business news on stock markets, financial & earnings on CNBC. View world markets streaming charts & video; check stock tickers and quotes.",
+  "headline": "CNBC US Home",
+  "articlebody": "elementFontfont-familyfont-sizefont-stylefont-variantfont-weightletter-spacingline-heighttext-decorationtext-aligntext-indenttext-transformwhite-spaceword-spacingcolorBackgroundbg-attachmentbg-colorbg-imagebg-positionbg-repeatBoxwidthheightborder-topborder-rightborder-bottomborder-leftmarginpaddingmax-heightmin-heightmax-widthmin-widthoutline-coloroutline-styleoutline-widthPositioningpositiontopbottomrightleftfloatdisplayclearz-indexListlist-style-imagelist-style-typelist-style-positionTablevertical-alignborder-collapseborder-spacingcaption-sideempty-cellstable-layoutEffectstext-shadow-webkit-box-shadowborder-radiusOtheroverflowcursorvisibilityelementFontfont-familyfont-sizefont-stylefont-variantfont-weightletter-spacingline-heighttext-decorationtext-aligntext-indenttext-transformwhite-spaceword-spacingcolorBackgroundbg-attachmentbg-colorbg-imagebg-positionbg-repeatBoxwidthheightborder-topborder-rightborder-bottomborder-leftmarginpaddingmax-heightmin-heightmax-widthmin-widthoutline-coloroutline-styleoutline-widthPositioningpositiontopbottomrightleftfloatdisplayclearz-indexListlist-style-imagelist-style-typelist-style-positionTablevertical-alignborder-collapseborder-spacingcaption-sideempty-cellstable-layoutEffectstext-shadow-webkit-box-shadowborder-radiusOtheroverflowcursorvisibility",
+  "cn:xmlArticleBody": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><br /></p><div id=\"csscan-wrapper\" style=\"display: none; \"><h2 id=\"csscan-header\">element</h2><table id=\"csscan-table\"><tbody><tr><th colspan=\"2\" id=\"csscan-header-font\" class=\"csscan-header\">Font</th></tr><tr id=\"csscan-row-font-family\"><td id=\"csscan-property-font-family\" class=\"csscan-property\">font-family</td><td id=\"csscan-value-font-family\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-size\"><td id=\"csscan-property-font-size\" class=\"csscan-property\">font-size</td><td id=\"csscan-value-font-size\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-style\"><td id=\"csscan-property-font-style\" class=\"csscan-property\">font-style</td><td id=\"csscan-value-font-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-variant\"><td id=\"csscan-property-font-variant\" class=\"csscan-property\">font-variant</td><td id=\"csscan-value-font-variant\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-weight\"><td id=\"csscan-property-font-weight\" class=\"csscan-property\">font-weight</td><td id=\"csscan-value-font-weight\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-letter-spacing\"><td id=\"csscan-property-letter-spacing\" class=\"csscan-property\">letter-spacing</td><td id=\"csscan-value-letter-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-line-height\"><td id=\"csscan-property-line-height\" class=\"csscan-property\">line-height</td><td id=\"csscan-value-line-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-decoration\"><td id=\"csscan-property-text-decoration\" class=\"csscan-property\">text-decoration</td><td id=\"csscan-value-text-decoration\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-align\"><td id=\"csscan-property-text-align\" class=\"csscan-property\">text-align</td><td id=\"csscan-value-text-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-indent\"><td id=\"csscan-property-text-indent\" class=\"csscan-property\">text-indent</td><td id=\"csscan-value-text-indent\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-transform\"><td id=\"csscan-property-text-transform\" class=\"csscan-property\">text-transform</td><td id=\"csscan-value-text-transform\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-white-space\"><td id=\"csscan-property-white-space\" class=\"csscan-property\">white-space</td><td id=\"csscan-value-white-space\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-word-spacing\"><td id=\"csscan-property-word-spacing\" class=\"csscan-property\">word-spacing</td><td id=\"csscan-value-word-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-color\"><td id=\"csscan-property-color\" class=\"csscan-property\">color</td><td id=\"csscan-value-color\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-background\" class=\"csscan-header\">Background</th></tr><tr id=\"csscan-row-background-attachment\"><td id=\"csscan-property-background-attachment\" class=\"csscan-property\">bg-attachment</td><td id=\"csscan-value-background-attachment\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-color\"><td id=\"csscan-property-background-color\" class=\"csscan-property\">bg-color</td><td id=\"csscan-value-background-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-image\"><td id=\"csscan-property-background-image\" class=\"csscan-property\">bg-image</td><td id=\"csscan-value-background-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-position\"><td id=\"csscan-property-background-position\" class=\"csscan-property\">bg-position</td><td id=\"csscan-value-background-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-repeat\"><td id=\"csscan-property-background-repeat\" class=\"csscan-property\">bg-repeat</td><td id=\"csscan-value-background-repeat\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-size\" class=\"csscan-header\">Box</th></tr><tr id=\"csscan-row-width\"><td id=\"csscan-property-width\" class=\"csscan-property\">width</td><td id=\"csscan-value-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-height\"><td id=\"csscan-property-height\" class=\"csscan-property\">height</td><td id=\"csscan-value-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-top\"><td id=\"csscan-property-border-top\" class=\"csscan-property\">border-top</td><td id=\"csscan-value-border-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-right\"><td id=\"csscan-property-border-right\" class=\"csscan-property\">border-right</td><td id=\"csscan-value-border-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-bottom\"><td id=\"csscan-property-border-bottom\" class=\"csscan-property\">border-bottom</td><td id=\"csscan-value-border-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-left\"><td id=\"csscan-property-border-left\" class=\"csscan-property\">border-left</td><td id=\"csscan-value-border-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-margin\"><td id=\"csscan-property-margin\" class=\"csscan-property\">margin</td><td id=\"csscan-value-margin\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-padding\"><td id=\"csscan-property-padding\" class=\"csscan-property\">padding</td><td id=\"csscan-value-padding\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-height\"><td id=\"csscan-property-max-height\" class=\"csscan-property\">max-height</td><td id=\"csscan-value-max-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-height\"><td id=\"csscan-property-min-height\" class=\"csscan-property\">min-height</td><td id=\"csscan-value-min-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-width\"><td id=\"csscan-property-max-width\" class=\"csscan-property\">max-width</td><td id=\"csscan-value-max-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-width\"><td id=\"csscan-property-min-width\" class=\"csscan-property\">min-width</td><td id=\"csscan-value-min-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-color\"><td id=\"csscan-property-outline-color\" class=\"csscan-property\">outline-color</td><td id=\"csscan-value-outline-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-style\"><td id=\"csscan-property-outline-style\" class=\"csscan-property\">outline-style</td><td id=\"csscan-value-outline-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-width\"><td id=\"csscan-property-outline-width\" class=\"csscan-property\">outline-width</td><td id=\"csscan-value-outline-width\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-position\" class=\"csscan-header\">Positioning</th></tr><tr id=\"csscan-row-position\"><td id=\"csscan-property-position\" class=\"csscan-property\">position</td><td id=\"csscan-value-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-top\"><td id=\"csscan-property-top\" class=\"csscan-property\">top</td><td id=\"csscan-value-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-bottom\"><td id=\"csscan-property-bottom\" class=\"csscan-property\">bottom</td><td id=\"csscan-value-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-right\"><td id=\"csscan-property-right\" class=\"csscan-property\">right</td><td id=\"csscan-value-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-left\"><td id=\"csscan-property-left\" class=\"csscan-property\">left</td><td id=\"csscan-value-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-float\"><td id=\"csscan-property-float\" class=\"csscan-property\">float</td><td id=\"csscan-value-float\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-display\"><td id=\"csscan-property-display\" class=\"csscan-property\">display</td><td id=\"csscan-value-display\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-clear\"><td id=\"csscan-property-clear\" class=\"csscan-property\">clear</td><td id=\"csscan-value-clear\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-z-index\"><td id=\"csscan-property-z-index\" class=\"csscan-property\">z-index</td><td id=\"csscan-value-z-index\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-list\" class=\"csscan-header\">List</th></tr><tr id=\"csscan-row-list-style-image\"><td id=\"csscan-property-list-style-image\" class=\"csscan-property\">list-style-image</td><td id=\"csscan-value-list-style-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-type\"><td id=\"csscan-property-list-style-type\" class=\"csscan-property\">list-style-type</td><td id=\"csscan-value-list-style-type\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-position\"><td id=\"csscan-property-list-style-position\" class=\"csscan-property\">list-style-position</td><td id=\"csscan-value-list-style-position\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-table\" class=\"csscan-header\">Table</th></tr><tr id=\"csscan-row-vertical-align\"><td id=\"csscan-property-vertical-align\" class=\"csscan-property\">vertical-align</td><td id=\"csscan-value-vertical-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-collapse\"><td id=\"csscan-property-border-collapse\" class=\"csscan-property\">border-collapse</td><td id=\"csscan-value-border-collapse\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-spacing\"><td id=\"csscan-property-border-spacing\" class=\"csscan-property\">border-spacing</td><td id=\"csscan-value-border-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-caption-side\"><td id=\"csscan-property-caption-side\" class=\"csscan-property\">caption-side</td><td id=\"csscan-value-caption-side\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-empty-cells\"><td id=\"csscan-property-empty-cells\" class=\"csscan-property\">empty-cells</td><td id=\"csscan-value-empty-cells\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-table-layout\"><td id=\"csscan-property-table-layout\" class=\"csscan-property\">table-layout</td><td id=\"csscan-value-table-layout\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-effects\" class=\"csscan-header\">Effects</th></tr><tr id=\"csscan-row-text-shadow\"><td id=\"csscan-property-text-shadow\" class=\"csscan-property\">text-shadow</td><td id=\"csscan-value-text-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row--webkit-box-shadow\"><td id=\"csscan-property--webkit-box-shadow\" class=\"csscan-property\">-webkit-box-shadow</td><td id=\"csscan-value--webkit-box-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-radius\"><td id=\"csscan-property-border-radius\" class=\"csscan-property\">border-radius</td><td id=\"csscan-value-border-radius\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-other\" class=\"csscan-header\">Other</th></tr><tr id=\"csscan-row-overflow\"><td id=\"csscan-property-overflow\" class=\"csscan-property\">overflow</td><td id=\"csscan-value-overflow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-cursor\"><td id=\"csscan-property-cursor\" class=\"csscan-property\">cursor</td><td id=\"csscan-value-cursor\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-visibility\"><td id=\"csscan-property-visibility\" class=\"csscan-property\">visibility</td><td id=\"csscan-value-visibility\" class=\"csscan-value\"></td></tr></tbody></table></div><div id=\"csscan-wrapper\" style=\"display: none; \"><h2 id=\"csscan-header\">element</h2><table id=\"csscan-table\"><tbody><tr><th colspan=\"2\" id=\"csscan-header-font\" class=\"csscan-header\">Font</th></tr><tr id=\"csscan-row-font-family\"><td id=\"csscan-property-font-family\" class=\"csscan-property\">font-family</td><td id=\"csscan-value-font-family\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-size\"><td id=\"csscan-property-font-size\" class=\"csscan-property\">font-size</td><td id=\"csscan-value-font-size\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-style\"><td id=\"csscan-property-font-style\" class=\"csscan-property\">font-style</td><td id=\"csscan-value-font-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-variant\"><td id=\"csscan-property-font-variant\" class=\"csscan-property\">font-variant</td><td id=\"csscan-value-font-variant\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-weight\"><td id=\"csscan-property-font-weight\" class=\"csscan-property\">font-weight</td><td id=\"csscan-value-font-weight\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-letter-spacing\"><td id=\"csscan-property-letter-spacing\" class=\"csscan-property\">letter-spacing</td><td id=\"csscan-value-letter-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-line-height\"><td id=\"csscan-property-line-height\" class=\"csscan-property\">line-height</td><td id=\"csscan-value-line-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-decoration\"><td id=\"csscan-property-text-decoration\" class=\"csscan-property\">text-decoration</td><td id=\"csscan-value-text-decoration\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-align\"><td id=\"csscan-property-text-align\" class=\"csscan-property\">text-align</td><td id=\"csscan-value-text-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-indent\"><td id=\"csscan-property-text-indent\" class=\"csscan-property\">text-indent</td><td id=\"csscan-value-text-indent\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-transform\"><td id=\"csscan-property-text-transform\" class=\"csscan-property\">text-transform</td><td id=\"csscan-value-text-transform\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-white-space\"><td id=\"csscan-property-white-space\" class=\"csscan-property\">white-space</td><td id=\"csscan-value-white-space\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-word-spacing\"><td id=\"csscan-property-word-spacing\" class=\"csscan-property\">word-spacing</td><td id=\"csscan-value-word-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-color\"><td id=\"csscan-property-color\" class=\"csscan-property\">color</td><td id=\"csscan-value-color\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-background\" class=\"csscan-header\">Background</th></tr><tr id=\"csscan-row-background-attachment\"><td id=\"csscan-property-background-attachment\" class=\"csscan-property\">bg-attachment</td><td id=\"csscan-value-background-attachment\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-color\"><td id=\"csscan-property-background-color\" class=\"csscan-property\">bg-color</td><td id=\"csscan-value-background-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-image\"><td id=\"csscan-property-background-image\" class=\"csscan-property\">bg-image</td><td id=\"csscan-value-background-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-position\"><td id=\"csscan-property-background-position\" class=\"csscan-property\">bg-position</td><td id=\"csscan-value-background-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-repeat\"><td id=\"csscan-property-background-repeat\" class=\"csscan-property\">bg-repeat</td><td id=\"csscan-value-background-repeat\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-size\" class=\"csscan-header\">Box</th></tr><tr id=\"csscan-row-width\"><td id=\"csscan-property-width\" class=\"csscan-property\">width</td><td id=\"csscan-value-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-height\"><td id=\"csscan-property-height\" class=\"csscan-property\">height</td><td id=\"csscan-value-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-top\"><td id=\"csscan-property-border-top\" class=\"csscan-property\">border-top</td><td id=\"csscan-value-border-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-right\"><td id=\"csscan-property-border-right\" class=\"csscan-property\">border-right</td><td id=\"csscan-value-border-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-bottom\"><td id=\"csscan-property-border-bottom\" class=\"csscan-property\">border-bottom</td><td id=\"csscan-value-border-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-left\"><td id=\"csscan-property-border-left\" class=\"csscan-property\">border-left</td><td id=\"csscan-value-border-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-margin\"><td id=\"csscan-property-margin\" class=\"csscan-property\">margin</td><td id=\"csscan-value-margin\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-padding\"><td id=\"csscan-property-padding\" class=\"csscan-property\">padding</td><td id=\"csscan-value-padding\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-height\"><td id=\"csscan-property-max-height\" class=\"csscan-property\">max-height</td><td id=\"csscan-value-max-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-height\"><td id=\"csscan-property-min-height\" class=\"csscan-property\">min-height</td><td id=\"csscan-value-min-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-width\"><td id=\"csscan-property-max-width\" class=\"csscan-property\">max-width</td><td id=\"csscan-value-max-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-width\"><td id=\"csscan-property-min-width\" class=\"csscan-property\">min-width</td><td id=\"csscan-value-min-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-color\"><td id=\"csscan-property-outline-color\" class=\"csscan-property\">outline-color</td><td id=\"csscan-value-outline-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-style\"><td id=\"csscan-property-outline-style\" class=\"csscan-property\">outline-style</td><td id=\"csscan-value-outline-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-width\"><td id=\"csscan-property-outline-width\" class=\"csscan-property\">outline-width</td><td id=\"csscan-value-outline-width\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-position\" class=\"csscan-header\">Positioning</th></tr><tr id=\"csscan-row-position\"><td id=\"csscan-property-position\" class=\"csscan-property\">position</td><td id=\"csscan-value-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-top\"><td id=\"csscan-property-top\" class=\"csscan-property\">top</td><td id=\"csscan-value-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-bottom\"><td id=\"csscan-property-bottom\" class=\"csscan-property\">bottom</td><td id=\"csscan-value-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-right\"><td id=\"csscan-property-right\" class=\"csscan-property\">right</td><td id=\"csscan-value-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-left\"><td id=\"csscan-property-left\" class=\"csscan-property\">left</td><td id=\"csscan-value-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-float\"><td id=\"csscan-property-float\" class=\"csscan-property\">float</td><td id=\"csscan-value-float\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-display\"><td id=\"csscan-property-display\" class=\"csscan-property\">display</td><td id=\"csscan-value-display\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-clear\"><td id=\"csscan-property-clear\" class=\"csscan-property\">clear</td><td id=\"csscan-value-clear\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-z-index\"><td id=\"csscan-property-z-index\" class=\"csscan-property\">z-index</td><td id=\"csscan-value-z-index\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-list\" class=\"csscan-header\">List</th></tr><tr id=\"csscan-row-list-style-image\"><td id=\"csscan-property-list-style-image\" class=\"csscan-property\">list-style-image</td><td id=\"csscan-value-list-style-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-type\"><td id=\"csscan-property-list-style-type\" class=\"csscan-property\">list-style-type</td><td id=\"csscan-value-list-style-type\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-position\"><td id=\"csscan-property-list-style-position\" class=\"csscan-property\">list-style-position</td><td id=\"csscan-value-list-style-position\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-table\" class=\"csscan-header\">Table</th></tr><tr id=\"csscan-row-vertical-align\"><td id=\"csscan-property-vertical-align\" class=\"csscan-property\">vertical-align</td><td id=\"csscan-value-vertical-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-collapse\"><td id=\"csscan-property-border-collapse\" class=\"csscan-property\">border-collapse</td><td id=\"csscan-value-border-collapse\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-spacing\"><td id=\"csscan-property-border-spacing\" class=\"csscan-property\">border-spacing</td><td id=\"csscan-value-border-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-caption-side\"><td id=\"csscan-property-caption-side\" class=\"csscan-property\">caption-side</td><td id=\"csscan-value-caption-side\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-empty-cells\"><td id=\"csscan-property-empty-cells\" class=\"csscan-property\">empty-cells</td><td id=\"csscan-value-empty-cells\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-table-layout\"><td id=\"csscan-property-table-layout\" class=\"csscan-property\">table-layout</td><td id=\"csscan-value-table-layout\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-effects\" class=\"csscan-header\">Effects</th></tr><tr id=\"csscan-row-text-shadow\"><td id=\"csscan-property-text-shadow\" class=\"csscan-property\">text-shadow</td><td id=\"csscan-value-text-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row--webkit-box-shadow\"><td id=\"csscan-property--webkit-box-shadow\" class=\"csscan-property\">-webkit-box-shadow</td><td id=\"csscan-value--webkit-box-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-radius\"><td id=\"csscan-property-border-radius\" class=\"csscan-property\">border-radius</td><td id=\"csscan-value-border-radius\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-other\" class=\"csscan-header\">Other</th></tr><tr id=\"csscan-row-overflow\"><td id=\"csscan-property-overflow\" class=\"csscan-property\">overflow</td><td id=\"csscan-value-overflow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-cursor\"><td id=\"csscan-property-cursor\" class=\"csscan-property\">cursor</td><td id=\"csscan-value-cursor\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-visibility\"><td id=\"csscan-property-visibility\" class=\"csscan-property\">visibility</td><td id=\"csscan-value-visibility\" class=\"csscan-value\"></td></tr></tbody></table></div></div></group></body>",
+  "cn:xmlKeyPoints": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><br /></p><div id=\"csscan-wrapper\" style=\"display: none; \"><h2 id=\"csscan-header\">element</h2><table id=\"csscan-table\"><tbody><tr><th colspan=\"2\" id=\"csscan-header-font\" class=\"csscan-header\">Font</th></tr><tr id=\"csscan-row-font-family\"><td id=\"csscan-property-font-family\" class=\"csscan-property\">font-family</td><td id=\"csscan-value-font-family\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-size\"><td id=\"csscan-property-font-size\" class=\"csscan-property\">font-size</td><td id=\"csscan-value-font-size\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-style\"><td id=\"csscan-property-font-style\" class=\"csscan-property\">font-style</td><td id=\"csscan-value-font-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-variant\"><td id=\"csscan-property-font-variant\" class=\"csscan-property\">font-variant</td><td id=\"csscan-value-font-variant\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-weight\"><td id=\"csscan-property-font-weight\" class=\"csscan-property\">font-weight</td><td id=\"csscan-value-font-weight\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-letter-spacing\"><td id=\"csscan-property-letter-spacing\" class=\"csscan-property\">letter-spacing</td><td id=\"csscan-value-letter-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-line-height\"><td id=\"csscan-property-line-height\" class=\"csscan-property\">line-height</td><td id=\"csscan-value-line-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-decoration\"><td id=\"csscan-property-text-decoration\" class=\"csscan-property\">text-decoration</td><td id=\"csscan-value-text-decoration\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-align\"><td id=\"csscan-property-text-align\" class=\"csscan-property\">text-align</td><td id=\"csscan-value-text-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-indent\"><td id=\"csscan-property-text-indent\" class=\"csscan-property\">text-indent</td><td id=\"csscan-value-text-indent\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-transform\"><td id=\"csscan-property-text-transform\" class=\"csscan-property\">text-transform</td><td id=\"csscan-value-text-transform\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-white-space\"><td id=\"csscan-property-white-space\" class=\"csscan-property\">white-space</td><td id=\"csscan-value-white-space\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-word-spacing\"><td id=\"csscan-property-word-spacing\" class=\"csscan-property\">word-spacing</td><td id=\"csscan-value-word-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-color\"><td id=\"csscan-property-color\" class=\"csscan-property\">color</td><td id=\"csscan-value-color\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-background\" class=\"csscan-header\">Background</th></tr><tr id=\"csscan-row-background-attachment\"><td id=\"csscan-property-background-attachment\" class=\"csscan-property\">bg-attachment</td><td id=\"csscan-value-background-attachment\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-color\"><td id=\"csscan-property-background-color\" class=\"csscan-property\">bg-color</td><td id=\"csscan-value-background-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-image\"><td id=\"csscan-property-background-image\" class=\"csscan-property\">bg-image</td><td id=\"csscan-value-background-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-position\"><td id=\"csscan-property-background-position\" class=\"csscan-property\">bg-position</td><td id=\"csscan-value-background-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-repeat\"><td id=\"csscan-property-background-repeat\" class=\"csscan-property\">bg-repeat</td><td id=\"csscan-value-background-repeat\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-size\" class=\"csscan-header\">Box</th></tr><tr id=\"csscan-row-width\"><td id=\"csscan-property-width\" class=\"csscan-property\">width</td><td id=\"csscan-value-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-height\"><td id=\"csscan-property-height\" class=\"csscan-property\">height</td><td id=\"csscan-value-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-top\"><td id=\"csscan-property-border-top\" class=\"csscan-property\">border-top</td><td id=\"csscan-value-border-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-right\"><td id=\"csscan-property-border-right\" class=\"csscan-property\">border-right</td><td id=\"csscan-value-border-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-bottom\"><td id=\"csscan-property-border-bottom\" class=\"csscan-property\">border-bottom</td><td id=\"csscan-value-border-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-left\"><td id=\"csscan-property-border-left\" class=\"csscan-property\">border-left</td><td id=\"csscan-value-border-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-margin\"><td id=\"csscan-property-margin\" class=\"csscan-property\">margin</td><td id=\"csscan-value-margin\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-padding\"><td id=\"csscan-property-padding\" class=\"csscan-property\">padding</td><td id=\"csscan-value-padding\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-height\"><td id=\"csscan-property-max-height\" class=\"csscan-property\">max-height</td><td id=\"csscan-value-max-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-height\"><td id=\"csscan-property-min-height\" class=\"csscan-property\">min-height</td><td id=\"csscan-value-min-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-width\"><td id=\"csscan-property-max-width\" class=\"csscan-property\">max-width</td><td id=\"csscan-value-max-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-width\"><td id=\"csscan-property-min-width\" class=\"csscan-property\">min-width</td><td id=\"csscan-value-min-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-color\"><td id=\"csscan-property-outline-color\" class=\"csscan-property\">outline-color</td><td id=\"csscan-value-outline-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-style\"><td id=\"csscan-property-outline-style\" class=\"csscan-property\">outline-style</td><td id=\"csscan-value-outline-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-width\"><td id=\"csscan-property-outline-width\" class=\"csscan-property\">outline-width</td><td id=\"csscan-value-outline-width\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-position\" class=\"csscan-header\">Positioning</th></tr><tr id=\"csscan-row-position\"><td id=\"csscan-property-position\" class=\"csscan-property\">position</td><td id=\"csscan-value-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-top\"><td id=\"csscan-property-top\" class=\"csscan-property\">top</td><td id=\"csscan-value-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-bottom\"><td id=\"csscan-property-bottom\" class=\"csscan-property\">bottom</td><td id=\"csscan-value-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-right\"><td id=\"csscan-property-right\" class=\"csscan-property\">right</td><td id=\"csscan-value-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-left\"><td id=\"csscan-property-left\" class=\"csscan-property\">left</td><td id=\"csscan-value-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-float\"><td id=\"csscan-property-float\" class=\"csscan-property\">float</td><td id=\"csscan-value-float\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-display\"><td id=\"csscan-property-display\" class=\"csscan-property\">display</td><td id=\"csscan-value-display\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-clear\"><td id=\"csscan-property-clear\" class=\"csscan-property\">clear</td><td id=\"csscan-value-clear\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-z-index\"><td id=\"csscan-property-z-index\" class=\"csscan-property\">z-index</td><td id=\"csscan-value-z-index\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-list\" class=\"csscan-header\">List</th></tr><tr id=\"csscan-row-list-style-image\"><td id=\"csscan-property-list-style-image\" class=\"csscan-property\">list-style-image</td><td id=\"csscan-value-list-style-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-type\"><td id=\"csscan-property-list-style-type\" class=\"csscan-property\">list-style-type</td><td id=\"csscan-value-list-style-type\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-position\"><td id=\"csscan-property-list-style-position\" class=\"csscan-property\">list-style-position</td><td id=\"csscan-value-list-style-position\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-table\" class=\"csscan-header\">Table</th></tr><tr id=\"csscan-row-vertical-align\"><td id=\"csscan-property-vertical-align\" class=\"csscan-property\">vertical-align</td><td id=\"csscan-value-vertical-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-collapse\"><td id=\"csscan-property-border-collapse\" class=\"csscan-property\">border-collapse</td><td id=\"csscan-value-border-collapse\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-spacing\"><td id=\"csscan-property-border-spacing\" class=\"csscan-property\">border-spacing</td><td id=\"csscan-value-border-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-caption-side\"><td id=\"csscan-property-caption-side\" class=\"csscan-property\">caption-side</td><td id=\"csscan-value-caption-side\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-empty-cells\"><td id=\"csscan-property-empty-cells\" class=\"csscan-property\">empty-cells</td><td id=\"csscan-value-empty-cells\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-table-layout\"><td id=\"csscan-property-table-layout\" class=\"csscan-property\">table-layout</td><td id=\"csscan-value-table-layout\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-effects\" class=\"csscan-header\">Effects</th></tr><tr id=\"csscan-row-text-shadow\"><td id=\"csscan-property-text-shadow\" class=\"csscan-property\">text-shadow</td><td id=\"csscan-value-text-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row--webkit-box-shadow\"><td id=\"csscan-property--webkit-box-shadow\" class=\"csscan-property\">-webkit-box-shadow</td><td id=\"csscan-value--webkit-box-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-radius\"><td id=\"csscan-property-border-radius\" class=\"csscan-property\">border-radius</td><td id=\"csscan-value-border-radius\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-other\" class=\"csscan-header\">Other</th></tr><tr id=\"csscan-row-overflow\"><td id=\"csscan-property-overflow\" class=\"csscan-property\">overflow</td><td id=\"csscan-value-overflow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-cursor\"><td id=\"csscan-property-cursor\" class=\"csscan-property\">cursor</td><td id=\"csscan-value-cursor\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-visibility\"><td id=\"csscan-property-visibility\" class=\"csscan-property\">visibility</td><td id=\"csscan-value-visibility\" class=\"csscan-value\"></td></tr></tbody></table></div><div id=\"csscan-wrapper\" style=\"display: none; \"><h2 id=\"csscan-header\">element</h2><table id=\"csscan-table\"><tbody><tr><th colspan=\"2\" id=\"csscan-header-font\" class=\"csscan-header\">Font</th></tr><tr id=\"csscan-row-font-family\"><td id=\"csscan-property-font-family\" class=\"csscan-property\">font-family</td><td id=\"csscan-value-font-family\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-size\"><td id=\"csscan-property-font-size\" class=\"csscan-property\">font-size</td><td id=\"csscan-value-font-size\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-style\"><td id=\"csscan-property-font-style\" class=\"csscan-property\">font-style</td><td id=\"csscan-value-font-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-variant\"><td id=\"csscan-property-font-variant\" class=\"csscan-property\">font-variant</td><td id=\"csscan-value-font-variant\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-weight\"><td id=\"csscan-property-font-weight\" class=\"csscan-property\">font-weight</td><td id=\"csscan-value-font-weight\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-letter-spacing\"><td id=\"csscan-property-letter-spacing\" class=\"csscan-property\">letter-spacing</td><td id=\"csscan-value-letter-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-line-height\"><td id=\"csscan-property-line-height\" class=\"csscan-property\">line-height</td><td id=\"csscan-value-line-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-decoration\"><td id=\"csscan-property-text-decoration\" class=\"csscan-property\">text-decoration</td><td id=\"csscan-value-text-decoration\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-align\"><td id=\"csscan-property-text-align\" class=\"csscan-property\">text-align</td><td id=\"csscan-value-text-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-indent\"><td id=\"csscan-property-text-indent\" class=\"csscan-property\">text-indent</td><td id=\"csscan-value-text-indent\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-transform\"><td id=\"csscan-property-text-transform\" class=\"csscan-property\">text-transform</td><td id=\"csscan-value-text-transform\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-white-space\"><td id=\"csscan-property-white-space\" class=\"csscan-property\">white-space</td><td id=\"csscan-value-white-space\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-word-spacing\"><td id=\"csscan-property-word-spacing\" class=\"csscan-property\">word-spacing</td><td id=\"csscan-value-word-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-color\"><td id=\"csscan-property-color\" class=\"csscan-property\">color</td><td id=\"csscan-value-color\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-background\" class=\"csscan-header\">Background</th></tr><tr id=\"csscan-row-background-attachment\"><td id=\"csscan-property-background-attachment\" class=\"csscan-property\">bg-attachment</td><td id=\"csscan-value-background-attachment\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-color\"><td id=\"csscan-property-background-color\" class=\"csscan-property\">bg-color</td><td id=\"csscan-value-background-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-image\"><td id=\"csscan-property-background-image\" class=\"csscan-property\">bg-image</td><td id=\"csscan-value-background-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-position\"><td id=\"csscan-property-background-position\" class=\"csscan-property\">bg-position</td><td id=\"csscan-value-background-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-repeat\"><td id=\"csscan-property-background-repeat\" class=\"csscan-property\">bg-repeat</td><td id=\"csscan-value-background-repeat\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-size\" class=\"csscan-header\">Box</th></tr><tr id=\"csscan-row-width\"><td id=\"csscan-property-width\" class=\"csscan-property\">width</td><td id=\"csscan-value-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-height\"><td id=\"csscan-property-height\" class=\"csscan-property\">height</td><td id=\"csscan-value-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-top\"><td id=\"csscan-property-border-top\" class=\"csscan-property\">border-top</td><td id=\"csscan-value-border-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-right\"><td id=\"csscan-property-border-right\" class=\"csscan-property\">border-right</td><td id=\"csscan-value-border-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-bottom\"><td id=\"csscan-property-border-bottom\" class=\"csscan-property\">border-bottom</td><td id=\"csscan-value-border-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-left\"><td id=\"csscan-property-border-left\" class=\"csscan-property\">border-left</td><td id=\"csscan-value-border-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-margin\"><td id=\"csscan-property-margin\" class=\"csscan-property\">margin</td><td id=\"csscan-value-margin\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-padding\"><td id=\"csscan-property-padding\" class=\"csscan-property\">padding</td><td id=\"csscan-value-padding\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-height\"><td id=\"csscan-property-max-height\" class=\"csscan-property\">max-height</td><td id=\"csscan-value-max-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-height\"><td id=\"csscan-property-min-height\" class=\"csscan-property\">min-height</td><td id=\"csscan-value-min-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-width\"><td id=\"csscan-property-max-width\" class=\"csscan-property\">max-width</td><td id=\"csscan-value-max-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-width\"><td id=\"csscan-property-min-width\" class=\"csscan-property\">min-width</td><td id=\"csscan-value-min-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-color\"><td id=\"csscan-property-outline-color\" class=\"csscan-property\">outline-color</td><td id=\"csscan-value-outline-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-style\"><td id=\"csscan-property-outline-style\" class=\"csscan-property\">outline-style</td><td id=\"csscan-value-outline-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-width\"><td id=\"csscan-property-outline-width\" class=\"csscan-property\">outline-width</td><td id=\"csscan-value-outline-width\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-position\" class=\"csscan-header\">Positioning</th></tr><tr id=\"csscan-row-position\"><td id=\"csscan-property-position\" class=\"csscan-property\">position</td><td id=\"csscan-value-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-top\"><td id=\"csscan-property-top\" class=\"csscan-property\">top</td><td id=\"csscan-value-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-bottom\"><td id=\"csscan-property-bottom\" class=\"csscan-property\">bottom</td><td id=\"csscan-value-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-right\"><td id=\"csscan-property-right\" class=\"csscan-property\">right</td><td id=\"csscan-value-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-left\"><td id=\"csscan-property-left\" class=\"csscan-property\">left</td><td id=\"csscan-value-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-float\"><td id=\"csscan-property-float\" class=\"csscan-property\">float</td><td id=\"csscan-value-float\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-display\"><td id=\"csscan-property-display\" class=\"csscan-property\">display</td><td id=\"csscan-value-display\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-clear\"><td id=\"csscan-property-clear\" class=\"csscan-property\">clear</td><td id=\"csscan-value-clear\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-z-index\"><td id=\"csscan-property-z-index\" class=\"csscan-property\">z-index</td><td id=\"csscan-value-z-index\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-list\" class=\"csscan-header\">List</th></tr><tr id=\"csscan-row-list-style-image\"><td id=\"csscan-property-list-style-image\" class=\"csscan-property\">list-style-image</td><td id=\"csscan-value-list-style-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-type\"><td id=\"csscan-property-list-style-type\" class=\"csscan-property\">list-style-type</td><td id=\"csscan-value-list-style-type\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-position\"><td id=\"csscan-property-list-style-position\" class=\"csscan-property\">list-style-position</td><td id=\"csscan-value-list-style-position\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-table\" class=\"csscan-header\">Table</th></tr><tr id=\"csscan-row-vertical-align\"><td id=\"csscan-property-vertical-align\" class=\"csscan-property\">vertical-align</td><td id=\"csscan-value-vertical-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-collapse\"><td id=\"csscan-property-border-collapse\" class=\"csscan-property\">border-collapse</td><td id=\"csscan-value-border-collapse\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-spacing\"><td id=\"csscan-property-border-spacing\" class=\"csscan-property\">border-spacing</td><td id=\"csscan-value-border-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-caption-side\"><td id=\"csscan-property-caption-side\" class=\"csscan-property\">caption-side</td><td id=\"csscan-value-caption-side\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-empty-cells\"><td id=\"csscan-property-empty-cells\" class=\"csscan-property\">empty-cells</td><td id=\"csscan-value-empty-cells\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-table-layout\"><td id=\"csscan-property-table-layout\" class=\"csscan-property\">table-layout</td><td id=\"csscan-value-table-layout\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-effects\" class=\"csscan-header\">Effects</th></tr><tr id=\"csscan-row-text-shadow\"><td id=\"csscan-property-text-shadow\" class=\"csscan-property\">text-shadow</td><td id=\"csscan-value-text-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row--webkit-box-shadow\"><td id=\"csscan-property--webkit-box-shadow\" class=\"csscan-property\">-webkit-box-shadow</td><td id=\"csscan-value--webkit-box-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-radius\"><td id=\"csscan-property-border-radius\" class=\"csscan-property\">border-radius</td><td id=\"csscan-value-border-radius\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-other\" class=\"csscan-header\">Other</th></tr><tr id=\"csscan-row-overflow\"><td id=\"csscan-property-overflow\" class=\"csscan-property\">overflow</td><td id=\"csscan-value-overflow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-cursor\"><td id=\"csscan-property-cursor\" class=\"csscan-property\">cursor</td><td id=\"csscan-value-cursor\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-visibility\"><td id=\"csscan-property-visibility\" class=\"csscan-property\">visibility</td><td id=\"csscan-value-visibility\" class=\"csscan-value\"></td></tr></tbody></table></div></div></group></body>",
+  "url": "http://qa-pa14pub.cnbc.com/us-homepage/",
+  "cn:settings": {
+    "cn:commentsEnabled": "No",
+    "cn:socialtoolsEnabled": "No",
+    "cn:listType": "Manual and/or populated by feeds",
+    "cn:tweetOnPublish": 0
+  },
+  "@type": "Collection",
+  "@context": {
+    "@vocab": "http://schema.org/",
+    "cn": "http://cnbc.com/schema/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "CNBC",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "cn:subtype": "section",
+  "name": "CNBC US Home",
+  "cn:association": [{
+      "@type": "Collection",
+      "@id": "10000161",
+      "cn:type": "franchise",
+      "cn:slug": "CNBC Global",
+      "cn:creatorOverwrite": "",
+      "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/10000161",
+      "cn:settings": {
+        "cn:listType": "Manual and/or populated by feeds"
+      },
+      "url": "http://qa-pa13pub.cnbc.com/cnbc-global/",
+      "datePublished": "2012-02-03T16:18:58 GMT",
+      "cn:subtype": "section",
+      "name": "Headlines from CNBC",
+      "description": "CNBC",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+        "position": 5000,
+        "cn:relationType": "franchise"
+      }]
+    },
+    {
+      "@type": "DigitalDocument",
+      "fileFormat": "text/tpl",
+      "@id": "100820856",
+      "cn:type": "markup_template",
+      "cn:slug": "homepage NG template",
+      "cn:creatorOverwrite": "",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Virtual"
+      },
+      "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/100820856",
+      "title": "",
+      "datePublished": "2013-06-17T13:21:45 GMT",
+      "name": "home_page_ng.tpl",
+      "url": "file://home_page_ng.tpl",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+        "position": 5000,
+        "cn:relationType": "template"
+      }]
+    },
+    {
+      "@type": "Collection",
+      "@id": "21017121",
+      "cn:type": "franchise",
+      "cn:slug": "us homepage live events",
+      "cn:creatorOverwrite": "",
+      "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/21017121",
+      "cn:settings": {
+        "cn:commentsEnabled": "No",
+        "cn:socialtoolsEnabled": "No",
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "url": "http://qa-pa13pub.cnbc.com/id/21017121",
+      "datePublished": "2012-05-22T22:30:16 GMT",
+      "cn:subtype": "section",
+      "name": "",
+      "description": "",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+        "position": 4999,
+        "cn:relationType": "promo"
+      }]
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "100002766",
+      "cn:type": "cnbcteam",
+      "cn:slug": "CNBC US Team",
+      "cn:creatorOverwrite": "",
+      "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/100002766",
+      "headline": "",
+      "url": "",
+      "datePublished": "2012-07-20T19:39:35 GMT",
+      "description": "",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:tweetOnPublish": 0
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+        "position": 4998,
+        "cn:relationType": "team"
+      }]
+    },
+    {
+      "@type": "EntryPoint",
+      "@id": "103605974",
+      "cn:type": "webservice",
+      "cn:slug": "Market Movers Responsive",
+      "cn:creatorOverwrite": "",
+      "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/103605974",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual"
+      },
+      "datePublished": "2016-05-04T14:32:08 GMT",
+      "cn:widgetName": "market_movers_cnbc",
+      "cn:widgetDisplayName": "unique_name::market_movers_cnbc\r\ndisplay_name::Market Movers CNBC",
+      "cn:parameters": {
+        "cn:parameter": [
+          "exchange_name::S&P,NASDAQ,DOW,IQ100,KENSHO\r",
+          "exchange_symbol::SP500,NASDAQ100,DOW30,IQ100,KNEX\r",
+          "count::5\r",
+          "rank_property::changePct\r",
+          "rank_order::Both\r",
+          "top_header_label::TOP GAINERS\r",
+          "bottom_header_label::TOP DECLINERS\r",
+          "widgetlabel::Market MOVERS\r",
+          "widgethref::/us-market-movers/"
+        ]
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+        "position": 11,
+        "cn:relationType": "related"
+      }]
+    },
+    {
+      "@type": "Collection",
+      "@id": "100307061",
+      "cn:type": "franchise",
+      "cn:slug": "Markets Stats",
+      "cn:creatorOverwrite": "",
+      "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/100307061",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "url": "http://qa-pa13pub.cnbc.com/id/100307061",
+      "datePublished": "2020-07-01T17:29:12 GMT",
+      "cn:subtype": "topic",
+      "name": "Market Data",
+      "description": "The latest data from the financial markets. Find stocks, commodities, bonds, futures and currencies on CNBC.",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+        "position": 10,
+        "cn:relationType": "related"
+      }]
+    },
+    {
+      "cn:relation": [{
+        "position": 9,
+        "cn:relationType": "related"
+      }],
+      "@id": "104780746"
+    },
+    {
+      "@type": "Collection",
+      "@id": "15838459",
+      "cn:type": "franchise",
+      "cn:slug": "Mad Money",
+      "cn:creatorOverwrite": "",
+      "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/15838459",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "url": "http://qa-pa13pub.cnbc.com/mad-money/",
+      "datePublished": "2014-02-20T00:07:49 GMT",
+      "cn:subtype": "news_show",
+      "name": "Mad Money with Jim Cramer",
+      "description": "Mad Money seeks to help people like you, who own stocks and feel like they're on the outside looking in, become better investors. To teach you how to think about the market like a pro. This show is not about picking stocks. It's not about giving you tips that will make you money overnight. Our mission is educational, to teach you how to analyze stocks and the market through the prism of events.",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+        "position": 8,
+        "cn:relationType": "related"
+      }]
+    },
+    {
+      "@type": "Collection",
+      "@id": "102356916",
+      "cn:type": "franchise",
+      "cn:slug": "Trading Nation",
+      "cn:creatorOverwrite": "",
+      "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/102356916",
+      "cn:settings": {
+        "cn:commentsEnabled": "No",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "No",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "url": "http://qa-pa13pub.cnbc.com/trading-nation/",
+      "datePublished": "2015-03-10T18:35:32 GMT",
+      "cn:subtype": "original_show",
+      "name": "Trading Nation",
+      "description": "Trading Nation brings together experts from across the financial world to capitalize on recent developments in the market. ",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+        "position": 7,
+        "cn:relationType": "related"
+      }]
+    },
+    {
+      "@type": "Collection",
+      "@id": "48227449",
+      "cn:type": "franchise",
+      "cn:slug": "Futures Now",
+      "cn:creatorOverwrite": "",
+      "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/48227449",
+      "cn:settings": {
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "url": "http://qa-pa13pub.cnbc.com/futures-now/",
+      "datePublished": "2016-11-22T22:31:05 GMT",
+      "cn:subtype": "news_show",
+      "name": "Futures Now",
+      "description": "CNBC's \"Futures Now,\" is the first multi-platform media experience entirely devoted to the futures market. Twice a week, in a fifteen-minute live program only available on CNBC.com, prominent traders focus on how to trade the news of the day using futures. From gold to gas to S&P, the \"Futures Now\" crew will teach you how to harness the power of the multi-trillion dollar futures market, and turn today's events into tomorrow's profits.",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+        "position": 6,
+        "cn:relationType": "related"
+      }]
+    },
+    {
+      "@type": "Collection",
+      "@id": "102496772",
+      "cn:type": "franchise",
+      "cn:slug": "Retire Well",
+      "cn:creatorOverwrite": "",
+      "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/102496772",
+      "cn:settings": {
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "url": "http://qa-pa13pub.cnbc.com/retirewell/",
+      "datePublished": "2017-09-05T10:40:26 GMT",
+      "cn:subtype": "special_report",
+      "name": "Retire Well",
+      "description": "A weekly look at how you can make the right financial choices to retire well.",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+        "position": 5,
+        "cn:relationType": "related"
+      }]
+    },
+    {
+      "@type": "Collection",
+      "@id": "102138233",
+      "cn:type": "franchise",
+      "cn:slug": "CNBC Pro Page",
+      "cn:creatorOverwrite": "",
+      "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/102138233",
+      "url": "http://qa-pa13pub.cnbc.com/pro-news/",
+      "datePublished": "2014-10-30T19:22:10 GMT",
+      "cn:subtype": "news_section",
+      "name": "Latest PRO news",
+      "description": "CNBC PRO is your all-access pass to CNBC’s premium digital experience. It’s a comprehensive 24-hour online destination that provides behind-the-scenes content and tools for active investors and business decision makers.",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+        "position": 4,
+        "cn:relationType": "related"
+      }]
+    },
+    {
+      "@type": "EntryPoint",
+      "@id": "102535788",
+      "cn:type": "webservice",
+      "cn:slug": "Chartbeat Homepage Most Popular Desktop",
+      "cn:creatorOverwrite": "",
+      "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/102535788",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "datePublished": "2015-03-26T00:00:38 GMT",
+      "cn:widgetName": "Chartbeat",
+      "cn:widgetDisplayName": "unique_name::Chartbeat\r\ndisplay_name::Most Popular",
+      "cn:parameters": {
+        "cn:parameter": [
+          "*src::http://chartbeat.cnbc.com/live/toppages/v3/?apikey=396923169af48284a960228dba673ef0&host=cnbc.com\r",
+          "images::yes\r",
+          "limit::5\r",
+          "section::articles\r",
+          "sort_by::\r",
+          "stats::No\r",
+          "author::"
+        ]
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+        "position": 3,
+        "cn:relationType": "related"
+      }]
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "100003343",
+      "cn:type": "skin",
+      "cn:slug": "cnbc global skin",
+      "cn:creatorOverwrite": "",
+      "title": "",
+      "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/100003343",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:tweetOnPublish": 0
+      },
+      "datePublished": "2012-07-30T19:54:30 GMT",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+        "position": 3,
+        "cn:relationType": "skin"
+      }]
+    },
+    {
+      "@type": "Collection",
+      "@id": "15839178",
+      "cn:type": "franchise",
+      "cn:slug": "Currencies",
+      "cn:creatorOverwrite": "",
+      "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/15839178",
+      "cn:settings": {
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "url": "http://qa-pa13pub.cnbc.com/currencies/",
+      "datePublished": "2013-11-21T12:28:57 GMT",
+      "cn:subtype": "marketsection",
+      "name": "Currencies",
+      "description": "Currencies, Currency Markets, News and Rates on International Currency",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+        "position": 2,
+        "cn:relationType": "related"
+      }]
+    },
+    {
+      "@type": "Collection",
+      "@id": "100769431",
+      "cn:type": "franchise",
+      "cn:slug": "US homepage markets overview",
+      "cn:creatorOverwrite": "",
+      "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/100769431",
+      "cn:settings": {
+        "cn:commentsEnabled": "No",
+        "cn:socialtoolsEnabled": "No",
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "url": "http://qa-pa13pub.cnbc.com/id/100769431",
+      "datePublished": "2013-07-12T20:44:54 GMT",
+      "cn:subtype": "marketsection",
+      "name": "US Market",
+      "description": "",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+        "position": 2,
+        "cn:relationType": "primary"
+      }]
+    },
+    {
+      "cn:relation": [{
+        "position": 2,
+        "cn:relationType": "skin"
+      }],
+      "@id": "104068350"
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "103864748",
+      "cn:type": "skin",
+      "cn:slug": "hp fix 1",
+      "cn:creatorOverwrite": "",
+      "title": "",
+      "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/103864748",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual"
+      },
+      "datePublished": "2016-08-12T06:18:55 GMT",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+        "position": 1,
+        "cn:relationType": "skin"
+      }]
+    },
+    {
+      "@type": "Collection",
+      "@id": "100000101",
+      "cn:type": "franchise",
+      "cn:slug": "US: Highlights",
+      "cn:creatorOverwrite": "",
+      "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/100000101",
+      "cn:settings": {
+        "cn:listType": "Manual and/or populated by feeds"
+      },
+      "url": "http://qa-pa13pub.cnbc.com/us-news-highlights/",
+      "datePublished": "2012-02-14T13:54:58 GMT",
+      "cn:subtype": "section",
+      "name": "CNBC U.S. Highlights",
+      "description": "The top business news highlights from CNBC so that you don't miss a thing.",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+        "position": 1,
+        "cn:relationType": "primary"
+      }]
+    },
+    {
+      "@type": "Collection",
+      "@id": "102535217",
+      "cn:type": "franchise",
+      "cn:slug": "The Big Crunch",
+      "cn:creatorOverwrite": "",
+      "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/102535217",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "url": "http://qa-pa13pub.cnbc.com/the-big-crunch/",
+      "datePublished": "2015-07-24T14:50:46 GMT",
+      "cn:subtype": "blog",
+      "name": "The Big Crunch",
+      "description": "CNBC’s unique data-driven lens at the juncture of information that moves markets, money and culture. ",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+        "position": 1,
+        "cn:relationType": "related"
+      }]
+    },
+    {
+      "@type": "Collection",
+      "@id": "16903222",
+      "cn:type": "franchise",
+      "cn:slug": "Special Reports",
+      "cn:creatorOverwrite": "",
+      "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/16903222",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "url": "http://qa-pa13pub.cnbc.com/special-reports/",
+      "datePublished": "2017-04-12T14:17:56 GMT",
+      "cn:subtype": "special_report",
+      "name": "CNBC Special Reports",
+      "description": "Find CNBC Special Reports with News and Analysis on Investing, Technology, Real Estate, Breaking News and Special Events.\r\n",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+        "position": 1,
+        "cn:relationType": "carousel"
+      }]
+    },
+    {
+      "@type": "Collection",
+      "@id": "17",
+      "cn:type": "franchise",
+      "cn:slug": "Franchise Root",
+      "cn:creatorOverwrite": "",
+      "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/17",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "url": "http://qa-pa13pub.cnbc.com/id/17",
+      "datePublished": "2002-12-01T05:00:00 GMT",
+      "cn:subtype": "blog",
+      "name": "Franchise Root",
+      "description": "",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+        "position": 0,
+        "cn:relationType": "parent"
+      }]
+    }
+  ]
+}

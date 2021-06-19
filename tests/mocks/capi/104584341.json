@@ -1,0 +1,394 @@
+{
+  "@type": "VideoObject",
+  "transcripts": " ",
+  "representativeOfPage": "true",
+  "@id": "104584341",
+  "cn:type": "cnbcvideo",
+  "cn:slug": "SOTS Yellen: We look forward  Hit 1 170713 Clem EC",
+  "cn:creatorOverwrite": "",
+  "datePublished": "2017-07-13T13:47:10 GMT",
+  "cn:summary": "In her testimony to the Senate Banking Committee, Federal Reserve Chair Janet Yellen answers questions on reviewing the Volcker Rule, and the FOMC's plans to reduce the Fed's balance sheet.",
+  "cn:shorterDescription": "",
+  "cn:shortestDescription": "",
+  "cn:dateLastPublished": "2017-07-13T14:12:29 GMT",
+  "dateModified": "2017-07-13T14:12:29 GMT",
+  "description": "In her testimony to the Senate Banking Committee, Federal Reserve Chair Janet Yellen answers questions on reviewing the Volcker Rule, and the FOMC's plans to reduce the Fed's balance sheet.",
+  "headline": "",
+  "cn:xmlKeyPoints": "",
+  "url": "http://qa-aws01pub.cnbc.com/video/2017/07/13/yellen-we-look-forward-to-working-with-other-agencies-on-volcker-rule.html",
+  "sourceOrganization": [{
+    "@type": "Organization",
+    "@id": "80000022",
+    "cn:type": "source",
+    "cn:slug": "CNBC US Source",
+    "cn:creatorOverwrite": "",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/80000022",
+    "url": "",
+    "name": "",
+    "description": "CNBC.com"
+  }],
+  "image": {
+    "@id": "104584398",
+    "cn:type": "image",
+    "cn:slug": "SOTS Yellen: We look forward  Hit 1 170713 Clem EC_1499955033",
+    "cn:creatorOverwrite": "",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104584398",
+    "author": "",
+    "contentSize": 26425,
+    "datePublished": "",
+    "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104584398-5ED1-SOTS-Yellen1-071317.jpg?v=1499955037",
+    "caption": "",
+    "description": "",
+    "height": "225",
+    "width": "400",
+    "@type": "ImageObject",
+    "representativeOfPage": "true",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "cn:relation": [{
+      "position": 5000,
+      "cn:relationType": "promo"
+    }]
+  },
+  "cn:settings": {
+    "cn:commentsEnabled": "Yes",
+    "cn:socialtoolsEnabled": "Yes",
+    "cn:dateline": "Yes",
+    "cn:displayByline": "Yes",
+    "cn:displaySource": "Yes",
+    "cn:outbrainEnabled": "Yes",
+    "cn:isFamilyFriendly": "Yes",
+    "cn:listType": "Virtual",
+    "cn:tweetOnPublish": 0,
+    "cn:videoGeoRestrictionEnabled": "No",
+    "cn:isHighPriorityVideo": "No"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "CNBC",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "@context": {
+    "@vocab": "http://schema.org/",
+    "cn": "http://cnbc.com/schema/"
+  },
+  "expireDate": "",
+  "cn:usagePlans": ["MSN Money", "MSNBC.com ", "MobilePhones", "IPTV_PDL", "CNBCNews.com Website", "CNBCNews.com Direct", "CNBC Business Video"],
+  "duration": 170,
+  "cn:network": 1,
+  "cn:show": "Squawk on the Street",
+  "cn:association": [{
+    "@type": "Collection",
+    "@id": "15838381",
+    "cn:type": "franchise",
+    "cn:slug": "Squawk on the Street",
+    "cn:creatorOverwrite": "",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15838381",
+    "cn:settings": {
+      "cn:listType": "Manual and/or populated by feeds",
+      "cn:tweetOnPublish": 0
+    },
+    "url": "http://qa-aws01pub.cnbc.com/squawk-on-the-street/",
+    "datePublished": "2012-02-03T16:19:00 GMT",
+    "cn:subtype": "news_show",
+    "name": "Squawk on the Street",
+    "description": "Headquartered live on the floor of the New York Stock Exchange, we are there when the all-important opening bell rings every day. With our exclusive \"Eye on the Floor\" wireless cameras at the NYSE we take the viewer onto the floor of the exchange, right to the posts where the biggest companies in the world trade. In addition, our exclusive \"Tick by Tick\" charts track the action of every trade of every stock.\r\n\r\nOur live market coverage doesn’t stop on the corner of Wall and Broad Streets in lower Manhattan. We also have exclusive coverage from the floor of the CME Group in Chicago giving our viewers the treasury, currency and commodity action in real time.",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "cn:relation": [{
+      "position": 5000,
+      "cn:relationType": "franchise"
+    }]
+  }, {
+    "@type": "Organization",
+    "@id": "80000022",
+    "cn:type": "source",
+    "cn:slug": "CNBC US Source",
+    "cn:creatorOverwrite": "",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/https://qa-aws02capi-bl.cnbc.com/id/80000022",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes"
+    },
+    "url": "",
+    "datePublished": "2011-10-06T17:33:47 GMT",
+    "name": "",
+    "description": "CNBC.com",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "cn:relation": [{
+      "position": 4999,
+      "cn:relationType": "source"
+    }]
+  }, {
+    "@type": "Collection",
+    "@id": "10000964",
+    "cn:type": "franchise",
+    "cn:slug": "Regulations",
+    "cn:creatorOverwrite": "",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000964",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Virtual"
+    },
+    "url": "http://qa-aws01pub.cnbc.com/id/10000964",
+    "datePublished": "2012-01-30T01:54:16 GMT",
+    "cn:subtype": "section",
+    "name": "Regulations",
+    "description": "Regulations",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "cn:relation": [{
+      "position": 7,
+      "cn:relationType": "primary"
+    }]
+  }, {
+    "@type": "Collection",
+    "@id": "10000793",
+    "cn:type": "franchise",
+    "cn:slug": "Inflation",
+    "cn:creatorOverwrite": "",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000793",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Virtual"
+    },
+    "url": "http://qa-aws01pub.cnbc.com/id/10000793",
+    "datePublished": "2012-01-30T01:55:08 GMT",
+    "cn:subtype": "section",
+    "name": "Inflation",
+    "description": "Inflation",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "cn:relation": [{
+      "position": 6,
+      "cn:relationType": "primary"
+    }]
+  }, {
+    "@type": "Collection",
+    "@id": "10000836",
+    "cn:type": "franchise",
+    "cn:slug": "Interest Rates",
+    "cn:creatorOverwrite": "",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000836",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Virtual"
+    },
+    "url": "http://qa-aws01pub.cnbc.com/id/10000836",
+    "datePublished": "2012-01-30T01:55:03 GMT",
+    "cn:subtype": "section",
+    "name": "Interest Rates",
+    "description": "Interest Rates",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "cn:relation": [{
+      "position": 5,
+      "cn:relationType": "primary"
+    }]
+  }, {
+    "@type": "Collection",
+    "@id": "100010507",
+    "cn:type": "franchise",
+    "cn:slug": "US Economy",
+    "cn:creatorOverwrite": "",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100010507",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Manual and/or populated by feeds"
+    },
+    "url": "http://qa-aws01pub.cnbc.com/us-economy/",
+    "datePublished": "2014-09-02T17:20:56 GMT",
+    "cn:subtype": "section",
+    "name": "US Economy",
+    "description": "Latest news and headlines affecting the United States economy.",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "cn:relation": [{
+      "position": 4,
+      "cn:relationType": "primary"
+    }]
+  }, {
+    "@type": "Collection",
+    "@id": "10000887",
+    "cn:type": "franchise",
+    "cn:slug": "Congress",
+    "cn:creatorOverwrite": "",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000887",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Manual and/or populated by feeds"
+    },
+    "url": "http://qa-aws01pub.cnbc.com/congress/",
+    "datePublished": "2012-01-30T01:54:46 GMT",
+    "cn:subtype": "section",
+    "name": "Congress",
+    "description": "Congressional news on the fiscal cliff, sequestration, and political commentary surrounding members of Congress. ",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "cn:relation": [{
+      "position": 3,
+      "cn:relationType": "primary"
+    }]
+  }, {
+    "@type": "Collection",
+    "@id": "10000709",
+    "cn:type": "franchise",
+    "cn:slug": "Federal Reserve",
+    "cn:creatorOverwrite": "",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000709",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Manual and/or populated by feeds"
+    },
+    "url": "http://qa-aws01pub.cnbc.com/federal-reserve/",
+    "datePublished": "2016-03-14T14:53:33 GMT",
+    "cn:subtype": "section",
+    "name": "The Fed",
+    "description": "Latest news and headlines related to the Federal Reserve. ",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "cn:relation": [{
+      "position": 2,
+      "cn:relationType": "primary"
+    }]
+  }, {
+    "@type": "Person",
+    "@id": "10000336",
+    "cn:type": "person",
+    "cn:slug": "Janet Yellen",
+    "cn:creatorOverwrite": "",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000336",
+    "url": "http://qa-aws01pub.cnbc.com/janet-yellen/",
+    "datePublished": "2012-04-04T16:49:00 GMT",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes"
+    },
+    "name": "Janet Yellen",
+    "givenName": "Janet",
+    "familyName": "Yellen",
+    "jobTitle": "Chair of the Federal Reserve",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "cn:relation": [{
+      "position": 1,
+      "cn:relationType": "primary"
+    }]
+  }, {
+    "@type": "DigitalDocument",
+    "@id": "101961777",
+    "cn:type": "skin",
+    "cn:slug": "video gallery skin",
+    "cn:creatorOverwrite": "",
+    "title": "video gallery css skin",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/101961777",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:dateline": "Yes",
+      "cn:displayByline": "Yes",
+      "cn:displaySource": "Yes",
+      "cn:outbrainEnabled": "Yes",
+      "cn:isFamilyFriendly": "Yes",
+      "cn:listType": "Virtual",
+      "cn:tweetOnPublish": 0
+    },
+    "datePublished": "2014-09-02T02:13:36 GMT",
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "cn:relation": [{
+      "position": 1,
+      "cn:relationType": "skin"
+    }]
+  }, {
+    "cn:relation": [{
+      "position": 1,
+      "cn:relationType": "template"
+    }],
+    "@id": "101816772"
+  }]
+}

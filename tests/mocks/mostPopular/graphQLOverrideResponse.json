@@ -1,0 +1,42 @@
+{
+  "data": {
+    "mostPopular": {
+      "assets": [
+        {
+          "id": "104844636",
+          "type": "blogpost",
+          "slug": "Market - GURDUS - 171115 - MM",
+          "datePublished": "2017-11-15T23:13:16+0000",
+          "description": "Jim Cramer cautioned investors about \"following the crowd,\" saying the method is often wrong and can be costly.",
+          "headline": "Cramer urges investors not to 'jump to conclusions' based only on stock moves",
+          "title": "Cramer urges investors not to 'jump to conclusions' based only on stock moves",
+          "body": [],
+          "keyPoints": [],
+          "promoImage": {
+            "id": "104417979",
+            "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104417979-GettyImages-665836206.jpg?v=1492777553",
+            "caption": "Pedestrians walk along Wall Street near the New York Stock Exchange.",
+            "type": "image"
+          }
+        },
+        {
+          "id": "104844639",
+          "type": "blogpost",
+          "slug": "Square - GURDUS - 171115 - MM",
+          "datePublished": "2017-11-15T23:25:40+0000",
+          "description": "Jim Cramer spoke to Square Chief Financial Officer Sarah Friar about her company's latest foray into digital currency.",
+          "headline": "Square CFO: We're experimenting with bitcoin to see if it's 'real'",
+          "title": "Square CFO: We're experimenting with bitcoin to see if it's 'real'",
+          "body": [],
+          "keyPoints": [],
+          "promoImage": {
+            "id": "104845450",
+            "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104845450-IMG_5778r.jpg?v=1510786810",
+            "caption": "Sarah Friar, CFO, Square",
+            "type": "image"
+          }
+        }
+      ]
+    }
+  }
+}

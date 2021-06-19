@@ -1,0 +1,124 @@
+{
+  "data": {
+    "person": {
+      "id": 104754693,
+      "type": "person",
+      "brand": "cnbc",
+      "slug": "CFO COUNCIL HAJJAR SOLVAY S.A. VOLASTRO 051017",
+      "summary": "Karim Hajjar is CFO for Solvay S.A.",
+      "linkHeadline": "Karim Hajjar, Solvay S.A.",
+      "shorterDescription": "Karim Hajjar is CFO for Solvay S.A.",
+      "datePublished": "2017-10-05T14:50:58+0000",
+      "description": "Karim Hajjar is CFO for Solvay S.A.",
+      "headline": "Karim Hajjar, Solvay S.A.",
+      "url": "http://qa-aws01web.cnbc.com/karim-hajjar-solvay-s-a/",
+      "name": "Karim Hajjar",
+      "premium": false,
+      "native": false,
+      "image": {
+        "id": 104754704,
+        "type": "image",
+        "contentSize": null,
+        "caption": "Karim Hajjar, Chief Financial Officer, Solvay S.A.",
+        "filter": null,
+        "height": 659,
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104754704-Karim-Hajjar.jpg?v=1507214677",
+        "datePublished": "2017-10-05T14:44:31+0000",
+        "dateModified": null,
+        "dateLastPublished": null,
+        "publisher": null,
+        "focalPoints": null,
+        "copyrightHolder": "Source: Solvay S.A.",
+        "slug": null,
+        "description": null
+      },
+      "sameAs": null,
+      "socialMediaInfo": null,
+      "body": {
+        "content": [{
+            "tagName": "image",
+            "attributes": {
+              "id": "104754704",
+              "type": "image",
+              "creatorOverwrite": "Source: Solvay S.A.",
+              "headline": "Handout: Karim Hajjar, Chief Financial Officer, Solvay S.A.",
+              "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104754704-Karim-Hajjar.jpg?v=1507214677",
+              "datePublished": "2017-10-05T14:44:31+0000",
+              "caption": "Karim Hajjar, Chief Financial Officer, Solvay S.A.",
+              "copyrightHolder": "Source: Solvay S.A.",
+              "width": "990",
+              "height": "659"
+            },
+            "children": []
+          },
+          {
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": [{
+                "tagName": "p",
+                "children": [
+                  "  Karim Hajjar joined Solvay S.A. as CFO and member of the  executive committee in September 2013. Prior to that, he had a  varied career that started in 1984 at Grant Thornton Chartered  Accountants in London, where he became a partner in 1993,  specializing in SMEs across numerous industries and in corporate  distress.  "
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  "  He moved to Royal Dutch/Shell in 1995 and undertook a number of  roles in the UK, Sultanate of Oman and Singapore, where his last  role was deputy global CFO of Shell Chemicals. "
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  "  ",
+                  {
+                    "tagName": "span",
+                    "children": [
+                      "Karim "
+                    ]
+                  },
+                  "subsequently joined Tarmac Group (a  division of Anglo American Plc) as group CFO before being  appointed as group managing director in 2009. He then briefly  took the role of director of finance and planning at Imperial  Tobacco Group Plc in 2011 before joining Solvay in 2013 to  contribute to its transformation.  "
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  "  ",
+                  {
+                    "tagName": "span",
+                    "children": [
+                      "Karim "
+                    ]
+                  },
+                  "is a dual British-Lebanese national, an  economics graduate from the City University in London and is a  member of the Institute of Chartered Accountants in England and  Wales. He is married and has four children."
+                ]
+              },
+              {
+                "tagName": "br"
+              },
+              {
+                "tagName": "br"
+              },
+              {
+                "tagName": "br"
+              },
+              {
+                "tagName": "br"
+              },
+              {
+                "tagName": "br"
+              },
+              {
+                "tagName": "br"
+              }
+            ]
+          }
+        ]
+      },
+      "keyPoints": []
+    }
+  }
+}

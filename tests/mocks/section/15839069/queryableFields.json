@@ -1,0 +1,142 @@
+{
+  "data": {
+    "section": {
+      "id": 15839069,
+      "type": "franchise",
+      "slug": "Investing",
+      "title": "Investing",
+      "tabLabel": "Investing",
+      "headline": "Investing",
+      "sectionLabel": "Investing",
+      "brand": "cnbc",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15839069",
+      "subType": "primetime_show",
+      "datePublished": "2012-01-30T01:52:25+0000",
+      "summary": "Expert Analysis, Investment Tools, Stock Screeners, and Financial Strategy Information.",
+      "shorterDescription": "Expert Analysis, Investment Tools, Stock Screeners, and Financial Strategy Information.",
+      "url": "https://qa-aws01web.cnbc.com/investing/",
+      "showTime": null,
+      "publisher": {
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "description": "Expert Analysis, Investment Tools, Stock Screeners, and Financial Strategy Information.",
+      "name": "Investing",
+      "color": "#000000",
+      "sectionLinktext": "Investing",
+      "headerImage": null,
+      "logo": null,
+      "dateModified": "2018-02-12T16:24:30+0000",
+      "dateLastPublished": "2018-02-12T16:24:28+0000",
+      "navigation": [
+        {
+          "id": 10001015,
+          "type": "franchise",
+          "name": "Venture Capital",
+          "host": "qa-aws01web.cnbc.com",
+          "path": "/venture-capital/"
+        },
+        {
+          "id": 10000878,
+          "type": "franchise",
+          "name": "Insurance",
+          "host": "qa-aws01web.cnbc.com",
+          "path": "/insurance/"
+        },
+        {
+          "id": 10000621,
+          "type": "franchise",
+          "name": "Mergers and Acquisitions",
+          "host": "qa-aws01web.cnbc.com",
+          "path": "/mergers-and-acquisitions/"
+        },
+        {
+          "id": 10000293,
+          "type": "franchise",
+          "name": "Hedge Fundsssss",
+          "host": "qa-aws01web.cnbc.com",
+          "path": "/hedge-funds/"
+        },
+        {
+          "id": 10000958,
+          "type": "franchise",
+          "name": "Wall Street",
+          "host": "qa-aws01web.cnbc.com",
+          "path": "/wall-street/"
+        },
+        {
+          "id": 15839069,
+          "type": "franchise",
+          "name": "Investing",
+          "host": "qa-aws01web.cnbc.com",
+          "path": "/investing/"
+        },
+        {
+          "id": 10000876,
+          "type": "franchise",
+          "name": "Banks",
+          "host": "qa-aws01web.cnbc.com",
+          "path": "/banks/"
+        },
+        {
+          "id": 10000664,
+          "type": "franchise",
+          "name": "Finance",
+          "host": "qa-aws01web.cnbc.com",
+          "path": "/finance/"
+        }
+      ],
+      "body": [
+        {
+          "tagName": "group",
+          "children": [
+            {
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "native": false,
+      "premium": false,
+      "featuredMedia": {
+        "id": 104397217
+      },
+      "keyPoints": [],
+      "image": null,
+      "related": [
+        {
+          "type": "franchise",
+          "url": "https://qa-aws01web.cnbc.com/mad-money/",
+          "datePublished": "2014-02-20T00:07:49+0000"
+        }
+      ],
+      "assets": [
+        {
+          "id": 104847196,
+          "type": "cnbcnewsstory"
+        },
+        {
+          "id": 104847117,
+          "type": "cnbcnewsstory"
+        },
+        {
+          "id": 104846992,
+          "type": "cnbcnewsstory"
+        },
+        {
+          "id": 104846850,
+          "type": "cnbcvideo"
+        },
+        {
+          "id": 104845074,
+          "type": "cnbcnewsstory"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,494 @@
+{
+  "data": {
+    "articleTicker": {
+      "assets": [
+        {
+          "id": "104845029",
+          "slug": "TN Saut Pullback Prediction LANDSMAN 171115 EC",
+          "type": "cnbcnewsstory",
+          "summary": "Secular bull Jeffrey Saut of Raymond James sees trouble for the rally.",
+          "shorterDescription": "Secular bull Jeffrey Saut of Raymond James sees trouble for the rally.",
+          "promoImage": {
+            "id": "104183134"
+          },
+          "title": "Wall Street bull warns a major pullback is near, and here’s what could spark it",
+          "author": [
+            {
+              "id": "40198614"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": " Wall Street bull warns a major pullback is near, and here’s what could spark it",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "Secular bull Jeffrey Saut of Raymond James sees trouble for the rally."
+        },
+        {
+          "id": "104845308",
+          "slug": "Retail Lookahead TN 171115 UNGARINO",
+          "type": "cnbcnewsstory",
+          "summary": "One strategist is watching specifically for the companies' holiday sales forecasts.",
+          "shorterDescription": "One strategist is watching specifically for the companies' holiday sales forecasts.",
+          "promoImage": {
+            "id": "104684055"
+          },
+          "title": "Why Wal-Mart and Best Buy earnings mean so much for the market",
+          "author": [
+            {
+              "id": "102394087"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "Why Wal-Mart and Best Buy earnings mean so much for the market",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "One strategist is watching specifically for the companies' holiday sales forecasts."
+        },
+        {
+          "id": "104843662",
+          "slug": "US premarkets Gibbs 171115 EU",
+          "type": "cnbcnewsstory",
+          "summary": "U.S. stocks closed lower on Wednesday as the current bull market showed signs of slowing down.",
+          "shorterDescription": "U.S. stocks closed lower on Wednesday as the current bull market showed signs of slowing down.",
+          "promoImage": {
+            "id": "104843876"
+          },
+          "title": "Dow sheds 135 points to close at lowest level in three weeks",
+          "author": [
+            {
+              "id": "102384716"
+            },
+            {
+              "id": "102270141"
+            },
+            {
+              "id": "104540348"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "Dow sheds 135 points to close at lowest level in three weeks",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "U.S. stocks closed lower on Wednesday as the current bull market showed signs of slowing down."
+        },
+        {
+          "id": "104844203",
+          "slug": "Yield Curve Flattens TN 171114 UNGARINO",
+          "type": "cnbcnewsstory",
+          "summary": "As stocks hover just below all-time highs and volatility remains fairly muted, the Treasury yield curve is skidding to its lowest level in a decade.",
+          "shorterDescription": "The Treasury yield curve, a key economic indicator, is skidding to its lowest level in a decade.",
+          "promoImage": {
+            "id": "102141293"
+          },
+          "title": "Why a so-called bad omen for stocks is nothing more than ‘fake news,’ says technician",
+          "author": [
+            {
+              "id": "102394087"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "So-called bad omen for stocks is nothing more than 'fake news,' says technician",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "As stocks hover just below all-time highs and volatility remains fairly muted, the Treasury yield curve is skidding to its lowest level in a decade."
+        },
+        {
+          "id": "104844696",
+          "slug": "TN ge generational low Pei 171115",
+          "type": "cnbcnewsstory",
+          "summary": "The nightmare is far from over for GE, says one technician.",
+          "shorterDescription": null,
+          "promoImage": {
+            "id": "102078656"
+          },
+          "title": "GE has reached a ‘generational low,’ but trader says it's still a no-touch",
+          "author": [
+            {
+              "id": "103560763"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "GE has reached a ‘generational low,’ but trader says it's still a no-touch",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "The nightmare is far from over for GE, says one technician."
+        },
+        {
+          "id": "104844262",
+          "slug": "TN breakout three stocks Chung 171115",
+          "type": "cnbcnewsstory",
+          "summary": "As market volatility increases, Rich Ross of Evercore ISI has three stocks to buy on the dip.",
+          "shorterDescription": "As market volatility increases, Rich Ross of Evercore ISI has three stocks to buy on the dip.",
+          "promoImage": {
+            "id": "104346324"
+          },
+          "title": "Three stocks to buy on recent weakness: Technician",
+          "author": [
+            {
+              "id": "103925396"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "Three stocks to buy on recent weakness: Technician",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "As market volatility increases, Rich Ross of Evercore ISI has three stocks to buy on the dip."
+        },
+        {
+          "id": "104842407",
+          "slug": "TN roku hit a wall Pei 171114",
+          "type": "cnbcnewsstory",
+          "summary": "The year's hottest tech IPO may be about to cool off, according to one analyst.",
+          "shorterDescription": "The year's hottest tech IPO may be about to cool off, according to one analyst.",
+          "promoImage": {
+            "id": "104179133"
+          },
+          "title": "Roku, the best-performing tech IPO this year may have just hit a wall",
+          "author": [
+            {
+              "id": "103560763"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "Roku, the best-performing tech IPO this year, may have just hit a wall",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "The year's hottest tech IPO may be about to cool off, according to one analyst."
+        },
+        {
+          "id": "104842578",
+          "slug": "Crude Oil Expiration TN 171114",
+          "type": "cnbcnewsstory",
+          "summary": "Crude oil prices were under pressure on Tuesday, falling 3 percent on rising U.S. output forecasts and global demand concerns.",
+          "shorterDescription": "Crude oil prices were under pressure on Tuesday, falling 3 percent on rising U.S. output forecasts and global demand concerns.",
+          "promoImage": {
+            "id": "103671758"
+          },
+          "title": "The catalyst that could push crude oil to $60 this week",
+          "author": [
+            {
+              "id": "102394087"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "The catalyst that could push crude oil to $60 this week",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "Crude oil prices were under pressure on Tuesday, falling 3 percent on rising U.S. output forecasts and global demand concerns."
+        },
+        {
+          "id": "104841105",
+          "slug": "Marketwrap Imbert 171114 EC",
+          "type": "cnbcnewsstory",
+          "summary": "U.S. stocks fell on Tuesday as shares of General Electric slumped for a second straight day. ",
+          "shorterDescription": null,
+          "promoImage": {
+            "id": "102729740"
+          },
+          "title": "Stocks close lower as GE drops to lowest level since 2011",
+          "author": [
+            {
+              "id": "102270141"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "Stocks close lower as GE drops to lowest level since 2011",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "U.S. stocks fell on Tuesday as shares of General Electric slumped for a second straight day. "
+        },
+        {
+          "id": "104842333",
+          "slug": "TN breakout gs Pei 171114",
+          "type": "cnbcnewsstory",
+          "summary": "There's one big bank whose shares could soon be in trouble.",
+          "shorterDescription": null,
+          "promoImage": {
+            "id": "102303538"
+          },
+          "title": "There’s trouble brewing in the charts for one Dow stock: Trader",
+          "author": [
+            {
+              "id": "103560763"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "Charts are giving off warning signs of an even bigger drop ahead for Goldman Sachs",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "There's one big bank whose shares could soon be in trouble."
+        },
+        {
+          "id": "104841158",
+          "slug": "Biotech Correction TN 171114 UNGARINO",
+          "type": "cnbcnewsstory",
+          "summary": "Biotech stocks have officially entered a correction, breaking key support, but it could actually mark a buying opportunity for the beaten group.",
+          "shorterDescription": "Biotech stocks have officially entered a correction, breaking key support, but it could actually mark a buying opportunity for the group.",
+          "promoImage": {
+            "id": "103699985"
+          },
+          "title": "Biotech just entered a correction, but one trader says it could be your best chance to buy",
+          "author": [
+            {
+              "id": "102394087"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "Biotech just entered a correction, but it could be your best chance to buy",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "Biotech stocks have officially entered a correction, breaking key support, but it could actually mark a buying opportunity for the beaten group."
+        },
+        {
+          "id": "104841388",
+          "slug": "TN ge history dividend Pei 171114",
+          "type": "cnbcnewsstory",
+          "summary": "The performance of other stocks following a dividend cut suggests that the time to buy the stock could be soon.",
+          "shorterDescription": null,
+          "promoImage": {
+            "id": "101838745"
+          },
+          "title": "History suggests GE’s massive dividend cut may not be so bad for the stock in the long term",
+          "author": [
+            {
+              "id": "103560763"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "GE’s massive dividend cut may not be so bad for the stock in the long term",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "The performance of other stocks following a dividend cut suggests that the time to buy the stock could be soon."
+        },
+        {
+          "id": "104839223",
+          "slug": "TN Shiller Passive Investing LANDSMAN 171113 EC",
+          "type": "cnbcnewsstory",
+          "summary": "Nobel Prize-winning economist Robert Shiller sees potentially dangerous issues surrounding the growing popularity of index funds and ETFs.",
+          "shorterDescription": "Nobel Prize-winning economist Robert Shiller sees potentially dangerous issues surrounding the growing popularity of index funds and ETFs.",
+          "promoImage": {
+            "id": "102337799"
+          },
+          "title": "Passive investing is a 'chaotic system' that could be dangerous, warns Robert Shiller",
+          "author": [
+            {
+              "id": "40198614"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "Passive investing is dangerous, 'chaotic system,' warns Robert Shiller",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "Nobel Prize-winning economist Robert Shiller sees potentially dangerous issues surrounding the growing popularity of index funds and ETFs."
+        },
+        {
+          "id": "104839007",
+          "slug": "Nikkei Overbought TN 171113 UNGARINO",
+          "type": "cnbcnewsstory",
+          "summary": "Japan's stock market is quite overbought, and it could impact the U.S. if the weakness persists, one market watcher tells CNBC's \"Trading Nation.\"",
+          "shorterDescription": "Japan's stock market is quite overbought, and that could impact the U.S., one market watcher tells CNBC's \"Trading Nation.\"",
+          "promoImage": {
+            "id": "104730915"
+          },
+          "title": "A leading market for US stocks is ‘very, very’ overbought, and that could mean trouble",
+          "author": [
+            {
+              "id": "102394087"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "Japan's stock market, a leading market for US stocks, is ‘very, very’ overbought. That could mean trouble",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "Japan's stock market is quite overbought, and it could impact the U.S. if the weakness persists, one market watcher tells CNBC's \"Trading Nation.\""
+        },
+        {
+          "id": "104839033",
+          "slug": "JPY Commentary TN 171113 SCHLOSSBERG UNGARINO",
+          "type": "cnbcnewsstory",
+          "summary": "Something notable is happening between the U.S. dollar/Japanese yen relationship and its correlation with various markets.",
+          "shorterDescription": "Something notable is happening between the U.S. dollar/Japanese yen relationship and its correlation with various markets.",
+          "promoImage": {
+            "id": "103590677"
+          },
+          "title": "A key correlation in the currency market is breaking down. Here’s what it means",
+          "author": [
+            {
+              "id": "102306385"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "A key correlation in the currency market is breaking down. Here’s what it means",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "Something notable is happening between the U.S. dollar/Japanese yen relationship and its correlation with various markets."
+        },
+        {
+          "id": "104839181",
+          "slug": "TN walmart buy Pei 171113",
+          "type": "cnbcnewsstory",
+          "summary": "Wal-Mart is surging, and traders believe the stock is still worth buying.",
+          "shorterDescription": null,
+          "promoImage": {
+            "id": "103176135"
+          },
+          "title": "Wal-Mart is having its best year since 1999, and it’s still a buy",
+          "author": [
+            {
+              "id": "103560763"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "Wal-Mart is having its best year since 1999, and it’s still a buy",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "Wal-Mart is surging, and traders believe the stock is still worth buying."
+        },
+        {
+          "id": "104835721",
+          "slug": "TN Federated Chiavarone Bull Case LANDSMAN 171110 EC",
+          "type": "cnbcnewsstory",
+          "summary": "The secular bull market is still in its early stages, according to Federated portfolio manager Steve Chiavarone.",
+          "shorterDescription": "The secular bull market is still in its early stages, according to Federated portfolio manager Steve Chiavarone.",
+          "promoImage": {
+            "id": "104835933"
+          },
+          "title": "Bull market has more than a decade left, Federated Investors says",
+          "author": [
+            {
+              "id": "40198614"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "Bull market has more than a decade left, Federated Investors says",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "The secular bull market is still in its early stages, according to Federated portfolio manager Steve Chiavarone."
+        },
+        {
+          "id": "104835946",
+          "slug": "GE Investor Day TN 171110 UNGARINO",
+          "type": "cnbcnewsstory",
+          "summary": "General Electric bulls have clung to the notion of a potential breakup of the company as a reason to own the stock. But that argument may not work out.",
+          "shorterDescription": "GE bulls have clung to the notion of a potential breakup of the company as a reason to own the stock. But that argument may not work out.",
+          "promoImage": {
+            "id": "103954053"
+          },
+          "title": "One major bull case for owning GE just flew out the window",
+          "author": [
+            {
+              "id": "102394087"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "One major bull case for owning GE just flew out the window",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "General Electric bulls have clung to the notion of a potential breakup of the company as a reason to own the stock. But that argument may not work out."
+        },
+        {
+          "id": "104836081",
+          "slug": "Sneaker Stocks TN 171110 DIAZ",
+          "type": "cnbcnewsstory",
+          "summary": "The two sneaker stocks could face bigger hurdles when they report next week.",
+          "shorterDescription": "The two sneaker stocks could face bigger hurdles when they report next week.",
+          "promoImage": {
+            "id": "102558364"
+          },
+          "title": "Two beaten retailers that could sink to new lows next week",
+          "author": [
+            {
+              "id": "101561802"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "Two beaten retailers that could sink to new lows next week",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "The two sneaker stocks could face bigger hurdles when they report next week."
+        },
+        {
+          "id": "104835614",
+          "slug": "TN financials Pei 171110",
+          "type": "cnbcnewsstory",
+          "summary": "The financials sector is about to make a comeback, according to one strategist.",
+          "shorterDescription": "The financials sector is about to make a comeback, according to one strategist.",
+          "promoImage": {
+            "id": "104601326"
+          },
+          "title": "Financials may be lagging, but here’s why one strategist believes a turnaround is in sight",
+          "author": [
+            {
+              "id": "103560763"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "Here’s why a strategist believes a financials turnaround is in sight",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "The financials sector is about to make a comeback, according to one strategist."
+        }
+      ]
+    }
+  }
+}

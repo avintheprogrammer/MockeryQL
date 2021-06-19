@@ -1,0 +1,914 @@
+{
+  "data": {
+    "article": {
+      "id": "104823926",
+      "type": "cnbcnewsstory",
+      "url": "http://qa-pa14pub.cnbc.com/2017/12/09/testing-body-markup-variations.html",
+      "brand": "cnbc",
+      "slug": "Testing body markup variations",
+      "creatorOverwrite": null,
+      "headline": "Testing body markup variations",
+      "title": "Testing body markup variations",
+      "description": "Bernstein reiterates its outperform rating for Netflix shares, saying the company can increase prices without any big detriments to the shareholders.",
+      "premium": false,
+      "native": false,
+      "body": [{
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": [{
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Text",
+                    "content": "What will the office of tomorrow be like? The needs of employees are changing and businesses must change with them in order to attract the best workers. One way to do this will be combining work and leisure, experts tell CNBC."
+                  }]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Text",
+                    "content": "\"Employers today need to create an environment that attracts the talent and allows them to really grow and be happy there,\" Tom Redmayne, director of business development for U.K. and Ireland at Wiredscore.com, told CNBC Squawk Box on Monday."
+                  }]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                      "type": "Text",
+                      "content": "Redmayne, whose company certifies the quality of internet connectivity in office spaces, says "
+                    },
+                    {
+                      "type": "Element",
+                      "tagName": "a",
+                      "attributes": {
+                        "href": "http://qa-pa14pub.cnbc.com/2017/12/15/testing-body-markup-variations-2.html"
+                      },
+                      "children": [{
+                        "type": "Text",
+                        "content": "the key ingredients for an attractive workspace"
+                      }]
+                    },
+                    {
+                      "type": "Text",
+                      "content": " include having fantastic digital infrastructure, leisure and retail opportunities, and the ability to balance work and home life."
+                    }
+                  ]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Text",
+                    "content": "\"Now you're accessible (to clients) 24/7 and clients expect you to come back to them the whole time, people no longer accept a working environment that's a stale, undynamic place. They want to be able to interact and have something that's akin to what they have in their personal lives.\""
+                  }]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": [{
+                "type": "Element",
+                "tagName": "asset",
+                "attributes": {
+                  "type": "image",
+                  "headline": "test-article-image",
+                  "url": "http://img-static-qa1.cnbc.com/image/104824261-missile.jpg?v=1513335921",
+                  "datePublished": "2017-12-15T11:05:17 GMT",
+                  "width": "629",
+                  "height": "315"
+                },
+                "children": []
+              }]
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": [{
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Text",
+                    "content": "In some cases, businesses are moving towards a virtual office structure, with employees working at home or remotely, using their connected digital devices. In 2016 in the U.K., the number of people regularly working from home increased 7.7 percent to 1.639 million, according to the Trades Union Congress."
+                  }]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Text",
+                    "content": "Yet while digital devices and virtual office tools will drive efficiencies and helps employees work harder, Redmayne says we'll always need a physical office for work."
+                  }]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Text",
+                    "content": "\"I think the serendipitous interactions you get through actually working with colleagues in your business and also with your partners make such a difference and I think we'll always need an office to drive those sorts of interactions,\" he told CNBC's Squawk Box on Monday."
+                  }]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Element",
+                    "tagName": "b",
+                    "attributes": {},
+                    "children": []
+                  }]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Element",
+                    "tagName": "b",
+                    "attributes": {},
+                    "children": [{
+                      "type": "Text",
+                      "content": "Millarworld Franchises"
+                    }]
+                  }]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "ol",
+                  "attributes": {},
+                  "children": [{
+                      "type": "Element",
+                      "tagName": "li",
+                      "attributes": {},
+                      "children": [{
+                          "type": "Element",
+                          "tagName": "b",
+                          "attributes": {
+                            "style": {
+                              "fontSize": "1.1em"
+                            }
+                          },
+                          "children": [{
+                            "type": "Text",
+                            "content": "Wanted"
+                          }]
+                        },
+                        {
+                          "type": "Element",
+                          "tagName": "span",
+                          "attributes": {},
+                          "children": [{
+                            "type": "Text",
+                            "content": " ― $134m Total Gross"
+                          }]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "Element",
+                      "tagName": "li",
+                      "attributes": {},
+                      "children": [{
+                          "type": "Element",
+                          "tagName": "b",
+                          "attributes": {
+                            "style": {
+                              "fontSize": "1.1em"
+                            }
+                          },
+                          "children": [{
+                            "type": "Text",
+                            "content": "Kingsman: The Secret Service of Men Who Hunt Treasures"
+                          }]
+                        },
+                        {
+                          "type": "Element",
+                          "tagName": "span",
+                          "attributes": {},
+                          "children": [{
+                            "type": "Text",
+                            "content": " "
+                          }]
+                        },
+                        {
+                          "type": "Element",
+                          "tagName": "b",
+                          "attributes": {
+                            "style": {
+                              "fontSize": "1.1em"
+                            }
+                          },
+                          "children": [{
+                            "type": "Text",
+                            "content": "―"
+                          }]
+                        },
+                        {
+                          "type": "Element",
+                          "tagName": "span",
+                          "attributes": {},
+                          "children": [{
+                            "type": "Text",
+                            "content": " $128m Total Gross"
+                          }]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "Element",
+                      "tagName": "li",
+                      "attributes": {},
+                      "children": [{
+                          "type": "Element",
+                          "tagName": "b",
+                          "attributes": {
+                            "style": {
+                              "fontSize": "1.1em"
+                            }
+                          },
+                          "children": [{
+                            "type": "Text",
+                            "content": "Kickass"
+                          }]
+                        },
+                        {
+                          "type": "Element",
+                          "tagName": "span",
+                          "attributes": {},
+                          "children": [{
+                            "type": "Text",
+                            "content": " ― $48m Total Gross"
+                          }]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "Element",
+                      "tagName": "li",
+                      "attributes": {},
+                      "children": [{
+                          "type": "Element",
+                          "tagName": "b",
+                          "attributes": {
+                            "style": {
+                              "fontSize": "1.1em"
+                            }
+                          },
+                          "children": [{
+                            "type": "Text",
+                            "content": "Reborn"
+                          }]
+                        },
+                        {
+                          "type": "Element",
+                          "tagName": "span",
+                          "attributes": {},
+                          "children": [{
+                            "type": "Text",
+                            "content": " ― $34m Total Gross"
+                          }]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Element",
+                    "tagName": "b",
+                    "attributes": {},
+                    "children": []
+                  }]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Element",
+                    "tagName": "b",
+                    "attributes": {},
+                    "children": [{
+                      "type": "Text",
+                      "content": "What's behind the rise?"
+                    }]
+                  }]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Text",
+                    "content": "South Korea is driving the trade with over 60 percent of buying happening in Korean won. Lawmakers in South Korea are looking to regulate ethereum and bitcoin which is buoying sentiment."
+                  }]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Text",
+                    "content": "At the same time, there has been huge hype around so-called initial coin offerings (ICOs). ICOs are a way for start-ups to raise money from users, similar to crowdfunding, by allowing them to buy a stake. In return, the user will receive a token or digital currency, which are equivalent to shares in the firm. ICO money in June and July surpassed early stage venture capital and angel funding."
+                  }]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Text",
+                    "content": "I think the serendipitous interactions you get through actually working with colleagues in your business and also with your partners make such a difference and I think we'll always need an office to drive those sorts of interactions."
+                  }]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Text",
+                    "content": "Director of business development"
+                  }]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Text",
+                    "content": "Tom Redmayne"
+                  }]
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": [{
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Element",
+                    "tagName": "span",
+                    "attributes": {},
+                    "children": []
+                  }]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                      "type": "Element",
+                      "tagName": "span",
+                      "attributes": {},
+                      "children": [{
+                        "type": "Text",
+                        "content": "Many of the firms doing an ICO are blockchain start-ups built on the ethereum blockchain. The "
+                      }]
+                    },
+                    {
+                      "type": "Element",
+                      "tagName": "a",
+                      "attributes": {
+                        "href": "http://qa-pa14pub.cnbc.com/2017/12/15/testing-body-markup-variations-2.html"
+                      },
+                      "children": [{
+                        "type": "Text",
+                        "content": "ethereum blockchain"
+                      }]
+                    },
+                    {
+                      "type": "Element",
+                      "tagName": "span",
+                      "attributes": {},
+                      "children": [{
+                        "type": "Text",
+                        "content": " is particularly useful for so-called smart contracts which are automatically executed when certain conditions are met."
+                      }]
+                    }
+                  ]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Element",
+                    "tagName": "span",
+                    "attributes": {},
+                    "children": []
+                  }]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Element",
+          "tagName": "group",
+          "attributes": {},
+          "children": [{
+              "type": "Element",
+              "tagName": "subtitle",
+              "attributes": {},
+              "children": []
+            },
+            {
+              "type": "Element",
+              "tagName": "pullquote",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "pullquote_quote",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_title",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "pullquote_attribution",
+                  "attributes": {},
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "Element",
+              "tagName": "assets",
+              "attributes": {},
+              "children": [{
+                "type": "Element",
+                "tagName": "asset",
+                "attributes": {
+                  "type": "chart",
+                  "headline": "test csv chart",
+                  "datePublished": "2017-12-09T05:00:00 GMT",
+                  "chartType": "csv",
+                  "rows": [
+                    [
+                      "Complaint",
+                      "Percent of complaints"
+                    ],
+                    [
+                      "Attmepts to collect debt not owed",
+                      "51%"
+                    ],
+                    [
+                      "Improper communication tactics",
+                      "20%"
+                    ],
+                    [
+                      "Other",
+                      "18%"
+                    ],
+                    [
+                      "Insufficient written notice",
+                      "11%"
+                    ],
+                    [
+                      ""
+                    ]
+                  ],
+                  "rowHeader": true,
+                  "columnHeader": false
+                },
+                "children": []
+              }]
+            },
+            {
+              "type": "Element",
+              "tagName": "div",
+              "attributes": {
+                "className": [
+                  "group"
+                ]
+              },
+              "children": [{
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": []
+                },
+                {
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                      "type": "Text",
+                      "content": "Ethereum has also had some very high-profile corporate backers. A group called the Enterprise Ethereum Alliance (EEA) was established in February 2017. Since then, it has "
+                    },
+                    {
+                      "type": "Element",
+                      "tagName": "a",
+                      "attributes": {
+                        "href": "http://qa-pa14pub.cnbc.com/2017/12/15/testing-body-markup-variations-2.html"
+                      },
+                      "children": [{
+                        "type": "Text",
+                        "content": "grown to include"
+                      }]
+                    },
+                    {
+                      "type": "Text",
+                      "content": " 86 firms including the likes of JPMorgan and Microsoft. The corporate support has lent it legitimacy which has boosted investors' appetite."
+                    }
+                  ]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Text",
+                    "content": "Analysts expect the current price rises in ethereum to continue, with online trading platform eToro saying that there is bullish sentiment among traders."
+                  }]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "p",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Text",
+                    "content": "\"Investors' attitude towards the coin over the coming hours and days will be a great case study. Some might want to realize profits shortly to avoid the losses they incurred during the last trading cycle, but looking at current trading sentiment on the eToro platform, the mood seems to be bullish,\" Iqbal Gandham, U.K. managing director at eToro, said in a note on Wednesday."
+                  }]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "keyPoints": [{
+        "type": "Element",
+        "tagName": "group",
+        "attributes": {},
+        "children": [{
+            "type": "Element",
+            "tagName": "subtitle",
+            "attributes": {},
+            "children": []
+          },
+          {
+            "type": "Element",
+            "tagName": "pullquote",
+            "attributes": {},
+            "children": [{
+                "type": "Element",
+                "tagName": "pullquote_quote",
+                "attributes": {},
+                "children": []
+              },
+              {
+                "type": "Element",
+                "tagName": "pullquote_title",
+                "attributes": {},
+                "children": []
+              },
+              {
+                "type": "Element",
+                "tagName": "pullquote_attribution",
+                "attributes": {},
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "Element",
+            "tagName": "assets",
+            "attributes": {},
+            "children": []
+          },
+          {
+            "type": "Element",
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": [{
+              "type": "Element",
+              "tagName": "ul",
+              "attributes": {},
+              "children": [{
+                  "type": "Element",
+                  "tagName": "li",
+                  "attributes": {},
+                  "children": [{
+                    "type": "Element",
+                    "tagName": "b",
+                    "attributes": {
+                      "style": {
+                        "fontSize": "1.1em"
+                      }
+                    },
+                    "children": [{
+                      "type": "Text",
+                      "content": "The needs of employees are changing and businesses must change with them in order to attract the best workers."
+                    }]
+                  }]
+                },
+                {
+                  "type": "Element",
+                  "tagName": "li",
+                  "attributes": {},
+                  "children": [{
+                      "type": "Element",
+                      "tagName": "b",
+                      "attributes": {},
+                      "children": [{
+                        "type": "Text",
+                        "content": "The requirements of all age groups are changing, not just those of the young."
+                      }]
+                    },
+                    {
+                      "type": "Text",
+                      "content": " "
+                    },
+                    {
+                      "type": "Element",
+                      "tagName": "b",
+                      "attributes": {},
+                      "children": [{
+                        "type": "Text",
+                        "content": "People want amenities and entertainment near work, says the CEO of British Land."
+                      }]
+                    }
+                  ]
+                }
+              ]
+            }]
+          }
+        ]
+      }],
+      "relatedContent": null,
+      "featuredMedia": {
+        "id": "104822883",
+        "type": "cnbcvideo",
+        "brand": "cnbc",
+        "datePublished": "2017-11-06T16:59:32 GMT",
+        "dateLastPublished": null,
+        "dateModified": null,
+        "description": "Bitcoin trade in Japan accounts for about half of the global trade volume. That number has surged since the government passed a new law earlier this year, recognizing bitcoin as a legal form of currency. CNBC's Akiko Fujita reports.",
+        "slug": "Bitcoin Japan Akiko",
+        "headline": "Japan made bitcoin a legal currency, and now it's more popular than ever",
+        "url": "http://qa-aws01web.cnbc.com/video/2017/11/06/japan-made-bitcoin-a-legal-currency-and-now-its-more-popular-than-ever.html",
+        "publisher": {
+          "name": "CNBC",
+          "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+        },
+        "usagePlans": null,
+        "show": "Digital First",
+        "expireDate": null,
+        "encodings": null
+      },
+      "promoImage": {
+        "id": "104824260",
+        "type": "image",
+        "contentSize": null
+      },
+      "datePublished": "2017-12-09T14:11:33 GMT",
+      "dateModified": "2017-12-19T19:25:54 GMT",
+      "publisher": {
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "section": {
+        "id": "100807029",
+        "color": "#1FF1C8",
+        "name": "Cybersecurity",
+        "url": "http://qa-pa13pub.cnbc.com/cybersecurity/",
+        "image": "https://fm.cnbc.com/applications/cnbc.com/resources/styles/skin/special-reports/the-pulse/pulse-1market-header-2800.jpg",
+        "logo": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/Redesign/pulse_logo.png"
+      },
+      "relatedTags": [{
+          "id": "818",
+          "name": "Tech",
+          "url": "https://www.cnbc.com/technology/"
+        },
+        {
+          "id": "347",
+          "name": "Finance",
+          "url": "https://www.cnbc.com/finance/"
+        },
+        {
+          "id": "917",
+          "name": "Economy",
+          "url": "https://www.cnbc.com/economy/"
+        },
+        {
+          "id": "561",
+          "name": "Politics",
+          "url": "https://www.cnbc.com/politics/"
+        },
+        {
+          "id": "718",
+          "name": "Healthcare",
+          "url": "https://www.cnbc.com/health-care/"
+        }
+      ],
+      "author": [{
+        "id": "102870727",
+        "url": "http://qa-pa13pub.cnbc.com/tae-kim/",
+        "name": "Tae Kim",
+        "image": {
+          "id": null
+        },
+        "sameAs": [
+          "https://www.twitter.com/firstadopter"
+        ],
+        "socialMediaInfo": [{
+          "url": "https://twitter.com/firstadopter",
+          "displayText": "firstadopter",
+          "type": "twitter"
+        }]
+      }],
+      "sourceOrganization": [{
+        "id": "80000022",
+        "type": "source",
+        "slug": "CNBC US Source",
+        "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/80000022",
+        "url": null,
+        "name": "cnbctitle",
+        "description": "CNBC.com",
+        "logo": "http://fm.cnbc.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif"
+      }]
+    }
+  }
+}

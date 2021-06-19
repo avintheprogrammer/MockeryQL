@@ -1,0 +1,31 @@
+{
+  "data": {
+    "sections": [{
+      "relatedContent": [{
+          "id": 100004036,
+          "type": "franchise",
+          "url": "https://qa-aws01pub.cnbc.com/us-video/",
+          "title": "CNBC U.S. Video News Clips on the Stock Market - CNBC",
+          "promoImage": null,
+          "premium": false
+        },
+        {
+          "id": 100004034,
+          "type": "franchise",
+          "url": "https://qa-aws01pub.cnbc.com/asia-video/",
+          "title": "CNBC Asia Video News Clips on the Stock Market - CNBC",
+          "promoImage": null,
+          "premium": false
+        },
+        {
+          "id": 100004035,
+          "type": "franchise",
+          "url": "https://qa-aws01pub.cnbc.com/europe-video/",
+          "title": "CNBC Europe Video News Clips on the Stock Market - CNBC",
+          "promoImage": null,
+          "premium": false
+        }
+      ]
+    }]
+  }
+}

@@ -1,0 +1,495 @@
+{
+  "data": {
+    "articleTicker": {
+      "assets": [
+        {
+          "id": "104846707",
+          "slug": "John Malone investor day KIM 171116 EC  [Related tags setup - Please do not update]",
+          "type": "cnbcnewsstory",
+          "summary": "Liberty Media Chairman John Malone shares his views in an exclusive interview with CNBC’s David Faber Thursday.",
+          "shorterDescription": "Liberty Media Chairman John Malone shares his views in an exclusive interview with CNBC’s David Faber Thursday.",
+          "promoImage": {
+            "id": "104847370"
+          },
+          "title": "John Malone says Amazon is a 'Death Star' moving in 'striking range of every industry on the planet'",
+          "author": [
+            {
+              "id": "102870727"
+            },
+            {
+              "id": "104803012"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "John Malone says Amazon is a 'Death Star' ",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "Liberty Media Chairman John Malone shares his views in an exclusive interview with CNBC’s David Faber Thursday."
+        },
+        {
+          "id": "104845427",
+          "slug": "Trump’s tax reform HARWOOD 171115 EC",
+          "type": "cnbcnewsstory",
+          "summary": "President Trump's white working-class supporters don't gain much from the Republican tax cut push. They support it anyway.",
+          "shorterDescription": "President Trump's white working-class supporters don't gain much from the Republican tax cut push. They support it anyway.",
+          "promoImage": {
+            "id": "104143295"
+          },
+          "title": "Trump’s core supporters are about to be handed the bill for tax reform -123",
+          "author": [
+            {
+              "id": "15838123"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "Trump’s core supporters are about to be handed the bill for tax reform",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "President Trump's white working-class supporters don't gain much from the Republican tax cut push. They support it anyway."
+        },
+        {
+          "id": "104846858",
+          "slug": "ATT Time Warner chance CHENG 171116 EC",
+          "type": "cnbcnewsstory",
+          "summary": "An AT&T takeover of Time Warner, without a sale of CNN, is still quite likely, media mogul John Malone says. ",
+          "shorterDescription": "An AT&T takeover of Time Warner, without a sale of CNN, is still quite likely, media mogul John Malone says. ",
+          "promoImage": {
+            "id": "104570724"
+          },
+          "title": "Legendary cable dealmaker Malone: AT&T-Time Warner deal still has 75% chance, with CNN included",
+          "author": [
+            {
+              "id": "101069441"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "John Malone: AT&T-Time Warner deal still has 75% chance, with CNN included",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "An AT&T takeover of Time Warner, without a sale of CNN, is still quite likely, media mogul John Malone says. "
+        },
+        {
+          "id": "104846845",
+          "slug": "Ron Johnson 2 LOVELACE 171116 ec",
+          "type": "cnbcnewsstory",
+          "summary": "Johnson says President Trump personally promised to \"'work my tail off'\" to win the Wisconsin Republican's vote.",
+          "shorterDescription": null,
+          "promoImage": {
+            "id": "104653968"
+          },
+          "title": "GOP’s Ron Johnson: Trump told me he’d get me information I need to propose a fix to the Senate tax bill",
+          "author": [
+            {
+              "id": "103703155"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "Sen. Ron Johnson: Trump promises details so I can try to fix tax bill",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "Johnson says President Trump personally promised to \"'work my tail off'\" to win the Wisconsin Republican's vote."
+        },
+        {
+          "id": "104847196",
+          "slug": "Malone charter KIM 171116 EC ",
+          "type": "cnbcnewsstory",
+          "summary": "Charter director John Malone shares his views in an exclusive interview with CNBC’s David Faber Thursday.",
+          "shorterDescription": "Charter director John Malone shares his views in an exclusive interview with CNBC’s David Faber Thursday.",
+          "promoImage": {
+            "id": "104112420"
+          },
+          "title": "John Malone: There have been 'four different approaches’ for Charter",
+          "author": [
+            {
+              "id": "102870727"
+            },
+            {
+              "id": "104775715"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "John Malone: There have been 'four different approaches’ for Charter",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "Charter director John Malone shares his views in an exclusive interview with CNBC’s David Faber Thursday."
+        },
+        {
+          "id": "104847085",
+          "slug": "tax reform trouble Commentary BOUROUDJIAN 171116 EC",
+          "type": "cnbcnewsstory",
+          "summary": "Adding ACA repeal to tax reform is a distraction that could kill the bill and sink the market, says Jack Bouroudjian.",
+          "shorterDescription": "Adding ACA repeal to tax reform is a distraction that could kill the bill and sink the market, says Jack Bouroudjian.",
+          "promoImage": {
+            "id": "104190690"
+          },
+          "title": "The market could be 'in the crosshairs’ of a 20% drop if tax reform fails",
+          "author": [
+            {
+              "id": "24759973"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "The market could be 'in the crosshairs’ of a 20% drop if tax reform fails",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "Adding ACA repeal to tax reform is a distraction that could kill the bill and sink the market, says Jack Bouroudjian."
+        },
+        {
+          "id": "104835075",
+          "slug": "wmt earnings THOMAS 1711 ec",
+          "type": "cnbcnewsstory",
+          "summary": "Wal-Mart reports strong growth online, with e-commerce sales growing 50 percent in the fiscal third quarter.",
+          "shorterDescription": "Wal-Mart reports strong growth online, with e-commerce sales growing 50 percent in the fiscal third quarter.",
+          "promoImage": {
+            "id": "104166951"
+          },
+          "title": "Wal-Mart surges to all-time high after earnings crush expectations",
+          "author": [
+            {
+              "id": "103647424"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "Wal-Mart's earnings crush expectations as grocery and online sales surge",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "Wal-Mart reports strong growth online, with e-commerce sales growing 50 percent in the fiscal third quarter."
+        },
+        {
+          "id": "104846856",
+          "slug": "Disney Fox logic Malone CHENG 171116 EC",
+          "type": "cnbcnewsstory",
+          "summary": "Liberty Media Chairman John Malone thinks a Walt Disney purchase of 21st Century Fox makes sense and would benefit both sides. ",
+          "shorterDescription": null,
+          "promoImage": {
+            "id": "104825376"
+          },
+          "title": "John Malone says Disney-Fox deal makes sense and benefits both sides",
+          "author": [
+            {
+              "id": "101069441"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "John Malone says Disney-Fox deal makes sense and benefits both sides",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "Liberty Media Chairman John Malone thinks a Walt Disney purchase of 21st Century Fox makes sense and would benefit both sides. "
+        },
+        {
+          "id": "104845029",
+          "slug": "TN Saut Pullback Prediction LANDSMAN 171115 EC",
+          "type": "cnbcnewsstory",
+          "summary": "Secular bull Jeffrey Saut of Raymond James sees trouble for the rally.",
+          "shorterDescription": "Secular bull Jeffrey Saut of Raymond James sees trouble for the rally.",
+          "promoImage": {
+            "id": "104183134"
+          },
+          "title": "Wall Street bull warns a major pullback is near, and here’s what could spark it",
+          "author": [
+            {
+              "id": "40198614"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": " Wall Street bull warns a major pullback is near, and here’s what could spark it",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "Secular bull Jeffrey Saut of Raymond James sees trouble for the rally."
+        },
+        {
+          "id": "104847087",
+          "slug": "Wall Street concerned NFL 171116 Franck EC",
+          "type": "cnbcnewsstory",
+          "summary": "The National Football League's weak viewership has Wall Street on edge, and the numbers aren't looking any better for Week 10.",
+          "shorterDescription": "The National Football League's weak viewership has Wall Street on edge, and the numbers aren't looking any better for Week 10.",
+          "promoImage": {
+            "id": "104847468"
+          },
+          "title": "Wall Street's NFL worries mount as viewership slides with tough weeks ahead",
+          "author": [
+            {
+              "id": "104540348"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "Wall Street's NFL worries mount as viewership slides with tough weeks ahead",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "The National Football League's weak viewership has Wall Street on edge, and the numbers aren't looking any better for Week 10."
+        },
+        {
+          "id": "104819615",
+          "slug": " top underwater hotels MONTAG 171103 nyc",
+          "type": "cnbcnewsstory",
+          "summary": "These underwater bars, hotels and restaurants are sure to impress luxury travelers.",
+          "shorterDescription": "Instead of a cocktail on the beach, try under it!",
+          "promoImage": {
+            "id": "104827242"
+          },
+          "title": "See inside 5 of the world's most amazing underwater hotels and restaurants",
+          "author": [
+            {
+              "id": "102745262"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "See inside 5 of the world's most amazing underwater hotels and restaurants",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "These underwater bars, hotels and restaurants are sure to impress luxury travelers."
+        },
+        {
+          "id": "104846992",
+          "slug": "Cisco stox BALAKRISHNAN 171116 EC",
+          "type": "cnbcnewsstory",
+          "summary": "Sales were boosted by the company's growing security business and subscription software. ",
+          "shorterDescription": null,
+          "promoImage": null,
+          "title": "Cisco stock pops 6% as earnings beat, solidifying a transformation toward the cloud",
+          "author": [
+            {
+              "id": "102394084"
+            },
+            {
+              "id": "104806090"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "Cisco stock pops 6% after earnings beat improves turnaround outlook",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "Sales were boosted by the company's growing security business and subscription software. "
+        },
+        {
+          "id": "104846991",
+          "slug": "Coca-Cola investor day LAVITO 171116 EC",
+          "type": "cnbcnewsstory",
+          "summary": "Coca-Cola CEO James Quincey, who took over in May after serving as chief operating officer, reaffirmed guidance ahead of investor day.",
+          "shorterDescription": "Coca-Cola CEO James Quincey, who took over in May after serving as chief operating officer, reaffirmed guidance ahead of investor day.",
+          "promoImage": {
+            "id": "104846984"
+          },
+          "title": "Coca-Cola CEO: 'Never say never' on getting into booze, but it 'doesn't make sense' right now",
+          "author": [
+            {
+              "id": "104511208"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "Coca-Cola CEO: 'Never say never' on getting into booze, but it 'doesn't make sense' ",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "Coca-Cola CEO James Quincey, who took over in May after serving as chief operating officer, reaffirmed guidance ahead of investor day."
+        },
+        {
+          "id": "104842398",
+          "slug": "Anti-Silicon Valley fund IOANNOU Disruptor 50 171114 EC",
+          "type": "cnbcnewsstory",
+          "summary": "Kairos Society launched a $25 million fund Thursday to back young entrepreneurs with big ideas to change the world and help society.",
+          "shorterDescription": "Kairos Society launched a $25 million fund Thursday to back young entrepreneurs with big ideas to change the world and help society.",
+          "promoImage": {
+            "id": "102183688"
+          },
+          "title": "A fund launches to disrupt Silicon Valley and back moonshots for social good",
+          "author": [
+            {
+              "id": "100975243"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "A fund launches to disrupt Silicon Valley ",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "Kairos Society launched a $25 million fund Thursday to back young entrepreneurs with big ideas to change the world and help society."
+        },
+        {
+          "id": "104846923",
+          "slug": "Cramer Ge LOVELACE 171116 ec",
+          "type": "cnbcnewsstory",
+          "summary": "\"Jack's got more business sense than ever,\" Jim Cramer says.",
+          "shorterDescription": null,
+          "promoImage": {
+            "id": "104098135"
+          },
+          "title": "Should GE put ex-CEO Jack Welch on the board to help fix things? Cramer says it's not a bad idea",
+          "author": [
+            {
+              "id": "103703155"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "Cramer: Ex-CEO Jack Welch back on GE's board isn't a bad idea",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "\"Jack's got more business sense than ever,\" Jim Cramer says."
+        },
+        {
+          "id": "104847005",
+          "slug": "Stadium college basketball Facebook CASTILLO 171116 EC",
+          "type": "cnbcnewsstory",
+          "summary": "Games from the Mountain West, West Coast Conference, Conference USA, and the Atlantic 10 divisions will be streamed live from the platform. ",
+          "shorterDescription": null,
+          "promoImage": {
+            "id": "104847068"
+          },
+          "title": "Facebook will stream exclusively 47 college basketball games this season",
+          "author": [
+            {
+              "id": "102676333"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "Facebook will stream exclusively 47 college basketball games this season",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "Games from the Mountain West, West Coast Conference, Conference USA, and the Atlantic 10 divisions will be streamed live from the platform. "
+        },
+        {
+          "id": "104846687",
+          "slug": "Apple trillion KHARPAL 171116 EU",
+          "type": "cnbcnewsstory",
+          "summary": "Apple shares could trade between $210 and $230 over the next year, GBH Insights analyst Daniel Ives said in a note.\r\n",
+          "shorterDescription": "Apple shares could trade between $210 and $230 over the next year, GBH Insights analyst Daniel Ives said in a note.\r\n",
+          "promoImage": {
+            "id": "104818498"
+          },
+          "title": "Apple could be a $1 trillion company within the next year, top analyst says",
+          "author": [
+            {
+              "id": "101091325"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "Apple could be a $1 trillion company within the next year, top analyst says ",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "Apple shares could trade between $210 and $230 over the next year, GBH Insights analyst Daniel Ives said in a note.\r\n"
+        },
+        {
+          "id": "104844963",
+          "slug": "Vail ski pass Cox 171115 EC",
+          "type": "cnbcnewsstory",
+          "summary": "Vail Resorts CEO Robert Katz was looking for ways to energize a boring business when he put a new twist on an old concept: the season pass.\r\n\r\n",
+          "shorterDescription": "\"Everyone thought we were nuts,\" said Vail Resorts CEO Robert Katz.\r\n\r\n",
+          "promoImage": {
+            "id": "103703377"
+          },
+          "title": "How a resort CEO transformed his business with one simple idea",
+          "author": [
+            {
+              "id": "36003787"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "How a resort CEO transformed his business with one simple idea",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "Vail Resorts CEO Robert Katz was looking for ways to energize a boring business when he put a new twist on an old concept: the season pass.\r\n\r\n"
+        },
+        {
+          "id": "104835774",
+          "slug": "Lady Gaga Airbnb MARTIN 111017 nyc",
+          "type": "cnbcnewsstory",
+          "summary": "It feels like a private resort. ",
+          "shorterDescription": "It feels like a private resort. ",
+          "promoImage": {
+            "id": "104835824"
+          },
+          "title": "Look inside the $10,000-a-night Airbnb mansion where Lady Gaga stayed",
+          "author": [
+            {
+              "id": "104374937"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "Look inside the $10,000-a-night Airbnb mansion where Lady Gaga stayed ",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "It feels like a private resort. "
+        },
+        {
+          "id": "104844886",
+          "slug": "sec dad jokes twitter SHEETZ 171115 EC",
+          "type": "cnbcnewsstory",
+          "summary": "The Securities and Exchange Commission is best known as the no nonsense arm of U.S. financial law.",
+          "shorterDescription": null,
+          "promoImage": {
+            "id": "104844982"
+          },
+          "title": "Meet the man behind the SEC’s dad jokes on Twitter",
+          "author": [
+            {
+              "id": "104511186"
+            }
+          ],
+          "native": false,
+          "premium": false,
+          "headline": "Meet the man behind the SEC’s dad jokes on Twitter",
+          "publisher": {
+            "name": "CNBC",
+            "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+          },
+          "description": "The Securities and Exchange Commission is best known as the no nonsense arm of U.S. financial law."
+        }
+      ]
+    }
+  }
+}

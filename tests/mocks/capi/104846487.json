@@ -1,0 +1,1850 @@
+{
+    "@type": "VideoObject",
+    "cn:type": "cnbcvideo",
+    "cn:creatorOverwrite": "",
+    "@id": 104846487,
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104846487",
+    "cn:slug": "SOTS Chase Carey: The bundle  HIT 3 171116 Clem EC",
+    "url": "/video/2017/11/16/chase-carey-the-bundle-is-certainly-changing.html",
+    "cn:title": "Chase Carey: The bundle is certainly changing",
+    "cn:tagName": "",
+    "uploadDate": "2017-11-16T10:38:14+0000",
+    "cn:subDomain": "",
+    "cn:sectionHierarchy": [
+        {
+            "id": 104847581,
+            "tagName": "",
+            "order": 1
+        },
+        {
+            "id": 104847371,
+            "tagName": "Buffett Archive",
+            "order": 2
+        },
+        {
+            "id": 10000161,
+            "tagName": "CNBC Global",
+            "order": 3
+        }
+    ],
+    "cn:shorterHeadline": "",
+    "headline": "Chase Carey: The bundle is certainly changing",
+    "cn:liveURL": "/video/2017/11/16/chase-carey-the-bundle-is-certainly-changing.html",
+    "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:isHighPriorityVideo": "No",
+        "cn:dateline": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:videoGeoRestrictionEnabled": "No",
+        "cn:listType": "Virtual",
+        "cn:outbrainEnabled": "Yes",
+        "cn:tweetOnPublish": 0
+    },
+    "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "@id": "104847058",
+        "datePublished": "",
+        "description": "",
+        "copyrightHolder": "",
+        "author": "",
+        "height": "1080",
+        "width": "1920",
+        "caption": "",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104847058-5ED1-SOTS-FormulaOne3-111617.jpg?v=1510845209"
+    },
+    "thumbnail": "https://qa-aws02capi-img-origin.cnbc.com/image/104847058-5ED1-SOTS-FormulaOne3-111617.jpg?v=1510845209",
+    "sourceOrganization": [
+        {
+            "@type": "Organization",
+            "@id": "80000022",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/80000022",
+            "cn:type": "source",
+            "cn:slug": "CNBC US Source",
+            "cn:tagName": "CNBC US Source",
+            "cn:title": "",
+            "cn:creatorOverwrite": "",
+            "url": "",
+            "cn:sourceName": "CNBC.com",
+            "description": "CNBC.com",
+            "name": ""
+        }
+    ],
+    "description": "Chase Carey, Formula One chairman and CEO weighs in on the changing media landscape and opportunities in digital content.",
+    "cn:section": {
+        "@id": "104847581",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847581",
+        "cn:type": "franchise",
+        "cn:slug": "Buffett CNBC Keynotes",
+        "cn:subType": "news_section",
+        "cn:tagName": "Buffett CNBC Keynotes",
+        "cn:title": "CNBC Keynotes",
+        "cn:creatorOverwrite": "",
+        "url": "https://qa-aws01buffett.cnbc.com/cnbc-keynotes/",
+        "cn:liveURL": "/cnbc-keynotes/",
+        "cn:createdBy": "rekha.ponnur",
+        "cn:editedBy": "ashish.gupta",
+        "datePublished": "2018-02-05T20:08:41+0000",
+        "cn:summary": "Over the last 20 years, CNBC has sat down with Warren Buffett to discuss a number of relevant business topics. Watch these interviews to hear Buffett’s stance on investments, the state of the economy, government funding, and more.",
+        "cn:sectionLinktext": "",
+        "cn:sectionLabel": "",
+        "headline": "CNBC Keynotes",
+        "cn:tabLabel": "",
+        "cn:shorterDescription": "",
+        "cn:shortestDescription": "",
+        "cn:bodyTeaser": "null",
+        "cn:sectionHierarchy": [
+            {
+                "id": 104847581,
+                "tagName": "Buffett CNBC Keynotes",
+                "order": 1
+            },
+            {
+                "id": 104847532,
+                "tagName": "Buffett A-Z",
+                "order": 2
+            },
+            {
+                "id": 104847371,
+                "tagName": "Buffett Archive",
+                "order": 3
+            }
+        ],
+        "cn:featuredMedia": {
+            "cn:isPromoted": "false",
+            "cn:isHighTouch": "false",
+            "@type": "ImageObject",
+            "cn:type": "image",
+            "cn:creatorOverwrite": "Lacy O'Toole | CNBC",
+            "@id": "104749312",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104749312",
+            "cn:slug": "CNBC: Jimmy Haslam, CEO of Pilot Flying J and Warren Buffett 171003-001",
+            "cn:title": "Jimmy Haslam, CEO of Pilot Flying J. and Warren Buffett, Chairman and CEO of Berkshire Hathaway.",
+            "cn:tagName": "",
+            "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104749312-IMG_0654.JPG?v=1507039093",
+            "description": "",
+            "author": "",
+            "contentSize": 659305,
+            "caption": "Jimmy Haslam, CEO of Pilot Flying J. and Warren Buffett, Chairman and CEO of Berkshire Hathaway.",
+            "copyrightHolder": "Lacy O'Toole | CNBC",
+            "height": "1244",
+            "width": "2000"
+        },
+        "cn:settings": {
+            "cn:commentsEnabled": "Yes",
+            "cn:isFamilyFriendly": "Yes",
+            "cn:listType": "Manual and/or populated by feeds",
+            "cn:socialtoolsEnabled": "Yes",
+            "cn:dateline": "Yes",
+            "cn:displayByline": "Yes",
+            "cn:displaySource": "Yes",
+            "cn:outbrainEnabled": "Yes",
+            "cn:tweetOnPublish": 0
+        },
+        "description": "Over the last 20 years, CNBC has sat down with Warren Buffett to discuss a number of relevant business topics. Watch these interviews to hear Buffett’s stance on investments, the state of the economy, government funding, and more.",
+        "cn:branding": "buffett",
+        "cn:subDomain": "https://qa-aws01buffett.cnbc.com",
+        "cn:historicalURL": [],
+        "name": "CNBC Keynotes",
+        "cn:sectionColor": "#000000",
+        "cn:promoText": "",
+        "cn:showTime": "",
+        "cn:sectionHeader": {
+            "@type": "ImageObject",
+            "cn:type": "image",
+            "cn:creatorOverwrite": "",
+            "@id": "104847526",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847526",
+            "cn:slug": "test image 15",
+            "cn:title": "test image 15",
+            "cn:tagName": "",
+            "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104847526-imag4.jpg?v=1517329608",
+            "description": "",
+            "author": "",
+            "contentSize": 289227,
+            "caption": "",
+            "copyrightHolder": "",
+            "height": "900",
+            "width": "1200"
+        },
+        "@type": "Collection"
+    },
+    "cn:linkHeadline": "",
+    "datePublished": "2017-11-16T14:50:42+0000",
+    "cn:historicalURL": [],
+    "cn:shortestHeadline": "",
+    "cn:bodyTeaser": "null",
+    "cn:shortestDescription": "",
+    "cn:summary": "Chase Carey, Formula One chairman and CEO weighs in on the changing media landscape and opportunities in digital content.",
+    "cn:editedBy": "robin.clemensen",
+    "cn:createdBy": "robin.clemensen",
+    "cn:shorterDescription": "",
+    "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+    },
+    "cn:keyword": "formula 1, grand prix motor racing, nascar, social media",
+    "cn:vcpsId": 3000671746,
+    "cn:transcriptUrl": "",
+    "cn:closedCaptionUrl": "",
+    "name": "Chase Carey: The bundle is certainly changing",
+    "cn:show": "Squawk on the Street",
+    "cn:dateModified":"2017-11-16T15:27:22+0000",
+    "cn:dateLastPublished": "2017-11-16T15:28:24+0000",
+    "duration": 86,
+    "cn:network": 1,
+    "expireDate": "",
+    "cn:usagePlans": [
+        "MSN Money",
+        "MSNBC.com ",
+        "MobilePhones",
+        "IPTV_PDL",
+        "CNBCNews.com Website",
+        "CNBCNews.com Direct",
+        "CNBC Business Video"
+    ],
+    "cn:association": [
+        {
+            "@id": "104847581",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847581",
+            "cn:type": "franchise",
+            "cn:slug": "Buffett CNBC Keynotes",
+            "cn:subType": "news_section",
+            "cn:tagName": "Buffett CNBC Keynotes",
+            "cn:title": "CNBC Keynotes",
+            "cn:creatorOverwrite": "",
+            "url": "https://qa-aws01buffett.cnbc.com/cnbc-keynotes/",
+            "cn:liveURL": "/cnbc-keynotes/",
+            "cn:createdBy": "rekha.ponnur",
+            "cn:editedBy": "ashish.gupta",
+            "datePublished": "2018-02-05T20:08:41+0000",
+            "cn:summary": "Over the last 20 years, CNBC has sat down with Warren Buffett to discuss a number of relevant business topics. Watch these interviews to hear Buffett’s stance on investments, the state of the economy, government funding, and more.",
+            "cn:sectionLinktext": "",
+            "cn:sectionLabel": "",
+            "headline": "CNBC Keynotes",
+            "cn:tabLabel": "",
+            "cn:shorterDescription": "",
+            "cn:shortestDescription": "",
+            "cn:bodyTeaser": "null",
+            "cn:sectionHierarchy": [
+                {
+                    "id": 104847581,
+                    "tagName": "Buffett CNBC Keynotes",
+                    "order": 1
+                },
+                {
+                    "id": 104847532,
+                    "tagName": "Buffett A-Z",
+                    "order": 2
+                },
+                {
+                    "id": 104847371,
+                    "tagName": "Buffett Archive",
+                    "order": 3
+                }
+            ],
+            "cn:featuredMedia": {
+                "cn:isPromoted": "false",
+                "cn:isHighTouch": "false",
+                "@type": "ImageObject",
+                "cn:type": "image",
+                "cn:creatorOverwrite": "Lacy O'Toole | CNBC",
+                "@id": "104749312",
+                "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104749312",
+                "cn:slug": "CNBC: Jimmy Haslam, CEO of Pilot Flying J and Warren Buffett 171003-001",
+                "cn:title": "Jimmy Haslam, CEO of Pilot Flying J. and Warren Buffett, Chairman and CEO of Berkshire Hathaway.",
+                "cn:tagName": "",
+                "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104749312-IMG_0654.JPG?v=1507039093",
+                "description": "",
+                "author": "",
+                "contentSize": 659305,
+                "caption": "Jimmy Haslam, CEO of Pilot Flying J. and Warren Buffett, Chairman and CEO of Berkshire Hathaway.",
+                "copyrightHolder": "Lacy O'Toole | CNBC",
+                "height": "1244",
+                "width": "2000"
+            },
+            "cn:settings": {
+                "cn:commentsEnabled": "Yes",
+                "cn:isFamilyFriendly": "Yes",
+                "cn:listType": "Manual and/or populated by feeds",
+                "cn:socialtoolsEnabled": "Yes",
+                "cn:dateline": "Yes",
+                "cn:displayByline": "Yes",
+                "cn:displaySource": "Yes",
+                "cn:outbrainEnabled": "Yes",
+                "cn:tweetOnPublish": 0
+            },
+            "cn:association": [
+                {
+                    "cn:type": "franchise",
+                    "cn:creatorOverwrite": "",
+                    "@id": "104847532",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847532",
+                    "cn:slug": "Buffett A-Z",
+                    "cn:subType": "section",
+                    "url": "https://qa-aws01buffett.cnbc.com/buffett-a-z/",
+                    "cn:title": "Buffett A-Z 104847532",
+                    "cn:tagName": "Buffett A-Z",
+                    "description": "",
+                    "name": "Buffett A-Z 104847532",
+                    "cn:sectionColor": "#000000",
+                    "cn:promoText": "",
+                    "cn:showTime": "",
+                    "@type": "Collection",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "section",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "@type": "ImageObject",
+                    "cn:type": "image",
+                    "cn:creatorOverwrite": "Lacy O'Toole | CNBC",
+                    "@id": "104749312",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104749312",
+                    "cn:slug": "CNBC: Jimmy Haslam, CEO of Pilot Flying J and Warren Buffett 171003-001",
+                    "cn:title": "Jimmy Haslam, CEO of Pilot Flying J. and Warren Buffett, Chairman and CEO of Berkshire Hathaway.",
+                    "cn:tagName": "",
+                    "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104749312-IMG_0654.JPG?v=1507039093",
+                    "description": "",
+                    "author": "",
+                    "contentSize": 659305,
+                    "caption": "Jimmy Haslam, CEO of Pilot Flying J. and Warren Buffett, Chairman and CEO of Berkshire Hathaway.",
+                    "copyrightHolder": "Lacy O'Toole | CNBC",
+                    "height": "1244",
+                    "width": "2000",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "featured_media",
+                            "cn:isPromoted": "false",
+                            "cn:isHighTouch": "false"
+                        }
+                    ]
+                },
+                {
+                    "@type": "ImageObject",
+                    "cn:type": "image",
+                    "cn:creatorOverwrite": "",
+                    "@id": "104847526",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847526",
+                    "cn:slug": "test image 15",
+                    "cn:title": "test image 15",
+                    "cn:tagName": "",
+                    "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104847526-imag4.jpg?v=1517329608",
+                    "description": "",
+                    "author": "",
+                    "contentSize": 289227,
+                    "caption": "",
+                    "copyrightHolder": "",
+                    "height": "900",
+                    "width": "1200",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "sectionHeader",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "@type": "ImageObject",
+                    "cn:type": "image",
+                    "cn:creatorOverwrite": "",
+                    "@id": "104847684",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847684",
+                    "cn:slug": "test image 17",
+                    "cn:title": "test image 17",
+                    "cn:tagName": "",
+                    "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104847684-imag4.jpg?v=1518128249",
+                    "description": "",
+                    "author": "",
+                    "contentSize": 289227,
+                    "caption": "",
+                    "copyrightHolder": "",
+                    "height": "900",
+                    "width": "1200",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "sectionHeader",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                }
+            ],
+            "description": "Over the last 20 years, CNBC has sat down with Warren Buffett to discuss a number of relevant business topics. Watch these interviews to hear Buffett’s stance on investments, the state of the economy, government funding, and more.",
+            "cn:section": {
+                "cn:type": "franchise",
+                "cn:creatorOverwrite": "",
+                "@id": "104847532",
+                "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847532",
+                "cn:slug": "Buffett A-Z",
+                "cn:subType": "section",
+                "url": "https://qa-aws01buffett.cnbc.com/buffett-a-z/",
+                "cn:title": "Buffett A-Z 104847532",
+                "cn:tagName": "Buffett A-Z",
+                "cn:subDomain": "https://qa-aws01buffett.cnbc.com",
+                "cn:branding": "buffett",
+                "cn:sectionHierarchy": [
+                    {
+                        "id": 104847532,
+                        "tagName": "Buffett A-Z",
+                        "order": 1
+                    },
+                    {
+                        "id": 104847371,
+                        "tagName": "Buffett Archive",
+                        "order": 2
+                    }
+                ],
+                "cn:sectionLabel": "",
+                "headline": "Buffett A-Z 104847532",
+                "cn:liveURL": "/buffett-a-z/",
+                "cn:settings": {
+                    "cn:commentsEnabled": "Yes",
+                    "cn:dateline": "Yes",
+                    "cn:isFamilyFriendly": "Yes",
+                    "cn:socialtoolsEnabled": "Yes",
+                    "cn:displayByline": "Yes",
+                    "cn:displaySource": "Yes",
+                    "cn:listType": "Manual and/or populated by feeds",
+                    "cn:outbrainEnabled": "Yes",
+                    "cn:tweetOnPublish": 0
+                },
+                "description": "",
+                "cn:sectionLinktext": "",
+                "datePublished": "2018-01-31T17:12:17+0000",
+                "cn:historicalURL": [],
+                "cn:tabLabel": "",
+                "cn:bodyTeaser": "null",
+                "cn:shortestDescription": "",
+                "cn:summary": "",
+                "cn:editedBy": "ritesh.shah",
+                "cn:createdBy": "Lisa.Steiger@nbcuni.com",
+                "cn:shorterDescription": "",
+                "name": "Buffett A-Z 104847532",
+                "cn:sectionColor": "#000000",
+                "cn:promoText": "",
+                "cn:showTime": "",
+                "@type": "Collection"
+            },
+            "cn:branding": "buffett",
+            "cn:subDomain": "https://qa-aws01buffett.cnbc.com",
+            "cn:historicalURL": [],
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNBC",
+                "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+            },
+            "@context": {
+                "@vocab": "http://schema.org/",
+                "cn": "http://cnbc.com/schema/"
+            },
+            "name": "CNBC Keynotes",
+            "cn:sectionColor": "#000000",
+            "cn:promoText": "",
+            "cn:showTime": "",
+            "@type": "Collection",
+            "cn:relation": [
+                {
+                    "position": 5000,
+                    "cn:relationType": "section",
+                    "cn:isPromoted": "false"
+                }
+            ]
+        },
+        {
+            "@type": "ImageObject",
+            "@id": "104847058",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847058",
+            "cn:type": "image",
+            "cn:slug": "SOTS Chase Carey: The bundle  HIT 3 171116 Clem EC_1510845255",
+            "cn:tagName": "",
+            "cn:title": "Chase Carey: The bundle is certaintly changing",
+            "cn:creatorOverwrite": "",
+            "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104847058-5ED1-SOTS-FormulaOne3-111617.jpg?v=1510845209",
+            "cn:liveURL": "",
+            "cn:createdBy": "ingest",
+            "cn:editedBy": "ingest",
+            "datePublished": "",
+            "cn:summary": "",
+            "cn:linkHeadline": "Chase Carey: The bundle is certaintly changing",
+            "cn:shorterHeadline": "",
+            "headline": "Chase Carey: The bundle is certaintly changing",
+            "cn:shortestHeadline": "",
+            "cn:shorterDescription": "",
+            "cn:shortestDescription": "",
+            "cn:sectionHierarchy": [],
+            "cn:historicalURL": [],
+            "description": "",
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNBC",
+                "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+            },
+            "@context": {
+                "@vocab": "http://schema.org/",
+                "cn": "http://cnbc.com/schema/"
+            },
+            "author": "",
+            "contentSize": 450203,
+            "caption": "",
+            "copyrightHolder": "",
+            "height": "1080",
+            "width": "1920",
+            "cn:relation": [
+                {
+                    "position": 5000,
+                    "cn:relationType": "promo",
+                    "cn:isPromoted": "true"
+                }
+            ]
+        },
+        {
+            "@type": "Organization",
+            "@id": "80000022",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/80000022",
+            "cn:type": "source",
+            "cn:slug": "CNBC US Source",
+            "cn:tagName": "CNBC US Source",
+            "cn:title": "",
+            "cn:creatorOverwrite": "",
+            "url": "",
+            "cn:sourceName": "CNBC.com",
+            "cn:liveURL": "",
+            "cn:createdBy": "migration",
+            "cn:editedBy": "Anusha.Gogineni",
+            "datePublished": "2011-10-06T17:33:47+0000",
+            "cn:summary": "",
+            "cn:linkHeadline": "",
+            "cn:shorterHeadline": " ",
+            "headline": "",
+            "cn:shortestHeadline": "CNBC",
+            "cn:shorterDescription": "CNBC.com",
+            "cn:shortestDescription": "",
+            "cn:bodyTeaser": "null",
+            "cn:sectionHierarchy": [],
+            "cn:settings": {
+                "cn:commentsEnabled": "Yes",
+                "cn:socialtoolsEnabled": "Yes",
+                "cn:tweetOnPublish": 0
+            },
+            "description": "CNBC.com",
+            "cn:subDomain": "",
+            "cn:historicalURL": [],
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNBC",
+                "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+            },
+            "@context": {
+                "@vocab": "http://schema.org/",
+                "cn": "http://cnbc.com/schema/"
+            },
+            "name": "",
+            "cn:relation": [
+                {
+                    "position": 4999,
+                    "cn:relationType": "source",
+                    "cn:isPromoted": "false"
+                }
+            ]
+        },
+        {
+            "@id": "104769364",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104769364",
+            "cn:type": "franchise",
+            "cn:slug": "CEO Interviews OTT MORGANTEEN 171012",
+            "cn:subType": "collection",
+            "cn:tagName": "CEO Interviews OTT",
+            "cn:title": "CEO Interviews OTT",
+            "cn:creatorOverwrite": "",
+            "url": "http://qa-aws01web.cnbc.com/ceo-interviews-ott/",
+            "cn:liveURL": "/ceo-interviews-ott/",
+            "datePublished": "2017-10-12T19:12:52+0000",
+            "cn:summary": "",
+            "cn:sectionLinktext": "CEO Interviews ",
+            "cn:sectionLabel": "CEO Interviews",
+            "headline": "CEO Interviews",
+            "cn:tabLabel": "CEO Interviews",
+            "cn:shorterDescription": "",
+            "cn:shortestDescription": "",
+            "cn:bodyTeaser": "null",
+            "cn:settings": {
+                "cn:commentsEnabled": "No",
+                "cn:socialtoolsEnabled": "No",
+                "cn:dateline": "No",
+                "cn:displayByline": "No",
+                "cn:displaySource": "No",
+                "cn:outbrainEnabled": "No",
+                "cn:isFamilyFriendly": "Yes",
+                "cn:listType": "Manual and/or populated by feeds",
+                "cn:tweetOnPublish": 0
+            },
+            "cn:association": [
+                {
+                    "url": "",
+                    "cn:type": "usage_rule",
+                    "cn:title": "Do not syndicate",
+                    "cn:creatorOverwrite": "",
+                    "@id": "100267921",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100267921",
+                    "cn:slug": "Do not syndicate",
+                    "cn:tagName": "",
+                    "description": "",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "usage_rule",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "url": "http://qa-aws01web.cnbc.com/top-video/",
+                    "cn:type": "franchise",
+                    "cn:title": "Top Video",
+                    "cn:creatorOverwrite": "",
+                    "@id": "15839263",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15839263",
+                    "cn:slug": "Video and TV",
+                    "cn:tagName": "Video and TV",
+                    "cn:subType": "videosection",
+                    "description": "Play live videos and find up-to-date market news. View Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, and CEO Interviews.",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "section",
+                            "cn:isPromoted": "false"
+                        },
+                        [
+                            {
+                                "cn:relationType": "section",
+                                "cn:isPromoted": "false"
+                            }
+                        ]
+                    ]
+                }
+            ],
+            "description": "",
+            "cn:section": {
+                "url": "http://qa-aws01web.cnbc.com/top-video/",
+                "cn:type": "franchise",
+                "cn:title": "Top Video",
+                "cn:creatorOverwrite": "",
+                "@id": "15839263",
+                "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15839263",
+                "cn:slug": "Video and TV",
+                "cn:tagName": "Video and TV",
+                "cn:subType": "videosection",
+                "cn:shortestDescription": "Play live videos and find up-to-date market news.",
+                "cn:sectionHierarchy": [
+                    {
+                        "id": 10000161,
+                        "tagName": "CNBC Global",
+                        "order": 1
+                    }
+                ],
+                "cn:sectionLabel": "Top Video",
+                "headline": "Top Video",
+                "cn:liveURL": "/top-video/",
+                "cn:summary": "Play live videos and find up-to-date market news. View Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, and CEO Interviews.",
+                "cn:settings": {
+                    "cn:listType": "Manual and/or populated by feeds",
+                    "cn:tweetOnPublish": 0
+                },
+                "description": "Play live videos and find up-to-date market news. View Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, and CEO Interviews.",
+                "cn:sectionLinktext": "Top Video",
+                "cn:editedBy": "Meg.Teckman-Fullard",
+                "datePublished": "2012-08-04T04:54:10+0000",
+                "cn:historicalURL": [
+                    "/id/15839263"
+                ],
+                "cn:tabLabel": "Top Video",
+                "cn:createdBy": "migration",
+                "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"100197426\"/></assets><div class=\"group\"/></group></body>",
+                "cn:shorterDescription": "Play live videos and find up-to-date market news. View Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, and CEO Interviews.",
+                "name": "Top Video",
+                "@type": "Collection"
+            },
+            "cn:sectionHierarchy": [
+                {
+                    "id": 15839263,
+                    "tagName": "Video and TV",
+                    "order": 1
+                },
+                {
+                    "id": 10000161,
+                    "tagName": "CNBC Global",
+                    "order": 2
+                }
+            ],
+            "cn:historicalURL": [
+                "/ceo-interviews/",
+                "/ott-playlist-for-ceo-interviews/"
+            ],
+            "cn:editedBy": "jeff.morganteen",
+            "cn:createdBy": "jeff.morganteen",
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNBC",
+                "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+            },
+            "@context": {
+                "@vocab": "http://schema.org/",
+                "cn": "http://cnbc.com/schema/"
+            },
+            "name": "CEO Interviews OTT",
+            "@type": "Collection",
+            "cn:relation": [
+                {
+                    "position": 6,
+                    "cn:relationType": "tags",
+                    "cn:isPromoted": "false"
+                }
+            ]
+        },
+        {
+            "@id": "100381291",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100381291",
+            "cn:type": "company",
+            "cn:slug": "Liberty Media Corp  T:LMCA",
+            "cn:tagName": "Liberty Media Corp",
+            "cn:title": "Liberty Media Corp",
+            "cn:creatorOverwrite": "",
+            "url": "/quotes/?symbol=",
+            "cn:liveURL": "",
+            "datePublished": "2013-01-15T17:14:25+0000",
+            "cn:summary": "",
+            "cn:linkHeadline": "",
+            "cn:shorterHeadline": "",
+            "headline": "Liberty Media Corp",
+            "cn:shortestHeadline": "",
+            "cn:shorterDescription": "",
+            "cn:shortestDescription": "",
+            "cn:bodyTeaser": "null",
+            "cn:settings": {
+                "cn:commentsEnabled": "Yes",
+                "cn:socialtoolsEnabled": "Yes"
+            },
+            "cn:association": [
+                {
+                    "cn:type": "franchise",
+                    "cn:creatorOverwrite": "",
+                    "@id": "15839215",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15839215",
+                    "cn:slug": "Stocks",
+                    "cn:subType": "news_section",
+                    "url": "http://qa-aws01web.cnbc.com/stocks/",
+                    "cn:title": "Stocks",
+                    "cn:tagName": "Stocks from tag name",
+                    "description": "In-depth market analysis, real-time stock market data, research and earnings from CNBC.com. ",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "section",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                }
+            ],
+            "description": "",
+            "cn:section": {
+                "cn:type": "franchise",
+                "cn:creatorOverwrite": "",
+                "@id": "15839215",
+                "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15839215",
+                "cn:slug": "Stocks",
+                "cn:subType": "news_section",
+                "url": "http://qa-aws01web.cnbc.com/stocks/",
+                "cn:title": "Stocks",
+                "cn:tagName": "Stocks from tag name",
+                "cn:subDomain": "Make-It.CNBC.com",
+                "cn:branding": "Make It",
+                "cn:sectionHierarchy": [
+                    {
+                        "id": 102,
+                        "tagName": "Markets",
+                        "order": 1
+                    },
+                    {
+                        "id": 10000161,
+                        "tagName": "CNBC Global",
+                        "order": 2
+                    }
+                ],
+                "cn:sectionLabel": "Stocks",
+                "headline": "Stocks",
+                "cn:liveURL": "/stocks/",
+                "cn:settings": {
+                    "cn:commentsEnabled": "Yes",
+                    "cn:socialtoolsEnabled": "Yes",
+                    "cn:listType": "Manual and/or populated by feeds",
+                    "cn:tweetOnPublish": 0
+                },
+                "description": "In-depth market analysis, real-time stock market data, research and earnings from CNBC.com. ",
+                "cn:sectionLinktext": "Stocks",
+                "datePublished": "2012-01-30T01:48:28+0000",
+                "cn:historicalURL": [
+                    "/id/15839215"
+                ],
+                "cn:tabLabel": "Stocks",
+                "cn:bodyTeaser": "null",
+                "cn:shortestDescription": "In-depth market analysis and real-time stock market data",
+                "cn:summary": "In-depth market analysis, real-time stock market data, research and earnings from CNBC.com. ",
+                "cn:editedBy": "vitaly",
+                "cn:createdBy": "migration",
+                "cn:shorterDescription": "In-depth market analysis, real-time stock market data, research and earnings from CNBC.com. ",
+                "name": "Stocks",
+                "@type": "Collection"
+            },
+            "cn:sectionHierarchy": [],
+            "cn:editedBy": "andrew.stanish",
+            "cn:historicalURL": [],
+            "cn:createdBy": "ingest",
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNBC",
+                "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+            },
+            "@context": {
+                "@vocab": "http://schema.org/",
+                "cn": "http://cnbc.com/schema/"
+            },
+            "name": "Liberty Media Corp",
+            "cn:issuerId": 141328,
+            "tickerSymbol": " ",
+            "@type": "Corporation",
+            "cn:relation": [
+                {
+                    "position": 5,
+                    "cn:relationType": "tags",
+                    "cn:isPromoted": "false"
+                }
+            ]
+        },
+        {
+            "@id": "15838155",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15838155",
+            "cn:type": "creator",
+            "cn:slug": "David Faber",
+            "cn:tagName": "David Faber",
+            "cn:title": "David Faber",
+            "cn:creatorOverwrite": "",
+            "url": "http://qa-aws01web.cnbc.com/david-faber/",
+            "cn:liveURL": "/david-faber/",
+            "datePublished": "2010-03-12T10:17:11+0000",
+            "cn:summary": "David Faber is a co-anchor of CNBC's \"Squawk on the Street\" and an anchor and co-producer of CNBC's acclaimed original documentaries and long-form programming. During the day, Faber breaks news and provides in-depth analysis on a range of business topics during the \"Faber Report.\" ",
+            "cn:linkHeadline": "David Faber",
+            "cn:shorterHeadline": "David Faber",
+            "headline": "David Faber",
+            "cn:shortestHeadline": "David Faber",
+            "cn:shorterDescription": "Co-anchor of CNBC's \"Squawk on the Street,\" David Faber also is a co-producer of CNBC's original documentaries.",
+            "cn:shortestDescription": "“Squawk on the Street” Co-Anchor",
+            "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p>\n  An award-winning journalist and&#160;<em>New York Times</em>\n  best-selling author, David Faber is a co-anchor of CNBC's\n  \"<asset_inline nid=\"15838381\" target=\"_self\">Squawk on the Street</asset_inline>\" (M-F, 9AM-11AM ET) and an anchor and co-producer of CNBC's acclaimed original\n  documentaries and long-form programming.\n</p>\n<p>\n  During the day, Faber breaks news and provides in-depth analysis\n  on a range of business topics during the \"Faber Report.\" In his more than two decades with CNBC, Faber has broken many big financial stories, including the massive fraud at WorldCom, the bailout of the hedge\n  fund Long Term Capital Management and Rupert Murdoch's\n  unsolicited bid for Dow Jones.\n</p>\n<p>\n  Faber has reported 10 documentaries for CNBC for which he has\n  received Loeb, Emmy, Peabody and duPont awards.</p><p>His book, \"The Faber Report,\" was published by Little, Brown in\n  spring 2002; his second book, \"<asset_inline nid=\"31051171\" target=\"_self\">And Then the Roof Caved In</asset_inline>,\" was\n  published in the summer of 2009 by John Wiley.</p>\n<p>\n  He holds a bachelor's degree in English from Tufts University.\n</p>\n<p>\n  Follow David Faber on Twitter <asset_inline ext_link=\"https://twitter.com/davidfaber\" ext_title=\"\" target=\"_self\">@DavidFaber</asset_inline>.<br />\n</p></div></group></body>",
+            "image": {
+                "@type": "ImageObject",
+                "representativeOfPage": "true",
+                "caption": "David Faber",
+                "author": "",
+                "copyrightHolder": "David A. Grogan | CNBC",
+                "@id": "103946540",
+                "height": "3000",
+                "datePublished": "2016-09-16T15:17:19+0000",
+                "description": "",
+                "width": "2000",
+                "url": "https://qa-aws02capi-img-origin.cnbc.com/image/103946540-FABER_D-108_RGB_sat.jpg?v=1474039050"
+            },
+            "cn:settings": {
+                "cn:commentsEnabled": "No",
+                "cn:socialtoolsEnabled": "No",
+                "cn:dateline": "Yes",
+                "cn:displayByline": "Yes",
+                "cn:displaySource": "Yes",
+                "cn:outbrainEnabled": "Yes",
+                "cn:listType": "Virtual"
+            },
+            "cn:association": [
+                {
+                    "url": "http://qa-aws01pub.cnbc.com/david-faber-social-profile/",
+                    "cn:type": "franchise",
+                    "cn:title": "David Faber",
+                    "cn:creatorOverwrite": "",
+                    "@id": "101055288",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/101055288",
+                    "cn:slug": "David Faber Social Profile",
+                    "cn:tagName": "",
+                    "cn:subType": "section",
+                    "description": "",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "section",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "@type": "ImageObject",
+                    "cn:type": "image",
+                    "cn:creatorOverwrite": "David A. Grogan | CNBC",
+                    "@id": "103946540",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103946540",
+                    "cn:slug": "CNBC Headshot: David Faber 2016",
+                    "cn:title": "David Faber",
+                    "cn:tagName": "",
+                    "url": "https://qa-aws02capi-img-origin.cnbc.com/image/103946540-FABER_D-108_RGB_sat.jpg?v=1474039050",
+                    "description": "",
+                    "author": "",
+                    "contentSize": 2057489,
+                    "caption": "David Faber",
+                    "copyrightHolder": "David A. Grogan | CNBC",
+                    "height": "3000",
+                    "width": "2000",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "tags",
+                            "cn:isPromoted": "true"
+                        }
+                    ]
+                },
+                {
+                    "@type": "ImageObject",
+                    "cn:type": "image",
+                    "cn:title": "David Faber",
+                    "cn:creatorOverwrite": "",
+                    "@id": "100010029",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100010029",
+                    "cn:slug": "David Faber Headshot",
+                    "cn:tagName": "",
+                    "url": "https://qa-aws02capi-img-origin.cnbc.com/image/100010029-david-faber-headshot-2013.jpg?v=1362173868",
+                    "description": "",
+                    "author": "",
+                    "contentSize": 2297652,
+                    "caption": "",
+                    "copyrightHolder": "",
+                    "height": "2725",
+                    "width": "2048",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "tags",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "url": "http://qa-aws01web.cnbc.com/squawk-on-the-street/",
+                    "cn:type": "franchise",
+                    "cn:title": "Squawk on the Street",
+                    "cn:creatorOverwrite": "",
+                    "@id": "15838381",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15838381",
+                    "cn:slug": "Squawk on the Street",
+                    "cn:tagName": "Squawk on the Street",
+                    "cn:subType": "news_show",
+                    "description": "Headquartered live on the floor of the New York Stock Exchange, we are there when the all-important opening bell rings every day. With our exclusive \"Eye on the Floor\" wireless cameras at the NYSE we take the viewer onto the floor of the exchange, right to the posts where the biggest companies in the world trade. In addition, our exclusive \"Tick by Tick\" charts track the action of every trade of every stock.\r\n\r\nOur live market coverage doesn’t stop on the corner of Wall and Broad Streets in lower Manhattan. We also have exclusive coverage from the floor of the CME Group in Chicago giving our viewers the treasury, currency and commodity action in real time.",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "tags",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "url": "http://qa-aws01web.cnbc.com/faber-report/",
+                    "cn:type": "franchise",
+                    "cn:title": "The Faber Report",
+                    "cn:creatorOverwrite": "",
+                    "@id": "30520406",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/30520406",
+                    "cn:slug": "Faber Report",
+                    "cn:tagName": "Faber Report",
+                    "cn:subType": "blog",
+                    "description": "The Faber Report",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "tags",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "url": "http://qa-aws01pub.cnbc.com/id/31051171",
+                    "cn:type": "franchise",
+                    "cn:title": "And Then The Roof Caved In",
+                    "cn:creatorOverwrite": "",
+                    "@id": "31051171",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/31051171",
+                    "cn:slug": "And Then The Roof Caved In",
+                    "cn:tagName": "And Then The Roof Caved In",
+                    "cn:subType": "special_report",
+                    "description": "",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "tags",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "url": "http://qa-aws01web.cnbc.com/id/33",
+                    "cn:type": "creator",
+                    "cn:title": "Creator Root",
+                    "@id": "33",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/33",
+                    "cn:slug": "Creator Root",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "parent",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                }
+            ],
+            "description": "David Faber is a co-anchor of CNBC's \"Squawk on the Street\" and an anchor and co-producer of CNBC's acclaimed original documentaries and long-form programming. During the day, Faber breaks news and provides in-depth analysis on a range of business topics during the \"Faber Report.\" ",
+            "cn:section": {
+                "url": "http://qa-aws01pub.cnbc.com/david-faber-social-profile/",
+                "cn:type": "franchise",
+                "cn:title": "David Faber",
+                "cn:creatorOverwrite": "",
+                "@id": "101055288",
+                "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/101055288",
+                "cn:slug": "David Faber Social Profile",
+                "cn:tagName": "",
+                "cn:subType": "section",
+                "cn:shortestDescription": "",
+                "cn:sectionLabel": "",
+                "headline": "David Faber",
+                "cn:liveURL": "http://qa-aws01pub.cnbc.com/david-faber-social-profile/",
+                "cn:summary": "",
+                "cn:settings": {
+                    "cn:commentsEnabled": "No",
+                    "cn:socialtoolsEnabled": "No",
+                    "cn:listType": "Manual and/or populated by feeds"
+                },
+                "description": "",
+                "cn:sectionLinktext": "",
+                "datePublished": "2013-09-23T17:50:41+0000",
+                "cn:tabLabel": "",
+                "cn:bodyTeaser": "null",
+                "cn:shorterDescription": "",
+                "name": "David Faber",
+                "@type": "Collection"
+            },
+            "cn:sectionHierarchy": [
+                {
+                    "id": 101055288,
+                    "tagName": "",
+                    "order": 1
+                },
+                {
+                    "id": 101050794,
+                    "tagName": "CNBC Utilities Page",
+                    "order": 2
+                }
+            ],
+            "cn:historicalURL": [
+                "/id/15838155"
+            ],
+            "cn:editedBy": "martin.steinberg",
+            "cn:createdBy": "migration",
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNBC",
+                "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+            },
+            "@context": {
+                "@vocab": "http://schema.org/",
+                "cn": "http://cnbc.com/schema/"
+            },
+            "name": "David Faber",
+            "givenName": "David",
+            "familyName": "Faber",
+            "jobTitle": "“Squawk on the Street” Co-Anchor",
+            "email": "",
+            "telephone": "",
+            "sameAs": [
+                "https://www.twitter.com/DavidFaber"
+            ],
+            "cn:socialMediaInfo": [
+                {
+                    "cn:url": "https://twitter.com/DavidFaber",
+                    "cn:displayText": "DavidFaber",
+                    "cn:type": "twitter"
+                }
+            ],
+            "@type": "Person",
+            "cn:relation": [
+                {
+                    "position": 4,
+                    "cn:relationType": "tags",
+                    "cn:isPromoted": "false"
+                }
+            ]
+        },
+        {
+            "@id": "100004032",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100004032",
+            "cn:type": "franchise",
+            "cn:slug": "CEO Interviews",
+            "cn:subType": "videosection",
+            "cn:tagName": "CEO Interviews",
+            "cn:title": "CEO Interviews",
+            "cn:creatorOverwrite": "",
+            "url": "http://qa-aws01web.cnbc.com/video-ceo-interviews/",
+            "cn:liveURL": "/video-ceo-interviews/",
+            "datePublished": "2014-11-04T20:32:15+0000",
+            "cn:summary": "Watch what CEOs have to say about business news headlines, or get updates on what's next for companies. ",
+            "cn:sectionLinktext": "CEO Interviews",
+            "cn:sectionLabel": "CEO Interviews",
+            "headline": "CEO Interviews",
+            "cn:tabLabel": "CEOs",
+            "cn:shorterDescription": "Watch what CEOs have to say about business news headlines, or get updates on what's next for companies. ",
+            "cn:shortestDescription": "Watch what CEOs have to say about business news headlines. ",
+            "cn:bodyTeaser": "null",
+            "cn:settings": {
+                "cn:listType": "Virtual"
+            },
+            "cn:association": [
+                {
+                    "url": "http://qa-aws01web.cnbc.com/top-video/",
+                    "cn:type": "franchise",
+                    "cn:title": "Top Video",
+                    "cn:creatorOverwrite": "",
+                    "@id": "15839263",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15839263",
+                    "cn:slug": "Video and TV",
+                    "cn:tagName": "Video and TV",
+                    "cn:subType": "videosection",
+                    "description": "Play live videos and find up-to-date market news. View Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, and CEO Interviews.",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "section",
+                            "cn:isPromoted": "false"
+                        },
+                        [
+                            {
+                                "cn:relationType": "section",
+                                "cn:isPromoted": "false"
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "url": "http://qa-aws01web.cnbc.com/ceos/",
+                    "cn:type": "franchise",
+                    "cn:title": "CEOs",
+                    "cn:creatorOverwrite": "",
+                    "@id": "10000084",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000084",
+                    "cn:slug": "CEOs",
+                    "cn:tagName": "CEOs",
+                    "cn:subType": "section",
+                    "description": "US: CEOs",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "tags",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "url": "http://qa-aws01web.cnbc.com/id/17",
+                    "cn:type": "franchise",
+                    "cn:title": "Franchise Root",
+                    "@id": "17",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/17",
+                    "cn:slug": "Franchise Root",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "parent",
+                            "cn:isPromoted": "false"
+                        },
+                        [
+                            {
+                                "cn:relationType": "parent",
+                                "cn:isPromoted": "false"
+                            }
+                        ],
+                        [
+                            {
+                                "cn:relationType": "parent",
+                                "cn:isPromoted": "false"
+                            }
+                        ]
+                    ]
+                }
+            ],
+            "description": "Watch what CEOs have to say about business news headlines, or get updates on what's next for companies. ",
+            "cn:section": {
+                "url": "http://qa-aws01web.cnbc.com/top-video/",
+                "cn:type": "franchise",
+                "cn:title": "Top Video",
+                "cn:creatorOverwrite": "",
+                "@id": "15839263",
+                "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15839263",
+                "cn:slug": "Video and TV",
+                "cn:tagName": "Video and TV",
+                "cn:subType": "videosection",
+                "cn:shortestDescription": "Play live videos and find up-to-date market news.",
+                "cn:sectionHierarchy": [
+                    {
+                        "id": 10000161,
+                        "tagName": "CNBC Global",
+                        "order": 1
+                    }
+                ],
+                "cn:sectionLabel": "Top Video",
+                "headline": "Top Video",
+                "cn:liveURL": "/top-video/",
+                "cn:summary": "Play live videos and find up-to-date market news. View Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, and CEO Interviews.",
+                "cn:settings": {
+                    "cn:listType": "Manual and/or populated by feeds",
+                    "cn:tweetOnPublish": 0
+                },
+                "description": "Play live videos and find up-to-date market news. View Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, and CEO Interviews.",
+                "cn:sectionLinktext": "Top Video",
+                "cn:editedBy": "Meg.Teckman-Fullard",
+                "datePublished": "2012-08-04T04:54:10+0000",
+                "cn:historicalURL": [
+                    "/id/15839263"
+                ],
+                "cn:tabLabel": "Top Video",
+                "cn:createdBy": "migration",
+                "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"100197426\"/></assets><div class=\"group\"/></group></body>",
+                "cn:shorterDescription": "Play live videos and find up-to-date market news. View Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, and CEO Interviews.",
+                "name": "Top Video",
+                "@type": "Collection"
+            },
+            "cn:sectionHierarchy": [
+                {
+                    "id": 15839263,
+                    "tagName": "Video and TV",
+                    "order": 1
+                },
+                {
+                    "id": 10000161,
+                    "tagName": "CNBC Global",
+                    "order": 2
+                }
+            ],
+            "cn:historicalURL": [
+                "/ceo-interviews/",
+                "/id/100004032"
+            ],
+            "cn:editedBy": "brian.beers",
+            "cn:createdBy": "chris.larsen",
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNBC",
+                "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+            },
+            "@context": {
+                "@vocab": "http://schema.org/",
+                "cn": "http://cnbc.com/schema/"
+            },
+            "name": "CEO Interviews",
+            "@type": "Collection",
+            "cn:relation": [
+                {
+                    "position": 3,
+                    "cn:relationType": "tags",
+                    "cn:isPromoted": "false"
+                }
+            ]
+        },
+        {
+            "@id": "10001117",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10001117",
+            "cn:type": "franchise",
+            "cn:slug": "Auto Racing",
+            "cn:subType": "section",
+            "cn:tagName": "Auto Racing",
+            "cn:title": "Auto Racing",
+            "cn:creatorOverwrite": "",
+            "url": "http://qa-aws01web.cnbc.com/id/10001117",
+            "cn:liveURL": "/id/10001117",
+            "datePublished": "2012-01-30T01:53:04+0000",
+            "cn:summary": "",
+            "cn:sectionLinktext": "",
+            "cn:sectionLabel": "",
+            "headline": "Auto Racing",
+            "cn:tabLabel": "",
+            "cn:shorterDescription": "Auto Racing",
+            "cn:shortestDescription": "",
+            "cn:bodyTeaser": "null",
+            "cn:settings": {
+                "cn:commentsEnabled": "Yes",
+                "cn:socialtoolsEnabled": "Yes",
+                "cn:listType": "Virtual"
+            },
+            "cn:association": [
+                {
+                    "url": "http://qa-aws01web.cnbc.com/id/17",
+                    "cn:type": "franchise",
+                    "cn:title": "Franchise Root",
+                    "@id": "17",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/17",
+                    "cn:slug": "Franchise Root",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "parent",
+                            "cn:isPromoted": "false"
+                        },
+                        [
+                            {
+                                "cn:relationType": "parent",
+                                "cn:isPromoted": "false"
+                            }
+                        ],
+                        [
+                            {
+                                "cn:relationType": "parent",
+                                "cn:isPromoted": "false"
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "url": "http://qa-aws01web.cnbc.com/sports-business/",
+                    "cn:type": "franchise",
+                    "cn:title": "Sports Business",
+                    "cn:creatorOverwrite": "",
+                    "@id": "10000117",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000117",
+                    "cn:slug": "Sports",
+                    "cn:tagName": "Sports",
+                    "cn:subType": "section",
+                    "description": "Find the latest news, headlines, blogs and watch video about sports business, teams, and sports franchises from CNBC.com.\r\n",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "section",
+                            "cn:isPromoted": "false"
+                        },
+                        [
+                            {
+                                "cn:relationType": "navigation",
+                                "cn:isPromoted": "false"
+                            }
+                        ]
+                    ]
+                }
+            ],
+            "description": "Auto Racing",
+            "cn:section": {
+                "url": "http://qa-aws01web.cnbc.com/sports-business/",
+                "cn:type": "franchise",
+                "cn:title": "Sports Business",
+                "cn:creatorOverwrite": "",
+                "@id": "10000117",
+                "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000117",
+                "cn:slug": "Sports",
+                "cn:tagName": "Sports",
+                "cn:subType": "section",
+                "cn:shortestDescription": "Sports business, teams, and sports franchises.",
+                "cn:sectionHierarchy": [
+                    {
+                        "id": 10001150,
+                        "tagName": "Life",
+                        "order": 1
+                    },
+                    {
+                        "id": 10000161,
+                        "tagName": "CNBC Global",
+                        "order": 2
+                    }
+                ],
+                "cn:sectionLabel": "Sports",
+                "headline": "Sports",
+                "cn:liveURL": "/sports-business/",
+                "cn:summary": "Find the latest news, headlines, blogs and watch video about sports business, teams, and sports franchises from CNBC.com.\r\n",
+                "cn:settings": {
+                    "cn:commentsEnabled": "Yes",
+                    "cn:socialtoolsEnabled": "Yes",
+                    "cn:listType": "Manual and/or populated by feeds",
+                    "cn:tweetOnPublish": 0
+                },
+                "description": "Find the latest news, headlines, blogs and watch video about sports business, teams, and sports franchises from CNBC.com.\r\n",
+                "cn:sectionLinktext": "Sports Business",
+                "cn:editedBy": "Rick.Levinson",
+                "datePublished": "2012-01-30T01:46:41+0000",
+                "cn:historicalURL": [
+                    "/id/10000117",
+                    "/sports/"
+                ],
+                "cn:tabLabel": "Sports",
+                "cn:createdBy": "migration",
+                "cn:bodyTeaser": "null",
+                "cn:shorterDescription": "Find the latest news about sports business, teams, and sports franchises.",
+                "name": "Sports Business",
+                "@type": "Collection"
+            },
+            "cn:sectionHierarchy": [
+                {
+                    "id": 10000117,
+                    "tagName": "Sports",
+                    "order": 1
+                },
+                {
+                    "id": 10001150,
+                    "tagName": "Life",
+                    "order": 2
+                },
+                {
+                    "id": 10000161,
+                    "tagName": "CNBC Global",
+                    "order": 3
+                }
+            ],
+            "cn:editedBy": "joseph.odell",
+            "cn:historicalURL": [
+                "/auto-racing/"
+            ],
+            "cn:createdBy": "migration",
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNBC",
+                "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+            },
+            "@context": {
+                "@vocab": "http://schema.org/",
+                "cn": "http://cnbc.com/schema/"
+            },
+            "name": "Auto Racing",
+            "@type": "Collection",
+            "cn:relation": [
+                {
+                    "position": 2,
+                    "cn:relationType": "tags",
+                    "cn:isPromoted": "false"
+                }
+            ]
+        },
+        {
+            "@id": "10000117",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000117",
+            "cn:type": "franchise",
+            "cn:slug": "Sports",
+            "cn:subType": "section",
+            "cn:tagName": "Sports",
+            "cn:title": "Sports Business",
+            "cn:creatorOverwrite": "",
+            "url": "http://qa-aws01web.cnbc.com/sports-business/",
+            "cn:liveURL": "/sports-business/",
+            "datePublished": "2012-01-30T01:46:41+0000",
+            "cn:summary": "Find the latest news, headlines, blogs and watch video about sports business, teams, and sports franchises from CNBC.com.\r\n",
+            "cn:sectionLinktext": "Sports Business",
+            "cn:sectionLabel": "Sports",
+            "headline": "Sports",
+            "cn:tabLabel": "Sports",
+            "cn:shorterDescription": "Find the latest news about sports business, teams, and sports franchises.",
+            "cn:shortestDescription": "Sports business, teams, and sports franchises.",
+            "cn:bodyTeaser": "null",
+            "cn:settings": {
+                "cn:commentsEnabled": "Yes",
+                "cn:socialtoolsEnabled": "Yes",
+                "cn:listType": "Manual and/or populated by feeds",
+                "cn:tweetOnPublish": 0
+            },
+            "cn:association": [
+                {
+                    "cn:type": "franchise",
+                    "cn:creatorOverwrite": "",
+                    "@id": "10001150",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10001150",
+                    "cn:slug": "Life",
+                    "cn:subType": "news_section",
+                    "url": "https://qa-aws01web.cnbc.com/life/",
+                    "cn:title": "Life",
+                    "cn:tagName": "Life",
+                    "description": "Keep on top of the latest trends, tips, and information for life and leisure.",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "section",
+                            "cn:isPromoted": "false"
+                        },
+                        {
+                            "cn:relationType": "navigation",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "url": "http://qa-aws01web.cnbc.com/travel/",
+                    "cn:type": "franchise",
+                    "cn:title": "Travel",
+                    "cn:creatorOverwrite": "",
+                    "@id": "10000739",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000739",
+                    "cn:slug": "Travel",
+                    "cn:tagName": "Travel",
+                    "cn:subType": "section",
+                    "description": "Latest news for the travel industry, inside tips and advice on snagging deals. ",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "navigation",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "url": "http://qa-aws01web.cnbc.com/entertainment/",
+                    "cn:type": "franchise",
+                    "cn:title": "Entertainment",
+                    "cn:creatorOverwrite": "",
+                    "@id": "10000971",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000971",
+                    "cn:slug": "Entertainment",
+                    "cn:tagName": "Entertainment",
+                    "cn:subType": "section",
+                    "description": "Latest entertainment industry news, upcoming celebrities, blockbuster movies, and hit television shows. ",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "navigation",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "url": "http://qa-aws01web.cnbc.com/sports-business/",
+                    "cn:type": "franchise",
+                    "cn:title": "Sports Business",
+                    "cn:creatorOverwrite": "",
+                    "@id": "10000117",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000117",
+                    "cn:slug": "Sports",
+                    "cn:tagName": "Sports",
+                    "cn:subType": "section",
+                    "description": "Find the latest news, headlines, blogs and watch video about sports business, teams, and sports franchises from CNBC.com.\r\n",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "section",
+                            "cn:isPromoted": "false"
+                        },
+                        [
+                            {
+                                "cn:relationType": "navigation",
+                                "cn:isPromoted": "false"
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "url": "http://qa-aws01web.cnbc.com/weather/",
+                    "cn:type": "franchise",
+                    "cn:title": "Weather",
+                    "cn:creatorOverwrite": "",
+                    "@id": "10000990",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000990",
+                    "cn:slug": "Weather",
+                    "cn:tagName": "Weather",
+                    "cn:subType": "section",
+                    "description": "Find the latest news, headlines, blogs and watch video about weather from CNBC.com.\r\n",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "navigation",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "url": "http://qa-aws01web.cnbc.com/crime/",
+                    "cn:type": "franchise",
+                    "cn:title": "Crime",
+                    "cn:creatorOverwrite": "",
+                    "@id": "10000079",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000079",
+                    "cn:slug": "Crime",
+                    "cn:tagName": "Crime",
+                    "cn:subType": "section",
+                    "description": "News stories, video, and special reports on white collar crime, Ponzi schemes, business news, and more. ",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "navigation",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "url": "http://qa-aws01web.cnbc.com/art-and-culture/",
+                    "cn:type": "franchise",
+                    "cn:title": "Art and Culture",
+                    "cn:creatorOverwrite": "",
+                    "@id": "100860757",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100860757",
+                    "cn:slug": "Art & Culture",
+                    "cn:tagName": "Art and Culture",
+                    "cn:subType": "section",
+                    "description": "Find out what's happening in the artistic world, or the latest cultural trends worldwide.",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "navigation",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "url": "http://qa-aws01web.cnbc.com/science/",
+                    "cn:type": "franchise",
+                    "cn:title": "Science",
+                    "cn:creatorOverwrite": "",
+                    "@id": "10000984",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000984",
+                    "cn:slug": "Science",
+                    "cn:tagName": "Science",
+                    "cn:subType": "section",
+                    "description": "Find the latest news about science from CNBC.com.",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "navigation",
+                            "cn:isPromoted": "false"
+                        }
+                    ]
+                },
+                {
+                    "url": "http://qa-aws01web.cnbc.com/id/17",
+                    "cn:type": "franchise",
+                    "cn:title": "Franchise Root",
+                    "@id": "17",
+                    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/17",
+                    "cn:slug": "Franchise Root",
+                    "@type": "CreativeWork",
+                    "cn:relation": [
+                        {
+                            "cn:relationType": "parent",
+                            "cn:isPromoted": "false"
+                        },
+                        [
+                            {
+                                "cn:relationType": "parent",
+                                "cn:isPromoted": "false"
+                            }
+                        ],
+                        [
+                            {
+                                "cn:relationType": "parent",
+                                "cn:isPromoted": "false"
+                            }
+                        ]
+                    ]
+                }
+            ],
+            "description": "Find the latest news, headlines, blogs and watch video about sports business, teams, and sports franchises from CNBC.com.\r\n",
+            "cn:section": {
+                "cn:type": "franchise",
+                "cn:creatorOverwrite": "",
+                "@id": "10001150",
+                "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10001150",
+                "cn:slug": "Life",
+                "cn:subType": "news_section",
+                "url": "https://qa-aws01web.cnbc.com/life/",
+                "cn:title": "Life",
+                "cn:tagName": "Life",
+                "cn:subDomain": "https://qa-aws01web.cnbc.com",
+                "cn:branding": "cnbc",
+                "cn:sectionHierarchy": [
+                    {
+                        "id": 10000161,
+                        "tagName": "CNBC Global",
+                        "order": 1
+                    }
+                ],
+                "cn:sectionLabel": "Life",
+                "headline": "Life",
+                "cn:liveURL": "/life/",
+                "cn:settings": {
+                    "cn:commentsEnabled": "Yes",
+                    "cn:socialtoolsEnabled": "Yes",
+                    "cn:listType": "Manual and/or populated by feeds",
+                    "cn:tweetOnPublish": 0
+                },
+                "description": "Keep on top of the latest trends, tips, and information for life and leisure.",
+                "cn:sectionLinktext": "Life",
+                "datePublished": "2012-05-02T04:24:09+0000",
+                "cn:historicalURL": [
+                    "/id/10001150",
+                    "/life-and-leisure/"
+                ],
+                "cn:tabLabel": "Life",
+                "cn:bodyTeaser": "null",
+                "cn:shortestDescription": "Keep on top of the latest trends, tips, and information for life and leisure.",
+                "cn:summary": "Keep on top of the latest trends, tips, and information for life and leisure.",
+                "cn:editedBy": "Devi.Chapidi",
+                "cn:createdBy": "migration",
+                "cn:shorterDescription": "Keep on top of the latest trends, tips, and information for life and leisure.",
+                "name": "Life",
+                "cn:sectionColor": "#000000",
+                "cn:promoText": "",
+                "cn:showTime": "",
+                "@type": "Collection"
+            },
+            "cn:sectionHierarchy": [
+                {
+                    "id": 10001150,
+                    "tagName": "Life",
+                    "order": 1
+                },
+                {
+                    "id": 10000161,
+                    "tagName": "CNBC Global",
+                    "order": 2
+                }
+            ],
+            "cn:historicalURL": [
+                "/id/10000117",
+                "/sports/"
+            ],
+            "cn:editedBy": "Rick.Levinson",
+            "cn:createdBy": "migration",
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNBC",
+                "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+            },
+            "@context": {
+                "@vocab": "http://schema.org/",
+                "cn": "http://cnbc.com/schema/"
+            },
+            "name": "Sports Business",
+            "@type": "Collection",
+            "cn:relation": [
+                {
+                    "position": 1,
+                    "cn:relationType": "tags",
+                    "cn:isPromoted": "false"
+                }
+            ]
+        },
+        {
+            "@id": "101961777",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/101961777",
+            "cn:type": "skin",
+            "cn:slug": "video gallery skin",
+            "cn:tagName": "",
+            "cn:title": "video gallery css skin",
+            "cn:creatorOverwrite": "",
+            "url": "",
+            "cn:liveURL": "",
+            "datePublished": "2014-09-02T02:13:36+0000",
+            "cn:summary": "",
+            "cn:linkHeadline": "",
+            "cn:shorterHeadline": "",
+            "headline": "video gallery css skin",
+            "cn:shortestHeadline": "",
+            "cn:shorterDescription": "",
+            "cn:shortestDescription": "",
+            "cn:bodyTeaser": "null",
+            "cn:settings": {
+                "cn:commentsEnabled": "Yes",
+                "cn:socialtoolsEnabled": "Yes",
+                "cn:dateline": "Yes",
+                "cn:displayByline": "Yes",
+                "cn:displaySource": "Yes",
+                "cn:outbrainEnabled": "Yes",
+                "cn:isFamilyFriendly": "Yes",
+                "cn:listType": "Virtual",
+                "cn:tweetOnPublish": 0
+            },
+            "description": "",
+            "cn:sectionHierarchy": [],
+            "cn:editedBy": "yogen.patel",
+            "cn:historicalURL": [],
+            "cn:createdBy": "roshan.varghese",
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNBC",
+                "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+            },
+            "@context": {
+                "@vocab": "http://schema.org/",
+                "cn": "http://cnbc.com/schema/"
+            },
+            "@type": "DigitalDocument",
+            "cn:relation": [
+                {
+                    "position": 1,
+                    "cn:relationType": "skin",
+                    "cn:isPromoted": "false"
+                }
+            ]
+        },
+        {
+            "fileFormat": "text/tpl",
+            "@id": "101816772",
+            "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/101816772",
+            "cn:type": "markup_template",
+            "cn:slug": "Video Gallery Page Template",
+            "cn:tagName": "",
+            "cn:title": "Video Gallery Page Template",
+            "cn:creatorOverwrite": "",
+            "url": "file://video_gallery.tpl",
+            "cn:liveURL": "",
+            "cn:createdBy": "yogen.patel",
+            "cn:editedBy": "yogen.patel",
+            "datePublished": "2014-07-07T18:29:06+0000",
+            "cn:summary": "",
+            "cn:linkHeadline": "",
+            "cn:shorterHeadline": "",
+            "headline": "Video Gallery Page Template",
+            "cn:shortestHeadline": "",
+            "cn:shorterDescription": "",
+            "cn:shortestDescription": "",
+            "cn:bodyTeaser": "null",
+            "cn:sectionHierarchy": [],
+            "cn:settings": {
+                "cn:commentsEnabled": "Yes",
+                "cn:socialtoolsEnabled": "Yes",
+                "cn:dateline": "Yes",
+                "cn:displayByline": "Yes",
+                "cn:displaySource": "Yes",
+                "cn:outbrainEnabled": "Yes",
+                "cn:listType": "Virtual"
+            },
+            "description": "",
+            "cn:historicalURL": [],
+            "publisher": {
+                "@type": "Organization",
+                "name": "CNBC",
+                "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+            },
+            "@context": {
+                "@vocab": "http://schema.org/",
+                "cn": "http://cnbc.com/schema/"
+            },
+            "name": "video_gallery.tpl",
+            "@type": "DigitalDocument",
+            "cn:relation": [
+                {
+                    "position": 1,
+                    "cn:relationType": "template",
+                    "cn:isPromoted": "false"
+                }
+            ]
+        }
+    ]
+}

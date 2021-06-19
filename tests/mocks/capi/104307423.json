@@ -1,0 +1,90 @@
+{
+  "@id": "104307423",
+  "cn:type": "image",
+  "cn:creatorOverwrite": "Cheryl Gerber | AFP | Getty Images",
+  "cn:slug": "Premium: Make Russia Great Again float 170223",
+  "author": "",
+  "contentSize": 541443,
+  "cn:summary": "",
+  "cn:shorterDescription": " Make Russia Great Again float in bklyn",
+  "cn:shortestDescription": " Make Russia Great Again",
+  "datePublished": "2017-02-27T17:05:29 GMT",
+  "cn:dateLastPublished": "2017-10-16T19:46:59 GMT",
+  "dateModified": "2017-10-16T19:46:59 GMT",
+  "url": "http://img-static-qa1.cnbc.com/2017/02/27/104307423-rsz_gettyimages-645611298.jpg?v=1508183219",
+  "caption": "The carnival parading society Krewe D'Etat rolls its satirical float in New Orleans as part of the Mardi Gras celebrations on Feb. 23, 2017.",
+  "description": "",
+  "copyrightHolder": "Cheryl Gerber | AFP | Getty Images",
+  "height": "1416",
+  "width": "2128",
+  "cn:focalPoints": {
+    "cn:x": 1148,
+    "cn:y": 618,
+    "cn:height": 961,
+    "cn:width": 1624
+  },
+  "cn:filter": "",
+  "@type": "ImageObject",
+  "representativeOfPage": "true",
+  "@context": {
+    "@vocab": "http://schema.org/",
+    "cn": "http://cnbc.com/schema/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "CNBC",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "cn:association": [{
+    "@type": "Source",
+    "@id": "100259922",
+    "cn:type": "source",
+    "cn:slug": "Getty Premiums",
+    "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/100259922",
+    "url": "",
+    "datePublished": "2012-11-29T18:42:08 GMT",
+    "name": "",
+    "description": "",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "cn:relation": [{
+      "position": 5000,
+      "cn:relationType": "source"
+    }]
+  }, {
+    "@type": "CreativeWork",
+    "@id": "100452589",
+    "cn:type": "wildcard",
+    "cn:slug": "Getty Premium Images Wild Card",
+    "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/100452589",
+    "datePublished": "2013-02-12T13:59:13 GMT",
+    "cn:wildcard": {
+      "cn:wildcardContent": {
+        "cn:__cdata": ""
+      },
+      "cn:wildcardPromo": {
+        "cn:__cdata": ""
+      }
+    },
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "cn:relation": [{
+      "position": 1,
+      "cn:relationType": "more"
+    }]
+  }]
+}

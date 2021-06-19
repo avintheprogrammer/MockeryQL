@@ -1,0 +1,210 @@
+{
+  "@type": "Collection",
+  "@id": "100010507",
+  "cn:type": "franchise",
+  "cn:slug": "US Economy",
+  "cn:title": "US Economy",
+  "headline": "US Economy",
+  "cn:sectionLabel": "US Economy",
+  "cn:creatorOverwrite": "",
+  "cn:historicalURL": [
+    "/economics/",
+    "/id/100010507"
+  ],
+  "cn:editedBy": "Anusha.Gogineni",
+  "cn:createdBy": "Mark.Richards",
+  "cn:subDomain": "CNBC.com",
+  "cn:branding": "CNBC",
+  "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100010507",
+  "cn:settings": {
+    "cn:commentsEnabled": "Yes",
+    "cn:socialtoolsEnabled": "Yes",
+    "cn:listType": "Manual and/or populated by feeds",
+    "cn:tweetOnPublish": 0
+  },
+  "url": "http://qa-aws01web.cnbc.com/us-economy/",
+  "datePublished": "2014-09-02T17:20:56+0000",
+  "cn:unpublishDate": "",
+  "cn:liveURL": "/us-economy/",
+  "cn:summary": "Latest news and headlines affecting the United States economy.",
+  "cn:shorterDescription": "Latest news and headlines affecting the United States economy.",
+  "cn:shortestDescription": "Latest news affecting the United States economy.",
+  "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><br /></p><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div></div></group></body>",
+  "cn:sectionHierarchy": [{
+      "id": 20910258,
+      "tagName": "Economy",
+      "order": 1
+    },
+    {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 2
+    }
+  ],
+  "cn:subtype": "news_section",
+  "description": "Latest news and headlines affecting the United States economy.",
+  "cn:tabLabel": "US Economy",
+  "cn:sectionLinktext": "US Economy",
+  "@context": {
+    "@vocab": "http://schema.org/",
+    "cn": "http://cnbc.com/schema/"
+  },
+  "publisher": {
+    "name": "CNBC",
+    "@type": "Organization",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "cn:pagination": {
+    "cn:link": {
+      "cn:self": "https://qa-aws02capi-bl.cnbc.com/list/id/100010507?page=1&pagesize=2",
+      "cn:next": "https://qa-aws02capi-bl.cnbc.com/list/id/100010507?page=2&pagesize=2",
+      "cn:previous": "https://qa-aws02capi-bl.cnbc.com/list/id/100010507?page=1&pagesize=2",
+      "cn:last": "https://qa-aws02capi-bl.cnbc.com/list/id/100010507?page=64&pagesize=2"
+    },
+    "cn:page": 1,
+    "cn:totalCount": 127,
+    "cn:pageSize": 2
+  },
+  "cn:listItem": [{
+      "@id": "104847375",
+      "cn:type": "blogpost",
+      "cn:slug": "Testing Capi Flows",
+      "cn:createdBy": "srinivas.maroju",
+      "cn:editedBy": "Ying.Zhao",
+      "cn:title": "Testing Capi Flows-G",
+      "headline": "Testing Capi Flows-G",
+      "cn:creatorOverwrite": "",
+      "cn:branding": "Make It",
+      "cn:subDomain": "Make-It.CNBC.com",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847375",
+      "url": "http://qa-aws01web.cnbc.com/2018/01/12/testing-capi-flows.html",
+      "datePublished": "2018-01-12T16:34:43+0000",
+      "cn:liveURL": "/2018/01/12/testing-capi-flows.html",
+      "cn:summary": "Testing Capi Flows",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p>Testing Capi Flows - Body Here. GK1</p></div></group></body>",
+      "cn:sectionHierarchy": [],
+      "description": "Testing Capi Flows",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "BlogPosting",
+      "cn:relation": [{
+        "cn:isPromoted": "false",
+        "cn:relationType": "outputList",
+        "position": 10550
+      }]
+    },
+    {
+      "@id": "104828963",
+      "cn:type": "slideshow",
+      "cn:slug": "Best gadgets for holiday HASELTON 171109 EC",
+      "cn:createdBy": "Todd.Haselton",
+      "cn:editedBy": "Josephine.Bila",
+      "cn:title": "The best gadgets of 2017 to give as holiday gifts, from the Amazon Echo to the iPhone X",
+      "headline": "The best gadgets of 2017 to give as holiday gifts",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104828963",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/09/best-gadgets-tech-gifts-for-christmas-holdays.html",
+      "datePublished": "2017-11-09T15:35:16+0000",
+      "cn:liveURL": "/2017/11/09/best-gadgets-tech-gifts-for-christmas-holdays.html",
+      "cn:summary": "CNBC's best gadgets for holiday gifts includes our favorites of the year such as the Amazon Echo, iPhone X, Galaxy S8, the iPad Pro 10.1 and more.",
+      "cn:shorterDescription": "CNBC's best gadgets for holiday gifts includes our favorites of the year such as the Amazon Echo, iPhone X, Galaxy S8 and the iPad Pro.",
+      "cn:shortestDescription": "CNBC's best gadgets for holiday gifts includes favorites of the year such as the Amazon Echo, iPhone X and Galaxy S8.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104829175\"/></assets><div class=\"group\"><p>2017 has been loaded with excellent gadgets ranging from exciting new smartphones to&#160;smart&#160;speakers and home security products.</p><p>Fortunately, as CNBC's in-house technology product editor — and someone who has spent his entire career testing gadgets — I was able to call in and test dozens of new products that launched this year. That meant taking some home, installing them and seeing which ones worked better than others.</p><p>In some cases, I picked new versions of what was already the best product on the market, and tested to see if it succeeded beyond the original. Other times, I tested products that were so bad they didn't&#160;even make it to the site.</p><p>The following are, I think, the best gadgets for gifts this holiday season, and one is easily the best I tested all year. I've even purchased many of them for myself -- enough times that my wife shudders every time a new package arrives at the house, which should say something.</p><p>Here's what deserves to get wrapped this year:</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 104829126,
+          "tagName": "Tech Holiday Gift Guide",
+          "order": 1
+        },
+        {
+          "id": 19854910,
+          "tagName": "Technology",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "CNBC's best gadgets for holiday gifts includes our favorites of the year such as the Amazon Echo, iPhone X, Galaxy S8, the iPad Pro 10.1 and more.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "104355036",
+        "name": "Todd Haselton",
+        "url": "http://qa-aws01web.cnbc.com/todd-haselton/",
+        "position": "4999",
+        "sameAs": [
+          "https://www.twitter.com/@robotodd"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/@robotodd",
+          "cn:displayText": "@robotodd",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104829175,
+        "author": "",
+        "datePublished": "2017-11-08T16:16:27+0000",
+        "caption": "",
+        "description": "",
+        "copyrightHolder": "FatCamera | E+ | Getty",
+        "height": "1414",
+        "width": "2120",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104829175-GettyImages-871369592.jpg?v=1510157764"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "ImageGallery",
+      "cn:relation": [{
+        "cn:isPromoted": "false",
+        "cn:relationType": "outputList",
+        "position": 10547
+      }]
+    }
+  ]
+}

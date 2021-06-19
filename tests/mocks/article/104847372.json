@@ -1,0 +1,1042 @@
+{
+  "data": {
+    "article": {
+      "body": {
+        "content": [
+          {
+            "tagName": "chart",
+            "attributes": {
+              "type": "chart",
+              "headline": "TS 2011: Virginia Rankings",
+              "datePublished": "2012-02-09T20:31:34+0000"
+            },
+            "children": []
+          },
+          {
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": []
+          },
+          {
+            "tagName": "chart",
+            "attributes": {
+              "type": "chart",
+              "headline": "Twitter keyword overtime for stock market chart 2",
+              "datePublished": "2012-12-20T15:25:33+0000"
+            },
+            "children": []
+          },
+          {
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": []
+          },
+          {
+            "tagName": "chart",
+            "attributes": {
+              "type": "chart",
+              "headline": "Market Chart Test",
+              "datePublished": "2018-01-11T05:00:00+0000",
+              "chartType": "stock",
+              "headers": [
+                "Name",
+                "Price",
+                "Change",
+                "%Change",
+                "Exchange",
+                "Volume",
+                "Fair Value",
+                "Yield"
+              ],
+              "timeFrame": "6 Months",
+              "tickerIssueIDs": [
+                "111081688",
+                "83312",
+                "418001519",
+                "436305825"
+              ],
+              "tickerIssueDetails": [
+                {
+                  "issuerId": "168728",
+                  "symbol": "2858-HK",
+                  "companyShortName": "2858",
+                  "issueId": "111081688",
+                  "companyName": "Yixin Group Ltd"
+                },
+                {
+                  "issuerId": "14471",
+                  "symbol": "CGY-CA",
+                  "companyShortName": "CGY",
+                  "issueId": "83312",
+                  "companyName": "Calian Group Ltd"
+                },
+                {
+                  "issuerId": "166772",
+                  "symbol": "GBIO-BR",
+                  "companyShortName": "GBIO",
+                  "issueId": "418001519",
+                  "companyName": "Biotoscana Investments SA"
+                },
+                {
+                  "issuerId": "157319",
+                  "symbol": "APLS",
+                  "companyShortName": "APLS",
+                  "issueId": "436305825",
+                  "companyName": "Apellis Pharmaceuticals Inc"
+                }
+              ]
+            },
+            "children": []
+          },
+          {
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": []
+          },
+          {
+            "tagName": "wildcard",
+            "attributes": {
+              "id": "104847251",
+              "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847251",
+              "type": "wildcard",
+              "slug": "CNBC Tech: Amazon Key security flaw",
+              "title": "CNBC Tech: Amazon Key security flaw",
+              "url": "/cnbc-tech-amazon-key-security-flaw/",
+              "liveURL": "/cnbc-tech-amazon-key-security-flaw/",
+              "createdBy": "Todd.Haselton",
+              "editedBy": "ritesh.shah",
+              "datePublished": "2017-11-16T16:34:40+0000",
+              "headline": "CNBC Tech: Amazon Key security flaw",
+              "sectionHierarchy": [],
+              "image": {
+                "representativeOfPage": "true",
+                "id": "104847360",
+                "height": "358",
+                "datePublished": "2017-12-14T21:28:24+0000",
+                "width": "480",
+                "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104847360-giphy.gif?v=1517612826"
+              },
+              "settings": {
+                "commentsEnabled": "Yes",
+                "socialtoolsEnabled": "Yes",
+                "dateline": "Yes",
+                "displayByline": "Yes",
+                "displaySource": "Yes",
+                "outbrainEnabled": "Yes",
+                "isFamilyFriendly": "Yes",
+                "listType": "Virtual",
+                "tweetOnPublish": 0
+              },
+              "association": [
+                {
+                  "type": "creator",
+                  "id": "104763496",
+                  "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104763496",
+                  "slug": "Ray Sipherd",
+                  "url": "http://qa-aws01web.cnbc.com/ray-sipherd-profile--cnbc/",
+                  "title": "Ray Sipherd",
+                  "tagName": "Ray Sipherd",
+                  "description": "special to CNBC.com ",
+                  "relation": [
+                    {
+                      "relationType": "author",
+                      "isPromoted": "false"
+                    }
+                  ]
+                },
+                {
+                  "type": "image",
+                  "id": "104847360",
+                  "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847360",
+                  "slug": "test-qa2403img",
+                  "title": "test-qa2403img",
+                  "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104847360-giphy.gif?v=1517612826",
+                  "contentSize": 1219402,
+                  "height": "358",
+                  "width": "480",
+                  "relation": [
+                    {
+                      "relationType": "promo",
+                      "isPromoted": "false"
+                    }
+                  ]
+                }
+              ],
+              "author": [
+                {
+                  "id": "104763496",
+                  "name": "Ray Sipherd",
+                  "url": "http://qa-aws01web.cnbc.com/ray-sipherd-profile--cnbc/",
+                  "tagName": "Ray Sipherd",
+                  "position": "5000"
+                }
+              ],
+              "historicalURL": [],
+              "publisher": {
+                "name": "CNBC",
+                "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+              },
+              "wildcard": {
+                "wildcardContent": {
+                  "cdata": "<!-- PLACE EMBED IN WILDCARD PROMOR TEXT FIELD IN PROMOTIONAL VIEW TAB-->"
+                },
+                "wildcardPromo": {
+                  "cdata": "<style>\r\n.embedPlayer_container iframe{width:100%}\r\n@media screen and (max-width: 640px){\r\n      .embedPlayer_container iframe {\r\n          height: -webkit-calc(100vw * 9/16);\r\n          height: -moz-calc(100vw * 9/16);         \r\n          height: calc(100vw * 9/16);\r\n\r\n     }\r\n}\r\n</style>\r\n<div class=\"embedPlayer_container\">\r\n    <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2GSK7cIimFY\" frameborder=\"0\" allowfullscreen></iframe>\r\n    \r\n</div>"
+                }
+              },
+              "relation": [
+                {
+                  "position": 30,
+                  "relationType": "tags",
+                  "isPromoted": "false"
+                },
+                {
+                  "position": 1,
+                  "relationType": "related",
+                  "isPromoted": "false"
+                }
+              ]
+            },
+            "children": []
+          },
+          {
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": [
+              {
+                "tagName": "p",
+                "children": [
+                  "What will the office of tomorrow be like? The needs of employees are changing and businesses must change with them in order to attract the best workers. One way to do this will be combining work and leisure, experts tell CNBC."
+                ]
+              }
+            ]
+          },
+          {
+            "tagName": "chart",
+            "attributes": {
+              "type": "chart",
+              "headline": "Static Chart Test",
+              "datePublished": "2018-01-12T05:00:00+0000"
+            },
+            "children": []
+          },
+          {
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": []
+          },
+          {
+            "tagName": "company",
+            "attributes": {
+              "type": "company",
+              "headline": "Netflix Inc  T:NFLX",
+              "title": "Netflix Inc",
+              "url": "/quotes/?symbol=NFLX",
+              "tickerSymbol": "NASDAQ NFLX",
+              "tickerIssueID": 26444,
+              "render": "small",
+              "symbol": "NFLX"
+            },
+            "children": []
+          },
+          {
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": [
+              {
+                "tagName": "p",
+                "children": [
+                  " \"Employers today need to create an environment that attracts the talent and allows them to really grow and ",
+                  {
+                    "tagName": "a",
+                    "attributes": {
+                      "target": "_self",
+                      "id": "webresource_",
+                      "className": "webresource        full-episodes",
+                      "href": "http://www.cnbc.com/live-tv/adventure-capitalists/full-episode/ice/1096210499886"
+                    },
+                    "children": [
+                      "be happy there, \" Tom Redmayne,"
+                    ]
+                  },
+                  " director of business development for U.K. and Ireland at Wiredscore.com, told CNBC Squawk Box on Monday."
+                ]
+              }
+            ]
+          },
+          {
+            "tagName": "cnbcvideo",
+            "attributes": {
+              "id": 104810164,
+              "type": "cnbcvideo",
+              "headline": "Eyewitness recorded video of man after incident",
+              "title": "Eyewitness recorded video of man after incident",
+              "url": "http://qa-aws01web.cnbc.com/video/2017/10/31/eyewitness-recorded-video-of-man-after-incident.html",
+              "show": "Catastrophe",
+              "description": "CNBC's Bob Pisani reports on eye witness accounts in lower Manhattan after a truck drove into a pedestrian and bike lane and killed eight.",
+              "thumbnail": "https://qa-aws02capi-img-origin.cnbc.com/image/104810213-3ED3-FM-EYEWITNESS-RECORDED-VIDEO-103117.jpg?v=1509485197",
+              "duration": 235,
+              "uploadDate": "2017-10-31T21:11:58+0000",
+              "autoPlay": false
+            },
+            "children": []
+          },
+          {
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": [
+              {
+                "tagName": "p",
+                "children": [
+                  "Redmayne, whose company certifies the quality of internet connectivity in office spaces, says ",
+                  " include having fantastic digital infrastructure, leisure and retail opportunities, and the ability to balance work and home life."
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  " \"Now you're accessible (to clients) 24/7 and clients expect you to come back to them the whole time, people no longer accept a working environment that's a stale, undynamic place. They want to be able to interact and have something that's akin to what they have in their personal lives.\""
+                ]
+              }
+            ]
+          },
+          {
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": [
+              {
+                "tagName": "p",
+                "children": [
+                  "In some cases, businesses are moving towards a virtual office structure, with employees working at home or remotely, using their connected digital devices. In 2016 in the U.K., the number of people regularly working from home increased 7.7 percent to 1.639 million, according to the Trades Union Congress."
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  "CSV - TEST -VC"
+                ]
+              }
+            ]
+          },
+          {
+            "tagName": "chart",
+            "attributes": {
+              "type": "chart",
+              "headline": "CSV test VC",
+              "datePublished": "2018-02-02T20:18:22+0000",
+              "chartType": "csv",
+              "rows": [
+                [
+                  "Column 1",
+                  "Column 2 ",
+                  "Column 3",
+                  "Column 4"
+                ],
+                [
+                  "Row 1A",
+                  "Row 1B",
+                  "Row 1C",
+                  "Row 1D"
+                ],
+                [
+                  "Row 2A",
+                  "Row 2B",
+                  "Row 2C",
+                  "Row 2D"
+                ]
+              ],
+              "rowHeader": false,
+              "columnHeader": false
+            },
+            "children": []
+          },
+          {
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": [
+              {
+                "tagName": "p",
+                "children": [
+                  "Yet while digital devices and virtual office tools will drive efficiencies and helps employees work harder, Redmayne says we'll always need a physical office for work."
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  " \"I think the serendipitous interactions you get through actually working with colleagues in your business and also with your partners make such a difference and I think we'll always need an office to drive those sorts of interactions,\" he told CNBC's Squawk Box on Monday."
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  {
+                    "tagName": "b",
+                    "children": [
+                      "Millarworld Franchises"
+                    ]
+                  }
+                ]
+              },
+              {
+                "tagName": "ol",
+                "children": [
+                  {
+                    "tagName": "li",
+                    "children": [
+                      {
+                        "tagName": "b",
+                        "attributes": {
+                          "style": {
+                            "fontSize": "1.1em"
+                          }
+                        },
+                        "children": [
+                          "Wanted"
+                        ]
+                      },
+                      {
+                        "tagName": "span",
+                        "children": [
+                          {
+                            "tagName": "span",
+                            "children": [
+                              " "
+                            ]
+                          },
+                          "― $134m Total Gross"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tagName": "li",
+                    "children": [
+                      {
+                        "tagName": "b",
+                        "attributes": {
+                          "style": {
+                            "fontSize": "1.1em"
+                          }
+                        },
+                        "children": [
+                          "Kingsman: The Secret Service of Men Who Hunt Treasures"
+                        ]
+                      },
+                      {
+                        "tagName": "span",
+                        "children": [
+                          {
+                            "tagName": "span",
+                            "children": [
+                              " "
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tagName": "b",
+                        "attributes": {
+                          "style": {
+                            "fontSize": "1.1em"
+                          }
+                        },
+                        "children": [
+                          "―"
+                        ]
+                      },
+                      {
+                        "tagName": "span",
+                        "children": [
+                          {
+                            "tagName": "span",
+                            "children": [
+                              " "
+                            ]
+                          },
+                          "$128m Total Gross"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tagName": "li",
+                    "children": [
+                      {
+                        "tagName": "b",
+                        "attributes": {
+                          "style": {
+                            "fontSize": "1.1em"
+                          }
+                        },
+                        "children": [
+                          "Kickass"
+                        ]
+                      },
+                      {
+                        "tagName": "span",
+                        "children": [
+                          {
+                            "tagName": "span",
+                            "children": [
+                              " "
+                            ]
+                          },
+                          "― $48m Total Gross"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tagName": "li",
+                    "children": [
+                      {
+                        "tagName": "b",
+                        "attributes": {
+                          "style": {
+                            "fontSize": "1.1em"
+                          }
+                        },
+                        "children": [
+                          "Reborn"
+                        ]
+                      },
+                      {
+                        "tagName": "span",
+                        "children": [
+                          {
+                            "tagName": "span",
+                            "children": [
+                              " "
+                            ]
+                          },
+                          "― $34m Total Gross"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tagName": "webresource",
+            "attributes": {
+              "type": "webresource",
+              "href": "https://www.cnbc.com/id/104838320",
+              "headline": " View the full article"
+            },
+            "children": []
+          },
+          {
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": [
+              {
+                "tagName": "p",
+                "children": [
+                  {
+                    "tagName": "b",
+                    "attributes": {
+                      "className": [
+                        ""
+                      ]
+                    },
+                    "children": [
+                      "What's behind the rise?"
+                    ]
+                  }
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  "South Korea is driving the trade with over 60 percent of buying happening in Korean won. Lawmakers in South Korea are looking to regulate ethereum and bitcoin which is buoying sentiment."
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  "At the same time, there has been huge hype around so-called initial coin offerings (ICOs). ICOs are a way for start-ups to raise money from users, similar to crowdfunding, by allowing them to buy a stake. In return, the user will receive a token or digital currency, which are equivalent to shares in the firm. ICO money in June and July surpassed early stage venture capital and angel funding."
+                ]
+              }
+            ]
+          },
+          {
+            "tagName": "pullquote",
+            "attributes": {},
+            "children": [
+              {
+                "tagName": "pullquote_quote",
+                "children": [
+                  "I think the serendipitous interactions you get through actually working with colleagues in your business and also with your partners make such a difference and I think we'll always need an office to drive those sorts of interactions."
+                ]
+              },
+              {
+                "tagName": "pullquote_title",
+                "children": [
+                  "Director of business development"
+                ]
+              },
+              {
+                "tagName": "pullquote_attribution",
+                "children": [
+                  "Tom Redmayne"
+                ]
+              }
+            ]
+          },
+          {
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": [
+              {
+                "tagName": "p",
+                "children": [
+                  "Many of the firms doing an ICO are blockchain start-ups built on the ethereum blockchain. The ",
+                  " is particularly useful for so-called smart contracts which are automatically executed when certain conditions are met."
+                ]
+              }
+            ]
+          },
+          {
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": [
+              {
+                "tagName": "p",
+                "children": [
+                  "Ethereum has also had some very high-profile corporate backers. A group called the Enterprise Ethereum Alliance (EEA) was established in February 2017. Since then, it has ",
+                  " 86 firms including the likes of JPMorgan and Microsoft. The corporate support has lent it legitimacy which has boosted investors' appetite."
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  "Analysts expect the current price rises in ethereum to continue, with online trading platform eToro saying that there is bullish sentiment among traders."
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  " \"Investors' attitude towards the coin over the coming hours and days will be a great case study. Some might want to realize profits shortly to avoid the losses they incurred during the last trading cycle, but looking at current trading sentiment on the eToro platform, the mood seems to be bullish,\" Iqbal Gandham, U.K. managing director at eToro, said in a note on Wednesday."
+                ]
+              }
+            ]
+          },
+          {
+            "tagName": "chart",
+            "attributes": {
+              "type": "chart",
+              "headline": "Macy's stock 170202 EC",
+              "datePublished": "2017-02-02T12:42:20+0000",
+              "chartType": "image",
+              "file": "2017/02/02/Macy's.jpg",
+              "image": {}
+            },
+            "children": []
+          },
+          {
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": []
+          },
+          {
+            "tagName": "chart",
+            "attributes": {
+              "type": "chart",
+              "headline": "Nutanix and Pure LEVY 170630",
+              "datePublished": "2017-06-30T17:57:28+0000",
+              "chartType": "image",
+              "file": "2017/06/30/pure nutanix.jpg",
+              "image": {
+                "id": "104562256",
+                "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104562256-purenutanix.jpg?v=1498845400",
+                "width": "786",
+                "height": "301"
+              }
+            },
+            "children": []
+          },
+          {
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": []
+          },
+          {
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": []
+          },
+          {
+            "tagName": "chart",
+            "attributes": {
+              "type": "chart",
+              "headline": "new relic stock",
+              "datePublished": "2017-01-25T20:59:35+0000",
+              "chartType": "image",
+              "file": "2017/01/25/new relic stock.gif",
+              "image": {
+                "id": "104240472",
+                "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104240472-newrelicstock.gif?v=1485377961",
+                "width": "606",
+                "height": "220"
+              }
+            },
+            "children": []
+          },
+          {
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": []
+          },
+          {
+            "tagName": "subtitle",
+            "attributes": {},
+            "children": [
+              "Subheader"
+            ]
+          },
+          {
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": [
+              {
+                "tagName": "p",
+                "children": [
+                  {
+                    "tagName": "strong",
+                    "children": [
+                      "Bold"
+                    ]
+                  }
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  {
+                    "tagName": "em",
+                    "children": [
+                      "Italic"
+                    ]
+                  }
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  {
+                    "tagName": "strong",
+                    "children": [
+                      "Lorem"
+                    ]
+                  },
+                  " ",
+                  {
+                    "tagName": "em",
+                    "children": [
+                      "ipsum"
+                    ]
+                  },
+                  " dolor sit amet, consectetur adipiscing elit. Vivamus in turpis aliquet, pharetra ipsum et, consectetur purus. Quisque tempus blandit arcu. Maecenas scelerisque neque non metus feugiat vulputate. Proin dictum sit amet tellus a cursus. Quisque a enim at neque facilisis accumsan sit amet vitae turpis ",
+                  {
+                    "tagName": "a",
+                    "attributes": {
+                      "href": "http://www.cnbc.com",
+                      "section": {}
+                    },
+                    "children": [
+                      "vanilla-link"
+                    ]
+                  },
+                  "."
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  "Morbi porta, asset-",
+                  {
+                    "tagName": "a",
+                    "attributes": {
+                      "id": "1510971",
+                      "type": "company",
+                      "headline": "Netflix Inc  T:NFLX",
+                      "title": "Netflix Inc",
+                      "section": {
+                        "subType": "news_section"
+                      },
+                      "href": "/quotes/?symbol=NFLX"
+                    },
+                    "children": [
+                      "link"
+                    ]
+                  },
+                  " sit link amet ornare facilisis, odio quam efficitur arcu, ac euismod magna odio at orci. Phasellus rhoncus massa sed molestie viverra. Sed sollicitudin venenatis nunc sed blandit. ",
+                  " et ipsum ut est gravida venenatis ut eget urna."
+                ]
+              },
+              {
+                "tagName": "p",
+                "children": [
+                  "Quisque ",
+                  {
+                    "tagName": "a",
+                    "attributes": {
+                      "id": "1510971",
+                      "type": "company",
+                      "headline": "Netflix Inc  T:NFLX",
+                      "title": "Netflix Inc",
+                      "section": {
+                        "subType": "news_section"
+                      },
+                      "href": "/quotes/?symbol=NFLX"
+                    },
+                    "children": [
+                      "security"
+                    ]
+                  },
+                  " sollicitudin mauris finibus, elementum ligula ac, laoreet neque. Integer sit amet cursus justo. Suspendisse ultrices at justo ut dictum. Sed interdum interdum vulputate. In hac habitasse platea ♠♣."
+                ]
+              }
+            ]
+          },
+          {
+            "tagName": "security",
+            "attributes": {
+              "type": "security",
+              "headline": "American Century Mid Cap Value Fund Investor Class T:ACMVX",
+              "title": "American Century Mid Cap Value Fund Investor Class",
+              "url": "/quotes/?symbol=ACMVX-O",
+              "symbol": "ACMVX-O",
+              "exchangeName": "NASDAQ",
+              "issueId": "311620",
+              "datePublished": "2015-09-11T18:29:17+0000",
+              "name": "American Century Mid Cap Value Fund Investor Class",
+              "tickerSymbol": "NASDAQ ACMVX-O",
+              "render": "small"
+            },
+            "children": []
+          },
+          {
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": []
+          },
+          {
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": [
+              {
+                "tagName": "p",
+                "children": [
+                  {
+                    "tagName": "a",
+                    "attributes": {
+                      "id": "1510971",
+                      "type": "company",
+                      "headline": "Netflix Inc  T:NFLX",
+                      "title": "Netflix Inc",
+                      "section": {
+                        "subType": "news_section"
+                      },
+                      "href": "/quotes/?symbol=NFLX"
+                    },
+                    "children": [
+                      "Security"
+                    ]
+                  }
+                ]
+              },
+              {
+                "tagName": "ul",
+                "children": [
+                  {
+                    "tagName": "li",
+                    "children": [
+                      "Bullet 1"
+                    ]
+                  },
+                  {
+                    "tagName": "li",
+                    "children": [
+                      {
+                        "tagName": "strong",
+                        "children": [
+                          "Bullet 2"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tagName": "li",
+                    "children": [
+                      {
+                        "tagName": "em",
+                        "children": [
+                          "Bullet 3"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tagName": "ol",
+                "children": [
+                  {
+                    "tagName": "li",
+                    "children": [
+                      "Item 1"
+                    ]
+                  },
+                  {
+                    "tagName": "li",
+                    "children": [
+                      {
+                        "tagName": "strong",
+                        "children": [
+                          "Item 2"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tagName": "li",
+                    "children": [
+                      {
+                        "tagName": "em",
+                        "children": [
+                          "Item 3"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tagName": "blockquote",
+                "children": [
+                  {
+                    "tagName": "p",
+                    "children": [
+                      {
+                        "tagName": "em",
+                        "children": [
+                          "blockquote test"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tagName": "pullquote",
+            "attributes": {},
+            "children": [
+              {
+                "tagName": "pullquote_quote",
+                "children": [
+                  "Testing Pull Quote Data"
+                ]
+              },
+              {
+                "tagName": "pullquote_attribution",
+                "children": [
+                  "Test author"
+                ]
+              }
+            ]
+          },
+          {
+            "tagName": "div",
+            "attributes": {
+              "className": [
+                "group"
+              ]
+            },
+            "children": []
+          }
+        ]
+      }
+    }
+  }
+}

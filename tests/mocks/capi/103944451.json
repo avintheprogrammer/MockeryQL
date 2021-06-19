@@ -1,0 +1,95 @@
+{
+  "@type": "Person",
+  "@id": "103944451",
+  "cn:type": "creator",
+  "cn:slug": "Test 2",
+  "cn:title": "Test",
+  "headline": "Test",
+  "cn:creatorOverwrite": "",
+  "cn:historicalURL": [],
+  "cn:editedBy": "haroon.jameel",
+  "cn:createdBy": "haroon.jameel",
+  "cn:liveURL": "/testcreator/",
+  "cn:seoTitle": "Testcreator",
+  "cn:summary": "",
+  "cn:shorterDescription": "",
+  "cn:shortestDescription": "",
+  "cn:bodyTeaser": "null",
+  "cn:sectionHierarchy": [],
+  "datePublished": "2016-09-15T20:27:08+0000",
+  "cn:dateLastPublished": "2016-09-15T20:28:24+0000",
+  "dateModified": "2016-09-15T20:28:26+0000",
+  "cn:unpublishDate": "",
+  "articlebody": "null",
+  "cn:xmlArticleBody": "null",
+  "cn:xmlKeyPoints": "null",
+  "url": "http://qa-aws01web.cnbc.com/testcreator/",
+  "cn:settings": {
+    "cn:nsfw": "Yes",
+    "cn:syndicate": "No",
+    "cn:verifyAge": "Yes",
+    "cn:none": "Yes",
+    "cn:commentsEnabled": "Yes",
+    "cn:socialtoolsEnabled": "Yes",
+    "cn:dateline": "Yes",
+    "cn:displayByline": "Yes",
+    "cn:displaySource": "Yes",
+    "cn:outbrainEnabled": "Yes",
+    "cn:isFamilyFriendly": "Yes",
+    "cn:listType": "Virtual"
+  },
+  "description": "",
+  "@context": {
+    "@vocab": "http://schema.org/",
+    "cn": "http://cnbc.com/schema/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "CNBC",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "cn:association": [{
+    "@type": "Intangible",
+    "@id": "100267921",
+    "cn:type": "usage_rule",
+    "cn:slug": "Do not syndicate",
+    "cn:title": "Do not syndicate",
+    "headline": "Do not syndicate",
+    "cn:creatorOverwrite": "",
+    "cn:editedBy": "admin",
+    "cn:historicalURL": [],
+    "cn:createdBy": "ashish.gupta",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100267921",
+    "cn:settings": {
+      "cn:nsfw": "Yes",
+      "cn:syndicate": "No",
+      "cn:verifyAge": "Yes",
+      "cn:none": "Yes",
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Virtual"
+    },
+    "datePublished": "2012-12-02T19:44:20+0000",
+    "cn:liveURL": "",
+    "cn:summary": "",
+    "cn:shorterDescription": "",
+    "cn:shortestDescription": "",
+    "cn:bodyTeaser": "null",
+    "cn:sectionHierarchy": [],
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "CNBC",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "cn:unpublishDate": "",
+    "cn:relation": [{
+      "position": 5000,
+      "cn:relationType": "usage_rule",
+      "cn:isPromoted": "false"
+    }]
+  }]
+}

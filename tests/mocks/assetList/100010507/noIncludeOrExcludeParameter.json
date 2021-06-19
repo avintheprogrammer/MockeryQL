@@ -1,0 +1,35 @@
+{
+  "data": {
+    "assetList": {
+      "assets": [
+        {
+          "id": 104823320,
+          "type": "cnbcnewsstory",
+          "slug": "The Trump Fed Cox 171106 EC ",
+          "datePublished": "2017-11-06T19:38:39 GMT",
+          "description": "The Federal Reserve will not only lose its three top-ranking officials but also the more than three decades of experience they brought to policymaking.\r\n\r\n",
+          "headline": "The Trump Fed: New faces, but less experience and so bigger chances for a market disruption",
+          "title": "The Trump Fed: New faces, but less experience and so bigger chances for a market disruption"
+        },
+        {
+          "id": 104768689,
+          "type": "partnerstory",
+          "slug": "Tax reform cuts versus rates commentary NATIONAL REVIEW 171012 EC",
+          "datePublished": "2017-10-12T15:40:06 GMT",
+          "description": "Here's what Republicans should prioritize when it comes to tax reform, Jeffrey Dorfman writes in the National Review.",
+          "headline": "This should be the GOP's priority for tax reform",
+          "title": "This should be the GOP's priority for tax reform"
+        },
+        {
+          "id": 104823866,
+          "type": "wildcard",
+          "slug": "phoenix wyldcard test",
+          "datePublished": "2017-12-06T17:10:12 GMT",
+          "description": null,
+          "headline": null,
+          "title": null
+        }
+      ]
+    }
+  }
+}

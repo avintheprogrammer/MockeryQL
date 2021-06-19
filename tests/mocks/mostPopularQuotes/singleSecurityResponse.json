@@ -1,0 +1,16 @@
+{
+  "data": {
+    "mostPopularQuotes": {
+      "assets": [
+        {
+          "issueId": 136780,
+          "issuerId": 18425,
+          "exchangeName": "NYSE",
+          "symbol": "GE",
+          "name": "General Electric Co",
+          "url": "https://www.cnbc.com/quotes/?symbol=GE"
+        }
+      ]
+    }
+  }
+}

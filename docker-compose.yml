@@ -1,0 +1,35 @@
+version: '3'
+services:
+  phoenixql:
+    build:
+      context: .
+      args:
+        - BUILD_ENV
+        - APP_NAME
+        - SPLUNK_FORWARDER
+        - NEWRELIC_LICENSE_KEY
+    environment:
+      - NODE_ENV
+      - NEWRELIC_LICENSE_KEY
+      - NEWRELIC_APP_NAME
+      - WEB_PORT
+      - SPLUNK_SERVER
+      - SPLUNK_TOKEN
+      - DOCKER_REGISTRY
+    image: ${DOCKER_REGISTRY}cnbc/phoenixql:${NODE_ENV}
+    ports:
+      - "${WEB_PORT}:3000"
+    logging:
+      driver: splunk
+      options:
+        splunk-url: ${SPLUNK_SERVER}
+        splunk-token: ${SPLUNK_TOKEN}
+        splunk-insecureskipverify: 'true'
+        tag: ${NEWRELIC_APP_NAME}
+    deploy:
+      mode: replicated
+      replicas: 3
+      resources:
+        limits:
+          cpus: '2'
+          memory: 2GB

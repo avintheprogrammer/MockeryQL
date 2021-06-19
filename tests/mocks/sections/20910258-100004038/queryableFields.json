@@ -1,0 +1,301 @@
+{
+  "data": {
+    "sections": [{
+        "id": 20910258,
+        "type": "franchise",
+        "slug": "Economy",
+        "title": "Economy",
+        "tabLabel": "Economy",
+        "headline": "Economy",
+        "sectionLabel": "Economy",
+        "brand": "cnbc",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/20910258",
+        "subType": "news_section",
+        "datePublished": "2014-05-21T19:59:46+0000",
+        "summary": "Find the economic latest news and headlines, as well as blogs and video from CNBC.com.",
+        "shorterDescription": "Get the latest economic news, headlines, blogs, and video.",
+        "url": "https://qa-aws01pub.cnbc.com/economy/",
+        "showTime": null,
+        "publisher": {
+          "name": "CNBC",
+          "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+        },
+        "description": "Find the economic latest news and headlines, as well as blogs and video from CNBC.com.",
+        "name": "Economy",
+        "color": "#000000",
+        "sectionLinktext": "Economy",
+        "headerImage": null,
+        "logo": null,
+        "dateModified": "2018-07-16T18:39:07+0000",
+        "dateLastPublished": "2018-07-16T18:40:19+0000",
+        "navigation": [{
+            "id": 20910258,
+            "type": "franchise",
+            "name": "Economy",
+            "host": "qa-aws01pub.cnbc.com",
+            "path": "/economy/"
+          },
+          {
+            "id": 100010507,
+            "type": "franchise",
+            "name": "US Economy",
+            "host": "qa-aws01pub.cnbc.com",
+            "path": "/us-economy/"
+          },
+          {
+            "id": 10000834,
+            "type": "franchise",
+            "name": "World Economy",
+            "host": "qa-aws01pub.cnbc.com",
+            "path": "/world-economy/"
+          },
+          {
+            "id": 10000825,
+            "type": "franchise",
+            "name": "Central Banks",
+            "host": "qa-aws01pub.cnbc.com",
+            "path": "/central-banks/"
+          },
+          {
+            "id": 10000709,
+            "type": "franchise",
+            "name": "The Fed",
+            "host": "qa-aws01pub.cnbc.com",
+            "path": "/federal-reserve/"
+          },
+          {
+            "id": 10000837,
+            "type": "franchise",
+            "name": "Jobs",
+            "host": "qa-aws01pub.cnbc.com",
+            "path": "/jobs/"
+          },
+          {
+            "id": 101508204,
+            "type": "wildcard",
+            "name": null,
+            "host": "qa-aws01pub.cnbc.com",
+            "path": "/rapid-update/"
+          }
+        ],
+        "body": [],
+        "native": false,
+        "premium": false,
+        "featuredMedia": null,
+        "keyPoints": [],
+        "image": null,
+        "related": [],
+        "assets": [{
+            "id": 105154047,
+            "type": "cnbcnewsstory"
+          },
+          {
+            "id": 105159250,
+            "type": "slideshow"
+          },
+          {
+            "id": 105158687,
+            "type": "cnbcvideo"
+          },
+          {
+            "id": 105159253,
+            "type": "slideshow"
+          },
+          {
+            "id": 105151497,
+            "type": "cnbcnewsstory"
+          },
+          {
+            "id": 105151656,
+            "type": "cnbcnewsstory"
+          },
+          {
+            "id": 105151555,
+            "type": "cnbcnewsstory"
+          },
+          {
+            "id": 105151285,
+            "type": "cnbcnewsstory"
+          },
+          {
+            "id": 105144975,
+            "type": "cnbcnewsstory"
+          },
+          {
+            "id": 105154682,
+            "type": "cnbcnewsstory"
+          },
+          {
+            "id": 105143866,
+            "type": "cnbcnewsstory"
+          },
+          {
+            "id": 105143304,
+            "type": "cnbcnewsstory"
+          },
+          {
+            "id": 105143380,
+            "type": "cnbcnewsstory"
+          },
+          {
+            "id": 105140572,
+            "type": "cnbcnewsstory"
+          },
+          {
+            "id": 105142662,
+            "type": "cnbcnewsstory"
+          },
+          {
+            "id": 105140950,
+            "type": "cnbcnewsstory"
+          },
+          {
+            "id": 105142605,
+            "type": "cnbcnewsstory"
+          },
+          {
+            "id": 105140293,
+            "type": "cnbcnewsstory"
+          },
+          {
+            "id": 105139792,
+            "type": "cnbcnewsstory"
+          }
+        ]
+      },
+      {
+        "id": 100004038,
+        "type": "franchise",
+        "slug": "Video: All",
+        "title": "Latest News",
+        "tabLabel": "Latest Video",
+        "headline": "Latest Video",
+        "sectionLabel": null,
+        "brand": "cnbc",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100004038",
+        "subType": "original_show",
+        "datePublished": "2014-11-04T20:28:25+0000",
+        "summary": "View our CNBC video gallery and find video news clips on the stock market! Play live videos and find up to date market news. Break down your selection by: Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, CEO Interviews.",
+        "shorterDescription": null,
+        "url": "https://qa-aws01pub.cnbc.com/latest-video/",
+        "showTime": null,
+        "publisher": {
+          "name": "CNBC",
+          "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+        },
+        "description": "View our CNBC video gallery and find video news clips on the stock market! Play live videos and find up to date market news. Break down your selection by: Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, CEO Interviews.",
+        "name": "Latest News",
+        "color": "#000000",
+        "sectionLinktext": "Latest Video",
+        "headerImage": null,
+        "logo": null,
+        "dateModified": "2018-06-28T15:56:13+0000",
+        "dateLastPublished": "2018-06-28T15:56:15+0000",
+        "navigation": [],
+        "body": [],
+        "native": false,
+        "premium": false,
+        "featuredMedia": null,
+        "keyPoints": [],
+        "image": null,
+        "related": [{
+            "type": "franchise",
+            "url": "https://qa-aws01pub.cnbc.com/us-video/",
+            "datePublished": null
+          },
+          {
+            "type": "franchise",
+            "url": "https://qa-aws01pub.cnbc.com/asia-video/",
+            "datePublished": null
+          },
+          {
+            "type": "franchise",
+            "url": "https://qa-aws01pub.cnbc.com/europe-video/",
+            "datePublished": null
+          }
+        ],
+        "assets": [{
+            "id": 105160334,
+            "type": "cnbcvideo"
+          },
+          {
+            "id": 105160322,
+            "type": "cnbcvideo"
+          },
+          {
+            "id": 105160242,
+            "type": "cnbcvideo"
+          },
+          {
+            "id": 105160267,
+            "type": "cnbcvideo"
+          },
+          {
+            "id": 105160272,
+            "type": "cnbcvideo"
+          },
+          {
+            "id": 105160274,
+            "type": "cnbcvideo"
+          },
+          {
+            "id": 105160276,
+            "type": "cnbcvideo"
+          },
+          {
+            "id": 105160278,
+            "type": "cnbcvideo"
+          },
+          {
+            "id": 105160292,
+            "type": "cnbcvideo"
+          },
+          {
+            "id": 105160294,
+            "type": "cnbcvideo"
+          },
+          {
+            "id": 105160296,
+            "type": "cnbcvideo"
+          },
+          {
+            "id": 105160298,
+            "type": "cnbcvideo"
+          },
+          {
+            "id": 105158753,
+            "type": "cnbcvideo"
+          },
+          {
+            "id": 105158942,
+            "type": "cnbcvideo"
+          },
+          {
+            "id": 105153836,
+            "type": "cnbcvideo"
+          },
+          {
+            "id": 105157052,
+            "type": "cnbcvideo"
+          },
+          {
+            "id": 105156972,
+            "type": "cnbcvideo"
+          },
+          {
+            "id": 105156984,
+            "type": "cnbcvideo"
+          },
+          {
+            "id": 105157056,
+            "type": "cnbcvideo"
+          },
+          {
+            "id": 105156965,
+            "type": "cnbcvideo"
+          }
+        ]
+      }
+    ]
+  }
+}

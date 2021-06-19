@@ -1,0 +1,18 @@
+{
+  "data": {
+    "livestream": {
+      "protectedURL": "//link.theplatform.com/s/gZWlPC/h87fr1kRHOZK?formats=m3u&format=SMIL&embedded=true&tracking=true&sig=005aa076e3971ca8b869aa213724088fec518d2892882ad117736563726574",
+      "timeZone": "America/New_York",
+      "altURL": null,
+      "name": "Akamai-US-Stream",
+      "inCache": false,
+      "startTime": "04:00:00",
+      "url": "//link.theplatform.com/s/gZWlPC/h87fr1kRHOZK?formats=m3u&format=SMIL&embedded=true&tracking=true",
+      "remaining": "1655000",
+      "tokenGenerator": "platform",
+      "ignoreWeekend": false,
+      "restricted": false,
+      "endTime": "19:00:00"
+    }
+  }
+}

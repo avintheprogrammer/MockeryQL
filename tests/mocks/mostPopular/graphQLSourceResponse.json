@@ -1,0 +1,40 @@
+{
+  "data": {
+    "mostPopular": {
+      "assets": [
+        {
+          "id": 104844669,
+          "type": "blogpost",
+          "slug": "Remix - GURDUS - 171115 - MM",
+          "datePublished": "2017-11-16T00:00:29+0000",
+          "description": "Jim Cramer explained why it’s still worth building a position in the stock of Home Depot.",
+          "headline": "Cramer Remix: Investors, take shelter in Home Depot’s stock despite the action",
+          "title": "Cramer Remix: Investors should take shelter in Home Depot’s stock despite today’s action",
+          "keyPoints": [],
+          "promoImage": {
+            "id": 104741387,
+            "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104741387-IMG_8445-jim-cramer.jpg?v=1506705339",
+            "caption": "Jim Cramer on \"Mad Money.\"",
+            "type": "image"
+          }
+        },
+        {
+          "id": 104846604,
+          "type": "cnbcnewsstory",
+          "slug": "Impact cybersecurity tips GRANT 20171116",
+          "datePublished": "2017-11-16T14:46:38+0000",
+          "description": "Both advisors and consumers could stand to improve their email habits and password use, to thwart would-be thieves. ",
+          "headline": "Smart behaviors to improve your cybersecurity",
+          "title": "Smart behaviors that can improve your cybersecurity",
+          "keyPoints": [],
+          "promoImage": {
+            "id": 104382104,
+            "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104382104-GettyImages-707592073_1.jpg?v=1510833535",
+            "caption": null,
+            "type": "image"
+          }
+        }
+      ]
+    }
+  }
+}

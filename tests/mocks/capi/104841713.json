@@ -1,0 +1,965 @@
+{
+  "@id": "104841713",
+  "cn:type": "cnbcnewsstory",
+  "cn:slug": "ST Chapul update Clip Article",
+  "cn:createdBy": "Joseph.Volpe",
+  "cn:editedBy": "ritesh.shah",
+  "cn:title": "Since 'Shark Tank,' this cricket protein bar has been 'hopping off' of shelves",
+  "headline": "Since 'Shark Tank,' this cricket protein bar has been 'hopping off' of shelves",
+  "cn:creatorOverwrite": "",
+  "cn:historicalURL": [],
+  "cn:subDomain": "https://qa-aws01make-it.cnbc.com",
+  "cn:branding": "makeit",
+  "cn:liveURL": "/2017/11/14/cnbc-prime-shark-tank-chapul-cricket-protein-bar.html",
+  "cn:seoTitle": "CNBC Prime Shark Tank Chapul cricket protein bar",
+  "cn:summary": "",
+  "cn:shorterDescription": "",
+  "cn:shortestDescription": "",
+  "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p>Get ready to 'feed the revolution.'&#160;We're checking in with <asset_inline ext_link=\"https://chapul.com/\" ext_title=\"https://chapul.com/\">Chapul</asset_inline> founder Pat Crowley, who, thanks to&#160;an appearance on <em><asset_inline nid=\"101229255\">Shark Tank</asset_inline></em>, has been creeping and crawling his way towards success. After presenting to the panel in season five, <asset_inline nid=\"104502257\">Crowley made a deal with billionaire Mark Cuban</asset_inline> for his line of energy bars made of crickets. Yes, crickets.</p><p>Since that show aired, Chapul has racked up impressive sales and is on track to hit $1.5 million. The company also closed its biggest retail deal yet, hopping onto the shelves of all 217 locations of the natural and organic grocery store Sprouts. That deal opened doors for Chapul and helped the company's cricket bars get shelf space at over 500 other stores across the US and Canada.</p><p>Crowley says he started Chapul to ensure a healthy food and water supply for future generations and thanks to his <em>Shark Tank</em> success, that mission is hitting home now more than ever.</p><p><em>Shark Tank&#160;Weeknights starting at 7P ET</em></p></div></group></body>",
+  "cn:sectionHierarchy": [{
+      "id": 101229255,
+      "tagName": "Shark Tank",
+      "order": 1
+    },
+    {
+      "id": 25007002,
+      "tagName": "Make It Shows",
+      "order": 2
+    },
+    {
+      "id": 103395579,
+      "tagName": "Make It",
+      "order": 3
+    },
+    {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 4
+    }
+  ],
+  "sourceOrganization": [{
+    "@type": "Organization",
+    "@id": "80000022",
+    "cn:type": "source",
+    "cn:slug": "CNBC US Source",
+    "cn:title": "",
+    "headline": "",
+    "cn:creatorOverwrite": "",
+    "cn:editedBy": "nathaniel.quashie",
+    "cn:historicalURL": [],
+    "cn:createdBy": "migration",
+    "cn:subDomain": "",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/80000022",
+    "url": "",
+    "cn:sourceName": "CNBC.com",
+    "description": "CNBC.com"
+  }],
+  "datePublished": "2017-11-14T16:12:23+0000",
+  "cn:dateLastPublished": "2018-01-31T17:32:47+0000",
+  "dateModified": "2018-01-31T17:32:45+0000",
+  "cn:unpublishDate": "",
+  "articlebody": "Get ready to 'feed the revolution.'&#160;We're checking in with Chapul founder Pat Crowley, who, thanks to&#160;an appearance on Shark Tank, has been creeping and crawling his way towards success. After presenting to the panel in season five, Crowley made a deal with billionaire Mark Cuban for his line of energy bars made of crickets. Yes, crickets.Since that show aired, Chapul has racked up impressive sales and is on track to hit $1.5 million. The company also closed its biggest retail deal yet, hopping onto the shelves of all 217 locations of the natural and organic grocery store Sprouts. That deal opened doors for Chapul and helped the company's cricket bars get shelf space at over 500 other stores across the US and Canada.Crowley says he started Chapul to ensure a healthy food and water supply for future generations and thanks to his Shark Tank success, that mission is hitting home now more than ever.Shark Tank&#160;Weeknights starting at 7P ET",
+  "cn:xmlArticleBody": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p>Get ready to 'feed the revolution.'&#160;We're checking in with <asset_inline ext_link=\"https://chapul.com/\" ext_title=\"https://chapul.com/\">Chapul</asset_inline> founder Pat Crowley, who, thanks to&#160;an appearance on <em><asset_inline nid=\"101229255\">Shark Tank</asset_inline></em>, has been creeping and crawling his way towards success. After presenting to the panel in season five, <asset_inline nid=\"104502257\">Crowley made a deal with billionaire Mark Cuban</asset_inline> for his line of energy bars made of crickets. Yes, crickets.</p><p>Since that show aired, Chapul has racked up impressive sales and is on track to hit $1.5 million. The company also closed its biggest retail deal yet, hopping onto the shelves of all 217 locations of the natural and organic grocery store Sprouts. That deal opened doors for Chapul and helped the company's cricket bars get shelf space at over 500 other stores across the US and Canada.</p><p>Crowley says he started Chapul to ensure a healthy food and water supply for future generations and thanks to his <em>Shark Tank</em> success, that mission is hitting home now more than ever.</p><p><em>Shark Tank&#160;Weeknights starting at 7P ET</em></p></div></group></body>",
+  "cn:xmlKeyPoints": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104841715\" autoplay_flag=\"true\"/></assets><div class=\"group\"/></group></body>",
+  "url": "https://qa-aws01make-it.cnbc.com/2017/11/14/cnbc-prime-shark-tank-chapul-cricket-protein-bar.html",
+  "image": {
+    "@type": "ImageObject",
+    "representativeOfPage": "true",
+    "@id": 104841707,
+    "author": "",
+    "datePublished": "2017-11-14T15:53:13+0000",
+    "caption": "",
+    "description": "",
+    "copyrightHolder": "",
+    "height": "1442",
+    "width": "2560",
+    "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104841707-ST_Chapul_update_image02.jpg?v=1510674785"
+  },
+  "cn:settings": {
+    "cn:commentsEnabled": "Yes",
+    "cn:socialtoolsEnabled": "Yes",
+    "cn:dateline": "Yes",
+    "cn:displayByline": "Yes",
+    "cn:displaySource": "Yes",
+    "cn:outbrainEnabled": "Yes",
+    "cn:isFamilyFriendly": "Yes",
+    "cn:listType": "Virtual",
+    "cn:tweetOnPublish": 0
+  },
+  "@type": "NewsArticle",
+  "description": "",
+  "author": [{
+    "@type": "Creator",
+    "@id": "104668479",
+    "name": "Brianna Jacobson",
+    "url": "http://qa-aws01web.cnbc.com/brianna-jacobson/",
+    "position": "4999",
+    "sameAs": [
+      "https://www.twitter.com/@Lil_Conqueror"
+    ],
+    "cn:socialMediaInfo": [{
+      "cn:url": "https://twitter.com/@Lil_Conqueror",
+      "cn:displayText": "@Lil_Conqueror",
+      "cn:type": "twitter"
+    }]
+  }],
+  "publisher": {
+    "@type": "Organization",
+    "name": "CNBC",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "@context": {
+    "@vocab": "http://schema.org/",
+    "cn": "http://cnbc.com/schema/"
+  },
+  "cn:association": [{
+      "@type": "Intangible",
+      "@id": "103235564",
+      "cn:type": "usage_rule",
+      "cn:slug": "Prime Only Usage Rule",
+      "cn:title": "",
+      "headline": "",
+      "cn:creatorOverwrite": "",
+      "cn:editedBy": "PR",
+      "cn:historicalURL": [],
+      "cn:createdBy": "catherina.centanni",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103235564",
+      "cn:settings": {
+        "cn:nsfw": "Yes",
+        "cn:syndicate": "Yes",
+        "cn:verifyAge": "Yes",
+        "cn:none": "Yes",
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual"
+      },
+      "datePublished": "2015-12-11T13:13:38+0000",
+      "cn:liveURL": "",
+      "cn:seoTitle": "",
+      "cn:summary": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:sectionHierarchy": [],
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "cn:relation": [{
+        "position": 5000,
+        "cn:relationType": "usageRule",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@type": "Organization",
+      "@id": "80000022",
+      "cn:type": "source",
+      "cn:slug": "CNBC US Source",
+      "cn:title": "",
+      "headline": "",
+      "cn:creatorOverwrite": "",
+      "cn:editedBy": "nathaniel.quashie",
+      "cn:historicalURL": [],
+      "cn:createdBy": "migration",
+      "cn:subDomain": "",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/80000022",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:tweetOnPublish": 0
+      },
+      "url": "",
+      "cn:sourceName": "CNBC.com",
+      "datePublished": "2011-10-06T17:33:47+0000",
+      "cn:liveURL": "",
+      "cn:summary": "",
+      "cn:shorterDescription": "CNBC.com",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:sectionHierarchy": [],
+      "description": "CNBC.com",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "cn:relation": [{
+        "position": 5000,
+        "cn:relationType": "source",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@type": "Collection",
+      "@id": "101229255",
+      "cn:type": "franchise",
+      "cn:slug": "Shark Tank",
+      "cn:title": "Shark Tank",
+      "headline": "Shark Tank",
+      "cn:sectionLabel": "Shark Tank",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "cn:editedBy": "ritesh.shah",
+      "cn:createdBy": "jill.weinberger",
+      "cn:subDomain": "https://qa-aws01make-it.cnbc.com",
+      "cn:branding": "makeit",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/101229255",
+      "cn:settings": {
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "url": "https://qa-aws01make-it.cnbc.com/shark-tank/",
+      "datePublished": "2016-04-18T15:30:49+0000",
+      "cn:unpublishDate": "",
+      "cn:liveURL": "/shark-tank/",
+      "cn:subType": "primetime_show",
+      "cn:seoTitle": "Shark Tank – Home | CNBC Prime",
+      "cn:summary": "The business-themed reality series features the sharks who give budding entrepreneurs the chance to make their dreams come true.\r\n",
+      "cn:shorterDescription": "The business-themed reality series features the sharks who give budding entrepreneurs the chance to make their dreams come true.",
+      "cn:shortestDescription": "The reality series features the sharks who give budding entrepreneurs the chance to make their dreams come true.",
+      "cn:bodyTeaser": "null",
+      "cn:sectionHierarchy": [{
+          "id": 25007002,
+          "tagName": "Make It Shows",
+          "order": 1
+        },
+        {
+          "id": 103395579,
+          "tagName": "Make It",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "The business-themed reality series features the sharks who give budding entrepreneurs the chance to make their dreams come true.\r\n",
+      "cn:sectionColor": "#000000",
+      "cn:promoText": "",
+      "cn:showTime": "",
+      "cn:tabLabel": "Shark Tank",
+      "cn:sectionLinktext": "Shark Tank",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+          "position": 5000,
+          "cn:relationType": "section",
+          "cn:isPromoted": "false"
+        },
+        {
+          "position": 2,
+          "cn:relationType": "tags",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "@type": "DigitalDocument",
+      "fileFormat": "text/tpl",
+      "@id": "103399981",
+      "cn:type": "markup_template",
+      "cn:slug": "Make It Story 2 Column - Persistent ad ",
+      "cn:title": "",
+      "headline": "",
+      "cn:creatorOverwrite": "",
+      "cn:editedBy": "joseph.odell",
+      "cn:historicalURL": [],
+      "cn:createdBy": "viktor.cea",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual"
+      },
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103399981",
+      "datePublished": "2016-03-09T18:19:12+0000",
+      "cn:liveURL": "",
+      "cn:seoTitle": "",
+      "cn:summary": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:sectionHierarchy": [],
+      "name": "story_ng_2column.tpl",
+      "url": "file://story_ng_2column.tpl",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "cn:relation": [{
+        "position": 5000,
+        "cn:relationType": "template",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@id": "104841707",
+      "cn:type": "image",
+      "cn:slug": "ST Chapul update image02",
+      "cn:createdBy": "Joseph.Volpe",
+      "cn:editedBy": "Joseph.Volpe",
+      "cn:title": "",
+      "headline": "",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104841707",
+      "author": "",
+      "contentSize": 1213744,
+      "datePublished": "2017-11-14T15:53:13+0000",
+      "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104841707-ST_Chapul_update_image02.jpg?v=1510674785",
+      "cn:liveURL": "",
+      "cn:seoTitle": "",
+      "cn:summary": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:sectionHierarchy": [{
+          "id": 25007002,
+          "tagName": "Make It Shows",
+          "order": 1
+        },
+        {
+          "id": 103395579,
+          "tagName": "Make It",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "caption": "",
+      "description": "",
+      "height": "1442",
+      "width": "2560",
+      "@type": "ImageObject",
+      "representativeOfPage": "true",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "cn:relation": [{
+        "position": 5000,
+        "cn:relationType": "promo",
+        "cn:isPromoted": "true"
+      }]
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "104020298",
+      "cn:type": "cnbcteam",
+      "cn:slug": "CNBC Prime Team",
+      "cn:title": "CNBC Prime Team",
+      "headline": "CNBC Prime Team",
+      "cn:creatorOverwrite": "",
+      "cn:editedBy": "Mark.Richards",
+      "cn:historicalURL": [],
+      "cn:createdBy": "Mark.Richards",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104020298",
+      "url": "",
+      "datePublished": "2016-10-14T15:45:37+0000",
+      "cn:liveURL": "",
+      "cn:seoTitle": "",
+      "cn:summary": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:sectionHierarchy": [],
+      "description": "",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "cn:relation": [{
+        "position": 4999,
+        "cn:relationType": "team",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@type": "Person",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "@id": "104668479",
+      "cn:type": "creator",
+      "cn:slug": "Brianna Jacobson",
+      "cn:title": "Brianna Jacobson",
+      "headline": "Brianna Jacobson",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "cn:editedBy": "Joseph.Volpe",
+      "cn:createdBy": "Joseph.Volpe",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104668479",
+      "url": "http://qa-aws01web.cnbc.com/brianna-jacobson/",
+      "datePublished": "2017-08-23T13:15:21+0000",
+      "cn:liveURL": "/brianna-jacobson/",
+      "cn:seoTitle": "Brianna Jacobson",
+      "cn:summary": "Special to CNBC.com",
+      "cn:shorterDescription": "Special to CNBC.com",
+      "cn:shortestDescription": "Special to CNBC.com",
+      "cn:bodyTeaser": "null",
+      "cn:sectionHierarchy": [],
+      "name": "Brianna Jacobson",
+      "givenName": "Brianna",
+      "familyName": "Jacobson",
+      "jobTitle": "Special to CNBC.com",
+      "email": "",
+      "telephone": "",
+      "sameAs": [
+        "https://www.twitter.com/@Lil_Conqueror"
+      ],
+      "cn:socialMediaInfo": [{
+        "cn:url": "https://twitter.com/@Lil_Conqueror",
+        "cn:displayText": "@Lil_Conqueror",
+        "cn:type": "twitter"
+      }],
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "cn:relation": [{
+        "position": 4999,
+        "cn:relationType": "author",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "100003343",
+      "cn:type": "skin",
+      "cn:slug": "cnbc global skin",
+      "cn:title": "",
+      "headline": "",
+      "cn:creatorOverwrite": "",
+      "cn:editedBy": "matt.shade",
+      "cn:historicalURL": [],
+      "cn:createdBy": "matt.shade",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100003343",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:tweetOnPublish": 0
+      },
+      "datePublished": "2012-07-30T19:54:30+0000",
+      "cn:liveURL": "",
+      "cn:summary": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:sectionHierarchy": [],
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "cn:relation": [{
+        "position": 4,
+        "cn:relationType": "skin",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "100236386",
+      "cn:type": "skin",
+      "cn:slug": "table fix skin",
+      "cn:title": "",
+      "headline": "",
+      "cn:creatorOverwrite": "",
+      "cn:editedBy": "joseph.odell",
+      "cn:historicalURL": [],
+      "cn:createdBy": "matt.shade",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100236386",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Virtual"
+      },
+      "datePublished": "2012-11-21T15:32:10+0000",
+      "cn:liveURL": "",
+      "cn:summary": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:sectionHierarchy": [],
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "cn:relation": [{
+        "position": 3,
+        "cn:relationType": "skin",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "cn:transcriptUrl": "http://23.21.66.213:9080/appi/buffettv2.jsp?param=1998-BAM-1",
+      "@id": "104841715",
+      "cn:type": "cnbcvideo",
+      "cn:slug": "ST Chapul update clip",
+      "cn:createdBy": "Joseph.Volpe",
+      "cn:editedBy": "Joseph.Volpe",
+      "cn:title": "This cricket-based energy bar is feeding the food revolution",
+      "headline": "This cricket-based energy bar is feeding the food revolution",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "cn:keyword": "shark tank, cnbc, aspiring, entrepreneur, business, deals, investments, product, robert herjavec, kevin o’leary, mark cuban, barbara corcoran, lori greiner, daymond john",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104841715",
+      "url": "http://qa-aws01web.cnbc.com/video/2017/11/14/cnbc-prime-shark-tank-chapul-cricket-protein-bar-business-update-video.html",
+      "cn:vcpsId": 3000671098,
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0,
+        "cn:videoGeoRestrictionEnabled": "Yes",
+        "cn:isHighPriorityVideo": "Yes"
+      },
+      "datePublished": "2017-11-14T15:49:48+0000",
+      "uploadDate": "2017-11-14T15:54:41+0000",
+      "cn:liveURL": "/video/2017/11/14/cnbc-prime-shark-tank-chapul-cricket-protein-bar-business-update-video.html",
+      "cn:seoTitle": "CNBC Prime Shark Tank Chapul cricket protein bar business update",
+      "cn:summary": "Chapul, an energy protein bar made with cricket powder, has seen tremendous success since its appearance on Shark Tank. Co-founder Pat Crowley explains how investor Mark Cuban has been essential in marketing the company's product and getting it placement in over 500 stores nationwide. Shark Tank Weeknights Starting at 7P ET\r\n",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:sectionHierarchy": [{
+          "id": 101229255,
+          "tagName": "Shark Tank",
+          "order": 1
+        },
+        {
+          "id": 25007002,
+          "tagName": "Make It Shows",
+          "order": 2
+        },
+        {
+          "id": 103395579,
+          "tagName": "Make It",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "cn:show": "Shark Tank",
+      "duration": 95,
+      "thumbnail": "https://qa-aws02capi-img-origin.cnbc.com/image/104841704-ST_Chapul_update_image01.jpg?v=1510674678",
+      "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "caption": "",
+        "author": "",
+        "copyrightHolder": "",
+        "@id": 104841704,
+        "height": "1445",
+        "datePublished": 1510674686,
+        "description": "",
+        "width": "2560",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104841704-ST_Chapul_update_image01.jpg?v=1510674678"
+      },
+      "cn:network": 1,
+      "encodings": [{
+          "@type": "VideoObject",
+          "url": "http://vcps.cnbc.com/vcps/media/content?id=MzAwMDY3MTA5OAptcGVnNF81MDAwMDAKU3RyZWFtaW5n&UserName=cmsguest@cnbc.com&key=NA",
+          "encodingFormat": "mpeg4",
+          "bitrate": 500000,
+          "cn:protocol": "Streaming",
+          "cn:formatName": "mpeg4_500000_Streaming"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M11D14/3000671098/3ED1-REQ-ChapulUpdateST-111417_L.mp4",
+          "encodingFormat": "mpeg4",
+          "bitrate": 500000,
+          "cn:protocol": "Download",
+          "cn:formatName": "mpeg4_500000_Download"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://vcps.cnbc.com/vcps/media/content?id=MzAwMDY3MTA5OAptcGVnNHdfNDUwMEsKU3RyZWFtaW5n&UserName=cmsguest@cnbc.com&key=NA",
+          "encodingFormat": "mpeg4",
+          "bitrate": 4500000,
+          "cn:protocol": "Streaming",
+          "cn:formatName": "mpeg4_4500000_Streaming"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M11D14/3000671098/3ED1-REQ-ChapulUpdateST-111417_MBR_4500.mp4",
+          "encodingFormat": "mpeg4",
+          "bitrate": 4500000,
+          "cn:protocol": "Download",
+          "cn:formatName": "mpeg4_4500000_Download"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M11D14/3000671098/3ED1-REQ-ChapulUpdateST-111417_H264_720x405_30p_1M.mp4",
+          "encodingFormat": "mpeg4",
+          "bitrate": 1100000,
+          "cn:protocol": "Download",
+          "cn:formatName": "mpeg4_1100000_Download"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://cnbcmbr-vh.akamaihd.net/i/mp4/VCPS/Y2017/M11D14/3000671098/3ED1-REQ-ChapulUpdateST-111417_MBR_0500.mp4/master.m3u8",
+          "encodingFormat": "mpeg4",
+          "bitrate": 500000,
+          "cn:protocol": "HLSSBRStreaming",
+          "cn:formatName": "mpeg4_500000_HLSSBRStreaming"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://cnbcmbr-vh.akamaihd.net/z/mp4/VCPS/Y2017/M11D14/3000671098/3ED1-REQ-ChapulUpdateST-111417_MBR_0500.mp4/manifest.f4m",
+          "encodingFormat": "mpeg4",
+          "bitrate": 500000,
+          "cn:protocol": "HDNSBRStreaming",
+          "cn:formatName": "mpeg4_500000_HDNSBRStreaming"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://cnbcmbr-vh.akamaihd.net/i/mp4/VCPS/Y2017/M11D14/3000671098/3ED1-REQ-ChapulUpdateST-111417_MBR_,0240,0300,0500,0700,0900,1300,1700,4500,.mp4.csmil/master.m3u8",
+          "encodingFormat": "mpeg4",
+          "bitrate": 1,
+          "cn:protocol": "HLSMBRStreaming",
+          "cn:formatName": "mpeg4_1_HLSMBRStreaming"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://cnbcmbr-vh.akamaihd.net/z/mp4/VCPS/Y2017/M11D14/3000671098/3ED1-REQ-ChapulUpdateST-111417_MBR_,0240,0300,0500,0700,0900,1300,1700,4500,.mp4.csmil/manifest.f4m",
+          "encodingFormat": "mpeg4",
+          "bitrate": 1,
+          "cn:protocol": "HDNMBRStreaming",
+          "cn:formatName": "mpeg4_1_HDNMBRStreaming"
+        }
+      ],
+      "@type": "VideoObject",
+      "representativeOfPage": "true",
+      "expireDate": "",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "cn:relation": [{
+        "position": 2,
+        "cn:relationType": "related",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "cn:relation": [{
+        "position": 2,
+        "cn:relationType": "skin",
+        "cn:isPromoted": "false"
+      }],
+      "@id": "100789669"
+    },
+    {
+      "cn:transcriptUrl": "http://23.21.66.213:9080/appi/buffettv2.jsp?param=1998-BAM-1",
+      "@id": "104502257",
+      "cn:type": "cnbcvideo",
+      "cn:slug": "A pitch from this insect-based health startup has the Sharks hearing crickets",
+      "cn:title": "A pitch from this insect-based health startup has the Sharks hearing crickets",
+      "headline": "A pitch from this insect-based health startup has the Sharks hearing crickets",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [
+        ""
+      ],
+      "cn:editedBy": "jill.weinberger",
+      "cn:createdBy": "jill.weinberger",
+      "cn:keyword": "shark tank, cnbc, aspiring, entrepreneur, business, deals, investments, product, robert herjavec, kevin o’leary, mark cuban, barbara corcoran, lori greiner, daymond john, chapul, energu bars, crickets, ",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104502257",
+      "url": "http://qa-aws01web.cnbc.com/video/2017/05/31/a-pitch-from-this-insect-based-health-startup-has-the-sharks-hearing-crickets.html",
+      "cn:vcpsId": 3000623303,
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0,
+        "cn:videoGeoRestrictionEnabled": "Yes",
+        "cn:isHighPriorityVideo": "No"
+      },
+      "datePublished": "2017-05-31T19:41:05+0000",
+      "uploadDate": "2017-05-31T19:41:30+0000",
+      "cn:liveURL": "/video/2017/05/31/a-pitch-from-this-insect-based-health-startup-has-the-sharks-hearing-crickets.html",
+      "cn:seoTitle": "A pitch from this insect-based health startup has the Sharks hearing crickets",
+      "cn:summary": "Pat Crowley wants to change the way consumers think about their food. His Chapul energy bars may look ordinary, but with an ingredient listing of crickets, they clearly stand out from their competition. Shark Tank Monday - Thursday Starting at 7P ET",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:sectionHierarchy": [{
+          "id": 101229255,
+          "tagName": "Shark Tank",
+          "order": 1
+        },
+        {
+          "id": 25007002,
+          "tagName": "Make It Shows",
+          "order": 2
+        },
+        {
+          "id": 103395579,
+          "tagName": "Make It",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "cn:show": "Shark Tank",
+      "duration": 100,
+      "thumbnail": "https://qa-aws02capi-img-origin.cnbc.com/image/104502305-Shark_Tank_Chapul_Crickets_image.jpg?v=1497453084",
+      "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "caption": "",
+        "author": "",
+        "copyrightHolder": "",
+        "@id": 104502305,
+        "height": "1430",
+        "datePublished": 1497453076,
+        "description": "",
+        "width": "2560",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104502305-Shark_Tank_Chapul_Crickets_image.jpg?v=1497453084"
+      },
+      "cn:network": 1,
+      "@type": "VideoObject",
+      "representativeOfPage": "true",
+      "expireDate": "",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "cn:relation": [{
+        "position": 1,
+        "cn:relationType": "related",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "103804097",
+      "cn:type": "skin",
+      "cn:slug": "Make It Skin",
+      "cn:title": "",
+      "headline": "",
+      "cn:creatorOverwrite": "",
+      "cn:editedBy": "zhao.yu",
+      "cn:historicalURL": [],
+      "cn:createdBy": "joseph.odell",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103804097",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Virtual",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:tweetOnPublish": 0
+      },
+      "datePublished": "2016-07-20T20:14:57+0000",
+      "cn:liveURL": "",
+      "cn:seoTitle": "",
+      "cn:summary": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:sectionHierarchy": [],
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "cn:relation": [{
+        "position": 1,
+        "cn:relationType": "skin",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@type": "Collection",
+      "@id": "25007002",
+      "cn:type": "franchise",
+      "cn:slug": "Make It - Shows",
+      "cn:title": "CNBC U.S. Primetime Shows TV Official Site",
+      "headline": "Shows",
+      "cn:sectionLabel": "Shows",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [
+        "/cnbc-prime/",
+        "/id/25007002",
+        "/prime/",
+        "make-it/shows"
+      ],
+      "cn:editedBy": "Marlon.Jackson",
+      "cn:createdBy": "migration",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/25007002",
+      "cn:settings": {
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "url": "http://qa-aws01web.cnbc.com/make-it/shows/",
+      "datePublished": "2012-01-30T01:45:23+0000",
+      "cn:unpublishDate": "2016-08-08T16:36:16+0000",
+      "cn:liveURL": "/make-it/shows/",
+      "cn:subType": "section",
+      "cn:seoTitle": "CNBC U.S. Primetime Shows TV Official Site",
+      "cn:summary": "CNBC at night features a mix of new reality programming, CNBC's highly successful series produced exclusively for CNBC and a number of distinctive in-house documentaries.",
+      "cn:shorterDescription": "CNBC at night features a mix of new reality programming including American Greed, The Profit, Jay Leno's Garage and Shark Tank.",
+      "cn:shortestDescription": "CNBC at night features a mix of new reality programming including American Greed, The Profit, Jay Leno's Garage and Shark Tank.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104218255\"/></assets><div class=\"group\"/></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 103395579,
+          "tagName": "Make It",
+          "order": 1
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 2
+        }
+      ],
+      "description": "CNBC at night features a mix of new reality programming, CNBC's highly successful series produced exclusively for CNBC and a number of distinctive in-house documentaries.",
+      "cn:tabLabel": "Shows",
+      "cn:sectionLinktext": "Primetime Shows",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+        "position": 1,
+        "cn:relationType": "tags",
+        "cn:isPromoted": "false"
+      }]
+    }
+  ]
+}

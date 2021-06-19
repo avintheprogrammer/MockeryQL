@@ -1,0 +1,415 @@
+{
+  "@id": "103254088",
+  "cn:type": "franchise",
+  "cn:slug": "Events",
+  "cn:createdBy": "viktor.cea",
+  "cn:editedBy": "nathaniel.quashie",
+  "cn:title": "CNBC Events",
+  "headline": "CNBC Events",
+  "cn:sectionLabel": "CNBC Events",
+  "cn:creatorOverwrite": "",
+  "cn:branding": "cnbc",
+  "cn:subDomain": "https://qa-aws01web.cnbc.com",
+  "cn:historicalURL": [],
+  "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/103254088",
+  "cn:liveURL": "/events/",
+  "cn:subType": "news_section",
+  "datePublished": "2015-12-18T17:03:02+0000",
+  "cn:summary": "",
+  "cn:shorterDescription": "",
+  "cn:shortestDescription": "",
+  "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><br /></p><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div></div></group></body>",
+  "url": "https://qa-aws01web.cnbc.com/events/",
+  "cn:sectionHierarchy": [{
+      "id": 16903222,
+      "tagName": "Special Reports",
+      "order": 1
+    },
+    {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 2
+    }
+  ],
+  "cn:settings": {
+    "cn:dateline": "Yes",
+    "cn:displayByline": "Yes",
+    "cn:displaySource": "Yes",
+    "cn:outbrainEnabled": "Yes",
+    "cn:isFamilyFriendly": "Yes",
+    "cn:listType": "Manual and/or populated by feeds",
+    "cn:tweetOnPublish": 0
+  },
+  "description": "",
+  "publisher": {
+    "name": "CNBC",
+    "@type": "Organization",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "@context": {
+    "@vocab": "http://schema.org/",
+    "cn": "http://cnbc.com/schema/"
+  },
+  "name": "CNBC Events",
+  "cn:sectionColor": "#000000",
+  "cn:promoText": "",
+  "cn:showTime": "",
+  "cn:tabLabel": "",
+  "cn:sectionLinktext": "CNBC Events",
+  "@type": "Collection",
+  "cn:pagination": {
+    "cn:link": {
+      "cn:self": "https://qa-aws02capi-bl.cnbc.com/list/id/103254088?page=1&pagesize=20",
+      "cn:next": "https://qa-aws02capi-bl.cnbc.com/list/id/103254088?page=1&pagesize=20",
+      "cn:previous": "https://qa-aws02capi-bl.cnbc.com/list/id/103254088?page=1&pagesize=20",
+      "cn:last": "https://qa-aws02capi-bl.cnbc.com/list/id/103254088?page=1&pagesize=20"
+    },
+    "cn:page": 1,
+    "cn:totalCount": 5,
+    "cn:pageSize": 20
+  },
+  "cn:listItem": [{
+      "@id": "47554257",
+      "cn:type": "event",
+      "cn:slug": "SHRM 2012",
+      "cn:title": "SHRM Conference",
+      "headline": "SHRM Conference ",
+      "cn:creatorOverwrite": "",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/47554257",
+      "cn:liveURL": "http://qa-aws01pub.cnbc.com/2012/07/28/shrm-conference-2012.html",
+      "datePublished": "2012-07-28T07:54:44+0000",
+      "cn:summary": "The annual Society for Human Resource Management conference (SHRM)gathers human resource analysts and experts from around the world for seminars and discussions about the hot topic issues affecting the workplace.",
+      "cn:shorterDescription": "Human resource experts gather to discuss hot topic issues affecting the workplace.",
+      "cn:shortestDescription": "Human resource experts gather to discuss hot topic issues affecting the workplace.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"/></group></body>",
+      "url": "http://qa-aws01pub.cnbc.com/2012/07/28/shrm-conference-2012.html",
+      "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "caption": "",
+        "author": "",
+        "copyrightHolder": "",
+        "@id": "100003310",
+        "height": "565",
+        "description": "",
+        "datePublished": "2012-07-30T18:02:15+0000",
+        "width": "849",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/100003310-handshake_2.jpg?v=1503501279"
+      },
+      "cn:settings": {
+        "cn:commentsEnabled": "No",
+        "cn:socialtoolsEnabled": "Yes"
+      },
+      "description": "The annual Society for Human Resource Management conference (SHRM)gathers human resource analysts and experts from around the world for seminars and discussions about the hot topic issues affecting the workplace.",
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "name": "SHRM Conference",
+      "cn:eventStartDate": "",
+      "cn:eventEndDate": "",
+      "cn:eventRegistrationDeadlineDate": "",
+      "@type": "Event",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 9
+      }]
+    },
+    {
+      "@id": "10001305",
+      "cn:type": "event",
+      "cn:slug": "Delivering Alpha 10001305",
+      "cn:createdBy": "migration",
+      "cn:editedBy": "roshan.varghese",
+      "cn:title": "Delivering Alpha",
+      "headline": "Delivering Alpha",
+      "cn:creatorOverwrite": "",
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01web.cnbc.com",
+      "cn:historicalURL": [
+        "/2012/07/28/delivering-alpha.html",
+        "/id/10001305"
+      ],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10001305",
+      "cn:liveURL": "/2012/07/28/delivering-alpha-past-years.html",
+      "datePublished": "2012-07-28T07:54:39+0000",
+      "cn:summary": "Delivering Alpha, hosted by CNBC and Institutional Investor, is a conference that brings together the best money-managers worldwide. ",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "url": "https://qa-aws01web.cnbc.com/2012/07/28/delivering-alpha-past-years.html",
+      "cn:sectionHierarchy": [{
+          "id": 15839069,
+          "tagName": "Investing",
+          "order": 1
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "cn:settings": {
+        "cn:commentsEnabled": "No",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "Delivering Alpha, hosted by CNBC and Institutional Investor, is a conference that brings together the best money-managers worldwide. ",
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "cn:eventStartDate": "",
+      "cn:eventEndDate": "",
+      "cn:eventTimezone": "EST",
+      "cn:eventRegistrationDeadlineDate": "",
+      "cn:eventStatus": "open",
+      "cn:eventCapacity": 0,
+      "cn:eventPhone": "",
+      "cn:eventEmail": "",
+      "cn:eventLandingPage": "",
+      "cn:eventLocation": "",
+      "name": "Delivering Alpha",
+      "@type": "Event",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 8
+      }]
+    },
+    {
+      "@id": "47630621",
+      "cn:type": "event",
+      "cn:slug": "Farnborough Airshow 2012",
+      "cn:createdBy": "migration",
+      "cn:editedBy": "nathaniel.quashie",
+      "cn:title": "Farnborough International Airshow 2012",
+      "headline": "Farnborough International Airshow 2012",
+      "cn:creatorOverwrite": "",
+      "cn:branding": "CNBC",
+      "cn:subDomain": "CNBC.com",
+      "cn:historicalURL": [
+        "/2012/07/28/farnborough-international-airshow-2012-news.html",
+        "/id/47630621"
+      ],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/47630621",
+      "cn:liveURL": "/2012/07/28/farnborough-international-airshow-2012.html",
+      "datePublished": "2012-07-28T07:54:43+0000",
+      "cn:summary": "Industry insiders will be paying attention to who is winning orders from whom and how business stacks up in a sluggish global economy.",
+      "cn:shorterDescription": "Find out what companies and planes are on display at one the biggest events in the aerospace industry.",
+      "cn:shortestDescription": "Find out what companies and planes are on display at one the biggest events in the aerospace industry.",
+      "cn:bodyTeaser": "null",
+      "url": "http://qa-aws01web.cnbc.com/2012/07/28/farnborough-international-airshow-2012.html",
+      "cn:sectionHierarchy": [{
+          "id": 10000142,
+          "tagName": "Transportation",
+          "order": 1
+        },
+        {
+          "id": 10001147,
+          "tagName": "Business",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "caption": "An Airbus SAS A380 aircraft operated by Malaysia Airline System Bhd. performs a fly-past on the third day of the Farnborough International Air Show in Farnborough, U.K., on Wednesday, July 11, 2012. The Farnborough International Air Show runs from July 9-15.",
+        "author": "Chris Ratcliffe",
+        "copyrightHolder": "",
+        "@id": "100003303",
+        "height": "2666",
+        "description": "An Airbus SAS A380 aircraft operated by Malaysia Airline System Bhd. performs a fly-past on the third day of the Farnborough International Air Show in Farnborough, U.K., on Wednesday, July 11, 2012. The Farnborough International Air Show runs from July 9-15. Photographer: Chris Ratcliffe/Bloomberg via Getty Images",
+        "datePublished": "2012-07-30T16:43:52+0000",
+        "width": "4000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/100003303-farnborough-international-airshow-malaysia-air-2012-gettyp.jpg?v=1468216586"
+      },
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "Industry insiders will be paying attention to who is winning orders from whom and how business stacks up in a sluggish global economy.",
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "cn:eventStartDate": "2018-01-26T05:00:00+0000",
+      "cn:eventEndDate": "2018-01-31T05:00:00+0000",
+      "cn:eventTimezone": "EST",
+      "cn:eventRegistrationDeadlineDate": "2018-01-22T05:00:00+0000",
+      "cn:eventStatus": "open",
+      "cn:eventCapacity": 4000,
+      "cn:eventPhone": "888-867-5309",
+      "cn:eventEmail": "test@example.com",
+      "cn:eventLandingPage": "",
+      "cn:eventLocation": "Brooklyn, NY",
+      "name": "Farnborough International Airshow 2012",
+      "@type": "Event",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 7
+      }]
+    },
+    {
+      "@id": "100000230",
+      "cn:type": "event",
+      "cn:slug": "Bernanke FOMC",
+      "cn:createdBy": "chris.larsen",
+      "cn:editedBy": "nathaniel.quashie",
+      "cn:title": "Bernanke Speaks",
+      "headline": "Bernanke Speaks ",
+      "cn:creatorOverwrite": "",
+      "cn:subDomain": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100000230",
+      "cn:liveURL": "/2012/03/09/bernanke-speaks.html",
+      "datePublished": "2012-03-09T14:43:01+0000",
+      "cn:summary": "Ben Bernanke, Federal Reserve Chairman, speaks.",
+      "cn:shorterDescription": "Ben Bernanke, Federal Reserve Chairman, speaks.",
+      "cn:shortestDescription": "Ben Bernanke, Federal Reserve Chairman, speaks.",
+      "cn:bodyTeaser": "null",
+      "url": "/2012/03/09/bernanke-speaks.html",
+      "cn:sectionHierarchy": [],
+      "cn:settings": {
+        "cn:commentsEnabled": "No",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:tweetOnPublish": 0,
+        "cn:dateline": "No",
+        "cn:isFamilyFriendly": "No",
+        "cn:displayByline": "No",
+        "cn:displaySource": "No",
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:outbrainEnabled": "Yes"
+      },
+      "description": "Ben Bernanke, Federal Reserve Chairman, speaks.",
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "cn:eventStartDate": "2018-01-25T05:00:00+0000",
+      "cn:eventEndDate": "2018-05-31T04:00:00+0000",
+      "cn:eventTimezone": "EST",
+      "cn:eventRegistrationDeadlineDate": "2018-02-14T05:00:00+0000",
+      "cn:eventStatus": "open",
+      "cn:eventCapacity": 6000,
+      "cn:eventPhone": "555-867-5309",
+      "cn:eventEmail": "test@example.com",
+      "cn:eventLandingPage": "",
+      "cn:eventLocation": "Brooklyn, NY",
+      "name": "Bernanke Speaks",
+      "@type": "Event",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 6
+      }]
+    },
+    {
+      "@id": "104847503",
+      "cn:type": "franchise",
+      "cn:slug": "Greg Abel CEO",
+      "cn:createdBy": "Steve.Hsu",
+      "cn:editedBy": "Steve.Hsu",
+      "cn:title": "Greg Abel",
+      "headline": "Millennials",
+      "cn:sectionLabel": "Millennials",
+      "cn:creatorOverwrite": "",
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01web.cnbc.com",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847503",
+      "cn:liveURL": "/greg-abel-ceo/",
+      "cn:subType": "news_section",
+      "datePublished": "2018-01-30T03:12:07+0000",
+      "cn:summary": "",
+      "cn:shorterDescription": "Millennials",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><br /></p><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div></div></group></body>",
+      "url": "https://qa-aws01web.cnbc.com/greg-abel-ceo/",
+      "cn:sectionHierarchy": [{
+          "id": 100004032,
+          "tagName": "CEO Interviews",
+          "order": 1
+        },
+        {
+          "id": 15839263,
+          "tagName": "Video and TV",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "Millennials",
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "name": "Greg Abel",
+      "cn:sectionColor": "#000000",
+      "cn:promoText": "",
+      "cn:showTime": "",
+      "cn:tabLabel": "Millennials",
+      "cn:sectionLinktext": "Millennials",
+      "@type": "Collection",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 5
+      }]
+    }
+  ]
+}

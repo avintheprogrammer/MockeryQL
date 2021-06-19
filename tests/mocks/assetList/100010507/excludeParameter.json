@@ -1,0 +1,20 @@
+{
+  "data": {
+    "assetList": {
+      "assets": [
+        {
+          "id": 104847375,
+          "type": "blogpost",
+          "slug": "Testing Capi Flows",
+          "datePublished": "2018-01-12T16:34:43+0000"
+        },
+        {
+          "id": 104828963,
+          "type": "slideshow",
+          "headline": "The best gadgets of 2017 to give as holiday gifts",
+          "description": "CNBC's best gadgets for holiday gifts includes our favorites of the year such as the Amazon Echo, iPhone X, Galaxy S8, the iPad Pro 10.1 and more."
+        }
+      ]
+    }
+  }
+}

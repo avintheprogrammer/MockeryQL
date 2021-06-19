@@ -1,0 +1,1983 @@
+{
+  "@type": "Collection",
+  "@id": "102356916",
+  "cn:type": "franchise",
+  "cn:slug": "Trading Nation",
+  "cn:title": "Trading Nation",
+  "headline": "Trading Nation",
+  "cn:sectionLabel": "Trading Nation",
+  "cn:creatorOverwrite": "",
+  "cn:historicalURL": [],
+  "cn:editedBy": "ritesh.shah",
+  "cn:createdBy": "Josephine.Bila",
+  "cn:subDomain": "https://qa-aws01web.cnbc.com",
+  "cn:branding": "cnbc",
+  "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/102356916",
+  "cn:settings": {
+    "cn:commentsEnabled": "No",
+    "cn:socialtoolsEnabled": "Yes",
+    "cn:dateline": "Yes",
+    "cn:displayByline": "Yes",
+    "cn:displaySource": "Yes",
+    "cn:outbrainEnabled": "No",
+    "cn:isFamilyFriendly": "Yes",
+    "cn:listType": "Manual and/or populated by feeds",
+    "cn:tweetOnPublish": 0
+  },
+  "url": "https://qa-aws01web.cnbc.com/trading-nation/",
+  "datePublished": "2015-03-10T18:35:32+0000",
+  "cn:unpublishDate": "",
+  "cn:liveURL": "/trading-nation/",
+  "cn:subType": "special_report",
+  "cn:seoTitle": "Trading Nation",
+  "cn:summary": "Trading Nation brings together experts from across the financial world to capitalize on recent developments in the market. ",
+  "cn:shorterDescription": "Where headlines become opportunities. ",
+  "cn:shortestDescription": "Where headlines become opportunities. ",
+  "cn:bodyTeaser": "null",
+  "cn:sectionHierarchy": [{
+      "id": 15839069,
+      "tagName": "Investing",
+      "order": 1
+    },
+    {
+      "id": 10000664,
+      "tagName": "Finance",
+      "order": 2
+    },
+    {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 3
+    }
+  ],
+  "description": "Trading Nation brings together experts from across the financial world to capitalize on recent developments in the market. ",
+  "cn:sectionColor": "#000000",
+  "cn:promoText": "",
+  "cn:showTime": "",
+  "cn:tabLabel": "Trading Nation",
+  "cn:sectionLinktext": "Trading Nation",
+  "@context": {
+    "@vocab": "http://schema.org/",
+    "cn": "http://cnbc.com/schema/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "CNBC",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "cn:pagination": {
+    "cn:link": {
+      "cn:self": "https://qa-aws02capi-bl.cnbc.com/list/id/102356916?page=1&pagesize=20",
+      "cn:next": "https://qa-aws02capi-bl.cnbc.com/list/id/102356916?page=2&pagesize=20",
+      "cn:previous": "https://qa-aws02capi-bl.cnbc.com/list/id/102356916?page=1&pagesize=20",
+      "cn:last": "https://qa-aws02capi-bl.cnbc.com/list/id/102356916?page=120&pagesize=20"
+    },
+    "cn:page": 1,
+    "cn:totalCount": 2389,
+    "cn:pageSize": 20
+  },
+  "cn:listItem": [{
+      "@id": "104845029",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "TN Saut Pullback Prediction LANDSMAN 171115 EC",
+      "cn:createdBy": "stephanie.landsman",
+      "cn:editedBy": "stephanie.landsman",
+      "cn:title": "Wall Street bull warns a major pullback is near, and here’s what could spark it",
+      "headline": " Wall Street bull warns a major pullback is near, and here’s what could spark it",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104845029",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/16/jeffrey-saut-major-stock-market-pullback-is-near-this-could-spark-it.html",
+      "datePublished": "2017-11-16T12:30:00+0000",
+      "cn:liveURL": "/2017/11/16/jeffrey-saut-major-stock-market-pullback-is-near-this-could-spark-it.html",
+      "cn:seoTitle": "Jeffrey Saut: Major stock market pullback is near. This could spark it.",
+      "cn:summary": "Secular bull Jeffrey Saut of Raymond James sees trouble for the rally.",
+      "cn:shorterDescription": "Secular bull Jeffrey Saut of Raymond James sees trouble for the rally.",
+      "cn:shortestDescription": "Secular bull Jeffrey Saut of Raymond James sees trouble for the rally.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p></p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 102356916,
+          "tagName": "Trading Nation",
+          "order": 1
+        },
+        {
+          "id": 15839069,
+          "tagName": "Investing",
+          "order": 2
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "description": "Secular bull Jeffrey Saut of Raymond James sees trouble for the rally.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "No",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "40198614",
+        "name": "Stephanie Landsman",
+        "url": "http://qa-aws01web.cnbc.com/stephanie-landsman/",
+        "position": "4997",
+        "sameAs": [
+          "https://www.twitter.com/stephlandsman"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/stephlandsman",
+          "cn:displayText": "stephlandsman",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104183134,
+        "author": "",
+        "datePublished": "2016-12-22T17:14:09+0000",
+        "caption": "",
+        "description": "",
+        "copyrightHolder": "Getty Images",
+        "height": "1729",
+        "width": "2953",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104183134-GettyImages-1300928.jpg?v=1490298268"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 205120
+      }]
+    },
+    {
+      "@id": "104845308",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Retail Lookahead TN 171115 UNGARINO",
+      "cn:createdBy": "Rebecca.Ungarino",
+      "cn:editedBy": "amanda.diaz",
+      "cn:title": "Why Wal-Mart and Best Buy earnings mean so much for the market",
+      "headline": "Why Wal-Mart and Best Buy earnings mean so much for the market",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104845308",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/15/why-wal-mart-and-best-buy-earnings-mean-so-much-for-the-market.html",
+      "datePublished": "2017-11-15T23:26:42+0000",
+      "cn:liveURL": "/2017/11/15/why-wal-mart-and-best-buy-earnings-mean-so-much-for-the-market.html",
+      "cn:seoTitle": "Why Wal-Mart and Best Buy earnings mean so much for the market",
+      "cn:summary": "One strategist is watching specifically for the companies' holiday sales forecasts.",
+      "cn:shorterDescription": "One strategist is watching specifically for the companies' holiday sales forecasts.",
+      "cn:shortestDescription": "One strategist is watching specifically for the companies' holiday sales forecasts.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets group_asset=\"1\"><asset nid=\"104845237\" autoplay_flag=\"true\"/></assets><div class=\"group\"><p>Big-box retailers <asset_inline nid=\"1515906\">Wal-Mart</asset_inline> and <asset_inline nid=\"1503448\">Best Buy</asset_inline> are due to report quarterly earnings on Thursday, and one strategist is watching specifically for the companies' holiday sales forecasts.<br /> <br />After <asset_inline nid=\"1514583\">Target</asset_inline>&#160;issued what investors considered a lackluster holiday forecast on Wednesday, the guidance for other large retailers will matter for the broader retail space, said Boris Schlossberg, managing director of foreign exchange strategy at BK Asset Management. Here's why:<br /> <br />• Shares of Target fell nearly 10 percent in Wednesday trading after it reported earnings, due in large part to what&#160;it believes could be a soft holiday season. If Wal-Mart and Best Buy reports reflect similarly dim forecasts, Schlossberg said, he would grow worried about what the fourth quarter holds.<br /> <br />• \"Given the fact that so much of retail has now moved to online, it's almost a slam dunk to think that Amazon is going to be the primary beneficiary of whatever Christmas demand we're going to see this year. The big question is whether the brick-and-mortar stores are going to be able to stave off some of that customer demand and capture some of the additional dollars,\" he said Wednesday on CNBC's \"<asset_inline nid=\"102356916\">Trading Nation</asset_inline>.\"<br /> <br />• Schlossberg added that as far as brick-and-mortar retailers go, <asset_inline nid=\"1500014\">Apple</asset_inline> could pose a threat to other retailers' sales given the recent iPhone X launch and its hefty price tag.<br /> <br />• \"If demand for the [iPhone] X really is strong into the Christmas season, it may very well simply cut out spending for all other items,\" he said.<br /> <br />Analysts are expecting earnings per share of 78 cents for Best Buy and 97 cents for Wal-Mart, according to FactSet estimates.<br /> <br /><i> Bottom line: Should Wal-Mart and Best Buy report dim holiday season forecasts on Thursday, this could spell a warning for the retail space, Schlossberg said.</i></p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 102356916,
+          "tagName": "Trading Nation",
+          "order": 1
+        },
+        {
+          "id": 15839069,
+          "tagName": "Investing",
+          "order": 2
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "description": "One strategist is watching specifically for the companies' holiday sales forecasts.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "No",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "102394087",
+        "name": "Rebecca Ungarino",
+        "url": "http://qa-aws01web.cnbc.com/rebecca-ungarino/",
+        "position": "4999",
+        "sameAs": [
+          "https://www.twitter.com/ungarino"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/ungarino",
+          "cn:displayText": "ungarino",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104684055,
+        "author": "",
+        "datePublished": "2017-08-31T19:37:55+0000",
+        "caption": "A shopper at a Walmart in East Peoria, Illinois.",
+        "description": "",
+        "copyrightHolder": "Daniel Acker | Bloomberg | Getty Images",
+        "height": "1333",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104684055-GettyImages-162254479.jpg?v=1504208282"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 205119
+      }]
+    },
+    {
+      "@id": "104719297",
+      "cn:type": "sponsored",
+      "cn:slug": "Schwab 8 - Consider closing short options commission-free",
+      "cn:createdBy": "Maureen.Gavin@nbcuni.com",
+      "cn:editedBy": "Maureen.Gavin@nbcuni.com",
+      "cn:title": "Consider closing short options commission-free",
+      "headline": "Are your short options earning a profit? Consider closing",
+      "cn:creatorOverwrite": "Provided by Schwab | Jeff Chiappetta",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104719297",
+      "url": "http://qa-aws01web.cnbc.com/advertorial/2017/10/27/consider-closing-short-options-commission-free.html",
+      "datePublished": "2017-10-27T18:22:15+0000",
+      "cn:liveURL": "/advertorial/2017/10/27/consider-closing-short-options-commission-free.html",
+      "cn:seoTitle": "Consider closing short options commission-free",
+      "cn:summary": "As a trader, deciding when to close profitable trades is always tough.",
+      "cn:shorterDescription": "As a trader, deciding when to close profitable trades is always tough.",
+      "cn:shortestDescription": "As a trader, deciding when to close profitable trades is always tough.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p>As a trader, deciding when to close profitable trades has always been the toughest decision for me. What about you? The position is going in your favor, which means all of your analysis has paid off. Profitable positions \"feel good,\" and we often like to let those positions ride.</p><p>But, when it comes to profitable short options positions, I always consider closing out risk. I try to keep it simple and keep the \"feel good\" (and greed) out of it. When a short options position has gone in my favor and is priced at or below $.05 per contract, I consider closing it. <strong>And since Schwab clients pay no commissions to close short options priced at or below $.05 per contract</strong>, there is very little disincentive.</p><p>For investors who utilize short options strategies (like <asset_inline ext_link=\"http://www.schwab.com/public/schwab/active_trader/trading_insights/options/managing_risk_with_covered_calls_and_covered_puts.html\" ext_title=\"\"> covered calls</asset_inline>, short puts, and spreads), here are some questions to consider when a position has reached close-to-maximum profit:</p><ul>\n<li><strong>How much time is left before the option expires?</strong> If there are more than a few days left before the option expires and the short option has lost the majority of its value, consider closing it. In most cases, the risk of holding the position probably isn't worth the remaining reward.</li>\n</ul><p><strong></strong></p><ol></ol><ul></ul><p>For example, if you sold covered calls for $1 per contract with 40 days until expiration, and those contracts are now priced at $.05 with six days until expiration, consider closing out those contracts. The maximum potential gain left is only $.05 per contract, and a lot can happen (buy-out, analysts upgrade, etc.) in the six remaining days. Closing out the options position gives you (theoretically) unlimited upside potential on the long stock position. Remember, you don't pay a commission to close short options priced at or below $.05, and in this example, the option position has lost 95 percent of its value (from your original entry price).</p><ul>\n<li><strong>What do you think about the underlying position now?</strong> If you hold a short options position that has gone in your favor, and you want to maintain the same bias on that position, consider rolling out to a further expiration.</li>\n</ul><p>For example, let's say you sold puts for $1.20 per contract with a $50 strike price and 38 days until expiration. The stock is now trading at $58 and the options are trading at $.05 with eight days until expiration. If you still have a long bias for that underlying position, consider rolling the short put position \"up and out\" to a higher strike and a later month (like a $55 strike price and 40 days until expiration). Note: in this scenario, you will not pay commission on the buy-to-close put contracts; however, you will be charged commission to establish the new position.</p><ul>\n<li><strong>Spread traders - why not remove the risk associated with the short option contracts and hang onto the long option contracts?</strong></li>\n</ul><p>Let's say you sold a bear call (credit) spread for $1.50 per spread, with 30 days until expiration, using the $60/$65 strike prices. The stock went in your favor (down) and now the short strike option ($60) is priced at $.05 per contract. If you simply close out the short position for $.05 per contract and hold onto the long call position, you have removed the risk associated with the short option and you still have unlimited upside gain potential on the remaining long call. Even though at this point the value of your long call is likely very small, you should recognize that you could lose 100 percent of that remaining value should you choose to hold onto it.</p><p><strong>So why are you waiting until expiration when the position has reached close-to-maximum profit?</strong> From a risk point-of-view, I have held onto short options positions priced at or below $.05 per contract only to see them go significantly against me due to a news announcement or event. Why didn't I close out the positions? I really don't have a great answer. Maybe it was greed. Perhaps I was just too lazy. Or, I didn't want to lose that winning \"feeling.\" Who really knows – but I have learned and will try hard not to make the same mistake.</p><p><strong>Schwab clients pay no commissions to close short options priced at or below $.05 per contract</strong>. I encourage you to learn from my past mistakes (and maybe yours), and take inexpensive risk off the table.</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 102356916,
+          "tagName": "Trading Nation",
+          "order": 1
+        },
+        {
+          "id": 15839069,
+          "tagName": "Investing",
+          "order": 2
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "description": "As a trader, deciding when to close profitable trades is always tough.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0,
+        "cn:native": "Yes"
+      },
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104723692,
+        "author": "",
+        "datePublished": "2017-09-21T15:30:54+0000",
+        "caption": "",
+        "description": "",
+        "copyrightHolder": "",
+        "height": "1414",
+        "width": "2121",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104723692-ThinkstockPhotos-621142710.jpg?v=1509031339"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "Sponsored",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 205118
+      }]
+    },
+    {
+      "@id": "104843662",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "US premarkets Gibbs 171115 EU",
+      "cn:createdBy": "Alexandra Gibbs",
+      "cn:editedBy": "Rebecca.Ungarino",
+      "cn:title": "Dow sheds 135 points to close at lowest level in three weeks",
+      "headline": "Dow sheds 135 points to close at lowest level in three weeks",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104843662",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/15/us-stock-futures-earnings-data-tax-fed-on-the-agenda.html",
+      "datePublished": "2017-11-15T10:16:35+0000",
+      "cn:liveURL": "/2017/11/15/us-stock-futures-earnings-data-tax-fed-on-the-agenda.html",
+      "cn:seoTitle": "Dow sheds 135 points to close at lowest level in three weeks",
+      "cn:summary": "U.S. stocks closed lower on Wednesday as the current bull market showed signs of slowing down.",
+      "cn:shorterDescription": "U.S. stocks closed lower on Wednesday as the current bull market showed signs of slowing down.",
+      "cn:shortestDescription": "U.S. stocks closed lower on Wednesday as the current bull market showed signs of slowing down.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets group_asset=\"1\"><asset nid=\"104845309\" autoplay_flag=\"true\"/></assets><div class=\"group\"><p>U.S. stocks closed lower on Wednesday as the current bull market showed signs of slowing down.</p><p>The <asset_inline nid=\"3031924\">Dow Jones industrial average</asset_inline> fell 138.19 points to close at 23,271.28&#160;— its lowest close in over three weeks&#160;— with Caterpillar contributing the most to the losses. The 30-stock index briefly fell 166 points, but a 2 percent rebound in GE shares helped it cut losses.&#160;</p><p>The <asset_inline nid=\"3031962\">S&amp;P 500</asset_inline>&#160;fell 0.55 percent to close at 2,564.62, with energy declining 1.2 percent. Energy stocks were pressured by a drop in oil prices.</p><p><asset_inline nid=\"104842931\">Oil prices declined</asset_inline> after the International Energy Agency slashed its outlook for oil demand growth by 100,000 barrels per day for 2017 and 2018. At 2:30 p.m. in New York, West Texas Intermediate (<asset_inline nid=\"100007484\">WTI</asset_inline>) futures fell&#160;0.6&#160;percent (37 cents)&#160;<asset_inline nid=\"104842931\">to settle at $55.33 per barrel.</asset_inline></p><p>The S&amp;P 500 was also pressured by declines in financials and consumer discretionary stocks.</p><p>Consumer discretionary stocks fell 0.4 percent, led lower by Target. The retailer's stock dropped nearly 10 percent as its holiday forecast disappointed investors.</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 102356916,
+          "tagName": "Trading Nation",
+          "order": 1
+        },
+        {
+          "id": 15839069,
+          "tagName": "Investing",
+          "order": 2
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "description": "U.S. stocks closed lower on Wednesday as the current bull market showed signs of slowing down.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "No",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+          "@type": "Creator",
+          "@id": "102384716",
+          "name": "Alexandra Gibbs",
+          "url": "http://qa-aws01web.cnbc.com/alexandra-gibbs/",
+          "position": "5000",
+          "sameAs": [
+            "https://www.twitter.com/alexgibbsy"
+          ],
+          "cn:socialMediaInfo": [{
+            "cn:url": "https://twitter.com/alexgibbsy",
+            "cn:displayText": "alexgibbsy",
+            "cn:type": "twitter"
+          }]
+        },
+        {
+          "@type": "Creator",
+          "@id": "102270141",
+          "name": "Fred Imbert",
+          "url": "http://qa-aws01web.cnbc.com/fred-imbert/",
+          "position": "4999",
+          "sameAs": [
+            "https://www.twitter.com/foimbert"
+          ],
+          "cn:socialMediaInfo": [{
+            "cn:url": "https://twitter.com/foimbert",
+            "cn:displayText": "foimbert",
+            "cn:type": "twitter"
+          }]
+        },
+        {
+          "@type": "Creator",
+          "@id": "104540348",
+          "name": "Thomas Franck",
+          "url": "http://qa-aws01web.cnbc.com/tom-franck/",
+          "position": "4998",
+          "sameAs": [
+            "https://www.twitter.com/tomwfranck"
+          ],
+          "cn:socialMediaInfo": [{
+            "cn:url": "https://twitter.com/tomwfranck",
+            "cn:displayText": "tomwfranck",
+            "cn:type": "twitter"
+          }]
+        }
+      ],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104843876,
+        "author": "",
+        "datePublished": "2017-11-15T11:59:20+0000",
+        "caption": "A pedestrian looks at an electronics stock indicator of the world in Tokyo on November 15, 2017.",
+        "description": "",
+        "copyrightHolder": "Kazuhiro Nogi | AFP | Getty Images",
+        "height": "1333",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104843876-GettyImages-874340414.jpg?v=1510747120"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 205108
+      }]
+    },
+    {
+      "@id": "104844203",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Yield Curve Flattens TN 171114 UNGARINO",
+      "cn:createdBy": "Rebecca.Ungarino",
+      "cn:editedBy": "martin.steinberg",
+      "cn:title": "Why a so-called bad omen for stocks is nothing more than ‘fake news,’ says technician",
+      "headline": "So-called bad omen for stocks is nothing more than 'fake news,' says technician",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104844203",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/15/yield-curve-bad-for-stocks-nothing-more-than-fake-news-ari-wald.html",
+      "datePublished": "2017-11-15T19:17:34+0000",
+      "cn:liveURL": "/2017/11/15/yield-curve-bad-for-stocks-nothing-more-than-fake-news-ari-wald.html",
+      "cn:seoTitle": "Yield curve bad for stocks nothing more than 'fake news': Ari Wald",
+      "cn:summary": "As stocks hover just below all-time highs and volatility remains fairly muted, the Treasury yield curve is skidding to its lowest level in a decade.",
+      "cn:shorterDescription": "The Treasury yield curve, a key economic indicator, is skidding to its lowest level in a decade.",
+      "cn:shortestDescription": "The Treasury yield curve, a key economic indicator, is skidding to its lowest level in a decade.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets group_asset=\"1\"><asset nid=\"104844587\" autoplay_flag=\"true\"/></assets><div class=\"group\"><p>As equity markets hover just below all-time highs and volatility remains fairly muted, a key economic indicator is skidding to its lowest level since the global financial crisis.</p><p>The benchmark yield curve, the spread between the 10- and 2-year Treasury yields, flattened to a fresh decade low on Wednesday. The flattening yield curve is often viewed as a classic tell of slowing economic growth, leaving some market watchers calling the strength of the rally into question.</p><p>But one technical analyst says the perception that a flat yield curve is bad for stocks is nothing more than \"fake news.\"</p><p>\"The 10 minus 2 US Treasury Yield curve has declined to its flattest level since 2007, and while a flatter curve is often viewed as a macroeconomic concern, we've found that equities have actually posted their strongest returns at comparable points over the last 40 years,\" Oppenheimer's Ari Wald wrote in a recent note. \"Directionally higher rates should also be a tailwind for the S&amp;P's bull cycle, in our view.\"</p><p>In an interview Tuesday on CNBC's \"<asset_inline nid=\"102356916\">Trading Nation</asset_inline>,\" Wald said equities have never done better when considering where the level and the direction of the yield curve stands currently.</p><p>\"In fact, how we measure it, the S&amp;P 500 has averaged a 16.5 percent gain over the next 12 months based on the current level and direction going back 40 years of history. So to say that a flat curve is bad for stocks, … it's fake news,\" Wald said.</p><p><img class=\"inlineChart\" src=\"https://fm.cnbc.com/applications/cnbc.com/resources/editorialfiles/charts/2017/11/1510770631_spxbarchart.JPG\"></p><p>The thinking goes like this. A dramatically flattening yield curve is seen as a rather ominous sign because it indicates short-dated Treasury yields are rising as long-dated Treasury yields are falling, as has been the case this year. This activity is thought to suggest investors are betting on a slowdown in economic growth, and that inflation will wane. Of further concern is when the yield curve becomes \"inverted,\" or when yields on shorter-dated debt are greater than those on longer-dated debt, which is seen as indicative of an economic recession.</p><p>In a note to clients on Wednesday, Bank of America rates strategists wrote that further tightening from the Federal Reserve along with a flattening yield curve is \"no longer sustainable.\"</p><p>The authors, led by strategist Shyam S. Rajan, said the central bank and the spread between Treasury maturities are on a \"collision course\" as the Fed is all but sure to raise interest rates in December even as inflation remains tepid and the yield curve flattens precipitously.</p><p>Some are concerned about markets getting hit by a narrowing yield curve, particularly as the market rally's reaction to a flattening curve and historically low interest rates is different than other periods of bull runs, said Gina Sanchez, CEO of Chantico Global. Specifically, she pointed to the 1990s.</p><p>\"The reality is that particular time period is only one episode and that episode lasts from '90 until 1999. And that was a very specific time period when you had a tremendous amount of liquidity being unleashed into the market,\"&#160;Sanchez said Tuesday on \"Trading Nation.\"</p><p>\"That liquidity found its way into the internet bubble, and that bubble basically inflated through that time period. So if you look at valuations for the S&amp;P 500 in the beginning of that time period they were fairly low. They ended fairly high right? That's what led to that stock market return. It really had nothing to do with the flattening of the yield curve.\"&#160;</p><p>Treasury yields were broadly lower in Wednesday trading and stocks fell.</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 102356916,
+          "tagName": "Trading Nation",
+          "order": 1
+        },
+        {
+          "id": 15839069,
+          "tagName": "Investing",
+          "order": 2
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "description": "As stocks hover just below all-time highs and volatility remains fairly muted, the Treasury yield curve is skidding to its lowest level in a decade.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "No",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 1
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "102394087",
+        "name": "Rebecca Ungarino",
+        "url": "http://qa-aws01web.cnbc.com/rebecca-ungarino/",
+        "position": "4999",
+        "sameAs": [
+          "https://www.twitter.com/ungarino"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/ungarino",
+          "cn:displayText": "ungarino",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 102141293,
+        "author": "",
+        "datePublished": "2014-10-31T15:12:17+0000",
+        "caption": "",
+        "description": "Traders in the 30-year bond options ",
+        "copyrightHolder": "Getty Images",
+        "height": "1333",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/102141293-113215716r.jpg?v=1497991414"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 205105
+      }]
+    },
+    {
+      "@id": "104844696",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "TN ge generational low Pei 171115",
+      "cn:createdBy": "annie.pei",
+      "cn:editedBy": "lynne.pate",
+      "cn:title": "GE has reached a ‘generational low,’ but trader says it's still a no-touch",
+      "headline": "GE has reached a ‘generational low,’ but trader says it's still a no-touch",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104844696",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/15/ge-has-reached-a-generational-low-but-trader-says-its-still-a-no-touch.html",
+      "datePublished": "2017-11-15T18:15:15+0000",
+      "cn:liveURL": "/2017/11/15/ge-has-reached-a-generational-low-but-trader-says-its-still-a-no-touch.html",
+      "cn:seoTitle": "GE has reached a ‘generational low,’ but trader says it's still a no-touch",
+      "cn:summary": "The nightmare is far from over for GE, says one technician.",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets group_asset=\"1\"><asset nid=\"104842406\" autoplay_flag=\"true\"/></assets><div class=\"group\"><p><asset_inline nid=\"1507447\">GE</asset_inline> investors breathed a rare sigh of relief on Wednesday as the stock attempted to recover from its worst two-day sell-off since 2009.</p><p>As market watchers search for signs of a bottom in the beaten name, one technician warns investors should not chase the stock.</p><p>Looking at a chart of GE relative to the S&amp;P 500, Ari Wald of Oppenheimer noted that the stock has fallen to a \"generational low.\"</p><p>\"If you bought this stock at any point over the last 50 years, you've underperformed, and as you can see, we're very much still in freefall here,\" he said Tuesday on CNBC's \"<asset_inline nid=\"102356916\">Trading Nation</asset_inline>.\" Wald noted that the next area of support for the stock comes in around $15 a share, more than 17 percent below current levels. \"We'd stay away from this.\"</p><p>Gina Sanchez of Chantico Global agreed that GE's problems are far from over.</p><p>\"What led GE to this point was 20 years of mismanagement, so you could argue that it might take that long to fix it,\" she said on \"Trading Nation.\" \"Whether or not it's fixable is a big question, because it's a huge company now, and [mismanagement has been] going on for so long that it [won't be an easy fix].\"</p><p>The stock has tumbled more than 40 percent this year, tracking for its worst annual performance since 2009, but despite its precipitous decline Wall Street analysts expect some semblance of rebound.</p><p>According to data from FactSet, among 19 analysts who cover GE, the average price target on the Street is $22.40 for the battered-down name — 23 percent higher than where the stock was trading on Wednesday. Furthermore, of those 19 analysts, merely four rate it as a sell, with the average rating as a hold.</p><p>Shares of GE rallied around 2 percent on Wednesday.</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 102356916,
+          "tagName": "Trading Nation",
+          "order": 1
+        },
+        {
+          "id": 15839069,
+          "tagName": "Investing",
+          "order": 2
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "description": "The nightmare is far from over for GE, says one technician.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "No",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 1
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "103560763",
+        "name": "Annie Pei",
+        "url": "http://qa-aws01web.cnbc.com/annie-pei/",
+        "position": "4997"
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 102078656,
+        "author": "",
+        "datePublished": "2014-10-10T18:04:09+0000",
+        "caption": "The General Electric logo on a GE Aviation CF6-80C jet engine as it hangs from the wing.",
+        "description": "A GE Aviation CF6-80C jet engine on the wing of an Airbus A300-600 Beluga aircraft, in the Airbus Group NV factory in Toulouse, France. ",
+        "copyrightHolder": "Balint Porneczi | Bloomberg | Getty Images",
+        "height": "1334",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/102078656-452471832.jpg?v=1510768723"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 205101
+      }]
+    },
+    {
+      "@id": "104844262",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "TN breakout three stocks Chung 171115",
+      "cn:createdBy": "heidi.chung@nbcuni.com",
+      "cn:editedBy": "heidi.chung@nbcuni.com",
+      "cn:title": "Three stocks to buy on recent weakness: Technician",
+      "headline": "Three stocks to buy on recent weakness: Technician",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104844262",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/15/three-stocks-to-buy-on-recent-weakness-technician.html",
+      "datePublished": "2017-11-15T16:48:32+0000",
+      "cn:liveURL": "/2017/11/15/three-stocks-to-buy-on-recent-weakness-technician.html",
+      "cn:seoTitle": "Three stocks to buy on recent weakness: Technician",
+      "cn:summary": "As market volatility increases, Rich Ross of Evercore ISI has three stocks to buy on the dip.",
+      "cn:shorterDescription": "As market volatility increases, Rich Ross of Evercore ISI has three stocks to buy on the dip.",
+      "cn:shortestDescription": "As market volatility increases, Rich Ross of Evercore ISI has three stocks to buy on the dip.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104844253\" autoplay_flag=\"true\"/></assets><div class=\"group\"><p>As market volatility increases, Rich Ross of Evercore ISI has three stocks to buy on the dip.</p><p>The <asset_inline nid=\"3031924\">Dow</asset_inline>, <asset_inline nid=\"3031962\">S&amp;P 500</asset_inline> and <asset_inline nid=\"3031956\">Nasdaq</asset_inline> opened lower for the sixth straight session on Wednesday, as the S&amp;P tracks for its worst day in nearly three months.</p><p>\"When volatility picks up in the broad market, I like to go back to a place where I know I'm loved,\" Ross said. And one of those places is tech giant&#160;<asset_inline nid=\"100005111\">Facebook</asset_inline>.</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 102356916,
+          "tagName": "Trading Nation",
+          "order": 1
+        },
+        {
+          "id": 15839069,
+          "tagName": "Investing",
+          "order": 2
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "description": "As market volatility increases, Rich Ross of Evercore ISI has three stocks to buy on the dip.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "No",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "103925396",
+        "name": "Heidi Chung",
+        "url": "http://qa-aws01web.cnbc.com/heidi-chung/",
+        "position": "5000",
+        "sameAs": [
+          "https://www.twitter.com/heidi_chung"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/heidi_chung",
+          "cn:displayText": "heidi_chung",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104346324,
+        "author": "Theo Wargo",
+        "datePublished": "2017-03-16T16:06:50+0000",
+        "caption": "A file photo inside the Nasdaq Marketsite in New York City.",
+        "description": "<<enter caption here>> at NASDAQ MarketSite on August 12, 2016 in New York City.",
+        "copyrightHolder": "Getty Images",
+        "height": "1994",
+        "width": "3000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104346324-GettyImages-588691030.jpg?v=1499267220"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 205100
+      }]
+    },
+    {
+      "@id": "104842407",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "TN roku hit a wall Pei 171114",
+      "cn:createdBy": "annie.pei",
+      "cn:editedBy": "terri.cullen",
+      "cn:title": "Roku, the best-performing tech IPO this year may have just hit a wall",
+      "headline": "Roku, the best-performing tech IPO this year, may have just hit a wall",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104842407",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/15/roku-the-best-performing-tech-ipo-this-year-may-have-just-hit-a-wall.html",
+      "datePublished": "2017-11-15T13:00:00+0000",
+      "cn:liveURL": "/2017/11/15/roku-the-best-performing-tech-ipo-this-year-may-have-just-hit-a-wall.html",
+      "cn:seoTitle": "Roku, the best-performing tech IPO this year, may have just hit a wall",
+      "cn:summary": "The year's hottest tech IPO may be about to cool off, according to one analyst.",
+      "cn:shorterDescription": "The year's hottest tech IPO may be about to cool off, according to one analyst.",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets group_asset=\"1\"><asset nid=\"104841940\" autoplay_flag=\"true\"/></assets><div class=\"group\"><p>An analyst's stock downgrade had investors hitting the sell button for&#160;<asset_inline nid=\"104715700\">Roku</asset_inline>.</p><p>Shares of Roku, which manufactures and ships its own streaming media hardware, tanked 13 percent on Tuesday. In Wednesday's premarket, it was down about 5 percent, at $35.14 per share.</p><p>The stock had surged 58 percent since its initial public offering in late September, making it the best tech IPO of the year and third best of 2017, according to Renaissance.</p><p>But on Tuesday, Oppenheimer analyst <asset_inline nid=\"104841981\">Jason Helfstein wrote in a note</asset_inline> that the stock was \"trading on non-fundamental factors\" and excessively valued as a result. Helfstein downgraded Roku to an underperform rating, and gave it a price target of $28&#160;— a 20 percent plunge from where the stock is trading right now.</p><p>Chantico Global CEO Gina Sanchez also weighed in on the view that the stock may have run too far, too fast.</p><p>\"I think one of the reasons that a lot of analysts are taking a hard look at Roku is not only has it done well and delivered, but the liabilities on its balance sheet are actually growing quite quickly,\" she said Tuesday in a <asset_inline nid=\"102356916\">\"Trading Nation\"</asset_inline> segment on CNBC's <asset_inline nid=\"15838342\">\"Power Lunch.\"</asset_inline> \"So you have to pay attention to the total company right now, and we're still so early in the game [to determine] whether or not this company is going to be successful.\"</p><p>Roku more than doubled its share price after reporting earnings on Nov. 8. Even with Tuesday's plunge, the stock is still up 97 percent since the earnings report.</p><p>\"Watching a company grow on the liability side means that they're sort of piling up cash to look good for their earnings reports, but not necessarily paying their liabilities,\" she added as a warning.</p><p>Wall Street analysts polled by FactSet tend to agree that the stock has run a little too far, too fast. The average price target by the five analysts who cover Roku is $27.20 a share. Three have hold ratings, one has a sell rating and two say buy.</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 102356916,
+          "tagName": "Trading Nation",
+          "order": 1
+        },
+        {
+          "id": 15839069,
+          "tagName": "Investing",
+          "order": 2
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "description": "The year's hottest tech IPO may be about to cool off, according to one analyst.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "No",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "103560763",
+        "name": "Annie Pei",
+        "url": "http://qa-aws01web.cnbc.com/annie-pei/",
+        "position": "4997"
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104179133,
+        "author": "",
+        "datePublished": "2016-12-21T02:31:29+0000",
+        "caption": "",
+        "description": "",
+        "copyrightHolder": "Miguel Riopa | AFP | Getty Images",
+        "height": "2398",
+        "width": "3460",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104179133-GettyImages-534856358.jpg?v=1508947145"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 205099
+      }]
+    },
+    {
+      "@id": "104842578",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Crude Oil Expiration TN 171114",
+      "cn:createdBy": "Rebecca.Ungarino",
+      "cn:editedBy": "lynne.pate",
+      "cn:title": "The catalyst that could push crude oil to $60 this week",
+      "headline": "The catalyst that could push crude oil to $60 this week",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104842578",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/14/the-catalyst-that-could-push-crude-oil-to-60-this-week.html",
+      "datePublished": "2017-11-14T23:03:05+0000",
+      "cn:liveURL": "/2017/11/14/the-catalyst-that-could-push-crude-oil-to-60-this-week.html",
+      "cn:seoTitle": "The catalyst that could push crude oil to $60 this week",
+      "cn:summary": "Crude oil prices were under pressure on Tuesday, falling 3 percent on rising U.S. output forecasts and global demand concerns.",
+      "cn:shorterDescription": "Crude oil prices were under pressure on Tuesday, falling 3 percent on rising U.S. output forecasts and global demand concerns.",
+      "cn:shortestDescription": "Crude was under pressure on Tuesday, falling 3 percent on rising U.S. output forecasts and global demand concerns.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets group_asset=\"1\"><asset nid=\"104842614\" autoplay_flag=\"true\"/></assets><div class=\"group\"><p><asset_inline nid=\"100007484\">Crude oil</asset_inline> prices were under pressure on Tuesday, <asset_inline nid=\"104842338\">falling 3 percent</asset_inline> on rising U.S. output forecasts and global demand concerns.<br /> <br />Investors were also looking ahead to crude oil options expiration on Wednesday, which could prove to be a near-term bullish catalyst for the commodity that's seen a bounce over the last month, according to Bill Baruch of Blue Line Futures. Here's why.<br /> <br />• December is the most actively traded contract for WTI crude, Baruch said Tuesday on CNBC's \"<asset_inline nid=\"102356916\">Trading Nation</asset_inline>.\" Since December became the front-month contract, the commodity rallied by over 10 percent.<br /> <br />• \"As prices rose, so did the appetite for call options as investors feared missing the move higher. The market was due for a pullback into options expiration,\" he added.<br /> <br />• \"I'm telling clients to look for the market to stabilize for key support at $55. At this level, we want to look to buy, to go long,\" Baruch said.<br /> <br />• Crude oil, which settled lower on Tuesday at $55.70 per barrel, is set to retest $58 and hit $60, he said, particularly as the commodity's futures contract expires early next week.<br /> <br /> <em>Bottom line: As the crude oil options contract is set to expire on Wednesday, prices could see a boost, and Baruch sees oil headed to $60.</em></p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 102356916,
+          "tagName": "Trading Nation",
+          "order": 1
+        },
+        {
+          "id": 15839069,
+          "tagName": "Investing",
+          "order": 2
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "description": "Crude oil prices were under pressure on Tuesday, falling 3 percent on rising U.S. output forecasts and global demand concerns.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "No",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 1
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "102394087",
+        "name": "Rebecca Ungarino",
+        "url": "http://qa-aws01web.cnbc.com/rebecca-ungarino/",
+        "position": "4999",
+        "sameAs": [
+          "https://www.twitter.com/ungarino"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/ungarino",
+          "cn:displayText": "ungarino",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 103671758,
+        "author": "",
+        "datePublished": "2016-05-27T14:11:45+0000",
+        "caption": "",
+        "description": "",
+        "copyrightHolder": "Diego J. Robles | The Denver Post | Getty Images",
+        "height": "1333",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/103671758-GettyImages-161318630r.jpg?v=1501090657"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 205098
+      }]
+    },
+    {
+      "@id": "104841105",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Marketwrap Imbert 171114 EC",
+      "cn:createdBy": "Fred.Imbert",
+      "cn:editedBy": "Rebecca.Ungarino",
+      "cn:title": "Stocks close lower as GE drops to lowest level since 2011",
+      "headline": "Stocks close lower as GE drops to lowest level since 2011",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104841105",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/14/us-stocks-china-retail-home-depot-earnings.html",
+      "datePublished": "2017-11-14T14:30:25+0000",
+      "cn:liveURL": "/2017/11/14/us-stocks-china-retail-home-depot-earnings.html",
+      "cn:seoTitle": "Stocks close lower as GE drops to lowest level since 2011",
+      "cn:summary": "U.S. stocks fell on Tuesday as shares of General Electric slumped for a second straight day. ",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets group_asset=\"1\"><asset nid=\"104842631\" autoplay_flag=\"true\"/></assets><div class=\"group\"><p>U.S. stocks fell on Tuesday as shares of General Electric slumped for a second straight day. Concerns about a potential global economic slowdown and U.S. tax reform also dampened investor sentiment.</p><p>The <asset_inline nid=\"3031924\">Dow Jones industrial average</asset_inline>&#160;declined 30.23 points to close at 23,409.47 as shares of General Electric slumped for a second straight day. The 30-stock index briefly fell more than 150 points.</p><p><asset_inline nid=\"1507447\">GE</asset_inline> shares fell 5.9 percent to their lowest level since 2011 and have fallen more than 12 percent over the past two days. The company unveiled a massive restructuring plan and slashed its dividend by 50 percent at an investor meeting on Monday.</p><p>CEO John Flannery told CNBC's \"<asset_inline nid=\"15838381\">Squawk on the Street</asset_inline>\" he was not surprised by the investor reaction to sell the stock, <asset_inline nid=\"104840912\">noting the company disappointed investors</asset_inline>.</p><p>Analysts across Wall Street remained \"unsettled\" by what they heard as <asset_inline nid=\"104840992\">GE's turnaround plan disappointed them</asset_inline>.&#160;</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 102356916,
+          "tagName": "Trading Nation",
+          "order": 1
+        },
+        {
+          "id": 15839069,
+          "tagName": "Investing",
+          "order": 2
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "description": "U.S. stocks fell on Tuesday as shares of General Electric slumped for a second straight day. ",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "No",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "102270141",
+        "name": "Fred Imbert",
+        "url": "http://qa-aws01web.cnbc.com/fred-imbert/",
+        "position": "5000",
+        "sameAs": [
+          "https://www.twitter.com/foimbert"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/foimbert",
+          "cn:displayText": "foimbert",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 102729740,
+        "author": "",
+        "datePublished": "2015-06-03T13:28:49+0000",
+        "caption": "Traders work on the floor of the New York Stock Exchange.",
+        "description": "",
+        "copyrightHolder": "Brendan McDermid | Reuters",
+        "height": "1333",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/102729740-RTX1CZDN.jpg?v=1476285733"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 205097
+      }]
+    },
+    {
+      "@id": "104842333",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "TN breakout gs Pei 171114",
+      "cn:createdBy": "annie.pei",
+      "cn:editedBy": "terri.cullen",
+      "cn:title": "There’s trouble brewing in the charts for one Dow stock: Trader",
+      "headline": "Charts are giving off warning signs of an even bigger drop ahead for Goldman Sachs",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104842333",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/14/trouble-brewing-in-the-charts-for-goldman-sachs-stock-trader.html",
+      "datePublished": "2017-11-14T20:50:17+0000",
+      "cn:liveURL": "/2017/11/14/trouble-brewing-in-the-charts-for-goldman-sachs-stock-trader.html",
+      "cn:seoTitle": "Trouble brewing in the charts for Goldman Sachs stock: Trader",
+      "cn:summary": "There's one big bank whose shares could soon be in trouble.",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets group_asset=\"1\"><asset nid=\"104842261\" autoplay_flag=\"true\"/></assets><div class=\"group\"><p><asset_inline nid=\"1507834\">Goldman Sachs</asset_inline> has lagged the broader market this year, and Todd Gordon of TradingAnalysis.com says the charts are giving off warning signs of an even bigger drop ahead.</p><p>Shares of the big bank have fallen nearly 1 percent in 2017, significantly underperforming the S&amp;P 500, Dow and <asset_inline nid=\"1516109\">XLF</asset_inline> financial ETF, which are up 15, 18 and 12 percent respectively during that time.</p><p>It's that underperformance and the recent rally in bonds that leads Gordon to believe there's more pain in store.</p><p>\"You can see that the daily chart is sitting on the shelf right around the $237 mark. It looks to be in this little pocket of volatility that we're seeing in the market,\" Gordon said Tuesday on <asset_inline nid=\"102356916\">CNBC's \"Trading Nation.\"</asset_inline> Goldman should be able to go down and retest this $230 level which we're seeing.\" Gordon pointed to the stock's gap above that $230 level in late September, noting that \"markets do like to close gaps.\" That's roughly 3 percent lower than where the stock is currently trading.</p><p><img class=\"inlineChart\" src=\"https://fm.cnbc.com/applications/cnbc.com/resources/editorialfiles/charts/2017/11/1510690655_GS_CHART_2.jpg\"></p><p><img class=\"inlineChart\" src=\"https://fm.cnbc.com/applications/cnbc.com/resources/editorialfiles/charts/2017/11/1510690665_GS_CHART_3.jpg\"></p><p><img class=\"inlineChart\" src=\"https://fm.cnbc.com/applications/cnbc.com/resources/editorialfiles/charts/2017/11/1510690684_TLT_CHART_1.jpg\"></p><p>To play for a move lower, Gordon wants to buy the December 235-strike puts and sell the December 230-strike puts for a total of $1.78, or $178 per options spread. The trade expires on Dec. 15, meaning that if shares of Goldman close above $235 on Dec. 15, then Gordon would lose the $178 he paid to make the trade.</p><p>But if Gordon's prediction plays out and Goldman closes below $230 on Dec. 15, then the trader could make a maximum reward of $322.</p><p>Goldman shares were lower by around 1 percent on Tuesday.</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 102356916,
+          "tagName": "Trading Nation",
+          "order": 1
+        },
+        {
+          "id": 15839069,
+          "tagName": "Investing",
+          "order": 2
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "description": "There's one big bank whose shares could soon be in trouble.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "No",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "103560763",
+        "name": "Annie Pei",
+        "url": "http://qa-aws01web.cnbc.com/annie-pei/",
+        "position": "4997"
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 102303538,
+        "author": "",
+        "datePublished": "2014-12-31T15:58:13+0000",
+        "caption": "Trader on the floor of the New York Stock Exchange.",
+        "description": "",
+        "copyrightHolder": "Getty Images",
+        "height": "1333",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/102303538-460643336.jpg?v=1510690795"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 205096
+      }]
+    },
+    {
+      "@id": "104841158",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Biotech Correction TN 171114 UNGARINO",
+      "cn:createdBy": "Rebecca.Ungarino",
+      "cn:editedBy": "amanda.diaz",
+      "cn:title": "Biotech just entered a correction, but one trader says it could be your best chance to buy",
+      "headline": "Biotech just entered a correction, but it could be your best chance to buy",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104841158",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/14/biotech-just-entered-a-correction-but-it-could-be-your-best-chance-to-buy.html",
+      "datePublished": "2017-11-14T18:24:40+0000",
+      "cn:liveURL": "/2017/11/14/biotech-just-entered-a-correction-but-it-could-be-your-best-chance-to-buy.html",
+      "cn:seoTitle": "Biotech just entered a correction, but it could be your best chance to buy",
+      "cn:summary": "Biotech stocks have officially entered a correction, breaking key support, but it could actually mark a buying opportunity for the beaten group.",
+      "cn:shorterDescription": "Biotech stocks have officially entered a correction, breaking key support, but it could actually mark a buying opportunity for the group.",
+      "cn:shortestDescription": "Biotech stocks have officially entered a correction, but it could actually mark a buying opportunity for the group.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets group_asset=\"1\"><asset nid=\"104839045\" autoplay_flag=\"true\"/></assets><div class=\"group\"><p>Biotech stocks have officially entered a correction, breaking key support, but it could actually mark a tremendous buying opportunity for the beaten group.</p><p>The iShares Nasdaq Biotechnology ETF, the <asset_inline nid=\"1508499\">IBB</asset_inline>, slid on Tuesday below its 200-day moving average on an intraday basis for the first time since May. This leg lower placed the ETF 11 percent off its 52-week highs, touched in early October.</p><p>This move comes on the back of a string of disappointing earnings for mega-cap biotech in late October, said Chad Morganlander, portfolio manager at Washington Crossing Advisors; he pointed specifically to <asset_inline nid=\"104800497\">disappointments from Gilead</asset_inline> and <asset_inline nid=\"104798892\">Celgene</asset_inline>. Still, he likes the space.</p><p>\"This creates a window of opportunity,\" Morganlander said Monday on CNBC's \"<asset_inline nid=\"102356916\">Trading Nation</asset_inline>.\"</p><p>\"We would actually look toward overweighting the biotech industry, because we're quite positive on the health-care industry as a whole. We think that the regulatory issues, as well as government concerns, are going to be a passing issue,\" he added.</p><p>He recommends shares of Amgen, as he likes the company's growth prospects, with \"very little debt and a lot of cash.\" Morganlander also sees less volatility in the stock ahead over the next one to two years.</p><p>Others are optimistic given biotech's strength relative to its plunge seen two years ago.</p><p>\"One of the things that people are worried about is, are we going to get a repeat of what we saw in 2015, when the IBB crashed 40 percent in just six months. But the set-up is much, much different than it was back then,\" said Matt Maley, equity strategist at Miller Tabak.</p><p>The group was \"wildly\" outperforming the broader market that year, Maley recalled Monday in a \"Trading Nation\" segment on CNBC's \"Power Lunch,\" and investors' positioning was overweight to an extreme level, along with people adding more leverage to the group. He doesn't see such behavior this year.</p><p>Since the U.S. election last November, Maley added, the group hasn't been as high-flying and doesn't appear to have the same risk of deleveraging as it did before it plunged two years ago.</p><p><i>Disclosure: Chad Morganlander's firm, Washington Crossing Advisors, owns shares of Amgen.</i></p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 102356916,
+          "tagName": "Trading Nation",
+          "order": 1
+        },
+        {
+          "id": 15839069,
+          "tagName": "Investing",
+          "order": 2
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "description": "Biotech stocks have officially entered a correction, breaking key support, but it could actually mark a buying opportunity for the beaten group.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "No",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "102394087",
+        "name": "Rebecca Ungarino",
+        "url": "http://qa-aws01web.cnbc.com/rebecca-ungarino/",
+        "position": "4999",
+        "sameAs": [
+          "https://www.twitter.com/ungarino"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/ungarino",
+          "cn:displayText": "ungarino",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 103699985,
+        "author": "Ricardo DeAratanha",
+        "datePublished": "2016-06-08T17:34:42+0000",
+        "caption": "Amgen research associate in the lab",
+        "description": "Ricardo DeAratanha 805 653–752 –– – Digital Image taken on Friday, 10/24/2003, Thousand Oaks, CA – Photo by Ricardo DeAratanha/Los Angeles Times –– Research associate Cindy Park performing a quantitative protein assay at AMGEN, a drug research and development laboratory. She is placing protein samples in a high performance liquid chromatograph.",
+        "copyrightHolder": "Ricardo Dearatanha | Los Angeles Times | Getty Images",
+        "height": "1340",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/103699985-GettyImages-563574201.jpg?v=1510680260"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 205095
+      }]
+    },
+    {
+      "@id": "104553857",
+      "cn:type": "sponsored",
+      "cn:slug": "Schwab 6 Exit Strategy Philosophies",
+      "cn:createdBy": "Maureen.Gavin@nbcuni.com",
+      "cn:editedBy": "Maureen.Gavin@nbcuni.com",
+      "cn:title": "3 exit strategy philosophies",
+      "headline": "3 exit strategies to consider for when it’s time to sell",
+      "cn:creatorOverwrite": "Provided by Schwab",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104553857",
+      "url": "http://qa-aws01web.cnbc.com/advertorial/2017/08/30/3-exit-strategy-philosophies.html",
+      "datePublished": "2017-09-12T17:59:59+0000",
+      "cn:liveURL": "/advertorial/2017/08/30/3-exit-strategy-philosophies.html",
+      "cn:seoTitle": "3 exit strategy philosophies",
+      "cn:summary": "Don’t just focus on how to get into a trade, but how to get out of it as well.",
+      "cn:shorterDescription": "Don’t just focus on how to get into a trade, but how to get out of it as well.",
+      "cn:shortestDescription": "Don’t just focus on how to get into a trade, but how to get out of it as well.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p></p><p>Schwab Trading Services Learning Center</p><p>When you think \"buy,\" also think \"sell.\" Don't just focus on how to get into a trade, but how to get out of it as well. After all, exit strategies are essential to risk management, protecting your trading capital, and <asset_inline ext_link=\"http://www.schwab.com/public/schwab/active_trader/trading_insights/trading_strategies/4_trading_pitfalls_to_avoid.html\" ext_title=\"\"> limiting losses</asset_inline>. But they are also essential to taking profit, which can then be put to work in new positions. In other words, an exit strategy can be the way out of a trade, which may provide you with capital or buying power that you can use to enter your next trade. So whether you're attempting to secure profits or limit losses, an exit strategy can help you determine how and when to close your trades out.</p><p>Many traders use a combination of tools and analysis to help them formulate their exit strategies. By doing this, they are seeking to identify the level at which to liquidate their position, and they are looking to use technology to help them close their trade at or near that level. For instance, a trader may use advanced <asset_inline ext_link=\"http://www.schwab.com/public/schwab/active_trader/trading_insights/research_analyze/filtering_the_market_using_technical_analysis.html\" ext_title=\"\"> technical analysis</asset_inline> solutions to determine their sell target, then employ a stop order, which can trigger a sell when the position hits that level. It's important to remember that there is no guarantee that a stop order will be executed at or near the stop price.</p><p>But to put tools and technology to work, you need an approach or a general philosophy. Some traders are more analytical. Some are practical. Some are risk-takers. So naturally, as there are different kinds of traders, there are different approaches too. Here are three of those exit strategy approaches.</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 102356916,
+          "tagName": "Trading Nation",
+          "order": 1
+        },
+        {
+          "id": 15839069,
+          "tagName": "Investing",
+          "order": 2
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "description": "Don’t just focus on how to get into a trade, but how to get out of it as well.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0,
+        "cn:native": "Yes"
+      },
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104584768,
+        "author": "",
+        "datePublished": "2017-07-13T16:28:44+0000",
+        "caption": "",
+        "description": "Closed white door on brown wall background",
+        "copyrightHolder": "",
+        "height": "2576",
+        "width": "3865",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104584768-ThinkstockPhotos-496162417.jpg?v=1500578158"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "Sponsored",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 205094
+      }]
+    },
+    {
+      "@id": "104841388",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "TN ge history dividend Pei 171114",
+      "cn:createdBy": "annie.pei",
+      "cn:editedBy": "annie.pei",
+      "cn:title": "History suggests GE’s massive dividend cut may not be so bad for the stock in the long term",
+      "headline": "GE’s massive dividend cut may not be so bad for the stock in the long term",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104841388",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/14/ges-massive-dividend-cut-may-not-be-so-bad-for-the-stock-long-term.html",
+      "datePublished": "2017-11-14T15:43:35+0000",
+      "cn:liveURL": "/2017/11/14/ges-massive-dividend-cut-may-not-be-so-bad-for-the-stock-long-term.html",
+      "cn:seoTitle": "GE’s massive dividend cut may not be so bad for the stock long term",
+      "cn:summary": "The performance of other stocks following a dividend cut suggests that the time to buy the stock could be soon.",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets group_asset=\"1\"><asset nid=\"104839396\" autoplay_flag=\"true\"/></assets><div class=\"group\"><p><asset_inline nid=\"1507447\">GE</asset_inline> shares broke below $18 for the first time since December 2011 on Tuesday, as the stock's electric slide continued for the second-straight session.</p><p>The ailing behemoth saw its shares slide as much as 7 percent on Monday, for its worst trading day since 2009, following a dividend cut and a weak 2018 forecast released at its&#160;investors meeting. But if recent history is any indication, the cut may not spell doom for GE shares.</p><p>According to S&amp;P Global, the companies with the biggest dividend cuts outside of the financial crisis are <asset_inline nid=\"1511975\">Pfizer</asset_inline> in January 2009, <asset_inline nid=\"1502318\">Abbott Labs</asset_inline> in December 2012, <asset_inline nid=\"3032663\">Kinder Morgan</asset_inline> in December 2015 and <asset_inline nid=\"1504950\">Conoco Phillips</asset_inline> in February 2016.</p><p>One year after cutting those dividends, three of the four companies surged. Shares of Pfizer, Abbott and ConocoPhillips soared 28, 44, and 49 percent respectively, while Kinder Morgan was lower by about 4 percent. This suggests that GE may possibly follow in their footsteps, a relief for the battered name that has fallen 40 percent this year&#160;and tracking for its worst annual performance since 2008.</p><p><img class=\"inlineChart\" src=\"https://fm.cnbc.com/applications/cnbc.com/resources/editorialfiles/charts/2017/11/1510673121_dividend_article.PNG\"></p><p>While it's been a tough year for General Electric shareholders, Matt Maley of Miller Tabak says the dividend cut is not the final nail in the coffin for the stock. \"You need a little bit of faith there that the new CEO can turn things around, but you pick away at it over the next couple of years and it may take a while. But I think you look at 10 years from now and you're going to look really good,\" he said Monday on <asset_inline nid=\"102356916\">CNBC's \"Trading Nation.\"</asset_inline> \"Other things will outperform … [but] I think it's going to be a solid one.&#160; GE's not going out of business.\"</p><p>Chad Morganlander, portfolio manager at Washington Crossing Advisors, believes certain fundamentals need to change for GE to be worth buying. Even as the company has transitioned to new CEO in John Flannery, Morganlander believes the water still looks murky for GE, and Monday's investor meeting did nothing to quell any concerns.</p><p>This is especially true, says Morganlander, about the company's three main branches as GE continues to sell off parts of its business. Flannery confirmed that the company was looking to sell its lighting division and would focus on its health, power and aviation branches.</p><p>\"They have to show some consistency on the free cash flow before we would go and buy,\" Morganlander said on \"Trading Nation.\" \"You could see, potentially 36 months out or more, that they actually break up three divisions that they're hoping to consolidate in 2019, but it remains to be seen.\"</p><p>\"This is perhaps an information situation where we need to see additional information to confirm if you should be fully engaged in the company,\" he added. \"At this point, we would hold, and we'd be underweight if we did on it.\"</p><p>GE stock price was&#160;down 5 percent Tuesday.</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 102356916,
+          "tagName": "Trading Nation",
+          "order": 1
+        },
+        {
+          "id": 15839069,
+          "tagName": "Investing",
+          "order": 2
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "description": "The performance of other stocks following a dividend cut suggests that the time to buy the stock could be soon.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "No",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 1
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "103560763",
+        "name": "Annie Pei",
+        "url": "http://qa-aws01web.cnbc.com/annie-pei/",
+        "position": "4997"
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 101838745,
+        "author": "",
+        "datePublished": "2014-07-15T19:42:27+0000",
+        "caption": "A mechanic works on a jet engine at General Electric's GE Aviation factory in Cincinnati.",
+        "description": "",
+        "copyrightHolder": "Luke Sharrett | Bloomberg | Getty Images",
+        "height": "1334",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/101838745-451223516.jpg?v=1484686542"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 204139
+      }]
+    },
+    {
+      "@id": "104839223",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "TN Shiller Passive Investing LANDSMAN 171113 EC",
+      "cn:createdBy": "stephanie.landsman",
+      "cn:editedBy": "stephanie.landsman",
+      "cn:title": "Passive investing is a 'chaotic system' that could be dangerous, warns Robert Shiller",
+      "headline": "Passive investing is dangerous, 'chaotic system,' warns Robert Shiller",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104839223",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/14/robert-shiller-passive-investing-is-a-dangerous-chaotic-system.html",
+      "datePublished": "2017-11-14T13:00:00+0000",
+      "cn:liveURL": "/2017/11/14/robert-shiller-passive-investing-is-a-dangerous-chaotic-system.html",
+      "cn:seoTitle": "Robert Shiller: Passive investing is a dangerous, 'chaotic system'",
+      "cn:summary": "Nobel Prize-winning economist Robert Shiller sees potentially dangerous issues surrounding the growing popularity of index funds and ETFs.",
+      "cn:shorterDescription": "Nobel Prize-winning economist Robert Shiller sees potentially dangerous issues surrounding the growing popularity of index funds and ETFs.",
+      "cn:shortestDescription": "Robert Shiller sees potentially dangerous issues surrounding the growing popularity of index funds and ETFs.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104839408\" autoplay_flag=\"true\"/></assets><div class=\"group\"><p>One of the country's greatest economic minds is questioning the value and role passive investing is playing in the bull market.</p><p>Nobel Prize-winning economist Robert Shiller is seeing worrisome issues surrounding the growing popularity of index funds and ETFs among retail investors.</p><p>\"The strength of this country was built on people who watched individual companies. They had opinions about them. All this talk of indexes, it's a little bit diluting of our intellect. It becomes more of a game,\" Shiller said Monday on CNBC's \"<asset_inline nid=\"102356916\">Trading Nation</asset_inline>.\"&#160;\"It's a chaotic system.\"</p><p>Shiller, a Yale University economics professor, compares passive investing to seeing a green light at an intersection and crossing the street without looking both ways.</p><p><asset_inline nid=\"104228468\">According to data published by Morningstar earlier this year</asset_inline>, investors poured more than a half trillion dollars into passive funds in 2016. The number could break more records this year with investors coming off the sidelines to participate in the record rally.</p><p>\"The problem is that if you are talking about <asset_inline nid=\"104621400\">passive indexing</asset_inline>, that is something that is really free-riding on other people's work,\" Shiller said. \"So people say, 'I'm not going to try to beat the market. The market is all-knowing.' But how in the world can the market be all-knowing, if nobody is trying&#160;— well, not as many people — are trying to beat it?\"</p><p>It's a conundrum that Shiller finds perplexing.&#160;When asked what passive investing could look like in 10 years, he wasn't sure.</p><p>\"It's kind of pseudoscience to think these indexes are perfect, and all I need is some kind of computer model instead of thinking about business,\" Shiller said.</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 102356916,
+          "tagName": "Trading Nation",
+          "order": 1
+        },
+        {
+          "id": 15839069,
+          "tagName": "Investing",
+          "order": 2
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "description": "Nobel Prize-winning economist Robert Shiller sees potentially dangerous issues surrounding the growing popularity of index funds and ETFs.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "No",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "40198614",
+        "name": "Stephanie Landsman",
+        "url": "http://qa-aws01web.cnbc.com/stephanie-landsman/",
+        "position": "4997",
+        "sameAs": [
+          "https://www.twitter.com/stephlandsman"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/stephlandsman",
+          "cn:displayText": "stephlandsman",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 102337799,
+        "author": "",
+        "datePublished": "2015-01-14T16:39:06+0000",
+        "caption": "Robert Shiller",
+        "description": "Robert Shiller, Yale University Professor of Economics, co-founder Case-Shiller Index.",
+        "copyrightHolder": "Adam Jeffery | CNBC ",
+        "height": "1125",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/102337799-robert-shiller.jpg?v=1498764051"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 203926
+      }]
+    },
+    {
+      "@id": "104839007",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Nikkei Overbought TN 171113 UNGARINO",
+      "cn:createdBy": "Rebecca.Ungarino",
+      "cn:editedBy": "terri.cullen",
+      "cn:title": "A leading market for US stocks is ‘very, very’ overbought, and that could mean trouble",
+      "headline": "Japan's stock market, a leading market for US stocks, is ‘very, very’ overbought. That could mean trouble",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104839007",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/14/japans-nikkei-is-very-very-overbought-strategist.html",
+      "datePublished": "2017-11-14T11:56:18+0000",
+      "cn:liveURL": "/2017/11/14/japans-nikkei-is-very-very-overbought-strategist.html",
+      "cn:seoTitle": "Japan's Nikkei is ‘very, very’ overbought: Strategist",
+      "cn:summary": "Japan's stock market is quite overbought, and it could impact the U.S. if the weakness persists, one market watcher tells CNBC's \"Trading Nation.\"",
+      "cn:shorterDescription": "Japan's stock market is quite overbought, and that could impact the U.S., one market watcher tells CNBC's \"Trading Nation.\"",
+      "cn:shortestDescription": "Japan's stock market is quite overbought, and that could impact the U.S., one market watcher says.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets group_asset=\"1\"><asset nid=\"104839490\" autoplay_flag=\"true\"/></assets><div class=\"group\"><p>Japan's stock market is quite overbought, and it could affect impact the U.S. if the weakness persists, one market watcher told CNBC's \"<asset_inline nid=\"102356916\">Trading Nation</asset_inline>.\"<br /> <br />The <asset_inline nid=\"3032897\">Nikkei</asset_inline> on Monday posted its fourth-straight day of losses, following a <asset_inline nid=\"104791551\">record string of gains</asset_inline> over the last month. A further decline could begin spilling over and impacting domestic markets, said Matt Maley, equity strategist with Miller Tabak. Here's why:<br /> <br />• The index, aside from its overbought condition, has also seen a large run-up in the last two months, Maley said Monday. To put its move into perspective, the Nikkei's 21 percent gain logged from early September until last week's intraday highs was half of its post-U.S. election rally, and 95 percent of its year-to-date gains, Maley said. This leads him to believe the index is quite extended in the short term.<br /> <br />• Furthermore, a key Daily Sentiment Index reading measuring bullishness on commodity traders saw a strong 93 percent last week, Maley wrote. \"That means there are a lot of people on the bullish side of the boat. When there are THAT many bulls, it frequently signals a near-term top (because there is nobody left to 'buy'),\" he wrote.<br /> <br />• Some cracks appearing in the Russell 2000 small-cap index and the high-yield market are <asset_inline nid=\"104830089\">already flashing warning signs</asset_inline> for U.S. markets, and a more dramatic pullback in foreign markets like the Nikkei and the German DAX could add headwinds for U.S. stocks.</p><p><em><strong>S&amp;P 500 vs. Nikkei 225, 1-year comparison</strong></em></p><p><img class=\"inlineChart\" src=\"https://fm.cnbc.com/applications/cnbc.com/resources/editorialfiles/charts/2017/11/1510612425_spxnikkei.JPG\"></p><p>• Finally, crude oil has seen a bounce over the last few months, and higher oil prices tend to be bearish for the Nikkei as Japan imports the vast majority of its crude. The continued upside for crude oil could create a headwind for the Japanese market and the underlying economy.<br /> <br /><i> Bottom line: Maley says that if the Japanese Nikkei weakens further, it could begin hurting U.S. stocks.</i></p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 102356916,
+          "tagName": "Trading Nation",
+          "order": 1
+        },
+        {
+          "id": 15839069,
+          "tagName": "Investing",
+          "order": 2
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "description": "Japan's stock market is quite overbought, and it could impact the U.S. if the weakness persists, one market watcher tells CNBC's \"Trading Nation.\"",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "No",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "102394087",
+        "name": "Rebecca Ungarino",
+        "url": "http://qa-aws01web.cnbc.com/rebecca-ungarino/",
+        "position": "4999",
+        "sameAs": [
+          "https://www.twitter.com/ungarino"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/ungarino",
+          "cn:displayText": "ungarino",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104730915,
+        "author": "",
+        "datePublished": "2017-09-25T23:15:39+0000",
+        "caption": "Pedestrians are reflected in an electric quotation board flashing stock prices of the Tokyo Stock Exchange in Tokyo.",
+        "description": "",
+        "copyrightHolder": "Kazuhiro Nogi | AFP | Getty Images ",
+        "height": "682",
+        "width": "1024",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104730915-GettyImages-634198652.jpg?v=1510612519"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 203607
+      }]
+    },
+    {
+      "@id": "104839033",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "JPY Commentary TN 171113 SCHLOSSBERG UNGARINO",
+      "cn:createdBy": "Rebecca.Ungarino",
+      "cn:editedBy": "lynne.pate",
+      "cn:title": "A key correlation in the currency market is breaking down. Here’s what it means",
+      "headline": "A key correlation in the currency market is breaking down. Here’s what it means",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104839033",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/13/a-key-correlation-for-the-dollaryen-is-breaking-down.html",
+      "datePublished": "2017-11-13T19:27:27+0000",
+      "cn:liveURL": "/2017/11/13/a-key-correlation-for-the-dollaryen-is-breaking-down.html",
+      "cn:seoTitle": "A key correlation for the dollar/yen is breaking down",
+      "cn:summary": "Something notable is happening between the U.S. dollar/Japanese yen relationship and its correlation with various markets.",
+      "cn:shorterDescription": "Something notable is happening between the U.S. dollar/Japanese yen relationship and its correlation with various markets.",
+      "cn:shortestDescription": "Something notable is happening between the U.S. dollar/Japanese yen and its correlation with various markets.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets group_asset=\"1\"><asset nid=\"103590677\"/></assets><div class=\"group\"><p>Something notable is happening between the <asset_inline nid=\"3032902\">U.S. dollar/Japanese yen</asset_inline> relationship and its correlation with various markets.</p><p>Let's start with the dollar's relative softness. Despite some strong U.S. economic data and a much more hawkish central bank stance relative to other G-7 nations, the dollar has been surprisingly weak. Over the last month, the U.S. dollar/Japanese yen relationship has failed to break out above its key 115 level on multiple occasions and now finds itself mired around the 113 mark as markets appear to be at a loss for direction.</p><p>To add insult to injury, many of the key correlations between U.S. dollar/Japanese yen and various markets,&#160;such as the bond market and the <asset_inline nid=\"3032897\">Japanese Nikkei 225</asset_inline>, are beginning to break down; the pair is not nearly as responsive to the rise in U.S. Treasury yields or to the gains in the Nikkei.</p><p>So, what's going on? The answer may lie in Washington, rather than Wall Street.</p><p>High hopes for tax reform have faded, and markets now appear resigned to the fact that legislation will be modest or nonexistent, failing to provide the boost to the U.S. economy that greenback bulls were seeking.</p><p>Little wonder, then, that although the market anticipates a 100 percent chance of a rate hike in December, the yield curve out to 2018 suggests a much more muted expectation for future interest rate hikes.</p><p>Looking ahead, if the tax reform process fails, as health care did, erosion of investor sentiment could trigger a sharp sell-off in equity markets, which have been grossly overbought for months. Any correction in equities could send the U.S. dollar/yen relationship lower on risk aversion flows.</p><p>And although U.S. dollar/Japanese yen is up slightly today as it is finally responding to higher Treasury yields, the breakdown in correlations is troubling, and typically suggests that market sentiment is beginning to change.</p><p>For now, the 113 level in the U.S. dollar/Japanese yen looks vulnerable to a test, especially if U.S. equities see some profit-taking at the start of the week. If it breaks support at that level, we may be witnessing the start of a deeper sell-off in the dollar.</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 102356916,
+          "tagName": "Trading Nation",
+          "order": 1
+        },
+        {
+          "id": 15839069,
+          "tagName": "Investing",
+          "order": 2
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "description": "Something notable is happening between the U.S. dollar/Japanese yen relationship and its correlation with various markets.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "No",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 1
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "102306385",
+        "name": "Boris Schlossberg",
+        "url": "http://qa-aws01web.cnbc.com/boris-schlossberg/",
+        "position": "5000",
+        "sameAs": [
+          "https://www.twitter.com/Fxflow"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/Fxflow",
+          "cn:displayText": "Fxflow",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 103590677,
+        "author": "Bloomberg",
+        "datePublished": "2016-04-28T22:41:50+0000",
+        "caption": "",
+        "description": "A dealer works at a foreign exchange brokerage in Tokyo, Japan, on Wednesday, Aug. 4, 2010. The yen rose to an eight-month high against the dollar and Japanese government bonds rose, pushing 10-year yields to a seven-year low, on concern the U.S. recovery is losing momentum. Exporters led a decline in Asian stocks. Photographer: Haruyoshi Yamaguchi/Bloomberg via Getty Images",
+        "copyrightHolder": "Haruyoshi Yamaguchi | Bloomberg | Getty Images",
+        "height": "754",
+        "width": "1024",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/103590677-GettyImages-103224913.jpg?v=1510598310"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 203606
+      }]
+    },
+    {
+      "@id": "104839181",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "TN walmart buy Pei 171113",
+      "cn:createdBy": "annie.pei",
+      "cn:editedBy": "martin.steinberg",
+      "cn:title": "Wal-Mart is having its best year since 1999, and it’s still a buy",
+      "headline": "Wal-Mart is having its best year since 1999, and it’s still a buy",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104839181",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/13/wal-mart-is-having-its-best-year-since-1999-and-its-still-a-buy.html",
+      "datePublished": "2017-11-13T19:21:32+0000",
+      "cn:liveURL": "/2017/11/13/wal-mart-is-having-its-best-year-since-1999-and-its-still-a-buy.html",
+      "cn:seoTitle": "Wal-Mart is having its best year since 1999, and it’s still a buy",
+      "cn:summary": "Wal-Mart is surging, and traders believe the stock is still worth buying.",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets group_asset=\"1\"><asset nid=\"104835472\" autoplay_flag=\"true\"/></assets><div class=\"group\"><p><asset_inline nid=\"1515906\">Wal-Mart</asset_inline> is having its best year since 1999, and it's about to get a lot better, according to one market watcher.</p><p>Shares of the big-box retailer have surged more than 30 percent in 2017, putting it on pace for its best annual performance in nearly three decades. This is happening as the broader retail ETF, the <asset_inline nid=\"1516152\">XRT</asset_inline>, tracks for its worst year since 2008. And as the company gears up for earnings later this week, Stacey Gilbert, head of derivatives strategy at Susquehanna, says that not only is the Wal-Mart still worth buying, it is her firm's favorite stock in the space.</p><p>\"From a trading sentiment heading into earnings, it's an implied move of around 4 percent,\" she said Friday on <asset_inline nid=\"15838342\">CNBC's \"Power Lunch.\"</asset_inline> \"Nothing crazy, but the sentiment is really suggesting that there isn't expected to be anything crazy mentioned and downside is likely limited.\"</p><p>Gilbert believes the company's fundamentals will continue to improve. \"Management has done a great job of balancing the growth of earnings as well as all of the investments needed to let it continue to be a premium U.S. leading omnichannel retailer,\" she added.</p><p>Wal-Mart hit another all-time high on Monday, as the retailer upped prices for some online items in an effort to compete with&#160;<asset_inline nid=\"1502862\">Amazon</asset_inline>. But Cowen's head of sales trading, David Seaburg, believes that the online presence Wal-Mart is trying to build for itself is actually the company's biggest headwind.</p><p>\"They are investing [in their e-commerce business] and talking about it loudly,\" he said on \"Power Lunch.\" \"The reality is it's going to take a lot of investment to get this to a $100 billion e-commerce business versus a $26, $27 billion e-commerce business.\"</p><p>Furthermore, the increased competition in the grocery space thanks to Amazon's Whole Foods acquisition could also hurt the big box giant's margins, according to Seaburg. Thanks to the \"gross margin risk, I wouldn't be buying Wal-Mart, I'd be a seller here,\" he said.</p><p>Wal-Mart reports earnings Thursday morning. Analysts polled by FactSet expect the company to earn 97 cents per share on $121 billion in revenue.</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 102356916,
+          "tagName": "Trading Nation",
+          "order": 1
+        },
+        {
+          "id": 15839069,
+          "tagName": "Investing",
+          "order": 2
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "description": "Wal-Mart is surging, and traders believe the stock is still worth buying.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "No",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "103560763",
+        "name": "Annie Pei",
+        "url": "http://qa-aws01web.cnbc.com/annie-pei/",
+        "position": "4997"
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 103176135,
+        "author": "",
+        "datePublished": "2015-11-17T18:06:24+0000",
+        "caption": "Shoppers load a television set into their cart at a Walmart store in Secaucus, New Jersey.",
+        "description": "",
+        "copyrightHolder": "Lucas Jackson | Reuters",
+        "height": "1333",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/103176135-RTS6KOQ.jpg?v=1510599415"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 203605
+      }]
+    },
+    {
+      "@id": "104835721",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "TN Federated Chiavarone Bull Case LANDSMAN 171110 EC",
+      "cn:createdBy": "stephanie.landsman",
+      "cn:editedBy": "stephanie.landsman",
+      "cn:title": "Bull market has more than a decade left, Federated Investors says",
+      "headline": "Bull market has more than a decade left, Federated Investors says",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104835721",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/13/federated-investors-more-than-a-decade-left-in-the-bull-market.html",
+      "datePublished": "2017-11-13T13:30:00+0000",
+      "cn:liveURL": "/2017/11/13/federated-investors-more-than-a-decade-left-in-the-bull-market.html",
+      "cn:seoTitle": "More than a decade left in the bull market, says Federated",
+      "cn:summary": "The secular bull market is still in its early stages, according to Federated portfolio manager Steve Chiavarone.",
+      "cn:shorterDescription": "The secular bull market is still in its early stages, according to Federated portfolio manager Steve Chiavarone.",
+      "cn:shortestDescription": "The secular bull market is still in its early stages, according to Federated portfolio manager Steve Chiavarone.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p></p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 102356916,
+          "tagName": "Trading Nation",
+          "order": 1
+        },
+        {
+          "id": 15839069,
+          "tagName": "Investing",
+          "order": 2
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "description": "The secular bull market is still in its early stages, according to Federated portfolio manager Steve Chiavarone.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "No",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 1
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "40198614",
+        "name": "Stephanie Landsman",
+        "url": "http://qa-aws01web.cnbc.com/stephanie-landsman/",
+        "position": "4997",
+        "sameAs": [
+          "https://www.twitter.com/stephlandsman"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/stephlandsman",
+          "cn:displayText": "stephlandsman",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104835933,
+        "author": "",
+        "datePublished": "2017-11-10T21:47:29+0000",
+        "caption": "",
+        "description": "",
+        "copyrightHolder": "Getty Images",
+        "height": "1458",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104835933-GettyImages-118788349.jpg?v=1510350390"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 203604
+      }]
+    },
+    {
+      "@id": "104835946",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "GE Investor Day TN 171110 UNGARINO",
+      "cn:createdBy": "Rebecca.Ungarino",
+      "cn:editedBy": "John.Melloy",
+      "cn:title": "One major bull case for owning GE just flew out the window",
+      "headline": "One major bull case for owning GE just flew out the window",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104835946",
+      "url": "http://qa-aws01web.cnbc.com/2017/11/10/a-major-bull-case-for-owning-general-electric-just-flew-out-the-window.html",
+      "datePublished": "2017-11-13T11:00:00+0000",
+      "cn:liveURL": "/2017/11/10/a-major-bull-case-for-owning-general-electric-just-flew-out-the-window.html",
+      "cn:seoTitle": "A major bull case for owning General Electric just flew out the window",
+      "cn:summary": "General Electric bulls have clung to the notion of a potential breakup of the company as a reason to own the stock. But that argument may not work out.",
+      "cn:shorterDescription": "GE bulls have clung to the notion of a potential breakup of the company as a reason to own the stock. But that argument may not work out.",
+      "cn:shortestDescription": "A key bull case for owning shares of General Electric may have just disappeared. ",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets group_asset=\"1\"><asset nid=\"104835959\" autoplay_flag=\"true\"/></assets><div class=\"group\"><p>As <asset_inline nid=\"1507447\">General Electric</asset_inline> shares continued making new lows ahead of its widely anticipated shareholder meeting on Monday, bulls clung to the notion of a potential breakup of the company as a reason to own the stock. But that argument may not work out, according to one widely followed analyst.</p><p>GE shares were slightly higher in premarket trading Monday after the conglomerate <asset_inline nid=\"104835001\">slashed its dividend by 50 percent</asset_inline> and the Wall Street Journal reported new CEO John Flannery will restructure GE to focus just on the aviation, power and health-care divisions. The company will look to exit operations unrelated to those three units, the report said.</p><p>The company's investor day gets underway at 9am ET.</p><p>In a recent note from Cowen, analyst Gautam Khanna wrote that a sum-of-the-parts analysis of&#160;GE suggests its breakup valuation is in the range of $11 to $15 per share, implying between 27 and 46 percent downside to the stock's current value even after this potential restructuring.<br /> <br /> Khanna argues that investors are failing to consider some of the debt-like liabilities that would need to be ascribed to those individual units, if a breakup were to occur.<br /> <br /> \"A major difference in our analysis vs. GE bulls who argue for [sum of the parts] upside is that we penalize GE's enterprise value for debt-like items (underfunded pension; GE Capital's net debt) that would be ascribed to assets if sold,\" wrote Khanna.<br /> <br /> Shares of GE have tumbled 35 percent this year, shedding over $416 billion in market value since topping out in August 2000.<br /> <br /> \"There is no quick fix for GE and the stock remains biased to the downside,\" Khanna added.<br /> <br /> The company's investor day is likely to be a market-moving event, according to Stacey Gilbert, head of derivatives strategy at Susquehanna, who said Friday on CNBC's \"<asset_inline nid=\"102356916\">Trading Nation</asset_inline>\" that the options market is implying a dividend cut ahead.<br /> <br /> Other investors have pointed to the company's considerable dividend as reason to own the stock. GE's dividend yield was 4.69 percent, compared with the S&amp;P 500's dividend yield of 1.94 percent. Now that's been cut in half.<br /> <br /> While there are many reasons shareholders should expect to get \"excess yield\" from holding GE, Gilbert said, \"it's a really difficult company to own and justify, particularly as it continues to go down.\"<br /> <br />Prices for puts and calls for GE shares implied a dividend cut between 30 and 50 percent, according to Gilbert so Monday's move should come as no surprise.</p><p>The options market is implying 5 percent move in either direction for the stock on the back of the investor day Monday.</p><p>That's a substantial implied move for its investor day, she said, \"so this really is a big deal. The world is watching, trying to figure out exactly what's going to happen with GE.\"<br /> <br /> In late October, new CEO John Flannery declined to say whether the company would cut its dividend.<br /> <br /> \"From a philosophy perspective, we manage for total shareholder return. So it's going to be a mix of capital that goes into a dividend, and a mix that goes into organic and inorganic investment, and that has to be balanced,\" Flannery <asset_inline nid=\"104786118\">told CNBC's David Faber</asset_inline>.<br /> <br /> Investors will get their answer on Monday.<br /> <br /><i> Disclosure: Stacey Gilbert personally owns shares of General Electric.</i></p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 102356916,
+          "tagName": "Trading Nation",
+          "order": 1
+        },
+        {
+          "id": 15839069,
+          "tagName": "Investing",
+          "order": 2
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "description": "General Electric bulls have clung to the notion of a potential breakup of the company as a reason to own the stock. But that argument may not work out.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "No",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "102394087",
+        "name": "Rebecca Ungarino",
+        "url": "http://qa-aws01web.cnbc.com/rebecca-ungarino/",
+        "position": "4999",
+        "sameAs": [
+          "https://www.twitter.com/ungarino"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/ungarino",
+          "cn:displayText": "ungarino",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 103954053,
+        "author": "",
+        "datePublished": "2016-09-20T13:29:47+0000",
+        "caption": "An employee of General Electric works on a gas turbine at the GE plant in Belfort, France.",
+        "description": "",
+        "copyrightHolder": "Sebastien Bozon | AFP | Getty Images",
+        "height": "2832",
+        "width": "4256",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/103954053-GettyImages-494460522.jpg?v=1476220434"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "cn:isPromoted": "true",
+        "cn:relationType": "outputList",
+        "position": 203603
+      }]
+    }
+  ]
+}

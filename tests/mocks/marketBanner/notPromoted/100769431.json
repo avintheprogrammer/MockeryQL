@@ -1,0 +1,141 @@
+{
+  "data": {
+    "marketBanner": {
+      "id": "100769431",
+      "type": "franchise",
+      "url": "https://qa-aws01buffett.cnbc.com/id/100769431",
+      "summary": null,
+      "shorterDescription": null,
+      "title": "US Market",
+      "headline": "Markets",
+      "markets": [
+        {
+          "name": "Pre-Markets",
+          "headline": "Pre-market data",
+          "securities": [
+            {
+              "id": "100007270",
+              "tickerSymbol": "Chicago Board of Trade @DJ.1",
+              "name": "Dow Jones Fut (Dec'17)",
+              "type": "security"
+            },
+            {
+              "id": "100007266",
+              "tickerSymbol": "CME:Index and Options Market @SP.1",
+              "name": "S&P 500 Fut (Dec'17)",
+              "type": "security"
+            },
+            {
+              "id": "100007591",
+              "tickerSymbol": "CME:Index and Options Market @ND.1",
+              "name": "NASDAQ 100 Fut (Dec'17)",
+              "type": "security"
+            },
+            {
+              "id": "100007484",
+              "tickerSymbol": "New York Mercantile Exchange @CL.1",
+              "name": "WTI Crude (Dec'17)",
+              "type": "security"
+            },
+            {
+              "id": "3032077",
+              "tickerSymbol": "U.S. US10Y",
+              "name": "US 10-YR",
+              "type": "security"
+            }
+          ],
+          "articles": [
+            {
+              "id": "104838265"
+            },
+            {
+              "id": "104847731"
+            }
+          ]
+        },
+        {
+          "name": "US",
+          "headline": "US Markets",
+          "securities": [
+            {
+              "id": "3031956",
+              "tickerSymbol": "NASDAQ .IXIC",
+              "name": "NASDAQ Composite",
+              "type": "security"
+            },
+            {
+              "id": "3031924",
+              "tickerSymbol": "Dow Jones Global Indexes .DJI",
+              "name": "Dow Industrials",
+              "type": "security"
+            },
+            {
+              "id": "3031962",
+              "tickerSymbol": "INDEX .SPX",
+              "name": "S&P 500 Index",
+              "type": "security"
+            },
+            {
+              "id": "3032906",
+              "tickerSymbol": "Exchange .RUT",
+              "name": "Russell 2000 Index",
+              "type": "security"
+            },
+            {
+              "id": "3031964",
+              "tickerSymbol": "STOXX .VIX",
+              "name": "CBOE Volatility Index",
+              "type": "security"
+            }
+          ],
+          "articles": [
+            {
+              "id": "104846785"
+            }
+          ]
+        },
+        {
+          "name": "Metal Commodities",
+          "headline": "Metals",
+          "securities": [
+            {
+              "id": "100007527",
+              "tickerSymbol": "CEC:Commodities Exchange Centre @SI.1",
+              "name": "Silver COMEX (Dec'17)",
+              "type": "security"
+            },
+            {
+              "id": "100007526",
+              "tickerSymbol": "CEC:Commodities Exchange Centre @GC.1",
+              "name": "Gold COMEX (Dec'17)",
+              "type": "security"
+            },
+            {
+              "id": "100007528",
+              "tickerSymbol": "CEC:Commodities Exchange Centre @HG.1",
+              "name": "Copper (Dec'17)",
+              "type": "security"
+            },
+            {
+              "id": "100007529",
+              "tickerSymbol": "New York Mercantile Exchange @PL.1",
+              "name": "Platinum (Jan'18)",
+              "type": "security"
+            },
+            {
+              "id": "100010455",
+              "tickerSymbol": "New York Mercantile Exchange @PA.1",
+              "name": "Palladium (Dec'17)",
+              "type": "security"
+            }
+          ],
+          "articles": [
+            {
+              "id": "104845642"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "data": {
+    "video": {
+      "id": "104847766",
+      "type": "cnbcvideo",
+      "brand": "buffett",
+      "datePublished": "2002-02-23T21:25:07+0000",
+      "dateLastPublished": "2018-03-09T17:01:53+0000",
+      "dateModified": "2018-03-09T17:01:27+0000",
+      "description": "Morning session of 2002 Annual Shareholder meeting.",
+      "slug": "Buffett Annual Meeting 2002 Morning Session 1",
+      "headline": "Buffett Annual Meeting 2002 - Morning Session",
+      "url": "https://qa-aws03buffett.cnbc.com/video/2002/02/23/buffett-annual-meeting-2002-morning-session.html",
+      "publisher": {
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "show": null,
+      "usagePlans": [
+        "MobilePhones",
+        "IPTV_PDL",
+        "CNBCNews.com Website",
+        "CNBCNews.com Direct",
+        "CNBC Business Video"
+      ],
+      "encodings": [
+        {
+          "url": "http://cnbcmbr-vh.akamaihd.net/i/mp4/VCPSQA/Y2002/M02D23/5000001400/918c56a0-18de-11e8-8d8c-df7bf34d9dc6/2002-BAM-1_MBR_,0240,0300,0500,0700,0900,1300,1700,.mp4.csmil/master.m3u8",
+          "bitrate": 1,
+          "encodingFormat": "mpeg4",
+          "formatName": "mpeg4_1_HLSMBRStreaming"
+        },
+        {
+          "url": "http://pdl.iphone.cnbc.com/VCPSQA/Y2002/M02D23/5000001400/918c56a0-18de-11e8-8d8c-df7bf34d9dc6/2002-BAM-1_H264_126K.mp4",
+          "bitrate": 200000,
+          "encodingFormat": "mpeg4",
+          "formatName": "mpeg4_200000_Download"
+        },
+        {
+          "url": "http://pdl.iphone.cnbc.com/VCPSQA/Y2002/M02D23/5000001400/2002-BAM-1_L.mp4",
+          "bitrate": 500000,
+          "encodingFormat": "mpeg4",
+          "formatName": "mpeg4_500000_Download"
+        },
+        {
+          "url": "http://videoman-ec-dev.cnbc.com/vcps/media/content?id=NTAwMDAwMTQwMAptcGVnNF81MDAwMDAKU3RyZWFtaW5n&UserName=cmsguest@cnbc.com&key=NA",
+          "bitrate": 500000,
+          "encodingFormat": "mpeg4",
+          "formatName": "mpeg4_500000_Streaming"
+        },
+        {
+          "url": "http://cnbcmbr-vh.akamaihd.net/z/mp4/VCPSQA/Y2002/M02D23/5000001400/918c56a0-18de-11e8-8d8c-df7bf34d9dc6/2002-BAM-1_MBR_,0240,0300,0500,0700,0900,1300,1700,.mp4.csmil/manifest.f4m",
+          "bitrate": 1,
+          "encodingFormat": "mpeg4",
+          "formatName": "mpeg4_1_HDNMBRStreaming"
+        },
+        {
+          "url": "http://pdl.iphone.cnbc.com/VCPSQA/Y2002/M02D23/5000001400/918c56a0-18de-11e8-8d8c-df7bf34d9dc6/2002-BAM-1_H264_1M_720x405.mp4",
+          "bitrate": 1100000,
+          "encodingFormat": "mpeg4",
+          "formatName": "mpeg4_1100000_Download"
+        },
+        {
+          "url": "http://pdl.iphone.cnbc.com/VCPSQA/Y2002/M02D23/5000001400/918c56a0-18de-11e8-8d8c-df7bf34d9dc6/2002-BAM-1.vtt",
+          "bitrate": 0,
+          "encodingFormat": "WebVTT",
+          "formatName": "WebVTT_0_Download"
+        },
+        {
+          "url": "http://pdl.iphone.cnbc.com/VCPSQA/Y2002/M02D23/5000001400/918c56a0-18de-11e8-8d8c-df7bf34d9dc6/2002-BAM-1_H264_480x270_25p_500K.mp4",
+          "bitrate": 600000,
+          "encodingFormat": "mpeg4",
+          "formatName": "mpeg4_600000_Download"
+        },
+        {
+          "url": "http://cnbcmbr-vh.akamaihd.net/z/mp4/VCPSQA/Y2002/M02D23/5000001400/918c56a0-18de-11e8-8d8c-df7bf34d9dc6/2002-BAM-1_MBR_0500.mp4/manifest.f4m",
+          "bitrate": 500000,
+          "encodingFormat": "mpeg4",
+          "formatName": "mpeg4_500000_HDNSBRStreaming"
+        },
+        {
+          "url": "http://cnbcmbr-vh.akamaihd.net/i/mp4/VCPSQA/Y2002/M02D23/5000001400/918c56a0-18de-11e8-8d8c-df7bf34d9dc6/2002-BAM-1_MBR_0500.mp4/master.m3u8",
+          "bitrate": 500000,
+          "encodingFormat": "mpeg4",
+          "formatName": "mpeg4_500000_HLSSBRStreaming"
+        }
+      ],
+      "duration": 111,
+      "uploadDate": "2018-02-23T20:30:07+0000",
+      "playbackURL": "//cnbcmbr-vh.akamaihd.net/i/mp4/VCPSQA/Y2002/M02D23/5000001400/918c56a0-18de-11e8-8d8c-df7bf34d9dc6/2002-BAM-1_MBR_,0240,0300,0500,0700,0900,1300,1700,.mp4.csmil/master.m3u8",
+      "vcpsId": 5000001400,
+      "relatedTags": []
+    }
+  }
+}

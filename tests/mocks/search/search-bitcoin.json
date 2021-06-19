@@ -1,0 +1,376 @@
+{
+  "data": {
+    "search": {
+      "results": [
+        {
+          "id": 104837847,
+          "type": "cnbcnewsstory",
+          "slug": "Bitcoin cash BROWNE 171113 EU",
+          "datePublished": "2017-11-13T06:39:53 GMT",
+          "description": "Bitcoin cash rallied after plans for a \"hard fork\" in the original bitcoin blockchain were called off.",
+          "headline": "A bitcoin spin-off briefly replaced rival digital coin ether as the second-largest cryptocurrency",
+          "title": "Bitcoin cash briefly replaced rival digital coin ether as the second-largest cryptocurrency",
+          "tickerSymbols": [
+            {
+              "id": 105424238,
+              "type": "security",
+              "symbol": ".DJUS",
+              "chartSymbol": "596782"
+            },
+            {
+              "id": 100005111,
+              "type": "company",
+              "symbol": "FB",
+              "chartSymbol": "FB.O"
+            }
+          ]
+        },
+        {
+          "id": 104829648,
+          "type": "cnbcnewsstory",
+          "slug": "Bitcoin soars OSTERLAND 171113 EC",
+          "datePublished": "2017-11-13T14:03:56 GMT",
+          "description": "Enthusiasts say bitcoin is the future of money, yet it is about as volatile as you can get when it comes to investments.",
+          "headline": "Bitcoin investing is not for the faint of heart, advisor says",
+          "title": "As bitcoin soars and ICOs spread, advisors urge caution",
+          "tickerSymbols": [
+            {
+              "id": 105424238,
+              "type": "security",
+              "symbol": ".DJUS",
+              "chartSymbol": "596782"
+            },
+            {
+              "id": 100005111,
+              "type": "company",
+              "symbol": "FB",
+              "chartSymbol": "FB.O"
+            }
+          ]
+        },
+        {
+          "id": 104839833,
+          "type": "cnbcnewsstory",
+          "slug": "Gartman millennial bitcoin AIELLO 171113 EC",
+          "datePublished": "2017-11-14T00:00:40 GMT",
+          "description": "Bitcoin bear Dennis Gartman still will not buy bitcoin, despite predictions that the cryptocurrency will rebound.",
+          "headline": "Bitcoin is a market for criminals and millennials, Dennis Gartman says",
+          "title": "Bitcoin is a market for criminals and millennials, Dennis Gartman says",
+          "tickerSymbols": [
+            {
+              "id": 105424238,
+              "type": "security",
+              "symbol": ".DJUS",
+              "chartSymbol": "596782"
+            },
+            {
+              "id": 100005111,
+              "type": "company",
+              "symbol": "FB",
+              "chartSymbol": "FB.O"
+            }
+          ]
+        },
+        {
+          "id": 104834995,
+          "type": "cnbcnewsstory",
+          "slug": "Bitcoin bitcoin cash CHENG 171110 EC ",
+          "datePublished": "2017-11-10T14:38:08 GMT",
+          "description": "Bitcoin price sinks as traders bet on its offshoot, bitcoin cash.",
+          "headline": "Bitcoin plunges after upgrade is called off, but offshoot 'bitcoin cash' surges more than 40%",
+          "title": "Bitcoin plunges after upgrade is called off, but offshoot 'bitcoin cash' surges more than 40%",
+          "tickerSymbols": [
+            {
+              "id": 105424238,
+              "type": "security",
+              "symbol": ".DJUS",
+              "chartSymbol": "596782"
+            },
+            {
+              "id": 100005111,
+              "type": "company",
+              "symbol": "FB",
+              "chartSymbol": "FB.O"
+            }
+          ]
+        },
+        {
+          "id": 104837375,
+          "type": "cnbcnewsstory",
+          "slug": "bitcoin swings CHENG 171112 EC",
+          "datePublished": "2017-11-12T21:00:41 GMT",
+          "description": "High volatility isn't going away for bitcoin, raising questions about whether the digital currency can be a sustainable investment asset.",
+          "headline": "Bitcoin briefly drops 15% in rocky weekend on controversy over the digital currency's future",
+          "title": "Bitcoin briefly drops 15% in rocky weekend amid controversy over digital currency's future",
+          "tickerSymbols": [
+            {
+              "id": 105424238,
+              "type": "security",
+              "symbol": ".DJUS",
+              "chartSymbol": "596782"
+            },
+            {
+              "id": 100005111,
+              "type": "company",
+              "symbol": "FB",
+              "chartSymbol": "FB.O"
+            }
+          ]
+        }
+      ],
+      "pagination": {
+        "page": 1,
+        "pageSize": 5,
+        "totalCount": 136
+      },
+      "metadata": {
+        "q": "bitcoin",
+        "totalResults": 136,
+        "pageSize": 5,
+        "totalPage": 28,
+        "pageRequested": 1,
+        "corrections": [],
+        "stems": [
+          "bitcoin"
+        ],
+        "suggestions": [
+          "Bitcoin",
+          "bitcoins",
+          "bitcoin's",
+          "bitcoin2x",
+          "bitcoin.Bitcoin"
+        ],
+        "facetSuggestions": [
+          {
+            "facet": "tags:topic",
+            "suggestions": [
+              "Bitcoin"
+            ]
+          }
+        ],
+        "related": [],
+        "resultGenerationTime": "7.0004 ms"
+      },
+      "filters": {
+        "author": [
+          {
+            "key": "Evelyn Cheng",
+            "count": 124
+          },
+          {
+            "key": "Stephanie Landsman",
+            "count": 115
+          },
+          {
+            "key": "Arjun Kharpal",
+            "count": 109
+          },
+          {
+            "key": "Jacob Pramuk",
+            "count": 83
+          },
+          {
+            "key": "Jeff Cox",
+            "count": 59
+          },
+          {
+            "key": "Christine Wang",
+            "count": 54
+          },
+          {
+            "key": "Peter Schacknow",
+            "count": 52
+          },
+          {
+            "key": "Luke Graham",
+            "count": 41
+          },
+          {
+            "key": "Ryan Browne",
+            "count": 41
+          },
+          {
+            "key": "Matthew J. Belvedere",
+            "count": 39
+          }
+        ],
+        "resultType": [
+          {
+            "key": "cnbcnewsstory",
+            "count": 941
+          },
+          {
+            "key": "image",
+            "count": 728
+          },
+          {
+            "key": "cnbcvideo",
+            "count": 469
+          },
+          {
+            "key": "blogpost",
+            "count": 361
+          },
+          {
+            "key": "wirestory",
+            "count": 67
+          },
+          {
+            "key": "partnerstory",
+            "count": 49
+          },
+          {
+            "key": "pressrelease",
+            "count": 17
+          },
+          {
+            "key": "wildcard",
+            "count": 10
+          },
+          {
+            "key": "chart",
+            "count": 7
+          },
+          {
+            "key": "franchise",
+            "count": 7
+          }
+        ],
+        "section": [
+          {
+            "key": "Fast Money",
+            "count": 395
+          },
+          {
+            "key": "Tech Transformers",
+            "count": 160
+          },
+          {
+            "key": "Markets",
+            "count": 111
+          },
+          {
+            "key": "Technology",
+            "count": 102
+          },
+          {
+            "key": "The Bottom Line",
+            "count": 88
+          },
+          {
+            "key": "Bitcoin",
+            "count": 67
+          },
+          {
+            "key": "Wires",
+            "count": 64
+          },
+          {
+            "key": "Digital Original",
+            "count": 47
+          },
+          {
+            "key": "morning brief",
+            "count": 45
+          },
+          {
+            "key": "Investing",
+            "count": 39
+          }
+        ],
+        "dateRange": [
+          {
+            "key": "past one year",
+            "count": 1377
+          },
+          {
+            "key": "past 7 days",
+            "count": 1
+          },
+          {
+            "key": "today",
+            "count": null
+          }
+        ]
+      },
+      "tags": [
+        {
+          "group": "ticker",
+          "results": [
+            {},
+            {}
+          ],
+          "totalResults": null
+        },
+        {
+          "group": "newsmaker",
+          "results": [
+            {},
+            {}
+          ],
+          "totalResults": null
+        },
+        {
+          "group": "contributor",
+          "results": [
+            {},
+            {}
+          ],
+          "totalResults": null
+        },
+        {
+          "group": "topic",
+          "results": [
+            {},
+            {}
+          ],
+          "totalResults": null
+        },
+        {
+          "group": "source",
+          "results": [
+            {},
+            {}
+          ],
+          "totalResults": null
+        },
+        {
+          "group": "person",
+          "results": [
+            {
+              "type": "person",
+              "headline": null,
+              "brand": "cnbc",
+              "socialMediaInfo": null,
+              "sameAs": null,
+              "native": false
+            },
+            {
+              "type": "person",
+              "headline": null,
+              "brand": "cnbc",
+              "socialMediaInfo": null,
+              "sameAs": null,
+              "native": false
+            }
+          ],
+          "totalResults": null
+        },
+        {
+          "group": "show",
+          "results": [
+            {}
+          ],
+          "totalResults": null
+        },
+        {
+          "group": "special_report",
+          "results": [
+            {}
+          ],
+          "totalResults": null
+        }
+      ]
+    }
+  }
+}

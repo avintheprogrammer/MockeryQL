@@ -1,0 +1,363 @@
+{
+  "@id": "104782744",
+  "cn:type": "webresource",
+  "cn:slug": "US marketwrap webresource 171019 EC",
+  "cn:tagName": "",
+  "cn:title": "",
+  "headline": "Dow is set to open down triple-digits",
+  "cn:creatorOverwrite": "",
+  "cn:branding": "buffett",
+  "cn:subDomain": "https://qa-aws01buffett.cnbc.com",
+  "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104782744",
+  "cn:liveURL": "",
+  "cn:createdBy": "terri.cullen",
+  "cn:editedBy": "rekha.ponnur",
+  "datePublished": "2017-10-19T10:45:30+0000",
+  "cn:summary": "Dow is set to open lower as stocks pull back from record highs.",
+  "cn:shorterDescription": "Dow is set to open lower as stocks pull back from record highs.",
+  "cn:shortestDescription": "Dow is set to open lower as stocks pull back from record highs.",
+  "url": "",
+  "cn:sectionHierarchy": [{
+      "id": 102,
+      "tagName": "Markets",
+      "order": 1
+    },
+    {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 2
+    }
+  ],
+  "image": {
+    "@type": "ImageObject",
+    "representativeOfPage": "true",
+    "@id": "100745329",
+    "datePublished": "2013-05-17T06:34:23+0000",
+    "description": "",
+    "copyrightHolder": "John Foxx | Stockbyte | Getty Images",
+    "author": "",
+    "height": "2657",
+    "width": "4016",
+    "caption": "",
+    "url": "https://qa-aws02capi-img-origin.cnbc.com/image/100745329-71085485.jpg?v=1368772497"
+  },
+  "cn:settings": {
+    "cn:commentsEnabled": "Yes",
+    "cn:socialtoolsEnabled": "Yes",
+    "cn:dateline": "Yes",
+    "cn:displayByline": "Yes",
+    "cn:displaySource": "Yes",
+    "cn:outbrainEnabled": "Yes",
+    "cn:isFamilyFriendly": "Yes",
+    "cn:listType": "Virtual",
+    "cn:tweetOnPublish": 0
+  },
+  "cn:historicalURL": [],
+  "cn:bodyTeaser": "null",
+  "description": "Dow is set to open lower as stocks pull back from record highs.",
+  "cn:section": {
+    "@id": "102",
+    "cn:type": "franchise",
+    "cn:slug": "Markets Redesign",
+    "cn:subType": "marketsection",
+    "cn:tagName": "Markets",
+    "cn:title": "Markets",
+    "headline": "Markets",
+    "cn:sectionLabel": "Markets",
+    "cn:creatorOverwrite": "",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/102",
+    "cn:liveURL": "/markets/",
+    "datePublished": "2016-10-26T15:47:24+0000",
+    "cn:summary": "View up-to-date U.S. market and world market charts. Get the latest on world economy news and global markets in our Market Overview.",
+    "cn:shorterDescription": "US Stocks (Dow Jones, S&P 500, NASDAQ), World Markets, Bonds, Forex, Key Commodities, ETFs and More",
+    "cn:shortestDescription": "View up-to-date U.S. market and world market charts.",
+    "cn:bodyTeaser": "null",
+    "url": "http://qa-aws01web.cnbc.com/markets/",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:dateline": "Yes",
+      "cn:displayByline": "Yes",
+      "cn:displaySource": "Yes",
+      "cn:outbrainEnabled": "Yes",
+      "cn:isFamilyFriendly": "Yes",
+      "cn:listType": "Manual and/or populated by feeds",
+      "cn:tweetOnPublish": 0
+    },
+    "cn:sectionHierarchy": [{
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 1
+    }],
+    "cn:historicalURL": [
+      "/markets-redesign/"
+    ],
+    "cn:editedBy": "zhao.yu",
+    "cn:createdBy": "zhao.yu",
+    "description": "View up-to-date U.S. market and world market charts. Get the latest on world economy news and global markets in our Market Overview.",
+    "name": "Markets",
+    "cn:tabLabel": "Markets",
+    "cn:sectionLinktext": "Markets"
+  },
+  "publisher": {
+    "name": "CNBC",
+    "@type": "Organization",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "@context": {
+    "@vocab": "http://schema.org/",
+    "cn": "http://cnbc.com/schema/"
+  },
+  "cn:webResource": {
+    "cn:webResourceLinkText": "",
+    "cn:webResourceAttributeUrl": "https://www.cnbc.com/2017/10/19/us-stock-futures-earnings-catalonia-concerns-dow-on-the-agenda-for-wall-street.html",
+    "cn:webResourceAttributeTitle": "",
+    "cn:webResourceIsFeed": 0,
+    "cn:webResourceRefreshInterval": 0,
+    "cn:webResourceLastRefreshTime": 0,
+    "cn:webResourceAttributeTarget": "_self",
+    "cn:webResourceAttributeRel": "",
+    "cn:webResourceAttributeId": "webresource_",
+    "cn:webResourceAttributeClass": "webresource"
+  },
+  "@type": "CreativeWork",
+  "cn:xmlArticleBody": "null",
+  "articlebody": "null",
+  "cn:xmlKeyPoints": "null",
+  "dateModified": "2018-02-12T16:19:12+0000",
+  "cn:dateLastPublished": "2018-02-12T16:19:14+0000",
+  "cn:unpublishDate": "",
+  "cn:association": [{
+      "@id": "102",
+      "cn:type": "franchise",
+      "cn:slug": "Markets Redesign",
+      "cn:subType": "marketsection",
+      "cn:tagName": "Markets",
+      "cn:title": "Markets",
+      "headline": "Markets",
+      "cn:sectionLabel": "Markets",
+      "cn:creatorOverwrite": "",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/102",
+      "cn:liveURL": "/markets/",
+      "datePublished": "2016-10-26T15:47:24+0000",
+      "cn:summary": "View up-to-date U.S. market and world market charts. Get the latest on world economy news and global markets in our Market Overview.",
+      "cn:shorterDescription": "US Stocks (Dow Jones, S&P 500, NASDAQ), World Markets, Bonds, Forex, Key Commodities, ETFs and More",
+      "cn:shortestDescription": "View up-to-date U.S. market and world market charts.",
+      "cn:bodyTeaser": "null",
+      "url": "http://qa-aws01web.cnbc.com/markets/",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "cn:sectionHierarchy": [{
+        "id": 10000161,
+        "tagName": "CNBC Global",
+        "order": 1
+      }],
+      "cn:historicalURL": [
+        "/markets-redesign/"
+      ],
+      "cn:editedBy": "zhao.yu",
+      "cn:createdBy": "zhao.yu",
+      "description": "View up-to-date U.S. market and world market charts. Get the latest on world economy news and global markets in our Market Overview.",
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "name": "Markets",
+      "cn:tabLabel": "Markets",
+      "cn:sectionLinktext": "Markets",
+      "@type": "Collection",
+      "cn:relation": [{
+          "position": 5000,
+          "cn:relationType": "section",
+          "cn:isPromoted": "false"
+        },
+        {
+          "position": 1,
+          "cn:relationType": "tags",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "100745329",
+      "cn:type": "image",
+      "cn:slug": "Premium: rollercoaster",
+      "cn:tagName": "",
+      "cn:title": "",
+      "headline": "",
+      "cn:creatorOverwrite": "John Foxx | Stockbyte | Getty Images",
+      "url": "https://qa-aws02capi-img-origin.cnbc.com/image/100745329-71085485.jpg?v=1368772497",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100745329",
+      "cn:liveURL": "",
+      "datePublished": "2013-05-17T06:34:23+0000",
+      "cn:summary": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Virtual"
+      },
+      "description": "",
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "author": "",
+      "contentSize": 6313644,
+      "caption": "",
+      "height": "2657",
+      "width": "4016",
+      "cn:relation": [{
+        "position": 4,
+        "cn:relationType": "tags",
+        "cn:isPromoted": "true"
+      }]
+    },
+    {
+      "@id": "100003242",
+      "cn:type": "franchise",
+      "cn:slug": "US Markets",
+      "cn:subType": "news_section",
+      "cn:tagName": "U.S. Markets",
+      "cn:title": "US Markets",
+      "headline": "US Markets",
+      "cn:sectionLabel": "US Markets",
+      "cn:creatorOverwrite": "",
+      "cn:subDomain": "https://qa-aws01buffett.cnbc.com",
+      "cn:branding": "buffett",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100003242",
+      "cn:liveURL": "/us-markets/",
+      "datePublished": "2015-08-12T09:33:42+0000",
+      "cn:summary": "Up to date market data and stock market news is available online. View US market headlines and market charts. Get the latest economy news, markets in our Market Overview.",
+      "cn:shorterDescription": "Up to date market data and stock market news is available online. View US market headlines and market charts.",
+      "cn:shortestDescription": "US Stocks, World Markets, Bonds, Forex, Key Commodities, ETFs and More",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><ul><li></li></ul></div></group></body>",
+      "url": "https://qa-aws01buffett.cnbc.com/us-markets/",
+      "cn:settings": {
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "cn:sectionHierarchy": [{
+          "id": 102,
+          "tagName": "Markets",
+          "order": 1
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 2
+        }
+      ],
+      "cn:historicalURL": [
+        "/id/100003242"
+      ],
+      "cn:editedBy": "ashish.gupta",
+      "cn:createdBy": "catherina.centanni",
+      "description": "Up to date market data and stock market news is available online. View US market headlines and market charts. Get the latest economy news, markets in our Market Overview.",
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "name": "US Markets",
+      "cn:sectionColor": "#000000",
+      "cn:promoText": "",
+      "cn:showTime": "",
+      "cn:tabLabel": "US",
+      "cn:sectionLinktext": "US Markets",
+      "@type": "Collection",
+      "cn:relation": [{
+        "position": 3,
+        "cn:relationType": "tags",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@id": "15837362",
+      "cn:type": "franchise",
+      "cn:slug": "US: News",
+      "cn:subType": "section",
+      "cn:tagName": "US: News",
+      "cn:title": "U.S. News",
+      "headline": "U.S. News",
+      "cn:sectionLabel": "U.S. News",
+      "cn:creatorOverwrite": "",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15837362",
+      "cn:liveURL": "/us-news/",
+      "datePublished": "2016-10-21T13:10:41+0000",
+      "cn:summary": "Get complete CNBC business news coverage online. Find the latest regional business news pertaining to the United States of America including headlines & top stories available on the official CNBC site.",
+      "cn:shorterDescription": "U.S. Latest Business and Regional News, top stories and Business Headlines Online on CNBC.",
+      "cn:shortestDescription": "Headlines & top stories available on the official CNBC's U.S Business News site.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"103874440\"/></assets><div class=\"group\"/></group></body>",
+      "url": "http://qa-aws01web.cnbc.com/us-news/",
+      "cn:settings": {
+        "cn:listType": "Manual and/or populated by feeds"
+      },
+      "cn:sectionHierarchy": [{
+          "id": 100010507,
+          "tagName": "US Economy",
+          "order": 1
+        },
+        {
+          "id": 20910258,
+          "tagName": "Economy",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "cn:historicalURL": [
+        "/id/15837362"
+      ],
+      "cn:editedBy": "javier.david",
+      "cn:createdBy": "migration",
+      "description": "Get complete CNBC business news coverage online. Find the latest regional business news pertaining to the United States of America including headlines & top stories available on the official CNBC site.",
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "name": "U.S. News",
+      "cn:tabLabel": "U.S. News",
+      "cn:sectionLinktext": "U.S. News",
+      "@type": "Collection",
+      "cn:relation": [{
+        "position": 2,
+        "cn:relationType": "tags",
+        "cn:isPromoted": "false"
+      }]
+    }
+  ]
+}

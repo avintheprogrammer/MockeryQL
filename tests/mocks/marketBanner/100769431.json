@@ -1,0 +1,216 @@
+{
+  "data": {
+    "marketBanner": {
+      "id": 100769431,
+      "type": "franchise",
+      "url": "https://qa-aws03web.cnbc.com/id/100769431",
+      "summary": null,
+      "shorterDescription": null,
+      "title": "US Market",
+      "headline": "Markets",
+      "markets": [
+        {
+          "name": "Pre-Markets",
+          "headline": "Pre-markets",
+          "tabLabel": "Pre-Mkt",
+          "securities": [
+            {
+              "id": 100007270,
+              "tickerSymbol": "Chicago Board of Trade @DJ.1",
+              "name": "Dow Jones Fut (Dec'17)",
+              "type": "security"
+            },
+            {
+              "id": 100007266,
+              "tickerSymbol": "CME:Index and Options Market @SP.1",
+              "name": "S&P 500 Fut (Dec'17)",
+              "type": "security"
+            },
+            {
+              "id": 100007591,
+              "tickerSymbol": "CME:Index and Options Market @ND.1",
+              "name": "NASDAQ 100 Fut (Dec'17)",
+              "type": "security"
+            },
+            {
+              "id": 100007484,
+              "tickerSymbol": "New York Mercantile Exchange @CL.1",
+              "name": "WTI Crude (Dec'17)",
+              "type": "security"
+            }
+          ],
+          "articles": [
+            {
+              "id": 104838265
+            },
+            {
+              "id": 104847731
+            }
+          ]
+        },
+        {
+          "name": "US",
+          "headline": "US Markets",
+          "tabLabel": "US",
+          "securities": [
+            {
+              "id": 3031956,
+              "tickerSymbol": "NASDAQ .IXIC",
+              "name": "NASDAQ Composite",
+              "type": "security"
+            },
+            {
+              "id": 3031924,
+              "tickerSymbol": "Dow Jones Global Indexes .DJI",
+              "name": "Dow Industrials",
+              "type": "security"
+            },
+            {
+              "id": 3031962,
+              "tickerSymbol": "INDEX .SPX",
+              "name": "S&P 500 Index",
+              "type": "security"
+            },
+            {
+              "id": 3032906,
+              "tickerSymbol": "Exchange .RUT",
+              "name": "Russell 2000 Index",
+              "type": "security"
+            },
+            {
+              "id": 3031964,
+              "tickerSymbol": "STOXX .VIX",
+              "name": "CBOE Volatility Index",
+              "type": "security"
+            }
+          ],
+          "articles": [
+            {
+              "id": 104846785
+            }
+          ]
+        },
+        {
+          "name": "Europe",
+          "headline": "Europe Markets",
+          "tabLabel": "EU",
+          "securities": [
+            {
+              "id": 3032894,
+              "tickerSymbol": "XETRA .GDAXI",
+              "name": "DAX",
+              "type": "security"
+            },
+            {
+              "id": 3032893,
+              "tickerSymbol": "FTSE International .FTSE",
+              "name": "FTSE",
+              "type": "security"
+            },
+            {
+              "id": 100004804,
+              "tickerSymbol": "FTSE International .FTMIB",
+              "name": "FTSE MIB",
+              "type": "security"
+            },
+            {
+              "id": 100013666,
+              "tickerSymbol": "STOXX .STOXX",
+              "name": "STOXX 600 Index",
+              "type": "security"
+            }
+          ],
+          "articles": [
+            {
+              "id": 104845983
+            }
+          ]
+        },
+        {
+          "name": "Asia-Pacifict News: Indexes, Bonds, Forex, Key Commodities, ETFs - CNBC",
+          "headline": "Asia-Pacific Markets",
+          "tabLabel": "Asia",
+          "securities": [
+            {
+              "id": 3032897,
+              "tickerSymbol": "Nihon Kenzai Shinbun .N225",
+              "name": "NIKKEI",
+              "type": "security"
+            },
+            {
+              "id": 3032899,
+              "tickerSymbol": "Shanghai Stock Exchange .SSEC",
+              "name": "Shanghai",
+              "type": "security"
+            },
+            {
+              "id": 3032896,
+              "tickerSymbol": "Hong Kong Stock Exchange .HSI",
+              "name": "HSI",
+              "type": "security"
+            },
+            {
+              "id": 100010798,
+              "tickerSymbol": "ASX .AXJO",
+              "name": "S&P/ASX 200",
+              "type": "security"
+            },
+            {
+              "id": 100004764,
+              "tickerSymbol": "Korea Stock Exchange .KS11",
+              "name": "KOSPI",
+              "type": "security"
+            }
+          ],
+          "articles": [
+            {
+              "id": 104845526
+            }
+          ]
+        },
+        {
+          "name": "Energy Commodities",
+          "headline": "Energy Commodities",
+          "tabLabel": "Oil",
+          "securities": [
+            {
+              "id": 100007484,
+              "tickerSymbol": "New York Mercantile Exchange @CL.1",
+              "name": "WTI Crude (Dec'17)",
+              "type": "security"
+            },
+            {
+              "id": 100007491,
+              "tickerSymbol": "Intercontinental Exchange Europe @LCO.1",
+              "name": "ICE Brent Crude (Jan'18)",
+              "type": "security"
+            },
+            {
+              "id": 100007487,
+              "tickerSymbol": "New York Mercantile Exchange @NG.1",
+              "name": "Natural Gas (Dec'17)",
+              "type": "security"
+            },
+            {
+              "id": 100007489,
+              "tickerSymbol": "New York Mercantile Exchange @RB.1",
+              "name": "RBOB Gas (Dec'17)",
+              "type": "security"
+            },
+            {
+              "id": 100014681,
+              "tickerSymbol": "New York Mercantile Exchange @HO.1",
+              "name": "ULSD Heating Oil (Dec'17)",
+              "type": "security"
+            }
+          ],
+          "articles": [
+            {
+              "id": 104845648
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "cn:listItem": [{
+    "@type": "Collection",
+    "@id": "16903222",
+    "cn:type": "franchise",
+    "cn:slug": "Special Reports",
+    "url": "http://qa-pa13pub.cnbc.com/special-reports/",
+    "contentUrl": "http://qa-pa20capi-bl.cnbc.com/url/http%3A%2F%2Fqa-pa13pub.cnbc.com%2Fspecial-reports%2F",
+    "datePublished": "2017-04-12T14:17:56 GMT",
+    "cn:subtype": "special_report",
+    "name": "CNBC Special Reports",
+    "description": "Find CNBC Special Reports with News and Analysis on Investing, Technology, Real Estate, Breaking News and Special Events.\r\n",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "publisher": {
+      "name": "CNBC",
+      "@type": "Organization",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    }
+  }, {
+    "@type": "Collection",
+    "@id": "103254088",
+    "cn:type": "franchise",
+    "cn:slug": "Events - More Menu",
+    "url": "http://qa-pa13pub.cnbc.com/events/",
+    "contentUrl": "http://qa-pa20capi-bl.cnbc.com/url/http%3A%2F%2Fqa-pa13pub.cnbc.com%2Fevents%2F",
+    "datePublished": "2015-12-18T17:03:02 GMT",
+    "cn:subtype": "section",
+    "name": "CNBC Events",
+    "description": "",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "publisher": {
+      "name": "CNBC",
+      "@type": "Organization",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    }
+  }]
+}

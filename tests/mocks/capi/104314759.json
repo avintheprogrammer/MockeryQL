@@ -1,0 +1,1739 @@
+{
+  "@id": "104314759",
+  "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104314759",
+  "cn:type": "cnbcnewsstory",
+  "cn:slug": "Japan casinos LEE 170302 Asia",
+  "cn:tagName": "",
+  "cn:title": "Jappan may pull a Singapore in controlling casino gambling: Analyst",
+  "url": "https://qa-aws01make-it.cnbc.com/2017/03/02/japan-may-pull-a-singapore-in-controlling-casino-gambling-analyst.html",
+  "cn:liveURL": "/2017/03/02/japan-may-pull-a-singapore-in-controlling-casino-gambling-analyst.html",
+  "datePublished": "2017-03-03T06:16:15+0000",
+  "cn:summary": "Casino operators globally are eyeing entry into Japan, but one analyst said Japanese lawmakers may adopt Singapore's methods in limiting gambling. ",
+  "headline": "Jappan may pull a Singapore in controlling casino gambling: Analyst",
+  "cn:shorterDescription": "Casino operators globally are eyeing entry into Japan, but one analyst said Japanese lawmakers may adopt Singapore's methods in limiting gambling. ",
+  "cn:shortestDescription": "Casino operators globally are eyeing entry into Japan, but one analyst said Japanese lawmakers may adopt Singapore's methods in limiting gambling. ",
+  "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"100518123\"/></assets><div class=\"group\"><p>Casino operators around the world are eyeing an entry into the seemingly lucrative <asset_inline nid=\"10000020\">Japanese </asset_inline>market, but one analyst said lawmakers in the world's third largest economy may follow in Singapore's footsteps to limit gambling among her citizens.</p><p>Speaking to CNBC's <asset_inline nid=\"101495499\">\"Street Signs\"</asset_inline>, Fitch Ratings' senior gaming analyst Alex Bumazhny said Japan's potential casino revenue is estimated to be between $5 billion and $10 billion annually – comparable to <asset_inline nid=\"10000571\">Las Vegas</asset_inline> and <asset_inline nid=\"10000530\">Singapore</asset_inline>, but far below the $25 billion that <asset_inline nid=\"100016368\">Macau</asset_inline> is expected to bring in this year.&#160;</p><p>His comments contrasted with the optimism surrounding <asset_inline nid=\"104165425\">Japan's decision to legalize casinos</asset_inline> in December 2016, with observers noting that the huge domestic demand for gaming given the massive interest in a pachinko, a game similar to a slot machine. Brokerage CLSA projected that Japan could generate as much as $25 billion every year from its casinos.</p><p>\"I don't think Japan is going to catch up with Macau for the simple reason that I think Japanese lawmakers, when they're making the bills, will limit the amount of gaming that could take place. What we're talking about is two to three large integrated resorts, maybe a couple more regional type of small casinos, so limited amount of positions,\" Bumazhny said.</p><p>\"And they may even limit locals from gambling or have a fee like they do in Singapore where locals have to pay a fee to get into the casinos. So, all these things may constraint the actual amount of revenue that could be generated in Japan.\"</p><p>Singapore opened its doors to casinos in 2010. But concerns over the social impact of gambling saw regulators imposing a S$100 ($70.90) casino entry fee on every citizen and permanent resident. The city state also has a list of people barred from entering the casinos. Those names include those identified as having financial difficulties or put up by themselves or family members.</p></div></group></body>",
+  "cn:creatorOverwrite": "",
+  "image": {
+    "@type": "ImageObject",
+    "representativeOfPage": "true",
+    "@id": "100518123",
+    "datePublished": "2013-03-04T14:38:53+0000",
+    "description": "",
+    "copyrightHolder": "Ricky Barnard | Wikipedia",
+    "author": "",
+    "height": "546",
+    "width": "758",
+    "caption": "Las Vegas Sands Corp, The Venetian.",
+    "url": "https://qa-aws02capi-img-origin.cnbc.com/image/100518123-the-venetian.jpg?v=1515024388"
+  },
+  "sourceOrganization": [{
+    "@type": "Organization",
+    "@id": "100005489",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100005489",
+    "cn:type": "source",
+    "cn:slug": "CNBC Asia Source",
+    "cn:tagName": "CNBC Asia Source",
+    "cn:title": "",
+    "url": "",
+    "cn:sourceName": "CNBC.com",
+    "description": "CNBC.com",
+    "name": ""
+  }],
+  "cn:settings": {
+    "cn:commentsEnabled": "Yes",
+    "cn:socialtoolsEnabled": "Yes",
+    "cn:dateline": "Yes",
+    "cn:displayByline": "Yes",
+    "cn:displaySource": "Yes",
+    "cn:outbrainEnabled": "Yes",
+    "cn:isFamilyFriendly": "Yes",
+    "cn:listType": "Virtual",
+    "cn:tweetOnPublish": 0
+  },
+  "description": "Casino operators globally are eyeing entry into Japan, but one analyst said Japanese lawmakers may adopt Singapore's methods in limiting gambling. ",
+  "cn:section": {
+    "@id": "10001165",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10001165",
+    "cn:type": "franchise",
+    "cn:slug": "Casinos and Gaming",
+    "cn:subType": "section",
+    "cn:tagName": "Casinos and Gaming",
+    "cn:title": "Casinos and Gaming",
+    "url": "http://qa-aws01web.cnbc.com/casinos-and-gaming/",
+    "cn:liveURL": "/casinos-and-gaming/",
+    "datePublished": "2012-01-30T01:50:41+0000",
+    "cn:summary": "",
+    "headline": "Casinos and Gaming",
+    "cn:shorterDescription": "Casinos and Gaming",
+    "cn:shortestDescription": "",
+    "cn:bodyTeaser": "null",
+    "cn:creatorOverwrite": "",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Virtual",
+      "cn:tweetOnPublish": 0
+    },
+    "description": "Casinos and Gaming",
+    "cn:sectionHierarchy": [{
+        "id": 10000739,
+        "tagName": "Travel",
+        "order": 1
+      },
+      {
+        "id": 10001150,
+        "tagName": "Life",
+        "order": 2
+      },
+      {
+        "id": 10000161,
+        "tagName": "CNBC Global",
+        "order": 3
+      }
+    ],
+    "cn:historicalURL": [
+      "/id/10001165"
+    ],
+    "cn:editedBy": "ritesh.shah",
+    "cn:createdBy": "migration",
+    "name": "Casinos and Gaming",
+    "cn:tabLabel": "",
+    "cn:sectionLinktext": ""
+  },
+  "cn:sectionHierarchy": [{
+      "id": 10001165,
+      "tagName": "Casinos and Gaming",
+      "order": 1
+    },
+    {
+      "id": 10000739,
+      "tagName": "Travel",
+      "order": 2
+    },
+    {
+      "id": 10001150,
+      "tagName": "Life",
+      "order": 3
+    },
+    {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 4
+    }
+  ],
+  "cn:editedBy": "roshan.varghese",
+  "cn:historicalURL": [],
+  "cn:createdBy": "YenNee.Lee@nbcuni.com",
+  "cn:subDomain": "https://qa-aws01make-it.cnbc.com",
+  "cn:branding": "makeit",
+  "publisher": {
+    "@type": "Organization",
+    "name": "CNBC",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "@context": {
+    "@vocab": "http://schema.org/",
+    "cn": "http://cnbc.com/schema/"
+  },
+  "@type": "NewsArticle",
+  "cn:xmlArticleBody": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"100518123\"/></assets><div class=\"group\"><p>Casino operators around the world are eyeing an entry into the seemingly lucrative <asset_inline nid=\"10000020\">Japanese </asset_inline>market, but one analyst said lawmakers in the world's third largest economy may follow in Singapore's footsteps to limit gambling among her citizens.</p><p>Speaking to CNBC's <asset_inline nid=\"101495499\">\"Street Signs\"</asset_inline>, Fitch Ratings' senior gaming analyst Alex Bumazhny said Japan's potential casino revenue is estimated to be between $5 billion and $10 billion annually – comparable to <asset_inline nid=\"10000571\">Las Vegas</asset_inline> and <asset_inline nid=\"10000530\">Singapore</asset_inline>, but far below the $25 billion that <asset_inline nid=\"100016368\">Macau</asset_inline> is expected to bring in this year.&#160;</p><p>His comments contrasted with the optimism surrounding <asset_inline nid=\"104165425\">Japan's decision to legalize casinos</asset_inline> in December 2016, with observers noting that the huge domestic demand for gaming given the massive interest in a pachinko, a game similar to a slot machine. Brokerage CLSA projected that Japan could generate as much as $25 billion every year from its casinos.</p><p>\"I don't think Japan is going to catch up with Macau for the simple reason that I think Japanese lawmakers, when they're making the bills, will limit the amount of gaming that could take place. What we're talking about is two to three large integrated resorts, maybe a couple more regional type of small casinos, so limited amount of positions,\" Bumazhny said.</p><p>\"And they may even limit locals from gambling or have a fee like they do in Singapore where locals have to pay a fee to get into the casinos. So, all these things may constraint the actual amount of revenue that could be generated in Japan.\"</p><p>Singapore opened its doors to casinos in 2010. But concerns over the social impact of gambling saw regulators imposing a S$100 ($70.90) casino entry fee on every citizen and permanent resident. The city state also has a list of people barred from entering the casinos. Those names include those identified as having financial difficulties or put up by themselves or family members.</p></div></group><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104847358\"/></assets><div class=\"group\"><p>Despite such restrictions, the city state's two integrated resorts – large complexes comprising casinos, hotels, retail and entertainment outlets – have attracted tourism dollars and contribute to overall growth.</p><p>Japan now has till December this year to come up with rules on how it would regulate the industry. Japan is also expected to pick locations and operators for its first integrated resorts – large complexes that include casinos, hotels and retail.</p><p>Major casino operators worldwide, including <asset_inline nid=\"1509944\">Las Vegas Sands Corp</asset_inline>, <asset_inline nid=\"1510277\">MGM Resorts International </asset_inline>and <asset_inline nid=\"1516074\">Wynn Resorts</asset_inline>, have expressed their interests in gunning for these licenses in Japan.</p></div></group><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104314524\" autoplay_flag=\"false\"/></assets><div class=\"group\"><p><span>Follow CNBC International on&#160;</span><asset_inline ext_link=\"https://twitter.com/cnbci\" ext_title=\"https://twitter.com/cnbci\"><span>Twitter</span></asset_inline><span>&#160;and&#160;</span><asset_inline ext_link=\"https://www.facebook.com/cnbcinternational\" ext_title=\"https://www.facebook.com/cnbcinternational\"><span>Facebook</span></asset_inline><span>.</span></p></div></group></body>",
+  "articlebody": "Casino operators around the world are eyeing an entry into the seemingly lucrative Japanese market, but one analyst said lawmakers in the world's third largest economy may follow in Singapore's footsteps to limit gambling among her citizens.Speaking to CNBC's \"Street Signs\", Fitch Ratings' senior gaming analyst Alex Bumazhny said Japan's potential casino revenue is estimated to be between $5 billion and $10 billion annually – comparable to Las Vegas and Singapore, but far below the $25 billion that Macau is expected to bring in this year.&#160;His comments contrasted with the optimism surrounding Japan's decision to legalize casinos in December 2016, with observers noting that the huge domestic demand for gaming given the massive interest in a pachinko, a game similar to a slot machine. Brokerage CLSA projected that Japan could generate as much as $25 billion every year from its casinos.\"I don't think Japan is going to catch up with Macau for the simple reason that I think Japanese lawmakers, when they're making the bills, will limit the amount of gaming that could take place. What we're talking about is two to three large integrated resorts, maybe a couple more regional type of small casinos, so limited amount of positions,\" Bumazhny said.\"And they may even limit locals from gambling or have a fee like they do in Singapore where locals have to pay a fee to get into the casinos. So, all these things may constraint the actual amount of revenue that could be generated in Japan.\"Singapore opened its doors to casinos in 2010. But concerns over the social impact of gambling saw regulators imposing a S$100 ($70.90) casino entry fee on every citizen and permanent resident. The city state also has a list of people barred from entering the casinos. Those names include those identified as having financial difficulties or put up by themselves or family members.Despite such restrictions, the city state's two integrated resorts – large complexes comprising casinos, hotels, retail and entertainment outlets – have attracted tourism dollars and contribute to overall growth.Japan now has till December this year to come up with rules on how it would regulate the industry. Japan is also expected to pick locations and operators for its first integrated resorts – large complexes that include casinos, hotels and retail.Major casino operators worldwide, including Las Vegas Sands Corp, MGM Resorts International and Wynn Resorts, have expressed their interests in gunning for these licenses in Japan.Follow CNBC International on&#160;Twitter&#160;and&#160;Facebook.",
+  "cn:xmlKeyPoints": "null",
+  "dateModified": "2018-02-01T21:00:09+0000",
+  "cn:dateLastPublished": "2018-02-01T21:00:09+0000",
+  "cn:unpublishDate": "",
+  "cn:association": [{
+      "@id": "10001165",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10001165",
+      "cn:type": "franchise",
+      "cn:slug": "Casinos and Gaming",
+      "cn:subType": "section",
+      "cn:tagName": "Casinos and Gaming",
+      "cn:title": "Casinos and Gaming",
+      "url": "http://qa-aws01web.cnbc.com/casinos-and-gaming/",
+      "cn:liveURL": "/casinos-and-gaming/",
+      "datePublished": "2012-01-30T01:50:41+0000",
+      "cn:summary": "",
+      "headline": "Casinos and Gaming",
+      "cn:shorterDescription": "Casinos and Gaming",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:creatorOverwrite": "",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "Casinos and Gaming",
+      "cn:section": {
+        "url": "http://qa-aws01web.cnbc.com/travel/",
+        "cn:type": "franchise",
+        "cn:title": "Travel",
+        "@id": "10000739",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000739",
+        "cn:slug": "Travel",
+        "cn:tagName": "Travel",
+        "cn:subType": "section",
+        "cn:shortestDescription": "Travel industry, inside tips, and deals. ",
+        "cn:sectionHierarchy": [{
+            "id": 10001150,
+            "tagName": "Life",
+            "order": 1
+          },
+          {
+            "id": 10000161,
+            "tagName": "CNBC Global",
+            "order": 2
+          }
+        ],
+        "headline": "Travel",
+        "cn:creatorOverwrite": "",
+        "cn:liveURL": "/travel/",
+        "cn:summary": "Latest news for the travel industry, inside tips and advice on snagging deals. ",
+        "cn:settings": {
+          "cn:commentsEnabled": "Yes",
+          "cn:socialtoolsEnabled": "Yes",
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "Latest news for the travel industry, inside tips and advice on snagging deals. ",
+        "cn:editedBy": "Rick.Levinson",
+        "datePublished": "2012-01-30T01:54:53+0000",
+        "cn:historicalURL": [
+          "/id/10000739",
+          "/travel-and-leisure/"
+        ],
+        "cn:createdBy": "migration",
+        "cn:bodyTeaser": "null",
+        "cn:shorterDescription": "Latest news for the travel industry, inside tips and advice on snagging deals. ",
+        "name": "Travel",
+        "cn:tabLabel": "Travel",
+        "cn:sectionLinktext": "Travel"
+      },
+      "cn:sectionHierarchy": [{
+          "id": 10000739,
+          "tagName": "Travel",
+          "order": 1
+        },
+        {
+          "id": 10001150,
+          "tagName": "Life",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "cn:historicalURL": [
+        "/id/10001165"
+      ],
+      "cn:editedBy": "ritesh.shah",
+      "cn:createdBy": "migration",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "Casinos and Gaming",
+      "cn:tabLabel": "",
+      "cn:sectionLinktext": "",
+      "@type": "Collection",
+      "cn:relation": [{
+        "position": 5000,
+        "cn:relationType": "section",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@type": "Organization",
+      "@id": "100005489",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100005489",
+      "cn:type": "source",
+      "cn:slug": "CNBC Asia Source",
+      "cn:tagName": "CNBC Asia Source",
+      "cn:title": "",
+      "url": "",
+      "cn:sourceName": "CNBC.com",
+      "cn:liveURL": "",
+      "datePublished": "2012-08-09T19:16:27+0000",
+      "cn:summary": "",
+      "headline": "CNBC Asia",
+      "cn:shorterDescription": "CNBC.com",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:creatorOverwrite": "",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Virtual"
+      },
+      "description": "CNBC.com",
+      "cn:sectionHierarchy": [],
+      "cn:editedBy": "viktor.cea",
+      "cn:historicalURL": [],
+      "cn:createdBy": "chris.larsen",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "",
+      "cn:relation": [{
+        "position": 4999,
+        "cn:relationType": "source",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@id": "104847358",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847358",
+      "cn:type": "wildcard",
+      "cn:slug": "phoenix wildcard test",
+      "cn:tagName": "",
+      "cn:title": "phoenix-wildcard-test",
+      "url": "https://qa-aws01make-it.cnbc.com/phoenix-wildcard-test/",
+      "cn:liveURL": "/phoenix-wildcard-test/",
+      "datePublished": "2017-12-06T15:42:39+0000",
+      "cn:summary": "",
+      "headline": "phoenix-wildcard-test",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:creatorOverwrite": "",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "",
+      "cn:section": {
+        "cn:type": "franchise",
+        "@id": "10000161",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000161",
+        "cn:slug": "CNBC Global",
+        "cn:subType": "news_section",
+        "url": "/cnbc-global/",
+        "cn:title": "Headlines from CNBC",
+        "cn:tagName": "CNBC Global",
+        "cn:subDomain": "",
+        "cn:sectionHierarchy": [],
+        "headline": "CNBC",
+        "cn:creatorOverwrite": "",
+        "cn:liveURL": "/cnbc-global/",
+        "cn:settings": {
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "CNBC",
+        "datePublished": "2012-02-03T16:18:58+0000",
+        "cn:historicalURL": [
+          "/id/10000161"
+        ],
+        "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><br /></p><div id=\"csscan-wrapper\" style=\"display: none; \"><h2 id=\"csscan-header\">element</h2><table id=\"csscan-table\"><tbody><tr><th colspan=\"2\" id=\"csscan-header-font\" class=\"csscan-header\">Font</th></tr><tr id=\"csscan-row-font-family\"><td id=\"csscan-property-font-family\" class=\"csscan-property\">font-family</td><td id=\"csscan-value-font-family\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-size\"><td id=\"csscan-property-font-size\" class=\"csscan-property\">font-size</td><td id=\"csscan-value-font-size\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-style\"><td id=\"csscan-property-font-style\" class=\"csscan-property\">font-style</td><td id=\"csscan-value-font-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-variant\"><td id=\"csscan-property-font-variant\" class=\"csscan-property\">font-variant</td><td id=\"csscan-value-font-variant\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-weight\"><td id=\"csscan-property-font-weight\" class=\"csscan-property\">font-weight</td><td id=\"csscan-value-font-weight\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-letter-spacing\"><td id=\"csscan-property-letter-spacing\" class=\"csscan-property\">letter-spacing</td><td id=\"csscan-value-letter-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-line-height\"><td id=\"csscan-property-line-height\" class=\"csscan-property\">line-height</td><td id=\"csscan-value-line-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-decoration\"><td id=\"csscan-property-text-decoration\" class=\"csscan-property\">text-decoration</td><td id=\"csscan-value-text-decoration\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-align\"><td id=\"csscan-property-text-align\" class=\"csscan-property\">text-align</td><td id=\"csscan-value-text-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-indent\"><td id=\"csscan-property-text-indent\" class=\"csscan-property\">text-indent</td><td id=\"csscan-value-text-indent\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-transform\"><td id=\"csscan-property-text-transform\" class=\"csscan-property\">text-transform</td><td id=\"csscan-value-text-transform\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-white-space\"><td id=\"csscan-property-white-space\" class=\"csscan-property\">white-space</td><td id=\"csscan-value-white-space\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-word-spacing\"><td id=\"csscan-property-word-spacing\" class=\"csscan-property\">word-spacing</td><td id=\"csscan-value-word-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-color\"><td id=\"csscan-property-color\" class=\"csscan-property\">color</td><td id=\"csscan-value-color\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-background\" class=\"csscan-header\">Background</th></tr><tr id=\"csscan-row-background-attachment\"><td id=\"csscan-property-background-attachment\" class=\"csscan-property\">bg-attachment</td><td id=\"csscan-value-background-attachment\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-color\"><td id=\"csscan-property-background-color\" class=\"csscan-property\">bg-color</td><td id=\"csscan-value-background-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-image\"><td id=\"csscan-property-background-image\" class=\"csscan-property\">bg-image</td><td id=\"csscan-value-background-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-position\"><td id=\"csscan-property-background-position\" class=\"csscan-property\">bg-position</td><td id=\"csscan-value-background-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-repeat\"><td id=\"csscan-property-background-repeat\" class=\"csscan-property\">bg-repeat</td><td id=\"csscan-value-background-repeat\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-size\" class=\"csscan-header\">Box</th></tr><tr id=\"csscan-row-width\"><td id=\"csscan-property-width\" class=\"csscan-property\">width</td><td id=\"csscan-value-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-height\"><td id=\"csscan-property-height\" class=\"csscan-property\">height</td><td id=\"csscan-value-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-top\"><td id=\"csscan-property-border-top\" class=\"csscan-property\">border-top</td><td id=\"csscan-value-border-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-right\"><td id=\"csscan-property-border-right\" class=\"csscan-property\">border-right</td><td id=\"csscan-value-border-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-bottom\"><td id=\"csscan-property-border-bottom\" class=\"csscan-property\">border-bottom</td><td id=\"csscan-value-border-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-left\"><td id=\"csscan-property-border-left\" class=\"csscan-property\">border-left</td><td id=\"csscan-value-border-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-margin\"><td id=\"csscan-property-margin\" class=\"csscan-property\">margin</td><td id=\"csscan-value-margin\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-padding\"><td id=\"csscan-property-padding\" class=\"csscan-property\">padding</td><td id=\"csscan-value-padding\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-height\"><td id=\"csscan-property-max-height\" class=\"csscan-property\">max-height</td><td id=\"csscan-value-max-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-height\"><td id=\"csscan-property-min-height\" class=\"csscan-property\">min-height</td><td id=\"csscan-value-min-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-width\"><td id=\"csscan-property-max-width\" class=\"csscan-property\">max-width</td><td id=\"csscan-value-max-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-width\"><td id=\"csscan-property-min-width\" class=\"csscan-property\">min-width</td><td id=\"csscan-value-min-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-color\"><td id=\"csscan-property-outline-color\" class=\"csscan-property\">outline-color</td><td id=\"csscan-value-outline-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-style\"><td id=\"csscan-property-outline-style\" class=\"csscan-property\">outline-style</td><td id=\"csscan-value-outline-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-width\"><td id=\"csscan-property-outline-width\" class=\"csscan-property\">outline-width</td><td id=\"csscan-value-outline-width\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-position\" class=\"csscan-header\">Positioning</th></tr><tr id=\"csscan-row-position\"><td id=\"csscan-property-position\" class=\"csscan-property\">position</td><td id=\"csscan-value-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-top\"><td id=\"csscan-property-top\" class=\"csscan-property\">top</td><td id=\"csscan-value-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-bottom\"><td id=\"csscan-property-bottom\" class=\"csscan-property\">bottom</td><td id=\"csscan-value-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-right\"><td id=\"csscan-property-right\" class=\"csscan-property\">right</td><td id=\"csscan-value-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-left\"><td id=\"csscan-property-left\" class=\"csscan-property\">left</td><td id=\"csscan-value-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-float\"><td id=\"csscan-property-float\" class=\"csscan-property\">float</td><td id=\"csscan-value-float\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-display\"><td id=\"csscan-property-display\" class=\"csscan-property\">display</td><td id=\"csscan-value-display\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-clear\"><td id=\"csscan-property-clear\" class=\"csscan-property\">clear</td><td id=\"csscan-value-clear\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-z-index\"><td id=\"csscan-property-z-index\" class=\"csscan-property\">z-index</td><td id=\"csscan-value-z-index\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-list\" class=\"csscan-header\">List</th></tr><tr id=\"csscan-row-list-style-image\"><td id=\"csscan-property-list-style-image\" class=\"csscan-property\">list-style-image</td><td id=\"csscan-value-list-style-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-type\"><td id=\"csscan-property-list-style-type\" class=\"csscan-property\">list-style-type</td><td id=\"csscan-value-list-style-type\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-position\"><td id=\"csscan-property-list-style-position\" class=\"csscan-property\">list-style-position</td><td id=\"csscan-value-list-style-position\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-table\" class=\"csscan-header\">Table</th></tr><tr id=\"csscan-row-vertical-align\"><td id=\"csscan-property-vertical-align\" class=\"csscan-property\">vertical-align</td><td id=\"csscan-value-vertical-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-collapse\"><td id=\"csscan-property-border-collapse\" class=\"csscan-property\">border-collapse</td><td id=\"csscan-value-border-collapse\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-spacing\"><td id=\"csscan-property-border-spacing\" class=\"csscan-property\">border-spacing</td><td id=\"csscan-value-border-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-caption-side\"><td id=\"csscan-property-caption-side\" class=\"csscan-property\">caption-side</td><td id=\"csscan-value-caption-side\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-empty-cells\"><td id=\"csscan-property-empty-cells\" class=\"csscan-property\">empty-cells</td><td id=\"csscan-value-empty-cells\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-table-layout\"><td id=\"csscan-property-table-layout\" class=\"csscan-property\">table-layout</td><td id=\"csscan-value-table-layout\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-effects\" class=\"csscan-header\">Effects</th></tr><tr id=\"csscan-row-text-shadow\"><td id=\"csscan-property-text-shadow\" class=\"csscan-property\">text-shadow</td><td id=\"csscan-value-text-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row--webkit-box-shadow\"><td id=\"csscan-property--webkit-box-shadow\" class=\"csscan-property\">-webkit-box-shadow</td><td id=\"csscan-value--webkit-box-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-radius\"><td id=\"csscan-property-border-radius\" class=\"csscan-property\">border-radius</td><td id=\"csscan-value-border-radius\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-other\" class=\"csscan-header\">Other</th></tr><tr id=\"csscan-row-overflow\"><td id=\"csscan-property-overflow\" class=\"csscan-property\">overflow</td><td id=\"csscan-value-overflow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-cursor\"><td id=\"csscan-property-cursor\" class=\"csscan-property\">cursor</td><td id=\"csscan-value-cursor\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-visibility\"><td id=\"csscan-property-visibility\" class=\"csscan-property\">visibility</td><td id=\"csscan-value-visibility\" class=\"csscan-value\"></td></tr></tbody></table></div><div id=\"csscan-wrapper\" style=\"display: none; \"><h2 id=\"csscan-header\">element</h2><table id=\"csscan-table\"><tbody><tr><th colspan=\"2\" id=\"csscan-header-font\" class=\"csscan-header\">Font</th></tr><tr id=\"csscan-row-font-family\"><td id=\"csscan-property-font-family\" class=\"csscan-property\">font-family</td><td id=\"csscan-value-font-family\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-size\"><td id=\"csscan-property-font-size\" class=\"csscan-property\">font-size</td><td id=\"csscan-value-font-size\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-style\"><td id=\"csscan-property-font-style\" class=\"csscan-property\">font-style</td><td id=\"csscan-value-font-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-variant\"><td id=\"csscan-property-font-variant\" class=\"csscan-property\">font-variant</td><td id=\"csscan-value-font-variant\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-weight\"><td id=\"csscan-property-font-weight\" class=\"csscan-property\">font-weight</td><td id=\"csscan-value-font-weight\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-letter-spacing\"><td id=\"csscan-property-letter-spacing\" class=\"csscan-property\">letter-spacing</td><td id=\"csscan-value-letter-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-line-height\"><td id=\"csscan-property-line-height\" class=\"csscan-property\">line-height</td><td id=\"csscan-value-line-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-decoration\"><td id=\"csscan-property-text-decoration\" class=\"csscan-property\">text-decoration</td><td id=\"csscan-value-text-decoration\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-align\"><td id=\"csscan-property-text-align\" class=\"csscan-property\">text-align</td><td id=\"csscan-value-text-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-indent\"><td id=\"csscan-property-text-indent\" class=\"csscan-property\">text-indent</td><td id=\"csscan-value-text-indent\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-transform\"><td id=\"csscan-property-text-transform\" class=\"csscan-property\">text-transform</td><td id=\"csscan-value-text-transform\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-white-space\"><td id=\"csscan-property-white-space\" class=\"csscan-property\">white-space</td><td id=\"csscan-value-white-space\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-word-spacing\"><td id=\"csscan-property-word-spacing\" class=\"csscan-property\">word-spacing</td><td id=\"csscan-value-word-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-color\"><td id=\"csscan-property-color\" class=\"csscan-property\">color</td><td id=\"csscan-value-color\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-background\" class=\"csscan-header\">Background</th></tr><tr id=\"csscan-row-background-attachment\"><td id=\"csscan-property-background-attachment\" class=\"csscan-property\">bg-attachment</td><td id=\"csscan-value-background-attachment\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-color\"><td id=\"csscan-property-background-color\" class=\"csscan-property\">bg-color</td><td id=\"csscan-value-background-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-image\"><td id=\"csscan-property-background-image\" class=\"csscan-property\">bg-image</td><td id=\"csscan-value-background-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-position\"><td id=\"csscan-property-background-position\" class=\"csscan-property\">bg-position</td><td id=\"csscan-value-background-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-repeat\"><td id=\"csscan-property-background-repeat\" class=\"csscan-property\">bg-repeat</td><td id=\"csscan-value-background-repeat\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-size\" class=\"csscan-header\">Box</th></tr><tr id=\"csscan-row-width\"><td id=\"csscan-property-width\" class=\"csscan-property\">width</td><td id=\"csscan-value-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-height\"><td id=\"csscan-property-height\" class=\"csscan-property\">height</td><td id=\"csscan-value-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-top\"><td id=\"csscan-property-border-top\" class=\"csscan-property\">border-top</td><td id=\"csscan-value-border-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-right\"><td id=\"csscan-property-border-right\" class=\"csscan-property\">border-right</td><td id=\"csscan-value-border-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-bottom\"><td id=\"csscan-property-border-bottom\" class=\"csscan-property\">border-bottom</td><td id=\"csscan-value-border-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-left\"><td id=\"csscan-property-border-left\" class=\"csscan-property\">border-left</td><td id=\"csscan-value-border-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-margin\"><td id=\"csscan-property-margin\" class=\"csscan-property\">margin</td><td id=\"csscan-value-margin\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-padding\"><td id=\"csscan-property-padding\" class=\"csscan-property\">padding</td><td id=\"csscan-value-padding\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-height\"><td id=\"csscan-property-max-height\" class=\"csscan-property\">max-height</td><td id=\"csscan-value-max-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-height\"><td id=\"csscan-property-min-height\" class=\"csscan-property\">min-height</td><td id=\"csscan-value-min-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-width\"><td id=\"csscan-property-max-width\" class=\"csscan-property\">max-width</td><td id=\"csscan-value-max-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-width\"><td id=\"csscan-property-min-width\" class=\"csscan-property\">min-width</td><td id=\"csscan-value-min-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-color\"><td id=\"csscan-property-outline-color\" class=\"csscan-property\">outline-color</td><td id=\"csscan-value-outline-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-style\"><td id=\"csscan-property-outline-style\" class=\"csscan-property\">outline-style</td><td id=\"csscan-value-outline-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-width\"><td id=\"csscan-property-outline-width\" class=\"csscan-property\">outline-width</td><td id=\"csscan-value-outline-width\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-position\" class=\"csscan-header\">Positioning</th></tr><tr id=\"csscan-row-position\"><td id=\"csscan-property-position\" class=\"csscan-property\">position</td><td id=\"csscan-value-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-top\"><td id=\"csscan-property-top\" class=\"csscan-property\">top</td><td id=\"csscan-value-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-bottom\"><td id=\"csscan-property-bottom\" class=\"csscan-property\">bottom</td><td id=\"csscan-value-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-right\"><td id=\"csscan-property-right\" class=\"csscan-property\">right</td><td id=\"csscan-value-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-left\"><td id=\"csscan-property-left\" class=\"csscan-property\">left</td><td id=\"csscan-value-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-float\"><td id=\"csscan-property-float\" class=\"csscan-property\">float</td><td id=\"csscan-value-float\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-display\"><td id=\"csscan-property-display\" class=\"csscan-property\">display</td><td id=\"csscan-value-display\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-clear\"><td id=\"csscan-property-clear\" class=\"csscan-property\">clear</td><td id=\"csscan-value-clear\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-z-index\"><td id=\"csscan-property-z-index\" class=\"csscan-property\">z-index</td><td id=\"csscan-value-z-index\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-list\" class=\"csscan-header\">List</th></tr><tr id=\"csscan-row-list-style-image\"><td id=\"csscan-property-list-style-image\" class=\"csscan-property\">list-style-image</td><td id=\"csscan-value-list-style-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-type\"><td id=\"csscan-property-list-style-type\" class=\"csscan-property\">list-style-type</td><td id=\"csscan-value-list-style-type\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-position\"><td id=\"csscan-property-list-style-position\" class=\"csscan-property\">list-style-position</td><td id=\"csscan-value-list-style-position\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-table\" class=\"csscan-header\">Table</th></tr><tr id=\"csscan-row-vertical-align\"><td id=\"csscan-property-vertical-align\" class=\"csscan-property\">vertical-align</td><td id=\"csscan-value-vertical-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-collapse\"><td id=\"csscan-property-border-collapse\" class=\"csscan-property\">border-collapse</td><td id=\"csscan-value-border-collapse\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-spacing\"><td id=\"csscan-property-border-spacing\" class=\"csscan-property\">border-spacing</td><td id=\"csscan-value-border-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-caption-side\"><td id=\"csscan-property-caption-side\" class=\"csscan-property\">caption-side</td><td id=\"csscan-value-caption-side\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-empty-cells\"><td id=\"csscan-property-empty-cells\" class=\"csscan-property\">empty-cells</td><td id=\"csscan-value-empty-cells\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-table-layout\"><td id=\"csscan-property-table-layout\" class=\"csscan-property\">table-layout</td><td id=\"csscan-value-table-layout\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-effects\" class=\"csscan-header\">Effects</th></tr><tr id=\"csscan-row-text-shadow\"><td id=\"csscan-property-text-shadow\" class=\"csscan-property\">text-shadow</td><td id=\"csscan-value-text-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row--webkit-box-shadow\"><td id=\"csscan-property--webkit-box-shadow\" class=\"csscan-property\">-webkit-box-shadow</td><td id=\"csscan-value--webkit-box-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-radius\"><td id=\"csscan-property-border-radius\" class=\"csscan-property\">border-radius</td><td id=\"csscan-value-border-radius\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-other\" class=\"csscan-header\">Other</th></tr><tr id=\"csscan-row-overflow\"><td id=\"csscan-property-overflow\" class=\"csscan-property\">overflow</td><td id=\"csscan-value-overflow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-cursor\"><td id=\"csscan-property-cursor\" class=\"csscan-property\">cursor</td><td id=\"csscan-value-cursor\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-visibility\"><td id=\"csscan-property-visibility\" class=\"csscan-property\">visibility</td><td id=\"csscan-value-visibility\" class=\"csscan-value\"></td></tr></tbody></table></div></div></group></body>",
+        "cn:shortestDescription": "",
+        "cn:summary": "",
+        "cn:editedBy": "chelsea.qiao",
+        "cn:createdBy": "migration",
+        "cn:shorterDescription": "CNBC",
+        "name": "Headlines from CNBC",
+        "cn:sectionColor": "#000000",
+        "cn:promoText": "",
+        "cn:showTime": "",
+        "cn:tabLabel": "CNBC",
+        "cn:sectionLinktext": "Headlines from CNBC"
+      },
+      "cn:sectionHierarchy": [{
+        "id": 10000161,
+        "tagName": "CNBC Global",
+        "order": 1
+      }],
+      "cn:editedBy": "matt.shade",
+      "cn:historicalURL": [],
+      "cn:createdBy": "matt.shade",
+      "cn:subDomain": "https://qa-aws01make-it.cnbc.com",
+      "cn:branding": "makeit",
+      "cn:bodyTeaser": "null",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:wildcard": {
+        "cn:wildcardContent": {
+          "cn:__cdata": "<style>\r\n.cnbc-body{\r\n     width:auto;\r\n     background:transparent;\r\n}\r\n.cnbc-body .cols1 .col1 h2.pageheadnav {\r\n\tdisplay: none;\r\n}\r\n</style>\r\n\r\n<div style=\"position:relative;width:auto;padding:0 0 533.13%;height:0;top:0;left:0;bottom:0;right:0;margin:0;border:0 none\" data-break-on=\"414\" data-lg-id=\"experience-59ee35a396f07\" data-lg-src=\"//view.ceros.com/nbc-1/synchrony-2-1-1?heightOverride=7677\" data-lg-padding=\"533.13%\" data-sm-id=\"experience-59de45d7020e0\" data-sm-src=\"//view.ceros.com/nbc-1/synchrony-2-1?heightOverride=9000\" data-sm-padding=\"1406.25%\">\r\n    <iframe allowfullscreen style=\"position:absolute;width:100%;height:100%;top:0;left:0;bottom:0;right:0;margin:0;padding:0;border:0 none\" frameborder=\"0\" class=\"ceros-experience\"></iframe>\r\n</div>\r\n<!-- JavaScript Code... only needed once per page -->\r\n<script type=\"text/javascript\" src=\"//view.ceros.com/scroll-proxy.min.js\"></script>\r\n<script type=\"text/javascript\" src=\"//creative-services.ceros.com/customer-success/varying-embed-tag-generator/embedded-variant-switcher-v2.min.js\"></script>\r\n\r\n\r\n\r\n\r\n"
+        },
+        "cn:wildcardPromo": {
+          "cn:__cdata": "<style>\r\n  .crazy-div {\r\n      animation: colorchange 5s infinite; /* animation-name followed by duration in seconds*/\r\n         /* you could also use milliseconds (ms) or something like 2.5s */\r\n      -webkit-animation: colorchange 5s infinite; /* Chrome and Safari */\r\n    }\r\n\r\n    @keyframes colorchange\r\n    {\r\n      0%   {background: red;}\r\n      25%  {background: yellow;}\r\n      50%  {background: blue;}\r\n      75%  {background: green;}\r\n      100% {background: red;}\r\n    }\r\n\r\n    @-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */\r\n    {\r\n      0%   {background: red;}\r\n      25%  {background: yellow;}\r\n      50%  {background: blue;}\r\n      75%  {background: green;}\r\n      100% {background: red;}\r\n    }\r\n</style>\r\n\r\n<div class=\"crazy-div\" style=\"height:250px;width:100%\"></div>\r\n\r\n<style>\r\n.trumpy:nth-child(2){display:none;}\r\n.trumpy{width:100%;}\r\n</style>\r\n<script type=\"text/javascript\" src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js\"></script>\r\n<script>\r\njQuery(document).ready(function($){\r\n  $('.trumpy').on(\"click\", function(){\r\n    $(this).toggle();\r\n    $(this).siblings().toggle();\r\n  });\r\n});\r\n</script>\r\n<div>\r\n<img class=\"trumpy\" src=\"http://staging.snopes.com/app/uploads/2017/01/melania_smile_frown_tw-1024x512.jpg\" />\r\n<img class=\"trumpy\" src=\"https://content.newsinc.com/jpg/415/31892452/49596246.jpg\" />\r\n<a href=\"/wildcard\">link technology</a>\r\n</div>"
+        }
+      },
+      "@type": "CreativeWork",
+      "cn:relation": [{
+        "position": 9,
+        "cn:relationType": "tags",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@id": "19832390",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/19832390",
+      "cn:type": "franchise",
+      "cn:slug": "Asia News",
+      "cn:subType": "section",
+      "cn:tagName": "Asia News",
+      "cn:title": "Asia News",
+      "url": "http://qa-aws01web.cnbc.com/asia-news/",
+      "cn:liveURL": "/asia-news/",
+      "datePublished": "2012-01-30T01:46:56+0000",
+      "cn:summary": "Read the latest stock market news and analysis on Asia Pacific in regions from Japan, China, Singapore, Australia, to New Zealand. Find business; finance; economy, stocks, and global economy news on CNBC's Asia Pacific page.",
+      "headline": "Asia-Pacific News",
+      "cn:shorterDescription": "Find business; finance; economy, stocks, and global economy news on CNBC's Asia Pacific page.",
+      "cn:shortestDescription": "Asia Pacific's Latest Business News and Headlines Online.",
+      "cn:bodyTeaser": "null",
+      "cn:creatorOverwrite": "",
+      "cn:settings": {
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "Read the latest stock market news and analysis on Asia Pacific in regions from Japan, China, Singapore, Australia, to New Zealand. Find business; finance; economy, stocks, and global economy news on CNBC's Asia Pacific page.",
+      "cn:section": {
+        "url": "http://qa-aws01web.cnbc.com/world-economy/",
+        "cn:type": "franchise",
+        "cn:title": "World Economy",
+        "@id": "10000834",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000834",
+        "cn:slug": "World Economy",
+        "cn:tagName": "World Economy",
+        "cn:subType": "section",
+        "cn:shortestDescription": "Latest news around the world related to the state of the global economy.",
+        "cn:sectionHierarchy": [{
+            "id": 20910258,
+            "tagName": "Economy",
+            "order": 1
+          },
+          {
+            "id": 10000161,
+            "tagName": "CNBC Global",
+            "order": 2
+          }
+        ],
+        "headline": "World Economy",
+        "cn:creatorOverwrite": "",
+        "cn:liveURL": "/world-economy/",
+        "cn:summary": "Latest news and headlines around the world related to the state of the global economy.",
+        "cn:settings": {
+          "cn:listType": "Manual and/or populated by feeds"
+        },
+        "description": "Latest news and headlines around the world related to the state of the global economy.",
+        "cn:editedBy": "brian.beers",
+        "datePublished": "2012-01-30T01:54:29+0000",
+        "cn:historicalURL": [
+          "/global-economy/",
+          "/id/10000834"
+        ],
+        "cn:createdBy": "migration",
+        "cn:bodyTeaser": "null",
+        "cn:shorterDescription": "Latest news and headlines around the world related to the state of the global economy.",
+        "name": "World Economy",
+        "cn:tabLabel": "World Economy",
+        "cn:sectionLinktext": "World Economy"
+      },
+      "cn:sectionHierarchy": [{
+          "id": 10000834,
+          "tagName": "World Economy",
+          "order": 1
+        },
+        {
+          "id": 20910258,
+          "tagName": "Economy",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "cn:historicalURL": [
+        "/id/19832390"
+      ],
+      "cn:editedBy": "Everett.Rosenfeld",
+      "cn:createdBy": "migration",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "Asia News",
+      "cn:tabLabel": "Asia News",
+      "cn:sectionLinktext": "Asia-Pacific News",
+      "@type": "Collection",
+      "cn:relation": [{
+        "position": 8,
+        "cn:relationType": "tags",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@id": "1509944",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/1509944",
+      "cn:type": "company",
+      "cn:slug": "Las Vegas Sands Corp T:LVS",
+      "cn:tagName": "Las Vegas Sands Corp",
+      "cn:title": "Las Vegas Sands Corp",
+      "url": "/quotes/?symbol=",
+      "cn:liveURL": "",
+      "datePublished": "2012-06-30T03:17:12+0000",
+      "cn:bodyTeaser": "",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes"
+      },
+      "cn:section": {
+        "cn:type": "franchise",
+        "@id": "15839215",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15839215",
+        "cn:slug": "Stocks",
+        "cn:subType": "news_section",
+        "url": "http://qa-aws01web.cnbc.com/stocks/",
+        "cn:title": "Stocks",
+        "cn:tagName": "Stocks from tag name",
+        "cn:subDomain": "Make-It.CNBC.com",
+        "cn:branding": "Make It",
+        "cn:sectionHierarchy": [{
+            "id": 102,
+            "tagName": "Markets",
+            "order": 1
+          },
+          {
+            "id": 10000161,
+            "tagName": "CNBC Global",
+            "order": 2
+          }
+        ],
+        "headline": "Stocks",
+        "cn:creatorOverwrite": "",
+        "cn:liveURL": "/stocks/",
+        "cn:settings": {
+          "cn:commentsEnabled": "Yes",
+          "cn:socialtoolsEnabled": "Yes",
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "In-depth market analysis, real-time stock market data, research and earnings from CNBC.com. ",
+        "datePublished": "2012-01-30T01:48:28+0000",
+        "cn:historicalURL": [
+          "/id/15839215"
+        ],
+        "cn:bodyTeaser": "null",
+        "cn:shortestDescription": "In-depth market analysis and real-time stock market data",
+        "cn:summary": "In-depth market analysis, real-time stock market data, research and earnings from CNBC.com. ",
+        "cn:editedBy": "vitaly",
+        "cn:createdBy": "migration",
+        "cn:shorterDescription": "In-depth market analysis, real-time stock market data, research and earnings from CNBC.com. ",
+        "name": "Stocks",
+        "cn:tabLabel": "Stocks",
+        "cn:sectionLinktext": "Stocks"
+      },
+      "cn:sectionHierarchy": [],
+      "cn:editedBy": "ingest",
+      "cn:historicalURL": [],
+      "cn:createdBy": "ingest",
+      "headline": "Las Vegas Sands Corp",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "Las Vegas Sands Corp",
+      "cn:issuerId": 23998,
+      "tickerSymbol": " ",
+      "@type": "Corporation",
+      "cn:relation": [{
+        "position": 7,
+        "cn:relationType": "tags",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@id": "100016368",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100016368",
+      "cn:type": "place",
+      "cn:slug": "Macau",
+      "cn:tagName": "Macau",
+      "cn:title": "Macau",
+      "url": "http://qa-aws01web.cnbc.com/macau/",
+      "cn:liveURL": "/macau/",
+      "datePublished": "2012-10-09T18:09:37+0000",
+      "cn:summary": "Macau - Regional News",
+      "headline": "Macau",
+      "cn:shorterDescription": "Macau - Regional News",
+      "cn:shortestDescription": "Macau - Regional News",
+      "cn:bodyTeaser": "null",
+      "cn:creatorOverwrite": "",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Virtual"
+      },
+      "description": "Macau - Regional News",
+      "cn:section": {
+        "url": "http://qa-aws01web.cnbc.com/asia-news/",
+        "cn:type": "franchise",
+        "cn:title": "Asia News",
+        "@id": "19832390",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/19832390",
+        "cn:slug": "Asia News",
+        "cn:tagName": "Asia News",
+        "cn:subType": "section",
+        "cn:shortestDescription": "Asia Pacific's Latest Business News and Headlines Online.",
+        "cn:sectionHierarchy": [{
+            "id": 10000834,
+            "tagName": "World Economy",
+            "order": 1
+          },
+          {
+            "id": 20910258,
+            "tagName": "Economy",
+            "order": 2
+          },
+          {
+            "id": 10000161,
+            "tagName": "CNBC Global",
+            "order": 3
+          }
+        ],
+        "headline": "Asia-Pacific News",
+        "cn:creatorOverwrite": "",
+        "cn:liveURL": "/asia-news/",
+        "cn:summary": "Read the latest stock market news and analysis on Asia Pacific in regions from Japan, China, Singapore, Australia, to New Zealand. Find business; finance; economy, stocks, and global economy news on CNBC's Asia Pacific page.",
+        "cn:settings": {
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "Read the latest stock market news and analysis on Asia Pacific in regions from Japan, China, Singapore, Australia, to New Zealand. Find business; finance; economy, stocks, and global economy news on CNBC's Asia Pacific page.",
+        "cn:editedBy": "Everett.Rosenfeld",
+        "datePublished": "2012-01-30T01:46:56+0000",
+        "cn:historicalURL": [
+          "/id/19832390"
+        ],
+        "cn:createdBy": "migration",
+        "cn:bodyTeaser": "null",
+        "cn:shorterDescription": "Find business; finance; economy, stocks, and global economy news on CNBC's Asia Pacific page.",
+        "name": "Asia News",
+        "cn:tabLabel": "Asia News",
+        "cn:sectionLinktext": "Asia-Pacific News"
+      },
+      "cn:sectionHierarchy": [{
+          "id": 19832390,
+          "tagName": "Asia News",
+          "order": 1
+        },
+        {
+          "id": 10000834,
+          "tagName": "World Economy",
+          "order": 2
+        },
+        {
+          "id": 20910258,
+          "tagName": "Economy",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "cn:editedBy": "Xinjie.Luo",
+      "cn:historicalURL": [
+        "/id/100016368"
+      ],
+      "cn:createdBy": "paul.toscano",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "Macau",
+      "@type": "Place",
+      "cn:relation": [{
+        "position": 6,
+        "cn:relationType": "tags",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@id": "10000020",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000020",
+      "cn:type": "place",
+      "cn:slug": "Japan",
+      "cn:tagName": "Japan",
+      "cn:title": "Japan",
+      "url": "http://qa-aws01web.cnbc.com/japan/",
+      "cn:liveURL": "/japan/",
+      "datePublished": "2012-05-02T04:26:07+0000",
+      "cn:summary": "CNBC delivers the latest financial news and business headlines from Japan. ",
+      "headline": "Japan",
+      "cn:shorterDescription": "CNBC delivers the latest financial news and business headlines from Japan. ",
+      "cn:shortestDescription": "Latest financial news and business headlines from Japan. ",
+      "cn:bodyTeaser": "null",
+      "cn:creatorOverwrite": "",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "CNBC delivers the latest financial news and business headlines from Japan. ",
+      "cn:section": {
+        "url": "http://qa-aws01web.cnbc.com/asia-news/",
+        "cn:type": "franchise",
+        "cn:title": "Asia News",
+        "@id": "19832390",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/19832390",
+        "cn:slug": "Asia News",
+        "cn:tagName": "Asia News",
+        "cn:subType": "section",
+        "cn:shortestDescription": "Asia Pacific's Latest Business News and Headlines Online.",
+        "cn:sectionHierarchy": [{
+            "id": 10000834,
+            "tagName": "World Economy",
+            "order": 1
+          },
+          {
+            "id": 20910258,
+            "tagName": "Economy",
+            "order": 2
+          },
+          {
+            "id": 10000161,
+            "tagName": "CNBC Global",
+            "order": 3
+          }
+        ],
+        "headline": "Asia-Pacific News",
+        "cn:creatorOverwrite": "",
+        "cn:liveURL": "/asia-news/",
+        "cn:summary": "Read the latest stock market news and analysis on Asia Pacific in regions from Japan, China, Singapore, Australia, to New Zealand. Find business; finance; economy, stocks, and global economy news on CNBC's Asia Pacific page.",
+        "cn:settings": {
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "Read the latest stock market news and analysis on Asia Pacific in regions from Japan, China, Singapore, Australia, to New Zealand. Find business; finance; economy, stocks, and global economy news on CNBC's Asia Pacific page.",
+        "cn:editedBy": "Everett.Rosenfeld",
+        "datePublished": "2012-01-30T01:46:56+0000",
+        "cn:historicalURL": [
+          "/id/19832390"
+        ],
+        "cn:createdBy": "migration",
+        "cn:bodyTeaser": "null",
+        "cn:shorterDescription": "Find business; finance; economy, stocks, and global economy news on CNBC's Asia Pacific page.",
+        "name": "Asia News",
+        "cn:tabLabel": "Asia News",
+        "cn:sectionLinktext": "Asia-Pacific News"
+      },
+      "cn:sectionHierarchy": [{
+          "id": 19832390,
+          "tagName": "Asia News",
+          "order": 1
+        },
+        {
+          "id": 10000834,
+          "tagName": "World Economy",
+          "order": 2
+        },
+        {
+          "id": 20910258,
+          "tagName": "Economy",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "cn:editedBy": "Josephine.Bila",
+      "cn:historicalURL": [
+        "/id/10000020"
+      ],
+      "cn:createdBy": "migration",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "Japan",
+      "@type": "Place",
+      "cn:relation": [{
+        "position": 5,
+        "cn:relationType": "tags",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@id": "10000530",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000530",
+      "cn:type": "place",
+      "cn:slug": "Singapore",
+      "cn:tagName": "Singapore",
+      "cn:title": "Singapore",
+      "url": "http://qa-aws01web.cnbc.com/singapore/",
+      "cn:liveURL": "/singapore/",
+      "datePublished": "2012-05-02T04:25:48+0000",
+      "cn:summary": "Singapore - Regional News",
+      "headline": "Singapore",
+      "cn:shorterDescription": "Singapore - Regional News",
+      "cn:shortestDescription": "Singapore - Regional News",
+      "cn:bodyTeaser": "null",
+      "cn:creatorOverwrite": "",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes"
+      },
+      "description": "Singapore - Regional News",
+      "cn:section": {
+        "url": "http://qa-aws01web.cnbc.com/id/100003116",
+        "cn:type": "franchise",
+        "cn:title": "CNBC Asia: Top News and Analysis",
+        "@id": "100003116",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100003116",
+        "cn:slug": "Asia: Top News and Analysis",
+        "cn:tagName": "Asia: Top News and Analysis",
+        "cn:subType": "section",
+        "cn:shortestDescription": "",
+        "cn:sectionHierarchy": [{
+          "id": 100914741,
+          "tagName": "CNBC Franchise Archive",
+          "order": 1
+        }],
+        "headline": "Top News",
+        "cn:creatorOverwrite": "",
+        "cn:liveURL": "/id/100003116",
+        "cn:summary": "",
+        "cn:editedBy": "lianne.wong",
+        "datePublished": "2012-07-24T12:53:57+0000",
+        "cn:historicalURL": [
+          "/asia-top-news-and-analysis/"
+        ],
+        "cn:createdBy": "catherina.centanni",
+        "cn:bodyTeaser": "null",
+        "cn:shorterDescription": "",
+        "description": "",
+        "name": "CNBC Asia: Top News and Analysis",
+        "cn:tabLabel": "",
+        "cn:sectionLinktext": "Asia Top News and Analysis"
+      },
+      "cn:sectionHierarchy": [{
+          "id": 100003116,
+          "tagName": "Asia: Top News and Analysis",
+          "order": 1
+        },
+        {
+          "id": 100914741,
+          "tagName": "CNBC Franchise Archive",
+          "order": 2
+        }
+      ],
+      "cn:editedBy": "katy.barnato",
+      "cn:historicalURL": [
+        "/id/10000530"
+      ],
+      "cn:createdBy": "migration",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "Singapore",
+      "@type": "Place",
+      "cn:relation": [{
+        "position": 4,
+        "cn:relationType": "tags",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@id": "1516074",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/1516074",
+      "cn:type": "company",
+      "cn:slug": "Wynn Resorts Ltd T:WYNN",
+      "cn:tagName": "Wynn Resorts Ltd",
+      "cn:title": "Wynn Resorts Ltd",
+      "url": "/quotes/?symbol=",
+      "cn:liveURL": "",
+      "datePublished": "2012-06-30T03:19:17+0000",
+      "cn:summary": "",
+      "headline": "Wynn Resorts Ltd",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><br /></p></div></group></body>",
+      "cn:creatorOverwrite": "",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes"
+      },
+      "description": "",
+      "cn:section": {
+        "cn:type": "franchise",
+        "@id": "15839215",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15839215",
+        "cn:slug": "Stocks",
+        "cn:subType": "news_section",
+        "url": "http://qa-aws01web.cnbc.com/stocks/",
+        "cn:title": "Stocks",
+        "cn:tagName": "Stocks from tag name",
+        "cn:subDomain": "Make-It.CNBC.com",
+        "cn:branding": "Make It",
+        "cn:sectionHierarchy": [{
+            "id": 102,
+            "tagName": "Markets",
+            "order": 1
+          },
+          {
+            "id": 10000161,
+            "tagName": "CNBC Global",
+            "order": 2
+          }
+        ],
+        "headline": "Stocks",
+        "cn:creatorOverwrite": "",
+        "cn:liveURL": "/stocks/",
+        "cn:settings": {
+          "cn:commentsEnabled": "Yes",
+          "cn:socialtoolsEnabled": "Yes",
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "In-depth market analysis, real-time stock market data, research and earnings from CNBC.com. ",
+        "datePublished": "2012-01-30T01:48:28+0000",
+        "cn:historicalURL": [
+          "/id/15839215"
+        ],
+        "cn:bodyTeaser": "null",
+        "cn:shortestDescription": "In-depth market analysis and real-time stock market data",
+        "cn:summary": "In-depth market analysis, real-time stock market data, research and earnings from CNBC.com. ",
+        "cn:editedBy": "vitaly",
+        "cn:createdBy": "migration",
+        "cn:shorterDescription": "In-depth market analysis, real-time stock market data, research and earnings from CNBC.com. ",
+        "name": "Stocks",
+        "cn:tabLabel": "Stocks",
+        "cn:sectionLinktext": "Stocks"
+      },
+      "cn:sectionHierarchy": [],
+      "cn:editedBy": "jcm.cnbc",
+      "cn:historicalURL": [],
+      "cn:createdBy": "migration",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "Wynn Resorts Ltd",
+      "tickerSymbol": " ",
+      "@type": "Corporation",
+      "cn:relation": [{
+        "position": 4,
+        "cn:relationType": "related",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@id": "10000571",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000571",
+      "cn:type": "place",
+      "cn:slug": "Las Vegas",
+      "cn:tagName": "Las Vegas",
+      "cn:title": "Las Vegas",
+      "url": "http://qa-aws01web.cnbc.com/las-vegas/",
+      "cn:liveURL": "/las-vegas/",
+      "datePublished": "2012-05-02T04:25:46+0000",
+      "cn:summary": "Las Vegas - Regional News",
+      "headline": "Las Vegas ",
+      "cn:shorterDescription": "Las Vegas - Regional News",
+      "cn:shortestDescription": "Las Vegas - Regional News",
+      "cn:bodyTeaser": "null",
+      "cn:creatorOverwrite": "",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes"
+      },
+      "description": "Las Vegas - Regional News",
+      "cn:section": {
+        "cn:type": "franchise",
+        "@id": "100003114",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100003114",
+        "cn:slug": "US Top News and Analysis",
+        "cn:subType": "special_report",
+        "url": "/us-top-news-and-analysis/",
+        "cn:title": "US Top News and Analysis",
+        "cn:tagName": "US Top News and Analysis",
+        "cn:subDomain": "",
+        "cn:sectionHierarchy": [{
+          "id": 100003114,
+          "tagName": "US Top News and Analysis",
+          "order": 1
+        }],
+        "headline": "Top News & Analysis",
+        "cn:creatorOverwrite": "",
+        "cn:liveURL": "/us-top-news-and-analysis/",
+        "cn:settings": {
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "",
+        "datePublished": "2016-10-21T12:30:51+0000",
+        "cn:historicalURL": [
+          "/id/100003114"
+        ],
+        "cn:bodyTeaser": "null",
+        "cn:shortestDescription": "",
+        "cn:summary": "",
+        "cn:editedBy": "ritesh.shah",
+        "cn:createdBy": "catherina.centanni",
+        "cn:shorterDescription": "",
+        "name": "US Top News and Analysis",
+        "cn:sectionColor": "#000000",
+        "cn:promoText": "",
+        "cn:showTime": "",
+        "cn:tabLabel": "Top News",
+        "cn:sectionLinktext": "Top News & Analysis"
+      },
+      "cn:sectionHierarchy": [{
+        "id": 100003114,
+        "tagName": "US Top News and Analysis",
+        "order": 1
+      }],
+      "cn:editedBy": "Xinjie.Luo",
+      "cn:historicalURL": [
+        "/id/10000571"
+      ],
+      "cn:createdBy": "migration",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "Las Vegas",
+      "@type": "Place",
+      "cn:relation": [{
+        "position": 3,
+        "cn:relationType": "tags",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@id": "100003343",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100003343",
+      "cn:type": "skin",
+      "cn:slug": "cnbc global skin",
+      "cn:tagName": "",
+      "cn:title": "",
+      "url": "",
+      "cn:liveURL": "",
+      "datePublished": "2012-07-30T19:54:30+0000",
+      "cn:summary": "",
+      "headline": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:creatorOverwrite": "",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "",
+      "cn:sectionHierarchy": [],
+      "cn:editedBy": "matt.shade",
+      "cn:historicalURL": [],
+      "cn:createdBy": "matt.shade",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@type": "DigitalDocument",
+      "cn:relation": [{
+        "position": 3,
+        "cn:relationType": "skin",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@id": "1510277",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/1510277",
+      "cn:type": "company",
+      "cn:slug": "MGM Resorts International T:MGM",
+      "cn:tagName": "MGM Resorts International",
+      "cn:title": "MGM Resorts International",
+      "url": "/quotes/?symbol=",
+      "cn:liveURL": "",
+      "datePublished": "2012-06-30T03:17:19+0000",
+      "cn:bodyTeaser": "",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes"
+      },
+      "cn:section": {
+        "cn:type": "franchise",
+        "@id": "15839215",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15839215",
+        "cn:slug": "Stocks",
+        "cn:subType": "news_section",
+        "url": "http://qa-aws01web.cnbc.com/stocks/",
+        "cn:title": "Stocks",
+        "cn:tagName": "Stocks from tag name",
+        "cn:subDomain": "Make-It.CNBC.com",
+        "cn:branding": "Make It",
+        "cn:sectionHierarchy": [{
+            "id": 102,
+            "tagName": "Markets",
+            "order": 1
+          },
+          {
+            "id": 10000161,
+            "tagName": "CNBC Global",
+            "order": 2
+          }
+        ],
+        "headline": "Stocks",
+        "cn:creatorOverwrite": "",
+        "cn:liveURL": "/stocks/",
+        "cn:settings": {
+          "cn:commentsEnabled": "Yes",
+          "cn:socialtoolsEnabled": "Yes",
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "In-depth market analysis, real-time stock market data, research and earnings from CNBC.com. ",
+        "datePublished": "2012-01-30T01:48:28+0000",
+        "cn:historicalURL": [
+          "/id/15839215"
+        ],
+        "cn:bodyTeaser": "null",
+        "cn:shortestDescription": "In-depth market analysis and real-time stock market data",
+        "cn:summary": "In-depth market analysis, real-time stock market data, research and earnings from CNBC.com. ",
+        "cn:editedBy": "vitaly",
+        "cn:createdBy": "migration",
+        "cn:shorterDescription": "In-depth market analysis, real-time stock market data, research and earnings from CNBC.com. ",
+        "name": "Stocks",
+        "cn:tabLabel": "Stocks",
+        "cn:sectionLinktext": "Stocks"
+      },
+      "cn:sectionHierarchy": [],
+      "cn:editedBy": "ingest",
+      "cn:historicalURL": [],
+      "cn:createdBy": "ingest",
+      "headline": "MGM Resorts International",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "MGM Resorts International",
+      "cn:issuerId": 42765,
+      "tickerSymbol": " ",
+      "@type": "Corporation",
+      "cn:relation": [{
+        "position": 3,
+        "cn:relationType": "related",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@id": "100236386",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100236386",
+      "cn:type": "skin",
+      "cn:slug": "table fix skin",
+      "cn:tagName": "",
+      "cn:title": "",
+      "url": "",
+      "cn:liveURL": "",
+      "datePublished": "2012-11-21T15:32:10+0000",
+      "cn:summary": "",
+      "headline": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:creatorOverwrite": "",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Virtual"
+      },
+      "description": "",
+      "cn:sectionHierarchy": [],
+      "cn:editedBy": "joseph.odell",
+      "cn:historicalURL": [],
+      "cn:createdBy": "matt.shade",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@type": "DigitalDocument",
+      "cn:relation": [{
+        "position": 2,
+        "cn:relationType": "skin",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@id": "104165425",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104165425",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Japan casinos 161214 SHAFFER Asia",
+      "cn:tagName": "",
+      "cn:title": "Why Japan’s government is pushing casinos (even though most Japanese don’t want them)",
+      "url": "http://qa-aws01web.cnbc.com/2016/12/14/why-japans-government-is-pushing-casinos-even-though-most-japanese-dont-want-them.html",
+      "cn:liveURL": "/2016/12/14/why-japans-government-is-pushing-casinos-even-though-most-japanese-dont-want-them.html",
+      "cn:createdBy": "leslie.shaffer",
+      "cn:editedBy": "leslie.shaffer",
+      "datePublished": "2016-12-15T01:04:05+0000",
+      "cn:summary": "Japan’s parliament has just legalized casino gaming even though most Japanese oppose it. Here’s why.",
+      "headline": "Why Japan is pushing casinos (even though most Japanese don’t want them)",
+      "cn:shorterDescription": "Japan’s parliament has just legalized casino gaming even though most Japanese oppose it. Here’s why.",
+      "cn:shortestDescription": "Japan’s parliament has just legalized casino gaming even though most Japanese oppose it. Here’s why.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104164831\"/></assets><div class=\"group\"><p>\n  Japan's parliament has just legalized casino gaming even though\n  most Japanese oppose it. Here's why.&#160;\n</p>\n<p>\n  Lawmakers in the upper house sent the bill over its final hurdle\n  early Thursday, even though polls have repeatedly shown more than\n  half of Japanese oppose it, in large part on concerns over the\n  social ills that often go hand-in-hand with gambling.&#160;\n</p>\n<p>\n  The bill was the culmination of years of effort, with Prime\n  Minister Shinzo Abe advocating for the measure since taking\n  office in 2012 as part of Abenomics, or Abe's plan to boost\n  growth in the country's long-moribund economy.&#160;\n</p>\n<p>\n  Allowing casinos as part of integrated resorts will provide a\n  longer-term boost to the economy, even though they're unlikely to\n  open before 2022, analysts said.&#160;\n</p>\n<p>\n  \"Immediately, it's going to provide a buffer for after the\n  Olympics,\" which Tokyo will be hosting in 2020, Jesper Koll, CEO\n  of WisdomTree Japan, told CNBC's \"<asset_inline nid=\"101498937\" target=\"_blank\">The Rundown</asset_inline>\" on Wednesday.\n  &#160;\"Once the buildings for the Olympics are being built, then\n  the next construction boom is going to be the integrated\n  resorts.\"\n</p>\n<p>\n  Others also pointed to the building boom.\n</p>\n<p>\n  \"While the government's intention is probably allowing only one\n  or at max two per city in Japan, these would be very sizeable\n  investments,\" noted Richard Huang, a China gaming, lodging and\n  leisure analyst at Nomura, told CNBC's \"<asset_inline nid=\"15838831\" target=\"_blank\">Squawk Box</asset_inline>\" on Wednesday.\n  \"We're talking about multi-billion dollar investments.\"&#160;\n</p>\n<p>\n  After the construction boom, analysts expected the economy would\n  continue to see a boost from increased tourism, which has been a\n  key goal of Abenomics.&#160;</p></div></group></body>",
+      "cn:creatorOverwrite": "",
+      "cn:sectionHierarchy": [{
+          "id": 10000826,
+          "tagName": "Consumer",
+          "order": 1
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 2
+        }
+      ],
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 1
+      },
+      "description": "Japan’s parliament has just legalized casino gaming even though most Japanese oppose it. Here’s why.",
+      "author": [{
+        "@type": "Creator",
+        "@id": "101991592",
+        "name": "Leslie Shaffer",
+        "url": "http://qa-aws01pub.cnbc.com/leslie-shaffer/",
+        "position": "4999",
+        "sameAs": [
+          "https://www.twitter.com/LeslieShaffer1"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/LeslieShaffer1",
+          "cn:displayText": "LeslieShaffer1",
+          "cn:type": "twitter"
+        }]
+      }],
+      "cn:section": {
+        "url": "http://qa-aws01web.cnbc.com/consumers/",
+        "cn:type": "franchise",
+        "cn:title": "Consumer",
+        "@id": "10000826",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000826",
+        "cn:slug": "Consumer",
+        "cn:tagName": "Consumer",
+        "cn:subType": "news_section",
+        "cn:shortestDescription": "Get the latest consumer news on CNBC.com.",
+        "cn:sectionHierarchy": [{
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 1
+        }],
+        "headline": "Consumer",
+        "cn:creatorOverwrite": "",
+        "cn:liveURL": "/consumers/",
+        "cn:summary": "Get the latest consumer news on CNBC.com.",
+        "cn:settings": {
+          "cn:commentsEnabled": "Yes",
+          "cn:socialtoolsEnabled": "Yes",
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "Get the latest consumer news on CNBC.com.",
+        "cn:editedBy": "Maureen.Gavin@nbcuni.com",
+        "datePublished": "2012-01-30T01:54:46+0000",
+        "cn:historicalURL": [
+          "/id/10000826"
+        ],
+        "cn:createdBy": "migration",
+        "cn:bodyTeaser": "null",
+        "cn:shorterDescription": "Get the latest consumer news on CNBC.com.",
+        "name": "Consumer",
+        "cn:tabLabel": "Consumer",
+        "cn:sectionLinktext": "Consumer"
+      },
+      "cn:historicalURL": [],
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "position": 2,
+        "cn:relationType": "related",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@id": "101495499",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/101495499",
+      "cn:type": "franchise",
+      "cn:slug": "Street Signs Asia",
+      "cn:subType": "news_show",
+      "cn:tagName": "Street Signs Asia",
+      "cn:title": "Street Signs Asia",
+      "url": "http://qa-aws01web.cnbc.com/street-signs-asia/",
+      "cn:liveURL": "/street-signs-asia/",
+      "datePublished": "2014-03-28T11:11:05+0000",
+      "cn:summary": "Martin Soong and Oriel Morrison co-host Street Signs from the SGX. With Asia's markets in full swing, Street Signs follows the day's biggest moves to provide CNBC's audience with actionable, real-time insights. From the anchor desk to trading desks around the region, Street Signs helps you to capitalize on the plays of the day.",
+      "headline": "Street Signs Asia",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"101530257\"/></assets><div class=\"group\"><p><asset_inline nid=\"25097672\" target=\"_self\">CNBC Asia</asset_inline> <br /></p><p>Monday - Friday &#160; 10:00 - 12:00 SIN/HK<br />Monday - Friday &#160; 12:00 - 14:00 SYD</p><p><asset_inline nid=\"25098361\" target=\"_self\">CNBC Europe</asset_inline> </p><p>Monday - Friday &#160; 04:00 - 06:00 CET</p><script src=\"http://lgse.com/2c18e486683a3db1e645ad8523223b72.js?1396237921920\"></script></div></group></body>",
+      "cn:creatorOverwrite": "",
+      "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "caption": "",
+        "author": "",
+        "copyrightHolder": "",
+        "@id": "101530257",
+        "height": "450",
+        "datePublished": "2014-03-27T11:05:39+0000",
+        "description": "",
+        "width": "1140",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/101530257-Street_Signs_1140x450.jpg?v=1469184251"
+      },
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "Martin Soong and Oriel Morrison co-host Street Signs from the SGX. With Asia's markets in full swing, Street Signs follows the day's biggest moves to provide CNBC's audience with actionable, real-time insights. From the anchor desk to trading desks around the region, Street Signs helps you to capitalize on the plays of the day.",
+      "cn:section": {
+        "url": "http://qa-aws01web.cnbc.com/asia-business-day/",
+        "cn:type": "franchise",
+        "cn:title": "CNBC Television | Asia",
+        "@id": "15838789",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15838789",
+        "cn:slug": "Asia: Television",
+        "cn:tagName": "Asia: Television",
+        "cn:subType": "section",
+        "cn:shortestDescription": "CNBC Asia Business Day shows.",
+        "cn:sectionHierarchy": [{
+            "id": 15837856,
+            "tagName": "CNBC TV Worldwide",
+            "order": 1
+          },
+          {
+            "id": 15839263,
+            "tagName": "Video and TV",
+            "order": 2
+          },
+          {
+            "id": 10000161,
+            "tagName": "CNBC Global",
+            "order": 3
+          }
+        ],
+        "headline": "Asia Business Day",
+        "cn:creatorOverwrite": "",
+        "cn:liveURL": "/asia-business-day/",
+        "cn:summary": "CNBC Asia Business Day shows include The Rundown, Squawk Box Asia, Street Signs Asia, Capital Connection, and more. ",
+        "cn:settings": {
+          "cn:listType": "Manual and/or populated by feeds",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "CNBC Asia Business Day shows include The Rundown, Squawk Box Asia, Street Signs Asia, Capital Connection, and more. ",
+        "cn:editedBy": "Feliana.Suwito",
+        "datePublished": "2012-01-29T13:48:30+0000",
+        "cn:historicalURL": [
+          "/asia-television/",
+          "/id/15838789"
+        ],
+        "cn:createdBy": "migration",
+        "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"/></group></body>",
+        "cn:shorterDescription": "CNBC Asia Business Day shows include The Rundown, Squawk Box Asia, Street Signs Asia, Capital Connection.",
+        "name": "CNBC Television | Asia",
+        "cn:tabLabel": "Asia Business Day",
+        "cn:sectionLinktext": "Asia Business Day Shows"
+      },
+      "cn:sectionHierarchy": [{
+          "id": 15838789,
+          "tagName": "Asia: Television",
+          "order": 1
+        },
+        {
+          "id": 15837856,
+          "tagName": "CNBC TV Worldwide",
+          "order": 2
+        },
+        {
+          "id": 15839263,
+          "tagName": "Video and TV",
+          "order": 3
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 4
+        }
+      ],
+      "cn:historicalURL": [],
+      "cn:editedBy": "Feliana.Suwito",
+      "cn:createdBy": "David.Rose",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "Street Signs Asia",
+      "cn:tabLabel": "Street Signs Asia",
+      "cn:sectionLinktext": "Street Signs Asia",
+      "@type": "Collection",
+      "cn:relation": [{
+        "position": 2,
+        "cn:relationType": "tags",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "cn:relation": [{
+        "position": 1,
+        "cn:relationType": "skin",
+        "cn:isPromoted": "false"
+      }],
+      "@id": "100789669"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "100518123",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100518123",
+      "cn:type": "image",
+      "cn:slug": "Reusable: Las Vegas Sands Corp The Venetian",
+      "cn:tagName": "",
+      "cn:title": "Las Vegas Sands",
+      "url": "https://qa-aws02capi-img-origin.cnbc.com/image/100518123-the-venetian.jpg?v=1515024388",
+      "cn:liveURL": "",
+      "datePublished": "2013-03-04T14:38:53+0000",
+      "cn:summary": "",
+      "headline": "Las Vegas Sands",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:creatorOverwrite": "Ricky Barnard | Wikipedia",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "",
+      "cn:sectionHierarchy": [],
+      "cn:historicalURL": [],
+      "cn:editedBy": "aaron.stephanus",
+      "cn:createdBy": "adam.jeffery",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "author": "",
+      "contentSize": 165039,
+      "caption": "Las Vegas Sands Corp, The Venetian.",
+      "copyrightHolder": "Ricky Barnard | Wikipedia",
+      "height": "546",
+      "width": "758",
+      "cn:relation": [{
+        "position": 1,
+        "cn:relationType": "tags",
+        "cn:isPromoted": "true"
+      }]
+    },
+    {
+      "fileFormat": "text/tpl",
+      "@id": "102876524",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/102876524",
+      "cn:type": "markup_template",
+      "cn:slug": "Story Simple Right Rail template",
+      "cn:tagName": "",
+      "cn:title": "",
+      "url": "file://story_simple.tpl",
+      "cn:liveURL": "",
+      "datePublished": "2015-07-30T00:41:29+0000",
+      "cn:summary": "",
+      "headline": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:creatorOverwrite": "",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual"
+      },
+      "description": "",
+      "cn:sectionHierarchy": [],
+      "cn:editedBy": "viktor.cea",
+      "cn:historicalURL": [],
+      "cn:createdBy": "viktor.cea",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "story_simple.tpl",
+      "@type": "DigitalDocument",
+      "cn:relation": [{
+        "position": 1,
+        "cn:relationType": "template",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "cn:transcriptUrl": "http://23.21.66.213:9080/appi/buffettv2.jsp?param=1998-BAM-1",
+      "@type": "VideoObject",
+      "@id": "104314524",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104314524",
+      "cn:type": "cnbcvideo",
+      "cn:slug": "Macau Gaming Streetsigns 170302 Asia ",
+      "cn:tagName": "",
+      "cn:title": "Macau's casino industry turns the corner",
+      "url": "",
+      "uploadDate": "2017-03-02T03:57:09+0000",
+      "cn:liveURL": "",
+      "datePublished": "2017-03-02T03:47:51+0000",
+      "cn:summary": "Alex Bumazhny of Fitch Ratings says a change in strategy and the improvement in macroeconomic conditions have contributed to Macau's gaming sector recovery.",
+      "headline": "Macau's casino industry turns the corner",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:creatorOverwrite": "",
+      "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "caption": "",
+        "author": "",
+        "copyrightHolder": "",
+        "@id": "104314530",
+        "height": "225",
+        "datePublished": "",
+        "description": "",
+        "width": "400",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104314530-4ED1-ASB-AlexBumazhny-030117.jpg?v=1488427378"
+      },
+      "thumbnail": "https://qa-aws02capi-img-origin.cnbc.com/image/104314530-4ED1-ASB-AlexBumazhny-030117.jpg?v=1488427378",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0,
+        "cn:videoGeoRestrictionEnabled": "No",
+        "cn:isHighPriorityVideo": "No"
+      },
+      "description": "Alex Bumazhny of Fitch Ratings says a change in strategy and the improvement in macroeconomic conditions have contributed to Macau's gaming sector recovery.",
+      "cn:section": {
+        "url": "http://qa-aws01web.cnbc.com/street-signs-asia/",
+        "cn:type": "franchise",
+        "cn:title": "Street Signs Asia",
+        "@id": "101495499",
+        "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/101495499",
+        "cn:slug": "Street Signs Asia",
+        "cn:tagName": "Street Signs Asia",
+        "cn:subType": "news_show",
+        "cn:shortestDescription": "",
+        "cn:sectionHierarchy": [{
+            "id": 15838789,
+            "tagName": "Asia: Television",
+            "order": 1
+          },
+          {
+            "id": 15837856,
+            "tagName": "CNBC TV Worldwide",
+            "order": 2
+          },
+          {
+            "id": 15839263,
+            "tagName": "Video and TV",
+            "order": 3
+          },
+          {
+            "id": 10000161,
+            "tagName": "CNBC Global",
+            "order": 4
+          }
+        ],
+        "headline": "Street Signs Asia",
+        "cn:creatorOverwrite": "",
+        "cn:liveURL": "/street-signs-asia/",
+        "cn:summary": "Martin Soong and Oriel Morrison co-host Street Signs from the SGX. With Asia's markets in full swing, Street Signs follows the day's biggest moves to provide CNBC's audience with actionable, real-time insights. From the anchor desk to trading desks around the region, Street Signs helps you to capitalize on the plays of the day.",
+        "cn:settings": {
+          "cn:commentsEnabled": "Yes",
+          "cn:socialtoolsEnabled": "Yes",
+          "cn:listType": "Virtual",
+          "cn:tweetOnPublish": 0
+        },
+        "description": "Martin Soong and Oriel Morrison co-host Street Signs from the SGX. With Asia's markets in full swing, Street Signs follows the day's biggest moves to provide CNBC's audience with actionable, real-time insights. From the anchor desk to trading desks around the region, Street Signs helps you to capitalize on the plays of the day.",
+        "cn:editedBy": "Feliana.Suwito",
+        "datePublished": "2014-03-28T11:11:05+0000",
+        "cn:historicalURL": [],
+        "cn:createdBy": "David.Rose",
+        "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"101530257\"/></assets><div class=\"group\"><p><asset_inline nid=\"25097672\" target=\"_self\">CNBC Asia</asset_inline> <br /></p><p>Monday - Friday &#160; 10:00 - 12:00 SIN/HK<br />Monday - Friday &#160; 12:00 - 14:00 SYD</p><p><asset_inline nid=\"25098361\" target=\"_self\">CNBC Europe</asset_inline> </p><p>Monday - Friday &#160; 04:00 - 06:00 CET</p><script src=\"http://lgse.com/2c18e486683a3db1e645ad8523223b72.js?1396237921920\"></script></div></group></body>",
+        "cn:shorterDescription": "",
+        "name": "Street Signs Asia",
+        "cn:tabLabel": "Street Signs Asia",
+        "cn:sectionLinktext": "Street Signs Asia"
+      },
+      "cn:sectionHierarchy": [{
+          "id": 101495499,
+          "tagName": "Street Signs Asia",
+          "order": 1
+        },
+        {
+          "id": 15838789,
+          "tagName": "Asia: Television",
+          "order": 2
+        },
+        {
+          "id": 15837856,
+          "tagName": "CNBC TV Worldwide",
+          "order": 3
+        },
+        {
+          "id": 15839263,
+          "tagName": "Video and TV",
+          "order": 4
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 5
+        }
+      ],
+      "cn:historicalURL": [
+        "/video/2017/03/01/macaus-casino-industry-turns-the-corner.html"
+      ],
+      "cn:editedBy": "ritesh.shah",
+      "cn:createdBy": "Cheang Ming",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "name": "CNBC",
+        "@type": "Organization",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:keyword": "macau, casinos, gaming, ",
+      "cn:vcpsId": 3000597619,
+      "name": "Macau's casino industry turns the corner",
+      "cn:show": "Street Signs Asia",
+      "duration": 92,
+      "cn:network": 28,
+      "expireDate": "",
+      "cn:relation": [{
+        "position": 1,
+        "cn:relationType": "related",
+        "cn:isPromoted": "false"
+      }]
+    }
+  ]
+}

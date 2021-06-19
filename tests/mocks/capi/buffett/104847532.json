@@ -1,0 +1,69 @@
+{
+  "@id": "104847532",
+  "cn:type": "franchise",
+  "cn:slug": "Buffett A-Z",
+  "cn:createdBy": "Lisa.Steiger@nbcuni.com",
+  "cn:editedBy": "ashish.gupta",
+  "cn:title": "Buffett A-Z",
+  "headline": "Buffett A-Z",
+  "cn:sectionLabel": "Buffett A-Z",
+  "cn:creatorOverwrite": "",
+  "cn:branding": "buffett",
+  "cn:subDomain": "https://qa-aws01make-it.cnbc.com",
+  "cn:historicalURL": [],
+  "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847532",
+  "cn:liveURL": "/buffett-a-z/",
+  "cn:subType": "section",
+  "datePublished": "2018-01-31T17:12:17+0000",
+  "cn:summary": "",
+  "cn:shorterDescription": "",
+  "cn:shortestDescription": "",
+  "cn:bodyTeaser": "null",
+  "url": "https://qa-aws01make-it.cnbc.com/buffett-a-z/",
+  "cn:sectionHierarchy": [{
+      "id": 104847371,
+      "tagName": "Buffett Archive",
+      "order": 1
+    },
+    {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 2
+    }
+  ],
+  "cn:settings": {
+    "cn:commentsEnabled": "Yes",
+    "cn:socialtoolsEnabled": "Yes",
+    "cn:dateline": "Yes",
+    "cn:displayByline": "Yes",
+    "cn:displaySource": "Yes",
+    "cn:outbrainEnabled": "Yes",
+    "cn:isFamilyFriendly": "Yes",
+    "cn:listType": "Virtual",
+    "cn:tweetOnPublish": 0
+  },
+  "description": "",
+  "@context": {
+    "cn": "http://cnbc.com/schema/",
+    "@vocab": "http://schema.org/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "CNBC",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "name": "Buffett A-Z",
+  "cn:sectionColor": "#000000",
+  "cn:promoText": "",
+  "cn:showTime": "",
+  "cn:tabLabel": "",
+  "cn:sectionLinktext": "",
+  "@type": "Collection",
+  "cn:xmlArticleBody": "null",
+  "articlebody": "null",
+  "cn:xmlKeyPoints": "null",
+  "dateModified": "2018-02-04T09:15:39+0000",
+  "cn:dateLastPublished": "2018-02-04T09:15:45+0000",
+  "cn:unpublishDate": "",
+  "cn:association": []
+}

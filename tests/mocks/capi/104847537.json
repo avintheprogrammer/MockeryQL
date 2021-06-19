@@ -1,0 +1,833 @@
+{
+  "@id": "104847537",
+  "cn:type": "franchise",
+  "cn:slug": "2017 Berkshire Hathaway Annual Meeting",
+  "cn:createdBy": "Lisa.Steiger@nbcuni.com",
+  "cn:editedBy": "chandraM",
+  "cn:title": "2017 Berkshire Hathaway Annual Meeting",
+  "headline": "2017 Annual Meeting",
+  "cn:sectionLabel": "2017 Annual Meeting",
+  "cn:creatorOverwrite": "",
+  "cn:branding": "buffett",
+  "cn:subDomain": "https://qa-aws01buffett.cnbc.com",
+  "cn:historicalURL": [],
+  "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847537",
+  "cn:liveURL": "/2017-berkshire-hathaway-annual-meeting/",
+  "cn:subType": "section",
+  "datePublished": "2018-01-31T17:20:59+0000",
+  "cn:summary": "A series of scandals at Wells Fargo has Buffett defending Berkshire’s big stake in the bank. He also makes the case for his Coca-Cola habit, explains why he changed his mind on the airline stocks he once called a “death trap,” criticizes “financial helpers,” and reveals the stock he was “too dumb” to even consider buying. ",
+  "cn:shorterDescription": "Buffett defends Berkshire’s investment in scandal-plagued Wells Fargo.",
+  "cn:shortestDescription": "",
+  "cn:bodyTeaser": "null",
+  "url": "https://qa-aws01buffett.cnbc.com/2017-berkshire-hathaway-annual-meeting/",
+  "cn:sectionHierarchy": [{
+      "id": 104847528,
+      "tagName": "",
+      "order": 1
+    },
+    {
+      "id": 104847371,
+      "tagName": "Buffett Archive",
+      "order": 2
+    },
+    {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 3
+    }
+  ],
+  "cn:featuredMedia": {
+    "cn:isPromoted": "false",
+    "cn:transcriptUrl": "http://23.21.66.213:9080/appi/buffettv2.jsp?param=1998-BAM-1",
+    "@type": "VideoObject",
+    "@id": "104846809",
+    "cn:type": "cnbcvideo",
+    "cn:slug": "BL ROY MOORE 111617 hurt ec",
+    "cn:createdBy": "Timothy.Hurt",
+    "cn:editedBy": "Timothy.Hurt",
+    "cn:title": "Four more women make allegations against Roy Moore",
+    "headline": "Four more women make allegations against Roy Moore",
+    "cn:creatorOverwrite": "",
+    "cn:historicalURL": [],
+    "uploadDate": "2017-11-16T13:20:33+0000",
+    "image": {
+      "@type": "ImageObject",
+      "representativeOfPage": "true",
+      "caption": "",
+      "author": "",
+      "copyrightHolder": "",
+      "@id": "104846954",
+      "height": "225",
+      "datePublished": 0,
+      "description": "",
+      "width": "400",
+      "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104846954-5ED5-BL-Moore-111617.jpg?v=1510842412"
+    },
+    "thumbnail": "https://qa-aws02capi-img-origin.cnbc.com/image/104846954-5ED5-BL-Moore-111617.jpg?v=1510842412",
+    "cn:keyword": "Roy Moore",
+    "cn:vcpsId": 3000671730,
+    "name": "Four more women make allegations against Roy Moore",
+    "cn:show": "The Bottom Line",
+    "duration": 56,
+    "cn:network": 1,
+    "encodings": [{
+        "@type": "VideoObject",
+        "url": "http://vcps.cnbc.com/vcps/media/content?id=MzAwMDY3MTczMAptcGVnNF81MDAwMDAKU3RyZWFtaW5n&UserName=cmsguest@cnbc.com&key=NA",
+        "encodingFormat": "mpeg4",
+        "bitrate": 500000,
+        "cn:protocol": "Streaming",
+        "cn:formatName": "mpeg4_500000_Streaming"
+      },
+      {
+        "@type": "VideoObject",
+        "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M11D16/3000671730/5ED5-BL-Moore-111617_L.mp4",
+        "encodingFormat": "mpeg4",
+        "bitrate": 500000,
+        "cn:protocol": "Download",
+        "cn:formatName": "mpeg4_500000_Download"
+      },
+      {
+        "@type": "VideoObject",
+        "url": "http://vcps.cnbc.com/vcps/media/content?id=MzAwMDY3MTczMAptcGVnNHdfNDUwMEsKU3RyZWFtaW5n&UserName=cmsguest@cnbc.com&key=NA",
+        "encodingFormat": "mpeg4",
+        "bitrate": 4500000,
+        "cn:protocol": "Streaming",
+        "cn:formatName": "mpeg4_4500000_Streaming"
+      },
+      {
+        "@type": "VideoObject",
+        "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M11D16/3000671730/5ED5-BL-Moore-111617_MBR_4500.mp4",
+        "encodingFormat": "mpeg4",
+        "bitrate": 4500000,
+        "cn:protocol": "Download",
+        "cn:formatName": "mpeg4_4500000_Download"
+      },
+      {
+        "@type": "VideoObject",
+        "url": "http://vcps.cnbc.com/vcps/media/content?id=MzAwMDY3MTczMApGTFZfNDMyeDI0MF8zMHBfNTAwSwpTdHJlYW1pbmc&UserName=cmsguest@cnbc.com&key=NA",
+        "encodingFormat": "flv",
+        "bitrate": 500000,
+        "cn:protocol": "Streaming",
+        "cn:formatName": "flv_500000_Streaming"
+      },
+      {
+        "@type": "VideoObject",
+        "url": "ftp://cnbc.upload.akamai.com/23727/flash/VCPS/Y2017/M11D16/3000671730/5ED5-BL-Moore-111617_FLV_432x240_30p_500K.flv",
+        "encodingFormat": "flv",
+        "bitrate": 500000,
+        "cn:protocol": "Download",
+        "cn:formatName": "flv_500000_Download"
+      },
+      {
+        "@type": "VideoObject",
+        "url": "http://cnbcmbr-vh.akamaihd.net/i/mp4/VCPS/Y2017/M11D16/3000671730/5ED5-BL-Moore-111617_MBR_0500.mp4/master.m3u8",
+        "encodingFormat": "mpeg4",
+        "bitrate": 500000,
+        "cn:protocol": "HLSSBRStreaming",
+        "cn:formatName": "mpeg4_500000_HLSSBRStreaming"
+      },
+      {
+        "@type": "VideoObject",
+        "url": "http://cnbcmbr-vh.akamaihd.net/z/mp4/VCPS/Y2017/M11D16/3000671730/5ED5-BL-Moore-111617_MBR_0500.mp4/manifest.f4m",
+        "encodingFormat": "mpeg4",
+        "bitrate": 500000,
+        "cn:protocol": "HDNSBRStreaming",
+        "cn:formatName": "mpeg4_500000_HDNSBRStreaming"
+      },
+      {
+        "@type": "VideoObject",
+        "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M11D16/3000671730/5ED5-BL-Moore-111617_H264_126K.mp4",
+        "encodingFormat": "mpeg4",
+        "bitrate": 200000,
+        "cn:protocol": "Download",
+        "cn:formatName": "mpeg4_200000_Download"
+      },
+      {
+        "@type": "VideoObject",
+        "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M11D16/3000671730/5ED5-BL-Moore-111617_H264_480x270_25p_500K.mp4",
+        "encodingFormat": "mpeg4",
+        "bitrate": 600000,
+        "cn:protocol": "Download",
+        "cn:formatName": "mpeg4_600000_Download"
+      },
+      {
+        "@type": "VideoObject",
+        "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M11D16/3000671730/5ED5-BL-Moore-111617_H264_720x405_30p_1M.mp4",
+        "encodingFormat": "mpeg4",
+        "bitrate": 1100000,
+        "cn:protocol": "Download",
+        "cn:formatName": "mpeg4_1100000_Download"
+      },
+      {
+        "@type": "VideoObject",
+        "url": "http://cnbcmbr-vh.akamaihd.net/i/mp4/VCPS/Y2017/M11D16/3000671730/5ED5-BL-Moore-111617_MBR_,0240,0300,0500,0700,0900,1300,1700,4500,.mp4.csmil/master.m3u8",
+        "encodingFormat": "mpeg4",
+        "bitrate": 1,
+        "cn:protocol": "HLSMBRStreaming",
+        "cn:formatName": "mpeg4_1_HLSMBRStreaming"
+      },
+      {
+        "@type": "VideoObject",
+        "url": "http://cnbcmbr-vh.akamaihd.net/z/mp4/VCPS/Y2017/M11D16/3000671730/5ED5-BL-Moore-111617_MBR_,0240,0300,0500,0700,0900,1300,1700,4500,.mp4.csmil/manifest.f4m",
+        "encodingFormat": "mpeg4",
+        "bitrate": 1,
+        "cn:protocol": "HDNMBRStreaming",
+        "cn:formatName": "mpeg4_1_HDNMBRStreaming"
+      }
+    ],
+    "expireDate": ""
+  },
+  "cn:settings": {
+    "cn:commentsEnabled": "Yes",
+    "cn:socialtoolsEnabled": "Yes",
+    "cn:dateline": "Yes",
+    "cn:displayByline": "Yes",
+    "cn:displaySource": "Yes",
+    "cn:outbrainEnabled": "Yes",
+    "cn:isFamilyFriendly": "Yes",
+    "cn:listType": "Virtual",
+    "cn:tweetOnPublish": 0
+  },
+  "description": "A series of scandals at Wells Fargo has Buffett defending Berkshire’s big stake in the bank. He also makes the case for his Coca-Cola habit, explains why he changed his mind on the airline stocks he once called a “death trap,” criticizes “financial helpers,” and reveals the stock he was “too dumb” to even consider buying. ",
+  "@context": {
+    "cn": "http://cnbc.com/schema/",
+    "@vocab": "http://schema.org/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "CNBC",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "name": "2017 Berkshire Hathaway Annual Meeting",
+  "cn:sectionColor": "#000000",
+  "cn:promoText": "",
+  "cn:showTime": "",
+  "cn:tabLabel": "2017",
+  "cn:sectionLinktext": "2017 Berkshire Hathaway Annual Meeting",
+  "@type": "Collection",
+  "cn:xmlArticleBody": "null",
+  "articlebody": "null",
+  "cn:xmlKeyPoints": "null",
+  "dateModified": "2018-02-05T18:20:39+0000",
+  "cn:dateLastPublished": "2018-02-05T18:20:47+0000",
+  "cn:unpublishDate": "",
+  "cn:association": [{
+      "@id": "104847528",
+      "cn:type": "franchise",
+      "cn:slug": "Buffett Annual Meetings",
+      "cn:createdBy": "Lisa.Steiger@nbcuni.com",
+      "cn:editedBy": "rekha.ponnur",
+      "cn:title": "Annual Meetings",
+      "headline": "Annual Meetings",
+      "cn:sectionLabel": "Annual Meetings",
+      "cn:creatorOverwrite": "",
+      "cn:branding": "buffett",
+      "cn:subDomain": "https://qa-aws01buffett.cnbc.com",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847528",
+      "cn:liveURL": "/annual-meetings/",
+      "cn:subType": "section",
+      "datePublished": "2018-01-31T17:13:28+0000",
+      "cn:summary": "ANNUAL MEETIMGS : Berkshire Hathaway’s annual meetings are a financial pilgrimage, drawing throngs of Warren Buffett’s admirers from around the globe to witness him and his vice chairman, Charlie Munger, take questions from journalists, analysts, and shareholders for seven hours in Omaha, Nebraska.",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "url": "https://qa-aws01buffett.cnbc.com/annual-meetings/",
+      "cn:sectionHierarchy": [{
+          "id": 104847371,
+          "tagName": "Buffett Archive",
+          "order": 1
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 2
+        }
+      ],
+      "cn:featuredMedia": {
+        "cn:isPromoted": "false",
+        "cn:isHighTouch": "false",
+        "@type": "ImageObject",
+        "cn:subDomain": "https://qa-aws01make-it.cnbc.com",
+        "cn:branding": "makeit",
+        "cn:type": "image",
+        "headline": "test-ddqa21",
+        "cn:creatorOverwrite": "",
+        "@id": "104847367",
+        "cn:slug": "test-ddqa21",
+        "cn:historicalURL": [],
+        "cn:title": "test-ddqa21",
+        "cn:editedBy": "sekhar.badugu",
+        "cn:createdBy": "qauser",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104847367-basketball_04_hd_picture_168231.jpg?v=1517612821",
+        "author": "",
+        "contentSize": 38256,
+        "caption": "",
+        "description": "",
+        "height": "353",
+        "width": "600"
+      },
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "ANNUAL MEETIMGS : Berkshire Hathaway’s annual meetings are a financial pilgrimage, drawing throngs of Warren Buffett’s admirers from around the globe to witness him and his vice chairman, Charlie Munger, take questions from journalists, analysts, and shareholders for seven hours in Omaha, Nebraska.",
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "Annual Meetings",
+      "cn:sectionColor": "#000000",
+      "cn:promoText": "",
+      "cn:showTime": "",
+      "cn:tabLabel": "",
+      "cn:sectionLinktext": "",
+      "@type": "Collection",
+      "cn:relation": [{
+        "position": 5000,
+        "cn:relationType": "section",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "cn:transcriptUrl": "http://23.21.66.213:9080/appi/buffettv2.jsp?param=1998-BAM-1",
+      "@type": "VideoObject",
+      "@id": "104846809",
+      "cn:type": "cnbcvideo",
+      "cn:slug": "BL ROY MOORE 111617 hurt ec",
+      "cn:createdBy": "Timothy.Hurt",
+      "cn:editedBy": "Timothy.Hurt",
+      "cn:title": "Four more women make allegations against Roy Moore",
+      "headline": "Four more women make allegations against Roy Moore",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "uploadDate": "2017-11-16T13:20:33+0000",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104846809",
+      "cn:liveURL": "/video/2017/11/16/four-more-women-make-allegations-against-roy-moore.html",
+      "datePublished": "2017-11-16T13:20:07+0000",
+      "cn:summary": "The new accounts bring the total to nine women who have alleged inappropriate sexual behavior by Moore, which he denies. ",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "url": "http://qa-aws01web.cnbc.com/video/2017/11/16/four-more-women-make-allegations-against-roy-moore.html",
+      "cn:sectionHierarchy": [{
+          "id": 102932911,
+          "tagName": "The Bottom Line",
+          "order": 1
+        },
+        {
+          "id": 102,
+          "tagName": "Markets",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "caption": "",
+        "author": "",
+        "copyrightHolder": "",
+        "@id": "104846954",
+        "height": "225",
+        "datePublished": "",
+        "description": "",
+        "width": "400",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104846954-5ED5-BL-Moore-111617.jpg?v=1510842412"
+      },
+      "thumbnail": "https://qa-aws02capi-img-origin.cnbc.com/image/104846954-5ED5-BL-Moore-111617.jpg?v=1510842412",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0,
+        "cn:videoGeoRestrictionEnabled": "No",
+        "cn:isHighPriorityVideo": "No"
+      },
+      "description": "The new accounts bring the total to nine women who have alleged inappropriate sexual behavior by Moore, which he denies. ",
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:keyword": "Roy Moore",
+      "cn:vcpsId": 3000671730,
+      "name": "Four more women make allegations against Roy Moore",
+      "cn:show": "The Bottom Line",
+      "duration": 56,
+      "cn:network": 1,
+      "encodings": [{
+          "@type": "VideoObject",
+          "url": "http://vcps.cnbc.com/vcps/media/content?id=MzAwMDY3MTczMAptcGVnNF81MDAwMDAKU3RyZWFtaW5n&UserName=cmsguest@cnbc.com&key=NA",
+          "encodingFormat": "mpeg4",
+          "bitrate": 500000,
+          "cn:protocol": "Streaming",
+          "cn:formatName": "mpeg4_500000_Streaming"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M11D16/3000671730/5ED5-BL-Moore-111617_L.mp4",
+          "encodingFormat": "mpeg4",
+          "bitrate": 500000,
+          "cn:protocol": "Download",
+          "cn:formatName": "mpeg4_500000_Download"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://vcps.cnbc.com/vcps/media/content?id=MzAwMDY3MTczMAptcGVnNHdfNDUwMEsKU3RyZWFtaW5n&UserName=cmsguest@cnbc.com&key=NA",
+          "encodingFormat": "mpeg4",
+          "bitrate": 4500000,
+          "cn:protocol": "Streaming",
+          "cn:formatName": "mpeg4_4500000_Streaming"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M11D16/3000671730/5ED5-BL-Moore-111617_MBR_4500.mp4",
+          "encodingFormat": "mpeg4",
+          "bitrate": 4500000,
+          "cn:protocol": "Download",
+          "cn:formatName": "mpeg4_4500000_Download"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://vcps.cnbc.com/vcps/media/content?id=MzAwMDY3MTczMApGTFZfNDMyeDI0MF8zMHBfNTAwSwpTdHJlYW1pbmc&UserName=cmsguest@cnbc.com&key=NA",
+          "encodingFormat": "flv",
+          "bitrate": 500000,
+          "cn:protocol": "Streaming",
+          "cn:formatName": "flv_500000_Streaming"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "ftp://cnbc.upload.akamai.com/23727/flash/VCPS/Y2017/M11D16/3000671730/5ED5-BL-Moore-111617_FLV_432x240_30p_500K.flv",
+          "encodingFormat": "flv",
+          "bitrate": 500000,
+          "cn:protocol": "Download",
+          "cn:formatName": "flv_500000_Download"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://cnbcmbr-vh.akamaihd.net/i/mp4/VCPS/Y2017/M11D16/3000671730/5ED5-BL-Moore-111617_MBR_0500.mp4/master.m3u8",
+          "encodingFormat": "mpeg4",
+          "bitrate": 500000,
+          "cn:protocol": "HLSSBRStreaming",
+          "cn:formatName": "mpeg4_500000_HLSSBRStreaming"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://cnbcmbr-vh.akamaihd.net/z/mp4/VCPS/Y2017/M11D16/3000671730/5ED5-BL-Moore-111617_MBR_0500.mp4/manifest.f4m",
+          "encodingFormat": "mpeg4",
+          "bitrate": 500000,
+          "cn:protocol": "HDNSBRStreaming",
+          "cn:formatName": "mpeg4_500000_HDNSBRStreaming"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M11D16/3000671730/5ED5-BL-Moore-111617_H264_126K.mp4",
+          "encodingFormat": "mpeg4",
+          "bitrate": 200000,
+          "cn:protocol": "Download",
+          "cn:formatName": "mpeg4_200000_Download"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M11D16/3000671730/5ED5-BL-Moore-111617_H264_480x270_25p_500K.mp4",
+          "encodingFormat": "mpeg4",
+          "bitrate": 600000,
+          "cn:protocol": "Download",
+          "cn:formatName": "mpeg4_600000_Download"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M11D16/3000671730/5ED5-BL-Moore-111617_H264_720x405_30p_1M.mp4",
+          "encodingFormat": "mpeg4",
+          "bitrate": 1100000,
+          "cn:protocol": "Download",
+          "cn:formatName": "mpeg4_1100000_Download"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://cnbcmbr-vh.akamaihd.net/i/mp4/VCPS/Y2017/M11D16/3000671730/5ED5-BL-Moore-111617_MBR_,0240,0300,0500,0700,0900,1300,1700,4500,.mp4.csmil/master.m3u8",
+          "encodingFormat": "mpeg4",
+          "bitrate": 1,
+          "cn:protocol": "HLSMBRStreaming",
+          "cn:formatName": "mpeg4_1_HLSMBRStreaming"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://cnbcmbr-vh.akamaihd.net/z/mp4/VCPS/Y2017/M11D16/3000671730/5ED5-BL-Moore-111617_MBR_,0240,0300,0500,0700,0900,1300,1700,4500,.mp4.csmil/manifest.f4m",
+          "encodingFormat": "mpeg4",
+          "bitrate": 1,
+          "cn:protocol": "HDNMBRStreaming",
+          "cn:formatName": "mpeg4_1_HDNMBRStreaming"
+        }
+      ],
+      "expireDate": "",
+      "cn:relation": [{
+        "position": 5000,
+        "cn:relationType": "featured_media",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@id": "104847509",
+      "cn:type": "franchise",
+      "cn:slug": "Todd Combs section",
+      "cn:createdBy": "Steve.Hsu",
+      "cn:editedBy": "Steve.Hsu",
+      "cn:title": "Todd Combs",
+      "headline": "Millennials",
+      "cn:sectionLabel": "Millennials",
+      "cn:creatorOverwrite": "",
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01web.cnbc.com",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847509",
+      "cn:liveURL": "/todd-combs-hedge-fund-manager/",
+      "cn:subType": "news_section",
+      "datePublished": "2018-01-30T03:30:40+0000",
+      "cn:summary": "",
+      "cn:shorterDescription": "Millennials",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><br /></p><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div></div></group></body>",
+      "url": "https://qa-aws01web.cnbc.com/todd-combs-hedge-fund-manager/",
+      "cn:sectionHierarchy": [{
+          "id": 10000293,
+          "tagName": "Hedge Funds",
+          "order": 1
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "Millennials",
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "Todd Combs",
+      "cn:sectionColor": "#000000",
+      "cn:promoText": "",
+      "cn:showTime": "",
+      "cn:tabLabel": "Millennials",
+      "cn:sectionLinktext": "Millennials",
+      "@type": "Collection",
+      "cn:relation": [{
+        "position": 4,
+        "cn:relationType": "carousel",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@id": "104847515",
+      "cn:type": "franchise",
+      "cn:slug": "Coca-cola section",
+      "cn:createdBy": "Steve.Hsu",
+      "cn:editedBy": "Steve.Hsu",
+      "cn:title": "Coca-cola",
+      "headline": "Millennials",
+      "cn:sectionLabel": "Millennials",
+      "cn:creatorOverwrite": "",
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01web.cnbc.com",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847515",
+      "cn:liveURL": "/coca-cola-beveage/",
+      "cn:subType": "news_section",
+      "datePublished": "2018-01-30T03:41:26+0000",
+      "cn:summary": "",
+      "cn:shorterDescription": "Millennials",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><br /></p><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div></div></group></body>",
+      "url": "https://qa-aws01web.cnbc.com/coca-cola-beveage/",
+      "cn:sectionHierarchy": [{
+          "id": 10000740,
+          "tagName": "Food and Beverage",
+          "order": 1
+        },
+        {
+          "id": 10000826,
+          "tagName": "Consumer",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "Millennials",
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "Coca-cola",
+      "cn:sectionColor": "#000000",
+      "cn:promoText": "",
+      "cn:showTime": "",
+      "cn:tabLabel": "Millennials",
+      "cn:sectionLinktext": "Millennials",
+      "@type": "Collection",
+      "cn:relation": [{
+        "position": 3,
+        "cn:relationType": "carousel",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@id": "104847512",
+      "cn:type": "franchise",
+      "cn:slug": "Geico Insurance",
+      "cn:createdBy": "Steve.Hsu",
+      "cn:editedBy": "Steve.Hsu",
+      "cn:title": "Geico",
+      "headline": "Millennials",
+      "cn:sectionLabel": "Millennials",
+      "cn:creatorOverwrite": "",
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01web.cnbc.com",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847512",
+      "cn:liveURL": "/geico/",
+      "cn:subType": "news_section",
+      "datePublished": "2018-01-30T03:38:04+0000",
+      "cn:summary": "",
+      "cn:shorterDescription": "Millennials",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><br /></p><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div></div></group></body>",
+      "url": "https://qa-aws01web.cnbc.com/geico/",
+      "cn:sectionHierarchy": [{
+          "id": 10000878,
+          "tagName": "Insurance",
+          "order": 1
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "Millennials",
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "Geico",
+      "cn:sectionColor": "#000000",
+      "cn:promoText": "",
+      "cn:showTime": "",
+      "cn:tabLabel": "Millennials",
+      "cn:sectionLinktext": "Millennials",
+      "@type": "Collection",
+      "cn:relation": [{
+        "position": 2,
+        "cn:relationType": "carousel",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@id": "104847535",
+      "cn:type": "tag",
+      "cn:slug": "Berkshire Hathaway Annual Meeting",
+      "cn:createdBy": "Lisa.Steiger@nbcuni.com",
+      "cn:editedBy": "Lisa.Steiger@nbcuni.com",
+      "cn:title": "Berkshire Hathaway Annual Meeting",
+      "headline": "Berkshire Hathaway Annual Meeting",
+      "cn:creatorOverwrite": "",
+      "cn:subDomain": "",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847535",
+      "cn:liveURL": "/berkshire-hathaway-annual-meeting/",
+      "cn:subType": "topic",
+      "datePublished": "2018-01-31T16:14:10+0000",
+      "cn:summary": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "<body></body>",
+      "url": "/berkshire-hathaway-annual-meeting/",
+      "cn:sectionHierarchy": [],
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "",
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "@type": "CreativeWork",
+      "cn:relation": [{
+        "position": 1,
+        "cn:relationType": "tags",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@id": "104847511",
+      "cn:type": "franchise",
+      "cn:slug": "Ted Weschler section",
+      "cn:createdBy": "Steve.Hsu",
+      "cn:editedBy": "Steve.Hsu",
+      "cn:title": "Ted Weschler",
+      "headline": "Millennials",
+      "cn:sectionLabel": "Millennials",
+      "cn:creatorOverwrite": "",
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01web.cnbc.com",
+      "cn:historicalURL": [],
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104847511",
+      "cn:liveURL": "/ted-weschler-hedge-fund-manager/",
+      "cn:subType": "news_section",
+      "datePublished": "2018-01-30T03:33:38+0000",
+      "cn:summary": "",
+      "cn:shorterDescription": "Millennials",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><br /></p><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div></div></group></body>",
+      "url": "https://qa-aws01web.cnbc.com/ted-weschler-hedge-fund-manager/",
+      "cn:sectionHierarchy": [{
+          "id": 10000293,
+          "tagName": "Hedge Funds",
+          "order": 1
+        },
+        {
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "description": "Millennials",
+      "@context": {
+        "cn": "http://cnbc.com/schema/",
+        "@vocab": "http://schema.org/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "name": "Ted Weschler",
+      "cn:sectionColor": "#000000",
+      "cn:promoText": "",
+      "cn:showTime": "",
+      "cn:tabLabel": "Millennials",
+      "cn:sectionLinktext": "Millennials",
+      "@type": "Collection",
+      "cn:relation": [{
+        "position": 1,
+        "cn:relationType": "carousel",
+        "cn:isPromoted": "false"
+      }]
+    }
+  ]
+}

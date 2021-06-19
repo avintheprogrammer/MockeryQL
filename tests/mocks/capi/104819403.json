@@ -1,0 +1,43 @@
+{
+  "@type": "EntryPoint",
+  "@id": "104819403",
+  "cn:type": "webservice",
+  "cn:slug": "youtube obama summit",
+  "cn:title": "",
+  "cn:creatorOverwrite": "",
+  "cn:summary": "obamasummit",
+  "cn:shorterDescription": "obamasummit",
+  "cn:shortestDescription": "obamasummit",
+  "contentUrl": "http://qa-pa20capi-bl.cnbc.com/id/104819403",
+  "cn:settings": {
+    "cn:commentsEnabled": "Yes",
+    "cn:socialtoolsEnabled": "Yes",
+    "cn:dateline": "Yes",
+    "cn:displayByline": "Yes",
+    "cn:displaySource": "Yes",
+    "cn:outbrainEnabled": "Yes",
+    "cn:isFamilyFriendly": "Yes",
+    "cn:listType": "Virtual",
+    "cn:tweetOnPublish": 0
+  },
+  "datePublished": "2017-11-03T18:22:39 GMT",
+  "cn:widgetName": "facebook",
+  "cn:widgetDisplayName": "unique_name::facebook\r\ndisplay_name::Facebook",
+  "cn:parameters": {
+    "cn:parameter": [
+      "*src::<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/pg8hU_hmfQg?rel=0&amp;start=5090\" frameborder=\"0\" allowfullscreen></iframe>\r",
+      "allowfullscreen::0\r",
+      "frameborder::\r",
+      "height::"
+    ]
+  },
+  "@context": {
+    "cn": "http://cnbc.com/schema/",
+    "@vocab": "http://schema.org/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "CNBC",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  }
+}

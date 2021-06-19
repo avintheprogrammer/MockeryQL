@@ -1,0 +1,2470 @@
+{
+  "@id": "104768399",
+  "cn:type": "cnbcnewsstory",
+  "cn:slug": "bitcoin folo OBRIEN",
+  "cn:title": "Use caution before joining bitcoin frenzy",
+  "headline": "Use caution before joining bitcoin frenzy",
+  "cn:creatorOverwrite": "",
+  "cn:editedBy": "Skyler.Rogers",
+  "cn:historicalURL": [],
+  "cn:createdBy": "auto.videouser",
+  "cn:subDomain": "Make-It.CNBC.com",
+  "cn:branding": "Make It",
+  "cn:liveURL": "/2017/10/12/use-caution-before-joining-bitcoin-frenzy.html",
+  "cn:seoTitle": "Use caution before joining bitcoin frenzy",
+  "cn:summary": "Despite bitcoin's new high and increased investor interest, it remains a riskier investment.",
+  "cn:shorterDescription": "Despite bitcoin's new high, it remains a risky investment.",
+  "cn:shortestDescription": "Despite bitcoin's new high, it remains a risky investment.",
+  "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104768371\" autoplay_flag=\"false\"/></assets><div class=\"group\"><p>With bitcoin hitting a <asset_inline nid=\"104767939\">new all-time high</asset_inline> in early trading Thursday, investors might be wondering whether they should venture into the developing world of cryptocurrency.</p><p>Tread with caution.</p><p>Bitcoin reached $5,231.28 on the news that China might reverse its recent shutdown of cryptocurrency exchanges, surpassing its previous high of $5,013.91 hit on Sept. 2. Year to date, it's up about 424 percent. (Click on the&#160;chart below to enlarge.)</p></div></group></body>",
+  "cn:featuredMedia": {
+    "cn:isPromoted": "false",
+    "cn:isHighTouch": "false",
+    "cn:transcriptUrl": "http://23.21.66.213:9080/appi/buffettv2.jsp?param=1998-BAM-1",
+    "@id": "104768371",
+    "cn:type": "cnbcvideo",
+    "cn:slug": "jurbi wochit - bitcoin high",
+    "cn:title": "Bitcoin just hit a new all-time high ",
+    "headline": "Bitcoin just hit a new all-time high ",
+    "cn:creatorOverwrite": "",
+    "cn:historicalURL": [],
+    "cn:editedBy": "jaden.urbi@nbcuni.com",
+    "cn:createdBy": "jaden.urbi@nbcuni.com",
+    "cn:keyword": "bitcoin, cryptocurrency, ethereum, digital currency, china",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104768371",
+    "url": "http://qa-aws01web.cnbc.com/video/2017/10/12/bitcoin-just-hit-a-new-all-time-high-above-5100.html",
+    "cn:vcpsId": 3000662398,
+    "uploadDate": "2017-10-12T12:31:03+0000",
+    "cn:show": "Digital Original",
+    "duration": 52,
+    "thumbnail": "https://qa-aws02capi-img-origin.cnbc.com/image/104768407-4ED2-REQ-101217-BitcoinChina.jpg?v=1507812272",
+    "image": {
+      "@type": "ImageObject",
+      "representativeOfPage": "true",
+      "caption": "",
+      "author": "",
+      "copyrightHolder": "",
+      "@id": 104768407,
+      "height": "1080",
+      "datePublished": 0,
+      "description": "",
+      "width": "1920",
+      "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104768407-4ED2-REQ-101217-BitcoinChina.jpg?v=1507812272"
+    },
+    "cn:network": 1,
+    "encodings": [{
+        "@type": "VideoObject",
+        "url": "http://vcps.cnbc.com/vcps/media/content?id=MzAwMDY2MjM5OAptcGVnNF81MDAwMDAKU3RyZWFtaW5n&UserName=cmsguest@cnbc.com&key=NA",
+        "encodingFormat": "mpeg4",
+        "bitrate": 500000,
+        "cn:protocol": "Streaming",
+        "cn:formatName": "mpeg4_500000_Streaming"
+      },
+      {
+        "@type": "VideoObject",
+        "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M10D12/3000662398/4ED2-REQ-101217-BitcoinChina-R1_L.mp4",
+        "encodingFormat": "mpeg4",
+        "bitrate": 500000,
+        "cn:protocol": "Download",
+        "cn:formatName": "mpeg4_500000_Download"
+      },
+      {
+        "@type": "VideoObject",
+        "url": "http://vcps.cnbc.com/vcps/media/content?id=MzAwMDY2MjM5OAptcGVnNHdfNDUwMEsKU3RyZWFtaW5n&UserName=cmsguest@cnbc.com&key=NA",
+        "encodingFormat": "mpeg4",
+        "bitrate": 4500000,
+        "cn:protocol": "Streaming",
+        "cn:formatName": "mpeg4_4500000_Streaming"
+      },
+      {
+        "@type": "VideoObject",
+        "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M10D12/3000662398/4ED2-REQ-101217-BitcoinChina-R1_MBR_4500.mp4",
+        "encodingFormat": "mpeg4",
+        "bitrate": 4500000,
+        "cn:protocol": "Download",
+        "cn:formatName": "mpeg4_4500000_Download"
+      },
+      {
+        "@type": "VideoObject",
+        "url": "http://vcps.cnbc.com/vcps/media/content?id=MzAwMDY2MjM5OApGTFZfNDMyeDI0MF8zMHBfNTAwSwpTdHJlYW1pbmc&UserName=cmsguest@cnbc.com&key=NA",
+        "encodingFormat": "flv",
+        "bitrate": 500000,
+        "cn:protocol": "Streaming",
+        "cn:formatName": "flv_500000_Streaming"
+      },
+      {
+        "@type": "VideoObject",
+        "url": "ftp://cnbc.upload.akamai.com/23727/flash/VCPS/Y2017/M10D12/3000662398/4ED2-REQ-101217-BitcoinChina-R1_FLV_432x240_30p_500K.flv",
+        "encodingFormat": "flv",
+        "bitrate": 500000,
+        "cn:protocol": "Download",
+        "cn:formatName": "flv_500000_Download"
+      },
+      {
+        "@type": "VideoObject",
+        "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M10D12/3000662398/4ED2-REQ-101217-BitcoinChina-R1_H264_720x405_30p_1M.mp4",
+        "encodingFormat": "mpeg4",
+        "bitrate": 1100000,
+        "cn:protocol": "Download",
+        "cn:formatName": "mpeg4_1100000_Download"
+      },
+      {
+        "@type": "VideoObject",
+        "url": "http://cnbcmbr-vh.akamaihd.net/i/mp4/VCPS/Y2017/M10D12/3000662398/4ED2-REQ-101217-BitcoinChina-R1_MBR_0500.mp4/master.m3u8",
+        "encodingFormat": "mpeg4",
+        "bitrate": 500000,
+        "cn:protocol": "HLSSBRStreaming",
+        "cn:formatName": "mpeg4_500000_HLSSBRStreaming"
+      },
+      {
+        "@type": "VideoObject",
+        "url": "http://cnbcmbr-vh.akamaihd.net/z/mp4/VCPS/Y2017/M10D12/3000662398/4ED2-REQ-101217-BitcoinChina-R1_MBR_0500.mp4/manifest.f4m",
+        "encodingFormat": "mpeg4",
+        "bitrate": 500000,
+        "cn:protocol": "HDNSBRStreaming",
+        "cn:formatName": "mpeg4_500000_HDNSBRStreaming"
+      },
+      {
+        "@type": "VideoObject",
+        "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M10D12/3000662398/4ED2-REQ-101217-BitcoinChina-R1_H264_126K.mp4",
+        "encodingFormat": "mpeg4",
+        "bitrate": 200000,
+        "cn:protocol": "Download",
+        "cn:formatName": "mpeg4_200000_Download"
+      },
+      {
+        "@type": "VideoObject",
+        "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M10D12/3000662398/4ED2-REQ-101217-BitcoinChina-R1_H264_480x270_25p_500K.mp4",
+        "encodingFormat": "mpeg4",
+        "bitrate": 600000,
+        "cn:protocol": "Download",
+        "cn:formatName": "mpeg4_600000_Download"
+      },
+      {
+        "@type": "VideoObject",
+        "url": "http://cnbcmbr-vh.akamaihd.net/i/mp4/VCPS/Y2017/M10D12/3000662398/4ED2-REQ-101217-BitcoinChina-R1_MBR_,0240,0300,0500,0700,0900,1300,1700,4500,.mp4.csmil/master.m3u8",
+        "encodingFormat": "mpeg4",
+        "bitrate": 1,
+        "cn:protocol": "HLSMBRStreaming",
+        "cn:formatName": "mpeg4_1_HLSMBRStreaming"
+      },
+      {
+        "@type": "VideoObject",
+        "url": "http://cnbcmbr-vh.akamaihd.net/z/mp4/VCPS/Y2017/M10D12/3000662398/4ED2-REQ-101217-BitcoinChina-R1_MBR_,0240,0300,0500,0700,0900,1300,1700,4500,.mp4.csmil/manifest.f4m",
+        "encodingFormat": "mpeg4",
+        "bitrate": 1,
+        "cn:protocol": "HDNMBRStreaming",
+        "cn:formatName": "mpeg4_1_HDNMBRStreaming"
+      }
+    ],
+    "@type": "VideoObject",
+    "representativeOfPage": "true",
+    "expireDate": "",
+    "cn:unpublishDate": ""
+  },
+  "sourceOrganization": [{
+    "@type": "Organization",
+    "@id": "80000022",
+    "cn:type": "source",
+    "cn:slug": "CNBC US Source",
+    "cn:title": "",
+    "headline": "",
+    "cn:creatorOverwrite": "",
+    "cn:editedBy": "nathaniel.quashie",
+    "cn:historicalURL": [],
+    "cn:createdBy": "migration",
+    "cn:subDomain": "",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/80000022",
+    "url": "",
+    "cn:sourceName": "CNBC.com",
+    "description": "CNBC.com"
+  }],
+  "cn:sectionHierarchy": [{
+      "id": 101283714,
+      "tagName": "Your Money Your Future",
+      "order": 1
+    },
+    {
+      "id": 21324812,
+      "tagName": "Personal Finance",
+      "order": 2
+    },
+    {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 3
+    }
+  ],
+  "datePublished": "2017-10-12T16:02:51+0000",
+  "cn:dateLastPublished": "2018-01-16T20:45:59+0000",
+  "dateModified": "2018-01-16T20:45:46+0000",
+  "cn:unpublishDate": "",
+  "articlebody": "With bitcoin hitting a new all-time high in early trading Thursday, investors might be wondering whether they should venture into the developing world of cryptocurrency.Tread with caution.Bitcoin reached $5,231.28 on the news that China might reverse its recent shutdown of cryptocurrency exchanges, surpassing its previous high of $5,013.91 hit on Sept. 2. Year to date, it's up about 424 percent. (Click on the&#160;chart below to enlarge.)Nevertheless, it's part of a young asset class that comes with many unknowns.\"From an allocation standpoint, think of it as an alternative investment,\" said certified financial planner Samuel Boyd, senior vice president of Capital Asset Management Group in Washington, D.C.\"You wouldn't want more than 5 percent of your overall allocation in it,\" said Boyd, who calls himself a fan of bitcoin, due to the technology underlying it.In simple terms, bitcoin — which dates only to 2009 — is part currency, part commodity. It can be used as payment for transactions at companies that accept it the same way U.S. dollars are, or it can be viewed as an investment similar to gold.The total value of all bitcoins in existence (roughly 16.6 million) stands at about $86 billion. Add in the other few hundred cryptocurrencies and it's a $155 billion market.Yet these new assets comprise just a fraction of the world's multitrillion currency market. And as a new asset with a smaller pool of investors, cryptocurrencies are subject to wild swings in value. In the last week alone, for instance, one bitcoin has ranged from Thursday's high of more than $5,200 to a low of about $4,200.It's also largely unpredictable which digital currencies will have staying power. Like any new market — remember all those dot-com busts? — it can take years for a shakeout and for lawmakers and regulators to figure out their oversight approach. Already, the anonymity that comes with these digital transactions raises concerns about&#160;money laundering and the funding of illicit activities.Another major difference is that bitcoin's creation, value and integrity come from complicated, mathematical wizardry, known as \"blockchain\" technology, which regulates the creation of new units and essentially ensures the security of every transaction involving the digital currency.Basically, new bitcoins come into circulation via so-called miners, who use dedicated computer hardware and software to help create new bitcoins. (See chart below.) When 21 million units are reached, expected in 2140 or so, no more bitcoins will be created.Source: Blockgeeks.comBrian Sansom, of Middletown, Delaware, is both a cryptocurrency investor and miner. Intrigued by the technology used, which eliminates the need for traditional banks in transactions, the 36-year-old web designer and app developer began his foray into the world of digital currency about four years ago.\"It gives control to people instead of a government, and I like that,\" Samson said. \"And its value is going up. I like that, too.\"From the perspective of Samson and other bitcoin investors, digital currency is changing the way the global financial system works whether corporations realize it or not.Samson, who paid $80 for his first bitcoin in 2013, said in August that he had earned about $140,000 in the digital currency from his mining activity and investing. He said he also holds roughly $26,000 in litecoin and ethereum from mining income.Shoshi Bacon, of Forest Hills, Queens, began investing about a year ago when one bitcoin was worth $500. Since then, she has put a \"significant chunk\" of her net worth in bitcoin.\"It's been a fascinating and exciting ride,\" said Bacon, who is in her 50s. \"The potential for the future of blockchain [technology] is just amazing. It's a whole new frontier of opportunity.\"More from Your Money, Your Future:Avoid these 3 mistakes when picking a Medicare planWatch out for hidden taxes when retiring to a new state7 ways that cheap Tweety Bird figurine can screw up your estate(Correction: The story has been updated to correct the number of bitcoins in circulation.)",
+  "cn:xmlArticleBody": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104768371\" autoplay_flag=\"false\"/></assets><div class=\"group\"><p>With bitcoin hitting a <asset_inline nid=\"104767939\">new all-time high</asset_inline> in early trading Thursday, investors might be wondering whether they should venture into the developing world of cryptocurrency.</p><p>Tread with caution.</p><p>Bitcoin reached $5,231.28 on the news that China might reverse its recent shutdown of cryptocurrency exchanges, surpassing its previous high of $5,013.91 hit on Sept. 2. Year to date, it's up about 424 percent. (Click on the&#160;chart below to enlarge.)</p></div></group><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104768602\"/></assets><div class=\"group\"><p>Nevertheless, it's part of a young asset class that comes with many unknowns.</p><p>\"From an allocation standpoint, think of it as an alternative investment,\" said certified financial planner Samuel Boyd, senior vice president of Capital Asset Management Group in Washington, D.C.</p><p>\"You wouldn't want more than 5 percent of your overall allocation in it,\" said Boyd, who calls himself a fan of bitcoin, due to the technology underlying it.</p><p>In simple terms, bitcoin — which dates only to 2009 — is part currency, part commodity. It can be used as payment for transactions at companies that accept it the same way U.S. dollars are, or it can be viewed as an investment similar to gold.</p></div></group><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104658079\" autoplay_flag=\"false\"/></assets><div class=\"group\"><p>The total value of all bitcoins in existence (roughly 16.6 million) stands at about $86 billion. Add in the other few hundred cryptocurrencies and it's a $155 billion market.</p><p>Yet these new assets comprise just a fraction of the world's multitrillion currency market. And as a new asset with a smaller pool of investors, cryptocurrencies are subject to wild swings in value. In the last week alone, for instance, one bitcoin has ranged from Thursday's high of more than $5,200 to a low of about $4,200.</p><p>It's also largely unpredictable which digital currencies will have staying power. Like any new market — remember all those dot-com busts? — it can take years for a shakeout and for lawmakers and regulators to figure out their oversight approach. Already, the anonymity that comes with these digital transactions raises concerns about&#160;<asset_inline nid=\"104632068\">money laundering</asset_inline> and the funding of illicit activities.</p><p>Another major difference is that bitcoin's creation, value and integrity come from complicated, mathematical wizardry, known as \"blockchain\" technology, which regulates the creation of new units and essentially ensures the security of every transaction involving the digital currency.</p><p>Basically, new bitcoins come into circulation via so-called miners, who use dedicated computer hardware and software to help create new bitcoins. (See chart below.) When 21 million units are reached, expected in 2140 or so, no more bitcoins will be created.</p></div></group><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104653831\"/></assets><div class=\"group\"><p><em>Source: <asset_inline ext_link=\"https://blockgeeks.com/guides/what-is-bitcoin-a-step-by-step-guide/\" ext_title=\"https://blockgeeks.com/guides/what-is-bitcoin-a-step-by-step-guide/\">Blockgeeks.com</asset_inline></em></p><p>Brian Sansom, of Middletown, Delaware, is both a cryptocurrency investor and miner. Intrigued by the technology used, which eliminates the need for traditional banks in transactions, the 36-year-old web designer and app developer began his foray into the world of digital currency about four years ago.</p><p>\"It gives control to people instead of a government, and I like that,\" Samson said. \"And its value is going up. I like that, too.\"</p><p>From the perspective of Samson and other bitcoin investors, digital currency is changing the way the global financial system works whether corporations realize it or not.</p></div></group><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104651573\"/></assets><div class=\"group\"><p>Samson, who paid $80 for his first bitcoin in 2013, said in August that he had earned about $140,000 in the digital currency from his mining activity and investing. He said he also holds roughly $26,000 in litecoin and ethereum from mining income.</p><p>Shoshi Bacon, of Forest Hills, Queens, began investing about a year ago when one bitcoin was worth $500. Since then, she has put a \"significant chunk\" of her net worth in bitcoin.</p><p>\"It's been a fascinating and exciting ride,\" said Bacon, who is in her 50s. \"The potential for the future of blockchain [technology] is just amazing. It's a whole new frontier of opportunity.\"</p><p><strong>More from Your Money, Your Future:</strong></p><p><asset_inline nid=\"104763310\">Avoid these 3 mistakes when picking a Medicare plan</asset_inline></p><p><asset_inline nid=\"104757717\">Watch out for hidden taxes when retiring to a new state</asset_inline></p><p><asset_inline nid=\"104761547\">7 ways that cheap Tweety Bird figurine can screw up your estate</asset_inline></p><p><em>(Correction: The story has been updated to correct the number of bitcoins in circulation.)</em></p></div></group></body>",
+  "cn:xmlKeyPoints": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><ul>\n<li class=\"\">Investors pushed the price above $5,200 on Thursday, marking a new high.</li>\n<li>As a new asset class, cryptocurrencies come with volatility and uncertainty.</li>\n<li>Even if you're a fan of bitcoin and its brethren, keep portfolio exposure to a minimum.</li>\n</ul></div></group></body>",
+  "url": "http://qa-aws01web.cnbc.com/2017/10/12/use-caution-before-joining-bitcoin-frenzy.html",
+  "image": {
+    "@type": "ImageObject",
+    "representativeOfPage": "true",
+    "@id": 104737759,
+    "author": "",
+    "datePublished": "2017-09-28T12:46:26+0000",
+    "caption": "",
+    "description": "",
+    "copyrightHolder": "Jin Lee | Bloomberg | Getty Images",
+    "height": "1333",
+    "width": "2000",
+    "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104737759-GettyImages-483252873-bitcoin.jpg?v=1506602800"
+  },
+  "cn:settings": {
+    "cn:commentsEnabled": "Yes",
+    "cn:socialtoolsEnabled": "Yes",
+    "cn:dateline": "Yes",
+    "cn:displayByline": "Yes",
+    "cn:displaySource": "Yes",
+    "cn:outbrainEnabled": "Yes",
+    "cn:isFamilyFriendly": "Yes",
+    "cn:listType": "Virtual",
+    "cn:tweetOnPublish": 0
+  },
+  "@type": "NewsArticle",
+  "description": "Despite bitcoin's new high and increased investor interest, it remains a riskier investment.",
+  "author": [{
+    "@type": "Creator",
+    "@id": "101589622",
+    "name": "Sarah O'Brien",
+    "url": "http://qa-aws01web.cnbc.com/sarah-obrien/",
+    "image": "https://qa-aws02capi-img-origin.cnbc.com/image/104552050-20170626-2288-2396.jpg?v=1498502235",
+    "position": "5000",
+    "sameAs": [
+      "https://www.twitter.com/@sarahtgobrien"
+    ],
+    "cn:socialMediaInfo": [{
+      "cn:url": "https://twitter.com/@sarahtgobrien",
+      "cn:displayText": "@sarahtgobrien",
+      "cn:type": "twitter"
+    }]
+  }],
+  "publisher": {
+    "@type": "Organization",
+    "name": "CNBC",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "@context": {
+    "@vocab": "http://schema.org/",
+    "cn": "http://cnbc.com/schema/"
+  },
+  "cn:association": [{
+      "@type": "Person",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "@id": "101589622",
+      "cn:type": "creator",
+      "cn:slug": "Sarah O'Brien freelance writer Creator Asset 140416",
+      "cn:title": "Sarah O'Brien",
+      "headline": "Sarah O'Brien",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "cn:editedBy": "auto.videouser",
+      "cn:createdBy": "eric.rosenbaum",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/101589622",
+      "url": "http://qa-aws01web.cnbc.com/sarah-obrien/",
+      "image": "https://qa-aws02capi-img-origin.cnbc.com/image/104552050-20170626-2288-2396.jpg?v=1498502235",
+      "datePublished": "2014-04-19T13:02:58+0000",
+      "cn:liveURL": "/sarah-obrien/",
+      "cn:seoTitle": "Sarah O'Brien",
+      "cn:summary": "Sarah O'Brien reports for CNBC's personal finance team.",
+      "cn:shorterDescription": "Sarah O'Brien reports for CNBC's personal finance team.",
+      "cn:shortestDescription": "Sarah O'Brien reports for CNBC's personal finance team.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p>\n  Sarah O'Brien reports for CNBC's personal\n  finance team.<br />\n</p></div></group></body>",
+      "cn:sectionHierarchy": [],
+      "name": "Sarah O'Brien",
+      "givenName": "Sarah",
+      "familyName": "O'Brien",
+      "jobTitle": "Special to CNBC.com",
+      "email": "",
+      "telephone": "",
+      "sameAs": [
+        "https://www.twitter.com/@sarahtgobrien"
+      ],
+      "cn:socialMediaInfo": [{
+        "cn:url": "https://twitter.com/@sarahtgobrien",
+        "cn:displayText": "@sarahtgobrien",
+        "cn:type": "twitter"
+      }],
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "cn:relation": [{
+        "position": 5000,
+        "cn:relationType": "author",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@type": "Collection",
+      "@id": "101283714",
+      "cn:type": "franchise",
+      "cn:slug": "Your Money Your Future Financial Literacy special report",
+      "cn:title": "Your Money, Your Future",
+      "headline": "Your Money, Your Future",
+      "cn:sectionLabel": "Your Money, Your Future",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "cn:editedBy": "Alex.Dao",
+      "cn:createdBy": "rosy.ngo",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/101283714",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "url": "http://qa-aws01web.cnbc.com/your-money-your-future/",
+      "datePublished": "2016-01-07T15:51:53+0000",
+      "cn:unpublishDate": "",
+      "cn:liveURL": "/your-money-your-future/",
+      "cn:subType": "special_report",
+      "cn:seoTitle": "Your Money, Your Future: Building A Long-Term Financial Plan",
+      "cn:summary": "CNBC wants you to have the keys to building a successful long-term financial plan: manage your money, grow and protect it.",
+      "cn:shorterDescription": "Whether you are a college student or planning your retirement, CNBC is the source for strategizing about how to navigate your finances.",
+      "cn:shortestDescription": "Unlock the keys to building a successful long-term financial plan: manage your money, grow your money, and protect it.",
+      "cn:bodyTeaser": "null",
+      "cn:sectionHierarchy": [{
+          "id": 21324812,
+          "tagName": "Personal Finance",
+          "order": 1
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 2
+        }
+      ],
+      "description": "CNBC wants you to have the keys to building a successful long-term financial plan: manage your money, grow and protect it.",
+      "cn:tabLabel": "Your Money, Your Future",
+      "cn:sectionLinktext": "Your Money, Your Future",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+        "position": 5000,
+        "cn:relationType": "section",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "cn:transcriptUrl": "http://23.21.66.213:9080/appi/buffettv2.jsp?param=1998-BAM-1",
+      "@id": "104768371",
+      "cn:type": "cnbcvideo",
+      "cn:slug": "jurbi wochit - bitcoin high",
+      "cn:title": "Bitcoin just hit a new all-time high ",
+      "headline": "Bitcoin just hit a new all-time high ",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "cn:editedBy": "jaden.urbi@nbcuni.com",
+      "cn:createdBy": "jaden.urbi@nbcuni.com",
+      "cn:keyword": "bitcoin, cryptocurrency, ethereum, digital currency, china",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104768371",
+      "url": "http://qa-aws01web.cnbc.com/video/2017/10/12/bitcoin-just-hit-a-new-all-time-high-above-5100.html",
+      "cn:vcpsId": 3000662398,
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0,
+        "cn:videoGeoRestrictionEnabled": "No",
+        "cn:isHighPriorityVideo": "No"
+      },
+      "datePublished": "2017-10-12T12:29:47+0000",
+      "uploadDate": "2017-10-12T12:31:03+0000",
+      "cn:liveURL": "/video/2017/10/12/bitcoin-just-hit-a-new-all-time-high-above-5100.html",
+      "cn:seoTitle": "Bitcoin just hit a new all-time high ",
+      "cn:summary": "Speculation that China could reverse the ban of cryptocurrency exchanges is driving sentiment\r\n",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:sectionHierarchy": [{
+          "id": 104266428,
+          "tagName": "Digital Original",
+          "order": 1
+        },
+        {
+          "id": 100004036,
+          "tagName": "U.S. Video",
+          "order": 2
+        },
+        {
+          "id": 100004038,
+          "tagName": "Video: All",
+          "order": 3
+        },
+        {
+          "id": 15839263,
+          "tagName": "Video and TV",
+          "order": 4
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 5
+        }
+      ],
+      "cn:show": "Digital Original",
+      "duration": 52,
+      "thumbnail": "https://qa-aws02capi-img-origin.cnbc.com/image/104768407-4ED2-REQ-101217-BitcoinChina.jpg?v=1507812272",
+      "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "caption": "",
+        "author": "",
+        "copyrightHolder": "",
+        "@id": 104768407,
+        "height": "1080",
+        "datePublished": 0,
+        "description": "",
+        "width": "1920",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104768407-4ED2-REQ-101217-BitcoinChina.jpg?v=1507812272"
+      },
+      "cn:network": 1,
+      "encodings": [{
+          "@type": "VideoObject",
+          "url": "http://vcps.cnbc.com/vcps/media/content?id=MzAwMDY2MjM5OAptcGVnNF81MDAwMDAKU3RyZWFtaW5n&UserName=cmsguest@cnbc.com&key=NA",
+          "encodingFormat": "mpeg4",
+          "bitrate": 500000,
+          "cn:protocol": "Streaming",
+          "cn:formatName": "mpeg4_500000_Streaming"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M10D12/3000662398/4ED2-REQ-101217-BitcoinChina-R1_L.mp4",
+          "encodingFormat": "mpeg4",
+          "bitrate": 500000,
+          "cn:protocol": "Download",
+          "cn:formatName": "mpeg4_500000_Download"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://vcps.cnbc.com/vcps/media/content?id=MzAwMDY2MjM5OAptcGVnNHdfNDUwMEsKU3RyZWFtaW5n&UserName=cmsguest@cnbc.com&key=NA",
+          "encodingFormat": "mpeg4",
+          "bitrate": 4500000,
+          "cn:protocol": "Streaming",
+          "cn:formatName": "mpeg4_4500000_Streaming"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M10D12/3000662398/4ED2-REQ-101217-BitcoinChina-R1_MBR_4500.mp4",
+          "encodingFormat": "mpeg4",
+          "bitrate": 4500000,
+          "cn:protocol": "Download",
+          "cn:formatName": "mpeg4_4500000_Download"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://vcps.cnbc.com/vcps/media/content?id=MzAwMDY2MjM5OApGTFZfNDMyeDI0MF8zMHBfNTAwSwpTdHJlYW1pbmc&UserName=cmsguest@cnbc.com&key=NA",
+          "encodingFormat": "flv",
+          "bitrate": 500000,
+          "cn:protocol": "Streaming",
+          "cn:formatName": "flv_500000_Streaming"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "ftp://cnbc.upload.akamai.com/23727/flash/VCPS/Y2017/M10D12/3000662398/4ED2-REQ-101217-BitcoinChina-R1_FLV_432x240_30p_500K.flv",
+          "encodingFormat": "flv",
+          "bitrate": 500000,
+          "cn:protocol": "Download",
+          "cn:formatName": "flv_500000_Download"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M10D12/3000662398/4ED2-REQ-101217-BitcoinChina-R1_H264_720x405_30p_1M.mp4",
+          "encodingFormat": "mpeg4",
+          "bitrate": 1100000,
+          "cn:protocol": "Download",
+          "cn:formatName": "mpeg4_1100000_Download"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://cnbcmbr-vh.akamaihd.net/i/mp4/VCPS/Y2017/M10D12/3000662398/4ED2-REQ-101217-BitcoinChina-R1_MBR_0500.mp4/master.m3u8",
+          "encodingFormat": "mpeg4",
+          "bitrate": 500000,
+          "cn:protocol": "HLSSBRStreaming",
+          "cn:formatName": "mpeg4_500000_HLSSBRStreaming"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://cnbcmbr-vh.akamaihd.net/z/mp4/VCPS/Y2017/M10D12/3000662398/4ED2-REQ-101217-BitcoinChina-R1_MBR_0500.mp4/manifest.f4m",
+          "encodingFormat": "mpeg4",
+          "bitrate": 500000,
+          "cn:protocol": "HDNSBRStreaming",
+          "cn:formatName": "mpeg4_500000_HDNSBRStreaming"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M10D12/3000662398/4ED2-REQ-101217-BitcoinChina-R1_H264_126K.mp4",
+          "encodingFormat": "mpeg4",
+          "bitrate": 200000,
+          "cn:protocol": "Download",
+          "cn:formatName": "mpeg4_200000_Download"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M10D12/3000662398/4ED2-REQ-101217-BitcoinChina-R1_H264_480x270_25p_500K.mp4",
+          "encodingFormat": "mpeg4",
+          "bitrate": 600000,
+          "cn:protocol": "Download",
+          "cn:formatName": "mpeg4_600000_Download"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://cnbcmbr-vh.akamaihd.net/i/mp4/VCPS/Y2017/M10D12/3000662398/4ED2-REQ-101217-BitcoinChina-R1_MBR_,0240,0300,0500,0700,0900,1300,1700,4500,.mp4.csmil/master.m3u8",
+          "encodingFormat": "mpeg4",
+          "bitrate": 1,
+          "cn:protocol": "HLSMBRStreaming",
+          "cn:formatName": "mpeg4_1_HLSMBRStreaming"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://cnbcmbr-vh.akamaihd.net/z/mp4/VCPS/Y2017/M10D12/3000662398/4ED2-REQ-101217-BitcoinChina-R1_MBR_,0240,0300,0500,0700,0900,1300,1700,4500,.mp4.csmil/manifest.f4m",
+          "encodingFormat": "mpeg4",
+          "bitrate": 1,
+          "cn:protocol": "HDNMBRStreaming",
+          "cn:formatName": "mpeg4_1_HDNMBRStreaming"
+        }
+      ],
+      "@type": "VideoObject",
+      "representativeOfPage": "true",
+      "expireDate": "",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "cn:relation": [{
+          "position": 5000,
+          "cn:relationType": "featured_media",
+          "cn:isPromoted": "false",
+          "cn:isHighTouch": "false"
+        },
+        {
+          "position": 4,
+          "cn:relationType": "related",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "80000022",
+      "cn:type": "source",
+      "cn:slug": "CNBC US Source",
+      "cn:title": "",
+      "headline": "",
+      "cn:creatorOverwrite": "",
+      "cn:editedBy": "nathaniel.quashie",
+      "cn:historicalURL": [],
+      "cn:createdBy": "migration",
+      "cn:subDomain": "",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/80000022",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:tweetOnPublish": 0
+      },
+      "url": "",
+      "cn:sourceName": "CNBC.com",
+      "datePublished": "2011-10-06T17:33:47+0000",
+      "cn:liveURL": "",
+      "cn:summary": "",
+      "cn:shorterDescription": "CNBC.com",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:sectionHierarchy": [],
+      "description": "CNBC.com",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "cn:relation": [{
+        "position": 4999,
+        "cn:relationType": "source",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@id": "104763310",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Medicare mistakes OBRIEN",
+      "cn:title": "Avoid these 3 mistakes when picking a Medicare plan",
+      "headline": "3 mistakes to avoid when picking a Medicare plan",
+      "cn:creatorOverwrite": "",
+      "cn:editedBy": "martin.steinberg",
+      "cn:historicalURL": [],
+      "cn:createdBy": "auto.videouser",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104763310",
+      "url": "http://qa-aws01web.cnbc.com/2017/10/11/avoid-these-3-mistakes-when-picking-a-medicare-plan.html",
+      "datePublished": "2017-10-11T13:29:11+0000",
+      "cn:liveURL": "/2017/10/11/avoid-these-3-mistakes-when-picking-a-medicare-plan.html",
+      "cn:seoTitle": "Avoid these 3 mistakes when picking a Medicare plan",
+      "cn:summary": "If you don't avoid these common errors when it comes to open enrollment, you could find yourself in the wrong plan after Jan. 1.",
+      "cn:shorterDescription": "Typical errors made during open enrollment could leave you with the wrong plan come Jan. 1.",
+      "cn:shortestDescription": "Errors made during open enrollment could leave you in the lurch Jan. 1.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104425301\" autoplay_flag=\"false\"/></assets><div class=\"group\"><p>For people who want to tweak their Medicare coverage, the time to do it starts Sunday.</p><p>The program's <asset_inline nid=\"104758129\">fall open enrollment period</asset_inline>&#160;runs through Dec. 7. You should&#160;evaluate your current coverage even if you've been happy with it.</p><p>\"Insurance companies make changes every year,\" said Elizabeth Gavino, founder of Lewin &amp; Gavino in New York and an independent broker and general agent for Medicare plans.</p><p>In simple terms, the seven-week period is for adding or changing coverage related to Medicare Part C (known as an Advantage Plan) and Part D (prescription drug coverage). This is generally the only time of year you can make changes.</p><blockquote>\n<p><strong>WHAT ARE ALL THOSE MEDICARE PARTS?</strong></p>\n<p><strong>Part A.</strong> This covers inpatient stays at hospitals, skilled-nursing facilities and the like. As long as you've paid into the system by working the equivalent of about 10 years, you won't pay any premiums. If not, you'll have to pay for it.</p>\n<p><strong>Part B.</strong> Everyone pays premiums for this coverage, which generally includes outpatient services and supplies. Higher incomes generate higher premiums: If you're single and have an income of more than $85,000 or are married with a joint income of at least $170,000, you will pay more.</p>\n<p><strong>Part C.</strong> Also called Medicare Advantage, the program lets people choose from a Medicare-approved private insurance plan <em>instead</em> of Parts A and B. Each plan comes with differing variables, ranging from coverage to deductibles and co-pays.</p>\n<p><strong>Part D.</strong> This is prescription-drug coverage. This often ends up being included with an Advantage Plan. If you have Parts A and B instead of an Advantage Plan, you can purchase Part D coverage separately. Although this is voluntary coverage, if you&#160;don't sign up during your initial enrollment time and change your mind later (if you don't meet an exclusion) you'll likely pay a penalty that will last forever.</p>\n</blockquote><p>Note: Fall enrollment&#160; is different than the&#160;initial sign-up for Medicare. In that case, you get a seven-month window that starts three months before the month in which you turn 65 and ends three months after your birth month.</p><p>Generally speaking, you must sign up for Medicare Part A (in-patient coverage) and — unless you meet certain exclusions — Part B (outpatient care) during initial enrollment. Those two parts are often referred to as original Medicare. You also can sign up for Parts C and D during your initial sign-up period.</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 101283714,
+          "tagName": "Your Money Your Future",
+          "order": 1
+        },
+        {
+          "id": 21324812,
+          "tagName": "Personal Finance",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "If you don't avoid these common errors when it comes to open enrollment, you could find yourself in the wrong plan after Jan. 1.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "101589622",
+        "name": "Sarah O'Brien",
+        "url": "http://qa-aws01web.cnbc.com/sarah-obrien/",
+        "position": "5000",
+        "sameAs": [
+          "https://www.twitter.com/@sarahtgobrien"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/@sarahtgobrien",
+          "cn:displayText": "@sarahtgobrien",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104765854,
+        "author": "NBC",
+        "datePublished": "2017-10-11T13:24:20+0000",
+        "caption": "",
+        "description": "THE TONIGHT SHOW WITH JAY LENO -- Episode 579 -- Pictured: (l-r) Actor Noah Wyle and George Clooney film a skit on November 24, 1994 -- (Photo by: Margaret Norton/NBC/NBCU Photo Bank)",
+        "copyrightHolder": "",
+        "height": "1989",
+        "width": "3000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104765854-ER_docs.jpg?v=1507728269"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "position": 13,
+        "cn:relationType": "related",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@id": "104752082",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "When buying your kid a house is cheaper than paying for a dorm room ",
+      "cn:title": "When buying your kid a house is cheaper than paying for a dorm",
+      "headline": "When buying your kid a house is cheaper than paying for a dorm ",
+      "cn:creatorOverwrite": "",
+      "cn:editedBy": "patrick.knickerbocker",
+      "cn:historicalURL": [],
+      "cn:createdBy": "Rick.Levinson",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104752082",
+      "url": "http://qa-aws01web.cnbc.com/2017/10/05/when-buying-your-kid-a-house-is-cheaper-than-paying-for-a-dorm.html",
+      "datePublished": "2017-10-06T12:30:00+0000",
+      "cn:liveURL": "/2017/10/05/when-buying-your-kid-a-house-is-cheaper-than-paying-for-a-dorm.html",
+      "cn:seoTitle": "When buying your kid a house is cheaper than paying for a dorm",
+      "cn:summary": "Tax deductions and rent from roommates can make purchasing a financial win.",
+      "cn:shorterDescription": "Tax deductions and rent from roommates can make purchasing a financial win.",
+      "cn:shortestDescription": "Tax deductions and rent from roommates can make buying a financial win.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p>Brian and Laurie Chubb have three sons, all of whom always wanted to attend Texas A&amp;M University. So in 2015, when the Chubbs' oldest son, Garrett, was a junior and their middle child, Ben, was a freshman at the school, they decided it was time to <asset_inline nid=\"104710090\"> cut their housing costs</asset_inline>.</p><p>\"We realized it would be smarter to invest in a property instead of paying rent for all those years,\" said Brian Chubb, who works in pharmaceutical sales and lives in Spring Branch, Texas, with Laurie and their youngest son, Brady.</p><p>The Chubbs purchased a four-bedroom house in College Station, Texas, in December 2015, and their two older sons moved in the following school year, <asset_inline nid=\"104683507\"> along with renters</asset_inline>. Brady, 18, has been accepted to Texas A&amp;M for next year, and will move into the house after completing a freshman-year stint in a dorm room.</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 101283714,
+          "tagName": "Your Money Your Future",
+          "order": 1
+        },
+        {
+          "id": 21324812,
+          "tagName": "Personal Finance",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "Tax deductions and rent from roommates can make purchasing a financial win.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 1
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "104737796",
+        "name": "Elizabeth Leary",
+        "url": "http://qa-aws01web.cnbc.com/elizabeth-leary/",
+        "position": "4999"
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104754946,
+        "author": "",
+        "datePublished": "2017-10-05T16:17:29+0000",
+        "caption": "Ben Chubb, left, and roommate Randy Rios.",
+        "description": "",
+        "copyrightHolder": "Source: Larry Field Photography",
+        "height": "1243",
+        "width": "1865",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104754946-College-House.jpg?v=1507220256"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "position": 12,
+        "cn:relationType": "related",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@id": "104761547",
+      "cn:type": "slideshow",
+      "cn:slug": "Estate mistakes GRANT 20171009 PF",
+      "cn:title": "7 ways that cheap Tweety Bird figurine can screw up your estate",
+      "headline": "7 ways that cheap Tweety Bird figurine can screw up your estate",
+      "cn:creatorOverwrite": "",
+      "cn:editedBy": "Elisabeth.Cordova",
+      "cn:historicalURL": [
+        "/2017/10/10/7-ways-that-1-point-50-tweety-bird-can-screw-up-your-estate.html"
+      ],
+      "cn:createdBy": "kelli.grant",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104761547",
+      "url": "http://qa-aws01web.cnbc.com/2017/10/10/7-ways-that-cheap-tweety-bird-figurine-can-screw-up-your-estate.html",
+      "datePublished": "2017-10-10T13:57:07+0000",
+      "cn:liveURL": "/2017/10/10/7-ways-that-cheap-tweety-bird-figurine-can-screw-up-your-estate.html",
+      "cn:seoTitle": "7 ways that cheap Tweety Bird figurine can screw up your estate",
+      "cn:summary": "Consumers dividing assets often focus on financial accounts and forget about personal property. If you want to avoid family conflict, that's a big mistake.",
+      "cn:shorterDescription": "Consumers dividing assets often make the mistake of focusing on financial accounts — forgetting about personal property.",
+      "cn:shortestDescription": "Consumers dividing assets often focus on financial accounts and forget about personal property. Big mistake.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104763315\"/></assets><div class=\"group\"><p>If you want to avoid family fights over your estate, take a long hard look at your closet.</p><p>Personal property is something that&#160;people often fail to consider when drawing up wills and other estate planning documents, attorney John J. Scroggin told an audience of financial planners last week at the FPA Be conference in Nashville.</p><p>\"The single biggest point of conflict among family members is not the million dollars over here,\" said Scroggin, who is an accredited estate planner and a partner with the Roswell, Georgia-based law firm Scroggin &amp; Co.</p><p>\"It's the yellow Tweety Bird [figurine] that sat in mom's kitchen for 40 years.\"</p><p>Here are seven&#160;of the big mistakes people make when bequeathing their personal property:</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 101283714,
+          "tagName": "Your Money Your Future",
+          "order": 1
+        },
+        {
+          "id": 21324812,
+          "tagName": "Personal Finance",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "Consumers dividing assets often focus on financial accounts and forget about personal property. If you want to avoid family conflict, that's a big mistake.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "100770389",
+        "name": "Kelli B. Grant",
+        "url": "http://qa-aws01web.cnbc.com/kelli-b-grant/",
+        "position": "4999",
+        "sameAs": [
+          "https://www.facebook.com/KelliGrant.money",
+          "https://www.twitter.com/kelligrant",
+          "https://www.plus.google.com/116379376975025392080"
+        ],
+        "cn:socialMediaInfo": [{
+            "cn:url": "https://facebook.com/KelliGrant.money",
+            "cn:displayText": "KelliGrant.money",
+            "cn:type": "facebook"
+          },
+          {
+            "cn:url": "https://twitter.com/kelligrant",
+            "cn:displayText": "kelligrant",
+            "cn:type": "twitter"
+          },
+          {
+            "cn:url": "https://plus.google.com/116379376975025392080",
+            "cn:displayText": "116379376975025392080",
+            "cn:type": "googlePlus"
+          }
+        ]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104763315,
+        "author": "",
+        "datePublished": "2017-10-10T13:35:27+0000",
+        "caption": "",
+        "description": "Bangkok, Thailand - January 19, 2015 : Tweety Bird figure toy character form Looney Tunes and Merrie Melodies series of American animated cartoons.",
+        "copyrightHolder": "nicescene | Getty Images",
+        "height": "2724",
+        "width": "4086",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104763315-GettyImages-537988951.jpg?v=1507642834"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "ImageGallery",
+      "cn:relation": [{
+        "position": 11,
+        "cn:relationType": "related",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@id": "104757717",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "State taxes 171006 Konish EC",
+      "cn:title": "Watch out for hidden taxes when retiring to a new state",
+      "headline": "Watch out for hidden taxes when retiring to another state",
+      "cn:creatorOverwrite": "",
+      "cn:editedBy": "Rick.Levinson",
+      "cn:historicalURL": [],
+      "cn:createdBy": "kelsey.kats",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104757717",
+      "url": "http://qa-aws01web.cnbc.com/2017/10/10/watch-out-for-hidden-taxes-when-retiring-to-a-new-state.html",
+      "datePublished": "2017-10-10T15:51:38+0000",
+      "cn:liveURL": "/2017/10/10/watch-out-for-hidden-taxes-when-retiring-to-a-new-state.html",
+      "cn:seoTitle": "Watch out for hidden taxes when retiring to a new state",
+      "cn:summary": "States with no individual income taxes are popular retirement spots, yet other levies could add up.",
+      "cn:shorterDescription": "States with no individual income taxes are popular retirement spots, yet other levies could add up.",
+      "cn:shortestDescription": "States with no individual income taxes are popular retirement spots, yet other levies could add up.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"101996296\"/></assets><div class=\"group\"><p>Sometimes it pays to shop around when deciding which state you want to live in during retirement&#160;— particularly when it comes to how hefty the tax bill will be.</p><p>That was the case for one&#160;couple who decided to sell&#160;their Fort Lauderdale home and relocate to the Atlanta area, recalled Thomas W. Balcom, founder at 1650 Wealth Management.</p><p>The move to a similar-sized house reduced the couple's property tax bill from $20,000 per year to about $5,000, due to the fact that they did not have to pay taxes for schools in Georgia. In addition, the first $130,000 of the couple's retirement income from pensions or investments was exempt from taxes in their new state, as well as their Social Security income.</p><p>Florida is a popular retirement destination in part because it&#160;has no tax on individual income. Other states with no individual income tax include Alaska, Nevada, South Dakota, Texas, Washington and Wyoming. New Hampshire and Tennessee charge income taxes only on dividends and interest.</p><p>This <asset_inline ext_link=\"http://www.kiplinger.com/tool/taxes/T055-S001-kiplinger-tax-map/index.php?rid=PROD-LINKS\" ext_title=\"http://www.kiplinger.com/tool/taxes/T055-S001-kiplinger-tax-map/index.php?rid=PROD-LINKS\">map from Kiplinger</asset_inline> shows which states are considered most and least friendly when it comes to taxes. (Click to enlarge.)</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 101283714,
+          "tagName": "Your Money Your Future",
+          "order": 1
+        },
+        {
+          "id": 21324812,
+          "tagName": "Personal Finance",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "States with no individual income taxes are popular retirement spots, yet other levies could add up.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 1
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "104749518",
+        "name": "Lorie Konish",
+        "url": "http://qa-aws01web.cnbc.com/lorie-konish/",
+        "position": "5000",
+        "sameAs": [
+          "https://www.twitter.com/LorieKonish"
+        ],
+        "cn:socialMediaInfo": [{
+          "cn:url": "https://twitter.com/LorieKonish",
+          "cn:displayText": "LorieKonish",
+          "cn:type": "twitter"
+        }]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 101996296,
+        "author": "",
+        "datePublished": "2014-09-12T15:52:47+0000",
+        "caption": "",
+        "description": "",
+        "copyrightHolder": "Robert Daly | OJO Images | Getty Images",
+        "height": "1473",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/101996296-_sites-default-files-images-101996296-135385177.jpg?v=1506358839"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "position": 10,
+        "cn:relationType": "related",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@type": "Collection",
+      "@id": "15837362",
+      "cn:type": "franchise",
+      "cn:slug": "US: News",
+      "cn:title": "U.S. News",
+      "headline": "U.S. News",
+      "cn:sectionLabel": "U.S. News",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [
+        "/id/15837362"
+      ],
+      "cn:editedBy": "javier.david",
+      "cn:createdBy": "migration",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15837362",
+      "cn:settings": {
+        "cn:listType": "Manual and/or populated by feeds"
+      },
+      "url": "http://qa-aws01web.cnbc.com/us-news/",
+      "datePublished": "2016-10-21T13:10:41+0000",
+      "cn:unpublishDate": "2013-05-28T11:44:06+0000",
+      "cn:liveURL": "/us-news/",
+      "cn:subType": "section",
+      "cn:seoTitle": "U.S. Latest Business and Regional News - CNBC",
+      "cn:summary": "Get complete CNBC business news coverage online. Find the latest regional business news pertaining to the United States of America including headlines & top stories available on the official CNBC site.",
+      "cn:shorterDescription": "U.S. Latest Business and Regional News, top stories and Business Headlines Online on CNBC.",
+      "cn:shortestDescription": "Headlines & top stories available on the official CNBC's U.S Business News site.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"103874440\"/></assets><div class=\"group\"/></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 100010507,
+          "tagName": "US Economy",
+          "order": 1
+        },
+        {
+          "id": 20910258,
+          "tagName": "Economy",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "Get complete CNBC business news coverage online. Find the latest regional business news pertaining to the United States of America including headlines & top stories available on the official CNBC site.",
+      "cn:tabLabel": "U.S. News",
+      "cn:sectionLinktext": "U.S. News",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+        "position": 9,
+        "cn:relationType": "related",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@type": "Collection",
+      "@id": "15839069",
+      "cn:type": "franchise",
+      "cn:slug": "Investing",
+      "cn:title": "Investing",
+      "headline": "Investing",
+      "cn:sectionLabel": "Investing",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [
+        "/id/15839069"
+      ],
+      "cn:editedBy": "jeeyeon.park",
+      "cn:createdBy": "migration",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/15839069",
+      "cn:settings": {
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "url": "http://qa-aws01web.cnbc.com/investing/",
+      "datePublished": "2012-01-30T01:52:25+0000",
+      "cn:unpublishDate": "",
+      "cn:liveURL": "/investing/",
+      "cn:subType": "section",
+      "cn:seoTitle": "Investing News",
+      "cn:summary": "Expert Analysis, Investment Tools, Stock Screeners, and Financial Strategy Information.",
+      "cn:shorterDescription": "Expert Analysis, Investment Tools, Stock Screeners, and Financial Strategy Information.",
+      "cn:shortestDescription": "Investment Tools and Financial Strategy Coverage",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"100243441\"/></assets><div class=\"group\"/></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 10000664,
+          "tagName": "Finance",
+          "order": 1
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 2
+        }
+      ],
+      "description": "Expert Analysis, Investment Tools, Stock Screeners, and Financial Strategy Information.",
+      "cn:tabLabel": "Investing",
+      "cn:sectionLinktext": "Investing",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+        "position": 8,
+        "cn:relationType": "related",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@type": "Collection",
+      "@id": "100609493",
+      "cn:type": "franchise",
+      "cn:slug": "Bitcoin",
+      "cn:title": "Bitcoin",
+      "headline": "Bitcoin",
+      "cn:sectionLabel": "Bitcoin",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [
+        "/id/100609493"
+      ],
+      "cn:editedBy": "katy.barnato",
+      "cn:createdBy": "Mark.Richards",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100609493",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Manual and/or populated by feeds"
+      },
+      "url": "http://qa-aws01web.cnbc.com/bitcoin/",
+      "datePublished": "2013-04-02T14:20:46+0000",
+      "cn:unpublishDate": "",
+      "cn:liveURL": "/bitcoin/",
+      "cn:subType": "section",
+      "cn:seoTitle": "Bitcoin",
+      "cn:summary": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:sectionHierarchy": [{
+          "id": 15839178,
+          "tagName": "Currencies",
+          "order": 1
+        },
+        {
+          "id": 102,
+          "tagName": "Markets",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "",
+      "cn:tabLabel": "Bitcoin",
+      "cn:sectionLinktext": "",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+        "position": 7,
+        "cn:relationType": "related",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@type": "Collection",
+      "@id": "16903222",
+      "cn:type": "franchise",
+      "cn:slug": "Special Reports",
+      "cn:title": "CNBC Special Reports",
+      "headline": "Latest Special Reports",
+      "cn:sectionLabel": "Latest Special Reports",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [
+        "/id/16903222"
+      ],
+      "cn:editedBy": "aaron.stephanus",
+      "cn:createdBy": "migration",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/16903222",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "url": "http://qa-aws01web.cnbc.com/special-reports/",
+      "datePublished": "2017-04-12T14:17:56+0000",
+      "cn:unpublishDate": "",
+      "cn:liveURL": "/special-reports/",
+      "cn:subType": "special_report",
+      "cn:seoTitle": "Exclusive In-depth Reporting",
+      "cn:summary": "Find CNBC Special Reports with News and Analysis on Investing, Technology, Real Estate, Breaking News and Special Events.\r\n",
+      "cn:shorterDescription": "Exclusive in-depth reports on business events, global investing, retirement, and more.",
+      "cn:shortestDescription": "Exclusive in-depth reports on business events, global investing, retirement and more.",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><br /></p><div id=\"csscan-wrapper\" style=\"display: none; \"><h2 id=\"csscan-header\">element</h2><table id=\"csscan-table\"><tbody><tr><th colspan=\"2\" id=\"csscan-header-font\" class=\"csscan-header\">Font</th></tr><tr id=\"csscan-row-font-family\"><td id=\"csscan-property-font-family\" class=\"csscan-property\">font-family</td></tr><tr id=\"csscan-row-font-size\"><td id=\"csscan-property-font-size\" class=\"csscan-property\">font-size</td></tr><tr id=\"csscan-row-font-style\"><td id=\"csscan-property-font-style\" class=\"csscan-property\">font-style</td></tr><tr id=\"csscan-row-font-variant\"><td id=\"csscan-property-font-variant\" class=\"csscan-property\">font-variant</td></tr><tr id=\"csscan-row-font-weight\"><td id=\"csscan-property-font-weight\" class=\"csscan-property\">font-weight</td></tr><tr id=\"csscan-row-letter-spacing\"><td id=\"csscan-property-letter-spacing\" class=\"csscan-property\">letter-spacing</td></tr><tr id=\"csscan-row-line-height\"><td id=\"csscan-property-line-height\" class=\"csscan-property\">line-height</td></tr><tr id=\"csscan-row-text-decoration\"><td id=\"csscan-property-text-decoration\" class=\"csscan-property\">text-decoration</td></tr><tr id=\"csscan-row-text-align\"><td id=\"csscan-property-text-align\" class=\"csscan-property\">text-align</td></tr><tr id=\"csscan-row-text-indent\"><td id=\"csscan-property-text-indent\" class=\"csscan-property\">text-indent</td></tr><tr id=\"csscan-row-text-transform\"><td id=\"csscan-property-text-transform\" class=\"csscan-property\">text-transform</td></tr><tr id=\"csscan-row-white-space\"><td id=\"csscan-property-white-space\" class=\"csscan-property\">white-space</td></tr><tr id=\"csscan-row-word-spacing\"><td id=\"csscan-property-word-spacing\" class=\"csscan-property\">word-spacing</td></tr><tr id=\"csscan-row-color\"><td id=\"csscan-property-color\" class=\"csscan-property\">color</td></tr><tr><th colspan=\"2\" id=\"csscan-header-background\" class=\"csscan-header\">Background</th></tr><tr id=\"csscan-row-background-attachment\"><td id=\"csscan-property-background-attachment\" class=\"csscan-property\">bg-attachment</td></tr><tr id=\"csscan-row-background-color\"><td id=\"csscan-property-background-color\" class=\"csscan-property\">bg-color</td></tr><tr id=\"csscan-row-background-image\"><td id=\"csscan-property-background-image\" class=\"csscan-property\">bg-image</td></tr><tr id=\"csscan-row-background-position\"><td id=\"csscan-property-background-position\" class=\"csscan-property\">bg-position</td></tr><tr id=\"csscan-row-background-repeat\"><td id=\"csscan-property-background-repeat\" class=\"csscan-property\">bg-repeat</td></tr><tr><th colspan=\"2\" id=\"csscan-header-size\" class=\"csscan-header\">Box</th></tr><tr id=\"csscan-row-width\"><td id=\"csscan-property-width\" class=\"csscan-property\">width</td></tr><tr id=\"csscan-row-height\"><td id=\"csscan-property-height\" class=\"csscan-property\">height</td></tr><tr id=\"csscan-row-border-top\"><td id=\"csscan-property-border-top\" class=\"csscan-property\">border-top</td></tr><tr id=\"csscan-row-border-right\"><td id=\"csscan-property-border-right\" class=\"csscan-property\">border-right</td></tr><tr id=\"csscan-row-border-bottom\"><td id=\"csscan-property-border-bottom\" class=\"csscan-property\">border-bottom</td></tr><tr id=\"csscan-row-border-left\"><td id=\"csscan-property-border-left\" class=\"csscan-property\">border-left</td></tr><tr id=\"csscan-row-margin\"><td id=\"csscan-property-margin\" class=\"csscan-property\">margin</td></tr><tr id=\"csscan-row-padding\"><td id=\"csscan-property-padding\" class=\"csscan-property\">padding</td></tr><tr id=\"csscan-row-max-height\"><td id=\"csscan-property-max-height\" class=\"csscan-property\">max-height</td></tr><tr id=\"csscan-row-min-height\"><td id=\"csscan-property-min-height\" class=\"csscan-property\">min-height</td></tr><tr id=\"csscan-row-max-width\"><td id=\"csscan-property-max-width\" class=\"csscan-property\">max-width</td></tr><tr id=\"csscan-row-min-width\"><td id=\"csscan-property-min-width\" class=\"csscan-property\">min-width</td></tr><tr id=\"csscan-row-outline-color\"><td id=\"csscan-property-outline-color\" class=\"csscan-property\">outline-color</td></tr><tr id=\"csscan-row-outline-style\"><td id=\"csscan-property-outline-style\" class=\"csscan-property\">outline-style</td></tr><tr id=\"csscan-row-outline-width\"><td id=\"csscan-property-outline-width\" class=\"csscan-property\">outline-width</td></tr><tr><th colspan=\"2\" id=\"csscan-header-position\" class=\"csscan-header\">Positioning</th></tr><tr id=\"csscan-row-position\"><td id=\"csscan-property-position\" class=\"csscan-property\">position</td></tr><tr id=\"csscan-row-top\"><td id=\"csscan-property-top\" class=\"csscan-property\">top</td></tr><tr id=\"csscan-row-bottom\"><td id=\"csscan-property-bottom\" class=\"csscan-property\">bottom</td></tr><tr id=\"csscan-row-right\"><td id=\"csscan-property-right\" class=\"csscan-property\">right</td></tr><tr id=\"csscan-row-left\"><td id=\"csscan-property-left\" class=\"csscan-property\">left</td></tr><tr id=\"csscan-row-float\"><td id=\"csscan-property-float\" class=\"csscan-property\">float</td></tr><tr id=\"csscan-row-display\"><td id=\"csscan-property-display\" class=\"csscan-property\">display</td></tr><tr id=\"csscan-row-clear\"><td id=\"csscan-property-clear\" class=\"csscan-property\">clear</td></tr><tr id=\"csscan-row-z-index\"><td id=\"csscan-property-z-index\" class=\"csscan-property\">z-index</td></tr><tr><th colspan=\"2\" id=\"csscan-header-list\" class=\"csscan-header\">List</th></tr><tr id=\"csscan-row-list-style-image\"><td id=\"csscan-property-list-style-image\" class=\"csscan-property\">list-style-image</td></tr><tr id=\"csscan-row-list-style-type\"><td id=\"csscan-property-list-style-type\" class=\"csscan-property\">list-style-type</td></tr><tr id=\"csscan-row-list-style-position\"><td id=\"csscan-property-list-style-position\" class=\"csscan-property\">list-style-position</td></tr><tr><th colspan=\"2\" id=\"csscan-header-table\" class=\"csscan-header\">Table</th></tr><tr id=\"csscan-row-vertical-align\"><td id=\"csscan-property-vertical-align\" class=\"csscan-property\">vertical-align</td></tr><tr id=\"csscan-row-border-collapse\"><td id=\"csscan-property-border-collapse\" class=\"csscan-property\">border-collapse</td></tr><tr id=\"csscan-row-border-spacing\"><td id=\"csscan-property-border-spacing\" class=\"csscan-property\">border-spacing</td></tr><tr id=\"csscan-row-caption-side\"><td id=\"csscan-property-caption-side\" class=\"csscan-property\">caption-side</td></tr><tr id=\"csscan-row-empty-cells\"><td id=\"csscan-property-empty-cells\" class=\"csscan-property\">empty-cells</td></tr><tr id=\"csscan-row-table-layout\"><td id=\"csscan-property-table-layout\" class=\"csscan-property\">table-layout</td></tr><tr><th colspan=\"2\" id=\"csscan-header-effects\" class=\"csscan-header\">Effects</th></tr><tr id=\"csscan-row-text-shadow\"><td id=\"csscan-property-text-shadow\" class=\"csscan-property\">text-shadow</td></tr><tr id=\"csscan-row--webkit-box-shadow\"><td id=\"csscan-property--webkit-box-shadow\" class=\"csscan-property\">-webkit-box-shadow</td></tr><tr id=\"csscan-row-border-radius\"><td id=\"csscan-property-border-radius\" class=\"csscan-property\">border-radius</td></tr><tr><th colspan=\"2\" id=\"csscan-header-other\" class=\"csscan-header\">Other</th></tr><tr id=\"csscan-row-overflow\"><td id=\"csscan-property-overflow\" class=\"csscan-property\">overflow</td></tr><tr id=\"csscan-row-cursor\"><td id=\"csscan-property-cursor\" class=\"csscan-property\">cursor</td></tr><tr id=\"csscan-row-visibility\"><td id=\"csscan-property-visibility\" class=\"csscan-property\">visibility</td></tr></tbody></table></div><div id=\"csscan-wrapper\" style=\"display: none; \"><h2 id=\"csscan-header\">element</h2><table id=\"csscan-table\"><tbody><tr><th colspan=\"2\" id=\"csscan-header-font\" class=\"csscan-header\">Font</th></tr><tr id=\"csscan-row-font-family\"><td id=\"csscan-property-font-family\" class=\"csscan-property\">font-family</td></tr><tr id=\"csscan-row-font-size\"><td id=\"csscan-property-font-size\" class=\"csscan-property\">font-size</td></tr><tr id=\"csscan-row-font-style\"><td id=\"csscan-property-font-style\" class=\"csscan-property\">font-style</td></tr><tr id=\"csscan-row-font-variant\"><td id=\"csscan-property-font-variant\" class=\"csscan-property\">font-variant</td></tr><tr id=\"csscan-row-font-weight\"><td id=\"csscan-property-font-weight\" class=\"csscan-property\">font-weight</td></tr><tr id=\"csscan-row-letter-spacing\"><td id=\"csscan-property-letter-spacing\" class=\"csscan-property\">letter-spacing</td></tr><tr id=\"csscan-row-line-height\"><td id=\"csscan-property-line-height\" class=\"csscan-property\">line-height</td></tr><tr id=\"csscan-row-text-decoration\"><td id=\"csscan-property-text-decoration\" class=\"csscan-property\">text-decoration</td></tr><tr id=\"csscan-row-text-align\"><td id=\"csscan-property-text-align\" class=\"csscan-property\">text-align</td></tr><tr id=\"csscan-row-text-indent\"><td id=\"csscan-property-text-indent\" class=\"csscan-property\">text-indent</td></tr><tr id=\"csscan-row-text-transform\"><td id=\"csscan-property-text-transform\" class=\"csscan-property\">text-transform</td></tr><tr id=\"csscan-row-white-space\"><td id=\"csscan-property-white-space\" class=\"csscan-property\">white-space</td></tr><tr id=\"csscan-row-word-spacing\"><td id=\"csscan-property-word-spacing\" class=\"csscan-property\">word-spacing</td></tr><tr id=\"csscan-row-color\"><td id=\"csscan-property-color\" class=\"csscan-property\">color</td></tr><tr><th colspan=\"2\" id=\"csscan-header-background\" class=\"csscan-header\">Background</th></tr><tr id=\"csscan-row-background-attachment\"><td id=\"csscan-property-background-attachment\" class=\"csscan-property\">bg-attachment</td></tr><tr id=\"csscan-row-background-color\"><td id=\"csscan-property-background-color\" class=\"csscan-property\">bg-color</td></tr><tr id=\"csscan-row-background-image\"><td id=\"csscan-property-background-image\" class=\"csscan-property\">bg-image</td></tr><tr id=\"csscan-row-background-position\"><td id=\"csscan-property-background-position\" class=\"csscan-property\">bg-position</td></tr><tr id=\"csscan-row-background-repeat\"><td id=\"csscan-property-background-repeat\" class=\"csscan-property\">bg-repeat</td></tr><tr><th colspan=\"2\" id=\"csscan-header-size\" class=\"csscan-header\">Box</th></tr><tr id=\"csscan-row-width\"><td id=\"csscan-property-width\" class=\"csscan-property\">width</td></tr><tr id=\"csscan-row-height\"><td id=\"csscan-property-height\" class=\"csscan-property\">height</td></tr><tr id=\"csscan-row-border-top\"><td id=\"csscan-property-border-top\" class=\"csscan-property\">border-top</td></tr><tr id=\"csscan-row-border-right\"><td id=\"csscan-property-border-right\" class=\"csscan-property\">border-right</td></tr><tr id=\"csscan-row-border-bottom\"><td id=\"csscan-property-border-bottom\" class=\"csscan-property\">border-bottom</td></tr><tr id=\"csscan-row-border-left\"><td id=\"csscan-property-border-left\" class=\"csscan-property\">border-left</td></tr><tr id=\"csscan-row-margin\"><td id=\"csscan-property-margin\" class=\"csscan-property\">margin</td></tr><tr id=\"csscan-row-padding\"><td id=\"csscan-property-padding\" class=\"csscan-property\">padding</td></tr><tr id=\"csscan-row-max-height\"><td id=\"csscan-property-max-height\" class=\"csscan-property\">max-height</td></tr><tr id=\"csscan-row-min-height\"><td id=\"csscan-property-min-height\" class=\"csscan-property\">min-height</td></tr><tr id=\"csscan-row-max-width\"><td id=\"csscan-property-max-width\" class=\"csscan-property\">max-width</td></tr><tr id=\"csscan-row-min-width\"><td id=\"csscan-property-min-width\" class=\"csscan-property\">min-width</td></tr><tr id=\"csscan-row-outline-color\"><td id=\"csscan-property-outline-color\" class=\"csscan-property\">outline-color</td></tr><tr id=\"csscan-row-outline-style\"><td id=\"csscan-property-outline-style\" class=\"csscan-property\">outline-style</td></tr><tr id=\"csscan-row-outline-width\"><td id=\"csscan-property-outline-width\" class=\"csscan-property\">outline-width</td></tr><tr><th colspan=\"2\" id=\"csscan-header-position\" class=\"csscan-header\">Positioning</th></tr><tr id=\"csscan-row-position\"><td id=\"csscan-property-position\" class=\"csscan-property\">position</td></tr><tr id=\"csscan-row-top\"><td id=\"csscan-property-top\" class=\"csscan-property\">top</td></tr><tr id=\"csscan-row-bottom\"><td id=\"csscan-property-bottom\" class=\"csscan-property\">bottom</td></tr><tr id=\"csscan-row-right\"><td id=\"csscan-property-right\" class=\"csscan-property\">right</td></tr><tr id=\"csscan-row-left\"><td id=\"csscan-property-left\" class=\"csscan-property\">left</td></tr><tr id=\"csscan-row-float\"><td id=\"csscan-property-float\" class=\"csscan-property\">float</td></tr><tr id=\"csscan-row-display\"><td id=\"csscan-property-display\" class=\"csscan-property\">display</td></tr><tr id=\"csscan-row-clear\"><td id=\"csscan-property-clear\" class=\"csscan-property\">clear</td></tr><tr id=\"csscan-row-z-index\"><td id=\"csscan-property-z-index\" class=\"csscan-property\">z-index</td></tr><tr><th colspan=\"2\" id=\"csscan-header-list\" class=\"csscan-header\">List</th></tr><tr id=\"csscan-row-list-style-image\"><td id=\"csscan-property-list-style-image\" class=\"csscan-property\">list-style-image</td></tr><tr id=\"csscan-row-list-style-type\"><td id=\"csscan-property-list-style-type\" class=\"csscan-property\">list-style-type</td></tr><tr id=\"csscan-row-list-style-position\"><td id=\"csscan-property-list-style-position\" class=\"csscan-property\">list-style-position</td></tr><tr><th colspan=\"2\" id=\"csscan-header-table\" class=\"csscan-header\">Table</th></tr><tr id=\"csscan-row-vertical-align\"><td id=\"csscan-property-vertical-align\" class=\"csscan-property\">vertical-align</td></tr><tr id=\"csscan-row-border-collapse\"><td id=\"csscan-property-border-collapse\" class=\"csscan-property\">border-collapse</td></tr><tr id=\"csscan-row-border-spacing\"><td id=\"csscan-property-border-spacing\" class=\"csscan-property\">border-spacing</td></tr><tr id=\"csscan-row-caption-side\"><td id=\"csscan-property-caption-side\" class=\"csscan-property\">caption-side</td></tr><tr id=\"csscan-row-empty-cells\"><td id=\"csscan-property-empty-cells\" class=\"csscan-property\">empty-cells</td></tr><tr id=\"csscan-row-table-layout\"><td id=\"csscan-property-table-layout\" class=\"csscan-property\">table-layout</td></tr><tr><th colspan=\"2\" id=\"csscan-header-effects\" class=\"csscan-header\">Effects</th></tr><tr id=\"csscan-row-text-shadow\"><td id=\"csscan-property-text-shadow\" class=\"csscan-property\">text-shadow</td></tr><tr id=\"csscan-row--webkit-box-shadow\"><td id=\"csscan-property--webkit-box-shadow\" class=\"csscan-property\">-webkit-box-shadow</td></tr><tr id=\"csscan-row-border-radius\"><td id=\"csscan-property-border-radius\" class=\"csscan-property\">border-radius</td></tr><tr><th colspan=\"2\" id=\"csscan-header-other\" class=\"csscan-header\">Other</th></tr><tr id=\"csscan-row-overflow\"><td id=\"csscan-property-overflow\" class=\"csscan-property\">overflow</td></tr><tr id=\"csscan-row-cursor\"><td id=\"csscan-property-cursor\" class=\"csscan-property\">cursor</td></tr><tr id=\"csscan-row-visibility\"><td id=\"csscan-property-visibility\" class=\"csscan-property\">visibility</td></tr></tbody></table></div><div id=\"csscan-wrapper\" style=\"display: none; \"><h2 id=\"csscan-header\">element</h2><table id=\"csscan-table\"><tbody><tr><th colspan=\"2\" id=\"csscan-header-font\" class=\"csscan-header\">Font</th></tr><tr id=\"csscan-row-font-family\"><td id=\"csscan-property-font-family\" class=\"csscan-property\">font-family</td></tr><tr id=\"csscan-row-font-size\"><td id=\"csscan-property-font-size\" class=\"csscan-property\">font-size</td></tr><tr id=\"csscan-row-font-style\"><td id=\"csscan-property-font-style\" class=\"csscan-property\">font-style</td></tr><tr id=\"csscan-row-font-variant\"><td id=\"csscan-property-font-variant\" class=\"csscan-property\">font-variant</td></tr><tr id=\"csscan-row-font-weight\"><td id=\"csscan-property-font-weight\" class=\"csscan-property\">font-weight</td></tr><tr id=\"csscan-row-letter-spacing\"><td id=\"csscan-property-letter-spacing\" class=\"csscan-property\">letter-spacing</td></tr><tr id=\"csscan-row-line-height\"><td id=\"csscan-property-line-height\" class=\"csscan-property\">line-height</td></tr><tr id=\"csscan-row-text-decoration\"><td id=\"csscan-property-text-decoration\" class=\"csscan-property\">text-decoration</td></tr><tr id=\"csscan-row-text-align\"><td id=\"csscan-property-text-align\" class=\"csscan-property\">text-align</td></tr><tr id=\"csscan-row-text-indent\"><td id=\"csscan-property-text-indent\" class=\"csscan-property\">text-indent</td></tr><tr id=\"csscan-row-text-transform\"><td id=\"csscan-property-text-transform\" class=\"csscan-property\">text-transform</td></tr><tr id=\"csscan-row-white-space\"><td id=\"csscan-property-white-space\" class=\"csscan-property\">white-space</td></tr><tr id=\"csscan-row-word-spacing\"><td id=\"csscan-property-word-spacing\" class=\"csscan-property\">word-spacing</td></tr><tr id=\"csscan-row-color\"><td id=\"csscan-property-color\" class=\"csscan-property\">color</td></tr><tr><th colspan=\"2\" id=\"csscan-header-background\" class=\"csscan-header\">Background</th></tr><tr id=\"csscan-row-background-attachment\"><td id=\"csscan-property-background-attachment\" class=\"csscan-property\">bg-attachment</td></tr><tr id=\"csscan-row-background-color\"><td id=\"csscan-property-background-color\" class=\"csscan-property\">bg-color</td></tr><tr id=\"csscan-row-background-image\"><td id=\"csscan-property-background-image\" class=\"csscan-property\">bg-image</td></tr><tr id=\"csscan-row-background-position\"><td id=\"csscan-property-background-position\" class=\"csscan-property\">bg-position</td></tr><tr id=\"csscan-row-background-repeat\"><td id=\"csscan-property-background-repeat\" class=\"csscan-property\">bg-repeat</td></tr><tr><th colspan=\"2\" id=\"csscan-header-size\" class=\"csscan-header\">Box</th></tr><tr id=\"csscan-row-width\"><td id=\"csscan-property-width\" class=\"csscan-property\">width</td></tr><tr id=\"csscan-row-height\"><td id=\"csscan-property-height\" class=\"csscan-property\">height</td></tr><tr id=\"csscan-row-border-top\"><td id=\"csscan-property-border-top\" class=\"csscan-property\">border-top</td></tr><tr id=\"csscan-row-border-right\"><td id=\"csscan-property-border-right\" class=\"csscan-property\">border-right</td></tr><tr id=\"csscan-row-border-bottom\"><td id=\"csscan-property-border-bottom\" class=\"csscan-property\">border-bottom</td></tr><tr id=\"csscan-row-border-left\"><td id=\"csscan-property-border-left\" class=\"csscan-property\">border-left</td></tr><tr id=\"csscan-row-margin\"><td id=\"csscan-property-margin\" class=\"csscan-property\">margin</td></tr><tr id=\"csscan-row-padding\"><td id=\"csscan-property-padding\" class=\"csscan-property\">padding</td></tr><tr id=\"csscan-row-max-height\"><td id=\"csscan-property-max-height\" class=\"csscan-property\">max-height</td></tr><tr id=\"csscan-row-min-height\"><td id=\"csscan-property-min-height\" class=\"csscan-property\">min-height</td></tr><tr id=\"csscan-row-max-width\"><td id=\"csscan-property-max-width\" class=\"csscan-property\">max-width</td></tr><tr id=\"csscan-row-min-width\"><td id=\"csscan-property-min-width\" class=\"csscan-property\">min-width</td></tr><tr id=\"csscan-row-outline-color\"><td id=\"csscan-property-outline-color\" class=\"csscan-property\">outline-color</td></tr><tr id=\"csscan-row-outline-style\"><td id=\"csscan-property-outline-style\" class=\"csscan-property\">outline-style</td></tr><tr id=\"csscan-row-outline-width\"><td id=\"csscan-property-outline-width\" class=\"csscan-property\">outline-width</td></tr><tr><th colspan=\"2\" id=\"csscan-header-position\" class=\"csscan-header\">Positioning</th></tr><tr id=\"csscan-row-position\"><td id=\"csscan-property-position\" class=\"csscan-property\">position</td></tr><tr id=\"csscan-row-top\"><td id=\"csscan-property-top\" class=\"csscan-property\">top</td></tr><tr id=\"csscan-row-bottom\"><td id=\"csscan-property-bottom\" class=\"csscan-property\">bottom</td></tr><tr id=\"csscan-row-right\"><td id=\"csscan-property-right\" class=\"csscan-property\">right</td></tr><tr id=\"csscan-row-left\"><td id=\"csscan-property-left\" class=\"csscan-property\">left</td></tr><tr id=\"csscan-row-float\"><td id=\"csscan-property-float\" class=\"csscan-property\">float</td></tr><tr id=\"csscan-row-display\"><td id=\"csscan-property-display\" class=\"csscan-property\">display</td></tr><tr id=\"csscan-row-clear\"><td id=\"csscan-property-clear\" class=\"csscan-property\">clear</td></tr><tr id=\"csscan-row-z-index\"><td id=\"csscan-property-z-index\" class=\"csscan-property\">z-index</td></tr><tr><th colspan=\"2\" id=\"csscan-header-list\" class=\"csscan-header\">List</th></tr><tr id=\"csscan-row-list-style-image\"><td id=\"csscan-property-list-style-image\" class=\"csscan-property\">list-style-image</td></tr><tr id=\"csscan-row-list-style-type\"><td id=\"csscan-property-list-style-type\" class=\"csscan-property\">list-style-type</td></tr><tr id=\"csscan-row-list-style-position\"><td id=\"csscan-property-list-style-position\" class=\"csscan-property\">list-style-position</td></tr><tr><th colspan=\"2\" id=\"csscan-header-table\" class=\"csscan-header\">Table</th></tr><tr id=\"csscan-row-vertical-align\"><td id=\"csscan-property-vertical-align\" class=\"csscan-property\">vertical-align</td></tr><tr id=\"csscan-row-border-collapse\"><td id=\"csscan-property-border-collapse\" class=\"csscan-property\">border-collapse</td></tr><tr id=\"csscan-row-border-spacing\"><td id=\"csscan-property-border-spacing\" class=\"csscan-property\">border-spacing</td></tr><tr id=\"csscan-row-caption-side\"><td id=\"csscan-property-caption-side\" class=\"csscan-property\">caption-side</td></tr><tr id=\"csscan-row-empty-cells\"><td id=\"csscan-property-empty-cells\" class=\"csscan-property\">empty-cells</td></tr><tr id=\"csscan-row-table-layout\"><td id=\"csscan-property-table-layout\" class=\"csscan-property\">table-layout</td></tr><tr><th colspan=\"2\" id=\"csscan-header-effects\" class=\"csscan-header\">Effects</th></tr><tr id=\"csscan-row-text-shadow\"><td id=\"csscan-property-text-shadow\" class=\"csscan-property\">text-shadow</td></tr><tr id=\"csscan-row--webkit-box-shadow\"><td id=\"csscan-property--webkit-box-shadow\" class=\"csscan-property\">-webkit-box-shadow</td></tr><tr id=\"csscan-row-border-radius\"><td id=\"csscan-property-border-radius\" class=\"csscan-property\">border-radius</td></tr><tr><th colspan=\"2\" id=\"csscan-header-other\" class=\"csscan-header\">Other</th></tr><tr id=\"csscan-row-overflow\"><td id=\"csscan-property-overflow\" class=\"csscan-property\">overflow</td></tr><tr id=\"csscan-row-cursor\"><td id=\"csscan-property-cursor\" class=\"csscan-property\">cursor</td></tr><tr id=\"csscan-row-visibility\"><td id=\"csscan-property-visibility\" class=\"csscan-property\">visibility</td></tr></tbody></table></div><div id=\"csscan-wrapper\" style=\"display: none; \"><h2 id=\"csscan-header\">element</h2><table id=\"csscan-table\"><tbody><tr><th colspan=\"2\" id=\"csscan-header-font\" class=\"csscan-header\">Font</th></tr><tr id=\"csscan-row-font-family\"><td id=\"csscan-property-font-family\" class=\"csscan-property\">font-family</td></tr><tr id=\"csscan-row-font-size\"><td id=\"csscan-property-font-size\" class=\"csscan-property\">font-size</td></tr><tr id=\"csscan-row-font-style\"><td id=\"csscan-property-font-style\" class=\"csscan-property\">font-style</td></tr><tr id=\"csscan-row-font-variant\"><td id=\"csscan-property-font-variant\" class=\"csscan-property\">font-variant</td></tr><tr id=\"csscan-row-font-weight\"><td id=\"csscan-property-font-weight\" class=\"csscan-property\">font-weight</td></tr><tr id=\"csscan-row-letter-spacing\"><td id=\"csscan-property-letter-spacing\" class=\"csscan-property\">letter-spacing</td></tr><tr id=\"csscan-row-line-height\"><td id=\"csscan-property-line-height\" class=\"csscan-property\">line-height</td></tr><tr id=\"csscan-row-text-decoration\"><td id=\"csscan-property-text-decoration\" class=\"csscan-property\">text-decoration</td></tr><tr id=\"csscan-row-text-align\"><td id=\"csscan-property-text-align\" class=\"csscan-property\">text-align</td></tr><tr id=\"csscan-row-text-indent\"><td id=\"csscan-property-text-indent\" class=\"csscan-property\">text-indent</td></tr><tr id=\"csscan-row-text-transform\"><td id=\"csscan-property-text-transform\" class=\"csscan-property\">text-transform</td></tr><tr id=\"csscan-row-white-space\"><td id=\"csscan-property-white-space\" class=\"csscan-property\">white-space</td></tr><tr id=\"csscan-row-word-spacing\"><td id=\"csscan-property-word-spacing\" class=\"csscan-property\">word-spacing</td></tr><tr id=\"csscan-row-color\"><td id=\"csscan-property-color\" class=\"csscan-property\">color</td></tr><tr><th colspan=\"2\" id=\"csscan-header-background\" class=\"csscan-header\">Background</th></tr><tr id=\"csscan-row-background-attachment\"><td id=\"csscan-property-background-attachment\" class=\"csscan-property\">bg-attachment</td></tr><tr id=\"csscan-row-background-color\"><td id=\"csscan-property-background-color\" class=\"csscan-property\">bg-color</td></tr><tr id=\"csscan-row-background-image\"><td id=\"csscan-property-background-image\" class=\"csscan-property\">bg-image</td></tr><tr id=\"csscan-row-background-position\"><td id=\"csscan-property-background-position\" class=\"csscan-property\">bg-position</td></tr><tr id=\"csscan-row-background-repeat\"><td id=\"csscan-property-background-repeat\" class=\"csscan-property\">bg-repeat</td></tr><tr><th colspan=\"2\" id=\"csscan-header-size\" class=\"csscan-header\">Box</th></tr><tr id=\"csscan-row-width\"><td id=\"csscan-property-width\" class=\"csscan-property\">width</td></tr><tr id=\"csscan-row-height\"><td id=\"csscan-property-height\" class=\"csscan-property\">height</td></tr><tr id=\"csscan-row-border-top\"><td id=\"csscan-property-border-top\" class=\"csscan-property\">border-top</td></tr><tr id=\"csscan-row-border-right\"><td id=\"csscan-property-border-right\" class=\"csscan-property\">border-right</td></tr><tr id=\"csscan-row-border-bottom\"><td id=\"csscan-property-border-bottom\" class=\"csscan-property\">border-bottom</td></tr><tr id=\"csscan-row-border-left\"><td id=\"csscan-property-border-left\" class=\"csscan-property\">border-left</td></tr><tr id=\"csscan-row-margin\"><td id=\"csscan-property-margin\" class=\"csscan-property\">margin</td></tr><tr id=\"csscan-row-padding\"><td id=\"csscan-property-padding\" class=\"csscan-property\">padding</td></tr><tr id=\"csscan-row-max-height\"><td id=\"csscan-property-max-height\" class=\"csscan-property\">max-height</td></tr><tr id=\"csscan-row-min-height\"><td id=\"csscan-property-min-height\" class=\"csscan-property\">min-height</td></tr><tr id=\"csscan-row-max-width\"><td id=\"csscan-property-max-width\" class=\"csscan-property\">max-width</td></tr><tr id=\"csscan-row-min-width\"><td id=\"csscan-property-min-width\" class=\"csscan-property\">min-width</td></tr><tr id=\"csscan-row-outline-color\"><td id=\"csscan-property-outline-color\" class=\"csscan-property\">outline-color</td></tr><tr id=\"csscan-row-outline-style\"><td id=\"csscan-property-outline-style\" class=\"csscan-property\">outline-style</td></tr><tr id=\"csscan-row-outline-width\"><td id=\"csscan-property-outline-width\" class=\"csscan-property\">outline-width</td></tr><tr><th colspan=\"2\" id=\"csscan-header-position\" class=\"csscan-header\">Positioning</th></tr><tr id=\"csscan-row-position\"><td id=\"csscan-property-position\" class=\"csscan-property\">position</td></tr><tr id=\"csscan-row-top\"><td id=\"csscan-property-top\" class=\"csscan-property\">top</td></tr><tr id=\"csscan-row-bottom\"><td id=\"csscan-property-bottom\" class=\"csscan-property\">bottom</td></tr><tr id=\"csscan-row-right\"><td id=\"csscan-property-right\" class=\"csscan-property\">right</td></tr><tr id=\"csscan-row-left\"><td id=\"csscan-property-left\" class=\"csscan-property\">left</td></tr><tr id=\"csscan-row-float\"><td id=\"csscan-property-float\" class=\"csscan-property\">float</td></tr><tr id=\"csscan-row-display\"><td id=\"csscan-property-display\" class=\"csscan-property\">display</td></tr><tr id=\"csscan-row-clear\"><td id=\"csscan-property-clear\" class=\"csscan-property\">clear</td></tr><tr id=\"csscan-row-z-index\"><td id=\"csscan-property-z-index\" class=\"csscan-property\">z-index</td></tr><tr><th colspan=\"2\" id=\"csscan-header-list\" class=\"csscan-header\">List</th></tr><tr id=\"csscan-row-list-style-image\"><td id=\"csscan-property-list-style-image\" class=\"csscan-property\">list-style-image</td></tr><tr id=\"csscan-row-list-style-type\"><td id=\"csscan-property-list-style-type\" class=\"csscan-property\">list-style-type</td></tr><tr id=\"csscan-row-list-style-position\"><td id=\"csscan-property-list-style-position\" class=\"csscan-property\">list-style-position</td></tr><tr><th colspan=\"2\" id=\"csscan-header-table\" class=\"csscan-header\">Table</th></tr><tr id=\"csscan-row-vertical-align\"><td id=\"csscan-property-vertical-align\" class=\"csscan-property\">vertical-align</td></tr><tr id=\"csscan-row-border-collapse\"><td id=\"csscan-property-border-collapse\" class=\"csscan-property\">border-collapse</td></tr><tr id=\"csscan-row-border-spacing\"><td id=\"csscan-property-border-spacing\" class=\"csscan-property\">border-spacing</td></tr><tr id=\"csscan-row-caption-side\"><td id=\"csscan-property-caption-side\" class=\"csscan-property\">caption-side</td></tr><tr id=\"csscan-row-empty-cells\"><td id=\"csscan-property-empty-cells\" class=\"csscan-property\">empty-cells</td></tr><tr id=\"csscan-row-table-layout\"><td id=\"csscan-property-table-layout\" class=\"csscan-property\">table-layout</td></tr><tr><th colspan=\"2\" id=\"csscan-header-effects\" class=\"csscan-header\">Effects</th></tr><tr id=\"csscan-row-text-shadow\"><td id=\"csscan-property-text-shadow\" class=\"csscan-property\">text-shadow</td></tr><tr id=\"csscan-row--webkit-box-shadow\"><td id=\"csscan-property--webkit-box-shadow\" class=\"csscan-property\">-webkit-box-shadow</td></tr><tr id=\"csscan-row-border-radius\"><td id=\"csscan-property-border-radius\" class=\"csscan-property\">border-radius</td></tr><tr><th colspan=\"2\" id=\"csscan-header-other\" class=\"csscan-header\">Other</th></tr><tr id=\"csscan-row-overflow\"><td id=\"csscan-property-overflow\" class=\"csscan-property\">overflow</td></tr><tr id=\"csscan-row-cursor\"><td id=\"csscan-property-cursor\" class=\"csscan-property\">cursor</td></tr><tr id=\"csscan-row-visibility\"><td id=\"csscan-property-visibility\" class=\"csscan-property\">visibility</td></tr></tbody></table></div></div></group></body>",
+      "cn:sectionHierarchy": [{
+        "id": 10000161,
+        "tagName": "CNBC Global",
+        "order": 1
+      }],
+      "description": "Find CNBC Special Reports with News and Analysis on Investing, Technology, Real Estate, Breaking News and Special Events.\r\n",
+      "cn:tabLabel": "Special Reports",
+      "cn:sectionLinktext": "Special Reports",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+        "position": 7,
+        "cn:relationType": "tags",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@id": "104651573",
+      "cn:type": "image",
+      "cn:slug": "cryptocurrency mining big monitor",
+      "cn:title": "",
+      "headline": "",
+      "cn:creatorOverwrite": "Salvatore Agostino",
+      "cn:historicalURL": [],
+      "cn:editedBy": "auto.videouser",
+      "cn:createdBy": "auto.videouser",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104651573",
+      "author": "",
+      "contentSize": 160240,
+      "datePublished": "2017-08-14T16:04:23+0000",
+      "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104651573-cryptocurrency_big_monitor_blurred.jpg?v=1502809288",
+      "cn:liveURL": "",
+      "cn:seoTitle": "",
+      "cn:summary": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:sectionHierarchy": [],
+      "caption": "A large monitor keeps cryptocurrency miner and investor Brian Samson updated on his earnings.",
+      "description": "",
+      "height": "640",
+      "width": "480",
+      "@type": "ImageObject",
+      "representativeOfPage": "true",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "cn:relation": [{
+        "position": 6,
+        "cn:relationType": "tags",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@id": "104767939",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "Bitcoin record KHARPAL 171012 EU",
+      "cn:title": "Bitcoin leaps to record above $5,300",
+      "headline": "Bitcoin leaps to record above $5,300",
+      "cn:creatorOverwrite": "",
+      "cn:editedBy": "evelyn.cheng",
+      "cn:historicalURL": [],
+      "cn:createdBy": "Arjun.Kharpal",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104767939",
+      "url": "http://qa-aws01web.cnbc.com/2017/10/12/bitcoin-price-record-high-above-5000.html",
+      "datePublished": "2017-10-12T11:48:34+0000",
+      "cn:liveURL": "/2017/10/12/bitcoin-price-record-high-above-5000.html",
+      "cn:seoTitle": "Bitcoin leaps to record above $5,300",
+      "cn:summary": "Several digital currency enthusiasts pointed to increased investor interest in bitcoin ahead of a scheduled split in November.",
+      "cn:shorterDescription": "Speculation that China could reverse the ban of cryptocurrency exchanges is driving sentiment.\r\n",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"104768371\" autoplay_flag=\"true\"/></assets><div class=\"group\"><p><asset_inline nid=\"101423069\">Bitcoin</asset_inline>&#160;hit a new record high Thursday&#160;with rising investor interest causing a rally for the price of the cryptocurrency.&#160;</p><p>Bitcoin climbed 11 percent to an all-time high of $5,386.23, according to data from industry website Coindesk. This surpassed the previous high of&#160;$5,013.91 hit on September 2.&#160;</p><p>With Thursday's gains, bitcoin is now up around 454 percent&#160;year-to-date.</p><p>Several digital currency enthusiasts pointed to increased investor interest in bitcoin ahead of a scheduled&#160;split in November. When bitcoin split into bitcoin and bitcoin cash in August, bitcoin investors at the time received an equal amount of bitcoin cash. However, not all digital currency exchanges immediately supported the offshoot currency.&#160;</p><p>Other major digital currencies mostly rose as well. <asset_inline nid=\"104526774\">Ethereum</asset_inline> traded mildly higher around $305. Bitcoin cash, the offshoot of the original bitcoin, traded slightly higher around $316.</p><p><strong>Bitcoin year-to-date performance</strong></p><p><img class=\"inlineChart\" src=\"https://fm.cnbc.com/applications/cnbc.com/resources/editorialfiles/charts/2017/10/1507826387_btcytd.jpg\"></p><p><em>Source: CoinDesk</em></p><p>Investors also appear to have shrugged off much of the negative news from regulators around bitcoin.&#160;</p><p>Last month, Chinese regulators <asset_inline nid=\"104701891\">banned cryptocurrency exchanges</asset_inline> with some of the largest in the country shutting down operations. The government also banned initial coin offerings (ICOs), a way for cryptocurrency start-ups to raise money through issuing tokens.&#160;</p><p>But reports have emerged in the last few days that trading in the world's second-largest economy could resume. A report by <asset_inline ext_link=\"https://www.cryptocoinsnews.com/china-will-likely-resume-cryptocurrency-trading-by-licensing-bitcoin-exchanges/\" ext_title=\"https://www.cryptocoinsnews.com/china-will-likely-resume-cryptocurrency-trading-by-licensing-bitcoin-exchanges/\">Cryptocoinnews.com</asset_inline>, citing Chinese state-owned news company Xinhua, said that bitcoin trading will likely resume with more regulation. This could include new licensing and anti-money laundering regulations to be implemented by exchanges.&#160;</p><p>\"Speculators are bullish on bitcoin's value with the anticipation of China's reintegration with global crypto markets,\"&#160;Aurelien Menant, CEO of cryptocurrency exchange Gatecoin, told CNBC by email on Thursday.&#160;</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 102428778,
+          "tagName": "Tech Transformers",
+          "order": 1
+        },
+        {
+          "id": 19854910,
+          "tagName": "Technology",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "description": "Several digital currency enthusiasts pointed to increased investor interest in bitcoin ahead of a scheduled split in November.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "101091325",
+        "name": "Arjun Kharpal",
+        "url": "http://qa-aws01web.cnbc.com/arjun-kharpal/",
+        "position": "4998",
+        "sameAs": [
+          "https://www.linkedin.com/profile/view?id=142872004",
+          "https://www.twitter.com/ArjunKharpal",
+          "https://www.plus.google.com/+ArjunKharpal"
+        ],
+        "cn:socialMediaInfo": [{
+            "cn:url": "https://linkedin.com/profile/view?id=142872004",
+            "cn:displayText": "profile/view?id=142872004",
+            "cn:type": "linkedin"
+          },
+          {
+            "cn:url": "https://twitter.com/ArjunKharpal",
+            "cn:displayText": "ArjunKharpal",
+            "cn:type": "twitter"
+          },
+          {
+            "cn:url": "https://plus.google.com/+ArjunKharpal",
+            "cn:displayText": "+ArjunKharpal",
+            "cn:type": "googlePlus"
+          }
+        ]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104661450,
+        "author": "",
+        "datePublished": "2017-08-18T17:11:37+0000",
+        "caption": "",
+        "description": "",
+        "copyrightHolder": "Vyacheslav Prokofyev | TASS | Getty Images",
+        "height": "1298",
+        "width": "2000",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104661450-GettyImages-823873548.jpg?v=1509460289"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "position": 6,
+        "cn:relationType": "related",
+        "cn:isPromoted": "true"
+      }]
+    },
+    {
+      "@type": "Collection",
+      "@id": "21324812",
+      "cn:type": "franchise",
+      "cn:slug": "PF franchise",
+      "cn:title": "Personal Finance",
+      "headline": "Personal Finance",
+      "cn:sectionLabel": "Personal Finance",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [
+        "/id/21324812"
+      ],
+      "cn:editedBy": "Rick.Levinson",
+      "cn:createdBy": "migration",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/21324812",
+      "cn:settings": {
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "url": "http://qa-aws01web.cnbc.com/personal-finance/",
+      "datePublished": "2012-01-30T01:46:38+0000",
+      "cn:unpublishDate": "",
+      "cn:liveURL": "/personal-finance/",
+      "cn:subType": "section",
+      "cn:seoTitle": "Personal Finance",
+      "cn:summary": "Find personal finance top news, headlines, and videos from credit cards, mortgages, retirement, savings, taxes, and more from CNBC's Personal Finance section.",
+      "cn:shorterDescription": "Find personal finance top news and headlines from credit cards, mortgages, retirement, savings, and more from CNBC.com.",
+      "cn:shortestDescription": "Find personal finance news and advice from CNBC.com.",
+      "cn:bodyTeaser": "null",
+      "cn:sectionHierarchy": [{
+        "id": 10000161,
+        "tagName": "CNBC Global",
+        "order": 1
+      }],
+      "description": "Find personal finance top news, headlines, and videos from credit cards, mortgages, retirement, savings, taxes, and more from CNBC's Personal Finance section.",
+      "cn:tabLabel": "Personal Finance",
+      "cn:sectionLinktext": "Personal Finance",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+          "position": 6,
+          "cn:relationType": "content_queue",
+          "cn:isPromoted": "false"
+        },
+        {
+          "position": 1,
+          "cn:relationType": "tags",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "@id": "104653831",
+      "cn:type": "chart",
+      "cn:slug": "Bitcoin OBrien 170815",
+      "cn:title": "",
+      "headline": "",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "cn:editedBy": "Josephine.Bila",
+      "cn:createdBy": "Josephine.Bila",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104653831",
+      "url": "",
+      "datePublished": "2017-08-15T14:05:43+0000",
+      "cn:liveURL": "",
+      "cn:seoTitle": "",
+      "cn:summary": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:sectionHierarchy": [],
+      "description": "",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104653832,
+        "author": "",
+        "datePublished": "",
+        "caption": "",
+        "description": "",
+        "copyrightHolder": "",
+        "height": "549",
+        "width": "550",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104653832-bitcoins.png?v=1502813338"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "cn:chartType": "image",
+      "cn:filepath": "2017/08/15/",
+      "cn:filename": "bitcoins.png",
+      "@type": "Table",
+      "cn:relation": [{
+        "position": 5,
+        "cn:relationType": "tags",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "100003343",
+      "cn:type": "skin",
+      "cn:slug": "cnbc global skin",
+      "cn:title": "",
+      "headline": "",
+      "cn:creatorOverwrite": "",
+      "cn:editedBy": "matt.shade",
+      "cn:historicalURL": [],
+      "cn:createdBy": "matt.shade",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100003343",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:tweetOnPublish": 0
+      },
+      "datePublished": "2012-07-30T19:54:30+0000",
+      "cn:liveURL": "",
+      "cn:summary": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:sectionHierarchy": [],
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "cn:relation": [{
+        "position": 5,
+        "cn:relationType": "skin",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@type": "Collection",
+      "@id": "10000656",
+      "cn:type": "franchise",
+      "cn:slug": "Careers",
+      "cn:title": "Careers",
+      "headline": "Careers",
+      "cn:sectionLabel": "Careers",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [
+        "/id/10000656"
+      ],
+      "cn:editedBy": "Rick.Levinson",
+      "cn:createdBy": "migration",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000656",
+      "cn:settings": {
+        "cn:listType": "Manual and/or populated by feeds"
+      },
+      "url": "http://qa-aws01web.cnbc.com/careers/",
+      "datePublished": "2012-01-30T01:53:24+0000",
+      "cn:unpublishDate": "",
+      "cn:liveURL": "/careers/",
+      "cn:subType": "section",
+      "cn:seoTitle": "Career News",
+      "cn:summary": "Find the latest news, headlines, blogs and watch video about careers, jobs, employment and unemployment from CNBC.com.\r\n",
+      "cn:shorterDescription": "Find the latest news about careers, job advice, employment and unemployment from CNBC.com.",
+      "cn:shortestDescription": "Latest careers news and headlines.",
+      "cn:bodyTeaser": "null",
+      "cn:sectionHierarchy": [{
+          "id": 21324812,
+          "tagName": "Personal Finance",
+          "order": 1
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 2
+        }
+      ],
+      "description": "Find the latest news, headlines, blogs and watch video about careers, jobs, employment and unemployment from CNBC.com.\r\n",
+      "cn:tabLabel": "Careers",
+      "cn:sectionLinktext": "Careers",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+        "position": 5,
+        "cn:relationType": "content_queue",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "cn:transcriptUrl": "http://23.21.66.213:9080/appi/buffettv2.jsp?param=1998-BAM-1",
+      "@id": "104658079",
+      "cn:type": "cnbcvideo",
+      "cn:slug": "Should you invest in a cryptocurrency?",
+      "cn:title": "Should you invest in a cryptocurrency?",
+      "headline": "Should you invest in a cryptocurrency?",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "cn:editedBy": "AJ.Horch@nbcuni.com",
+      "cn:createdBy": "Tom.Chitty@cnbc.com",
+      "cn:keyword": "cryptocurrency, bitcoin, ethereum, what is bitcoin, what is ethereum, litecoin, dash, bitcoin cash",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104658079",
+      "url": "http://qa-aws01web.cnbc.com/video/2017/08/17/should-you-invest-in-a-cryptocurrency.html",
+      "cn:vcpsId": 3000646305,
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0,
+        "cn:videoGeoRestrictionEnabled": "No",
+        "cn:isHighPriorityVideo": "No"
+      },
+      "datePublished": "2017-08-18T10:59:22+0000",
+      "uploadDate": "2017-08-17T08:35:41+0000",
+      "cn:liveURL": "/video/2017/08/17/should-you-invest-in-a-cryptocurrency.html",
+      "cn:seoTitle": "Should you invest in a cryptocurrency?",
+      "cn:summary": "As Bitcoin's price continues to surge towards $5000, CNBC's Tom Chitty explains whether the rollercoaster ride of cryptocurrencies could make you rich.",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:sectionHierarchy": [{
+          "id": 41585735,
+          "tagName": "CNBC Explains",
+          "order": 1
+        },
+        {
+          "id": 16903222,
+          "tagName": "Special Reports",
+          "order": 2
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 3
+        }
+      ],
+      "cn:show": "CNBC Explains",
+      "duration": 322,
+      "thumbnail": "https://qa-aws02capi-img-origin.cnbc.com/image/104660785-6ED2-REQ-081817-EUCrypto_1.jpg?v=1503057723",
+      "image": {
+        "@type": "ImageObject",
+        "representativeOfPage": "true",
+        "caption": "",
+        "author": "",
+        "copyrightHolder": "",
+        "@id": 104660785,
+        "height": "225",
+        "datePublished": 0,
+        "description": "",
+        "width": "400",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104660785-6ED2-REQ-081817-EUCrypto_1.jpg?v=1503057723"
+      },
+      "cn:network": 7,
+      "encodings": [{
+          "@type": "VideoObject",
+          "url": "http://vcps.cnbc.com/vcps/media/content?id=MzAwMDY0NjMwNQptcGVnNF81MDAwMDAKU3RyZWFtaW5n&UserName=cmsguest@cnbc.com&key=NA",
+          "encodingFormat": "mpeg4",
+          "bitrate": 500000,
+          "cn:protocol": "Streaming",
+          "cn:formatName": "mpeg4_500000_Streaming"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M08D18/3000646305/6ED2-REQ-081817-EUCrypto_1_L.mp4",
+          "encodingFormat": "mpeg4",
+          "bitrate": 500000,
+          "cn:protocol": "Download",
+          "cn:formatName": "mpeg4_500000_Download"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://vcps.cnbc.com/vcps/media/content?id=MzAwMDY0NjMwNQptcGVnNHdfNDUwMEsKU3RyZWFtaW5n&UserName=cmsguest@cnbc.com&key=NA",
+          "encodingFormat": "mpeg4",
+          "bitrate": 4500000,
+          "cn:protocol": "Streaming",
+          "cn:formatName": "mpeg4_4500000_Streaming"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M08D18/3000646305/6ED2-REQ-081817-EUCrypto_1_MBR_4500.mp4",
+          "encodingFormat": "mpeg4",
+          "bitrate": 4500000,
+          "cn:protocol": "Download",
+          "cn:formatName": "mpeg4_4500000_Download"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://vcps.cnbc.com/vcps/media/content?id=MzAwMDY0NjMwNQpGTFZfNDMyeDI0MF8zMHBfNTAwSwpTdHJlYW1pbmc&UserName=cmsguest@cnbc.com&key=NA",
+          "encodingFormat": "flv",
+          "bitrate": 500000,
+          "cn:protocol": "Streaming",
+          "cn:formatName": "flv_500000_Streaming"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "ftp://cnbc.upload.akamai.com/23727/flash/VCPS/Y2017/M08D18/3000646305/6ED2-REQ-081817-EUCrypto_1_FLV_432x240_30p_500K.flv",
+          "encodingFormat": "flv",
+          "bitrate": 500000,
+          "cn:protocol": "Download",
+          "cn:formatName": "flv_500000_Download"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M08D18/3000646305/6ED2-REQ-081817-EUCrypto_1_H264_720x405_30p_1M.mp4",
+          "encodingFormat": "mpeg4",
+          "bitrate": 1100000,
+          "cn:protocol": "Download",
+          "cn:formatName": "mpeg4_1100000_Download"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M08D18/3000646305/6ED2-REQ-081817-EUCrypto_1_H264_126K.mp4",
+          "encodingFormat": "mpeg4",
+          "bitrate": 200000,
+          "cn:protocol": "Download",
+          "cn:formatName": "mpeg4_200000_Download"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://pdl.iphone.cnbc.com/VCPS/Y2017/M08D18/3000646305/6ED2-REQ-081817-EUCrypto_1_H264_480x270_25p_500K.mp4",
+          "encodingFormat": "mpeg4",
+          "bitrate": 600000,
+          "cn:protocol": "Download",
+          "cn:formatName": "mpeg4_600000_Download"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://cnbcmbr-vh.akamaihd.net/i/mp4/VCPS/Y2017/M08D18/3000646305/6ED2-REQ-081817-EUCrypto_1_MBR_0500.mp4/master.m3u8",
+          "encodingFormat": "mpeg4",
+          "bitrate": 500000,
+          "cn:protocol": "HLSSBRStreaming",
+          "cn:formatName": "mpeg4_500000_HLSSBRStreaming"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://cnbcmbr-vh.akamaihd.net/z/mp4/VCPS/Y2017/M08D18/3000646305/6ED2-REQ-081817-EUCrypto_1_MBR_0500.mp4/manifest.f4m",
+          "encodingFormat": "mpeg4",
+          "bitrate": 500000,
+          "cn:protocol": "HDNSBRStreaming",
+          "cn:formatName": "mpeg4_500000_HDNSBRStreaming"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://cnbcmbr-vh.akamaihd.net/i/mp4/VCPS/Y2017/M08D18/3000646305/6ED2-REQ-081817-EUCrypto_1_MBR_,0240,0300,0500,0700,0900,1300,1700,4500,.mp4.csmil/master.m3u8",
+          "encodingFormat": "mpeg4",
+          "bitrate": 1,
+          "cn:protocol": "HLSMBRStreaming",
+          "cn:formatName": "mpeg4_1_HLSMBRStreaming"
+        },
+        {
+          "@type": "VideoObject",
+          "url": "http://cnbcmbr-vh.akamaihd.net/z/mp4/VCPS/Y2017/M08D18/3000646305/6ED2-REQ-081817-EUCrypto_1_MBR_,0240,0300,0500,0700,0900,1300,1700,4500,.mp4.csmil/manifest.f4m",
+          "encodingFormat": "mpeg4",
+          "bitrate": 1,
+          "cn:protocol": "HDNMBRStreaming",
+          "cn:formatName": "mpeg4_1_HDNMBRStreaming"
+        }
+      ],
+      "@type": "VideoObject",
+      "representativeOfPage": "true",
+      "expireDate": "",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "cn:relation": [{
+        "position": 5,
+        "cn:relationType": "related",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@type": "Collection",
+      "@id": "19854910",
+      "cn:type": "franchise",
+      "cn:slug": "Technology",
+      "cn:title": "Technology",
+      "headline": "Tech",
+      "cn:sectionLabel": "Tech",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [
+        "/id/19854910",
+        "/tech/"
+      ],
+      "cn:editedBy": "sekhar.badugu",
+      "cn:createdBy": "migration",
+      "cn:subDomain": "CNBC.com",
+      "cn:branding": "CNBC",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/19854910",
+      "cn:settings": {
+        "cn:listType": "Manual and/or populated by feeds",
+        "cn:tweetOnPublish": 0
+      },
+      "url": "http://qa-aws01web.cnbc.com/technology/",
+      "datePublished": "2015-12-21T12:51:45+0000",
+      "cn:unpublishDate": "",
+      "cn:liveURL": "/technology/",
+      "cn:subType": "news_section",
+      "cn:seoTitle": "Technology News",
+      "cn:summary": "Find the latest business news pertaining to Technology covering companies, advancements, multimedia, electronics, mobile technologies, and science available on the official CNBC Technology site.",
+      "cn:shorterDescription": "Find the latest business news pertaining to Technology available on the official CNBC Technology site.",
+      "cn:shortestDescription": "See latest technology news and features",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><br /></p><div id=\"droplr-chrome-extension-is-installed\" style=\"display: none;\"></div></div></group></body>",
+      "cn:sectionHierarchy": [{
+        "id": 10000161,
+        "tagName": "CNBC Global",
+        "order": 1
+      }],
+      "description": "Find the latest business news pertaining to Technology covering companies, advancements, multimedia, electronics, mobile technologies, and science available on the official CNBC Technology site.",
+      "cn:sectionColor": "#5e1c1c",
+      "cn:promoText": "test promo",
+      "cn:showTime": "12 PM",
+      "cn:tabLabel": "Tech",
+      "cn:sectionLinktext": "Tech",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+        "position": 4,
+        "cn:relationType": "tags",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@type": "Collection",
+      "@id": "10000827",
+      "cn:type": "franchise",
+      "cn:slug": "Personal Debt",
+      "cn:title": "Debt",
+      "headline": "Debt",
+      "cn:sectionLabel": "Debt",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [
+        "/id/10000827"
+      ],
+      "cn:editedBy": "Rick.Levinson",
+      "cn:createdBy": "migration",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000827",
+      "cn:settings": {
+        "cn:listType": "Manual and/or populated by feeds"
+      },
+      "url": "http://qa-aws01web.cnbc.com/debt/",
+      "datePublished": "2012-01-30T01:53:54+0000",
+      "cn:unpublishDate": "",
+      "cn:liveURL": "/debt/",
+      "cn:subType": "section",
+      "cn:seoTitle": "Debt - Personal Finance",
+      "cn:summary": "Tips and advice for getting out of debt, using credit wisely, and sticking to a personal budget. ",
+      "cn:shorterDescription": "Tips and advice for getting out of debt, using credit wisely, and sticking to a personal budget. ",
+      "cn:shortestDescription": "Getting out of debt, using credit wisely, and personal budgets. ",
+      "cn:bodyTeaser": "null",
+      "cn:sectionHierarchy": [{
+          "id": 21324812,
+          "tagName": "Personal Finance",
+          "order": 1
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 2
+        }
+      ],
+      "description": "Tips and advice for getting out of debt, using credit wisely, and sticking to a personal budget. ",
+      "cn:tabLabel": "Debt",
+      "cn:sectionLinktext": "Debt",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+        "position": 4,
+        "cn:relationType": "content_queue",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "100236386",
+      "cn:type": "skin",
+      "cn:slug": "table fix skin",
+      "cn:title": "",
+      "headline": "",
+      "cn:creatorOverwrite": "",
+      "cn:editedBy": "joseph.odell",
+      "cn:historicalURL": [],
+      "cn:createdBy": "matt.shade",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100236386",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Virtual"
+      },
+      "datePublished": "2012-11-21T15:32:10+0000",
+      "cn:liveURL": "",
+      "cn:summary": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:sectionHierarchy": [],
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "cn:relation": [{
+        "position": 4,
+        "cn:relationType": "skin",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@type": "Collection",
+      "@id": "10000970",
+      "cn:type": "franchise",
+      "cn:slug": "Education",
+      "cn:title": "College",
+      "headline": "College",
+      "cn:sectionLabel": "College",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [
+        "/education/",
+        "/id/10000970"
+      ],
+      "cn:editedBy": "Rick.Levinson",
+      "cn:createdBy": "migration",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10000970",
+      "cn:settings": {
+        "cn:listType": "Manual and/or populated by feeds"
+      },
+      "url": "http://qa-aws01web.cnbc.com/college/",
+      "datePublished": "2012-01-30T01:54:26+0000",
+      "cn:unpublishDate": "",
+      "cn:liveURL": "/college/",
+      "cn:subType": "section",
+      "cn:seoTitle": "College Education",
+      "cn:summary": "Saving for college, balancing student finances, and other education related news headlines.",
+      "cn:shorterDescription": "Saving for college, balancing student finances, and other education related news headlines.",
+      "cn:shortestDescription": "Saving for college, balancing student finances, and education news headlines.",
+      "cn:bodyTeaser": "null",
+      "cn:sectionHierarchy": [{
+          "id": 21324812,
+          "tagName": "Personal Finance",
+          "order": 1
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 2
+        }
+      ],
+      "description": "Saving for college, balancing student finances, and other education related news headlines.",
+      "cn:tabLabel": "College",
+      "cn:sectionLinktext": "College",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+        "position": 3,
+        "cn:relationType": "content_queue",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@id": "104737759",
+      "cn:type": "image",
+      "cn:slug": "Premium EA: Bitcoin coin at conference 140407",
+      "cn:title": "",
+      "headline": "",
+      "cn:creatorOverwrite": "Jin Lee | Bloomberg | Getty Images",
+      "cn:historicalURL": [],
+      "cn:editedBy": "scott.mlyn",
+      "cn:createdBy": "scott.mlyn",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104737759",
+      "author": "",
+      "contentSize": 378725,
+      "datePublished": "2017-09-28T12:46:26+0000",
+      "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104737759-GettyImages-483252873-bitcoin.jpg?v=1506602800",
+      "cn:liveURL": "",
+      "cn:seoTitle": "",
+      "cn:summary": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:sectionHierarchy": [],
+      "caption": "",
+      "description": "",
+      "height": "1333",
+      "width": "2000",
+      "@type": "ImageObject",
+      "representativeOfPage": "true",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "cn:relation": [{
+        "position": 3,
+        "cn:relationType": "tags",
+        "cn:isPromoted": "true"
+      }]
+    },
+    {
+      "cn:relation": [{
+        "position": 3,
+        "cn:relationType": "skin",
+        "cn:isPromoted": "false"
+      }],
+      "@id": "100789669"
+    },
+    {
+      "@id": "104632068",
+      "cn:type": "cnbcnewsstory",
+      "cn:slug": "ICO regulation Roy 170803 Asia",
+      "cn:title": "It's a very good time to be a money launderer, and you can thank cryptocurrencies",
+      "headline": "It's a very good time to be a money launderer — you can thank cryptocurrencies",
+      "cn:creatorOverwrite": "",
+      "cn:editedBy": "Matt.Rosoff",
+      "cn:historicalURL": [],
+      "cn:createdBy": "saheliroy.choudhury",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104632068",
+      "url": "http://qa-aws01web.cnbc.com/2017/08/04/icos-may-be-seen-as-securities-by-u-s-and-singapore-regulators.html",
+      "datePublished": "2017-08-04T09:18:00+0000",
+      "cn:liveURL": "/2017/08/04/icos-may-be-seen-as-securities-by-u-s-and-singapore-regulators.html",
+      "cn:seoTitle": "ICOs may be a boon to money laundering, regulators are watching bitcoin, ethereum and other cryptocurrencies",
+      "cn:summary": "Initial coin offerings (ICOs) are exploding as cryptocurrencies like bitcoin gain wider public acceptance. That may be good news for money launderers.",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p>Cryptocurrencies have exploded in popularity in recent years that has led to a red-hot fundraising trend where start-ups bring in millions of dollars in capital by issuing virtual tokens to investors in exchange for money.&#160;</p><p>Initial coin offerings (ICOs) have become a primary means&#160;of fundraising for projects built on <asset_inline nid=\"104507262\">blockchain technology</asset_inline>. Companies create and issue&#160;digital tokens that can be used to pay for goods and services on their platform or stashed away as an investment. They put out whitepapers describing the platform, software or product they're trying to build, and then people&#160;buy those tokens using widely-accepted cryptocurrencies (like bitcoin and ethereum) or fiat currencies like the U.S. dollar.</p><p>All of that is done without any regulatory oversight, and that has regulators — and members of the financial industry — worried about the potential of widespread money laundering and fraud.</p><p>All told, <asset_inline nid=\"104592579\">start-ups have raised more than a billion dollars this year</asset_inline> in coin sales and in recent months, just four crypto projects <asset_inline nid=\"104582335\">have raised over $660 million combined</asset_inline>, according to Smith + Crown, a blockchain research and consulting group.</p><p>Digital currencies are pseudonymous, decentralized and encrypted, making it harder to track each of the transactions made, and the individuals behind them. Theoretically, anyone with an internet connection and a digital wallet can be part of a coin sale event. That, many worry, leaves plenty of room for people to launder money or finance terrorism activities and engage in other fraudulent behaviors — especially in countries where corruption is rampant.</p></div></group></body>",
+      "cn:sectionHierarchy": [{
+          "id": 19854910,
+          "tagName": "Technology",
+          "order": 1
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 2
+        }
+      ],
+      "description": "Initial coin offerings (ICOs) are exploding as cryptocurrencies like bitcoin gain wider public acceptance. That may be good news for money launderers.",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 3
+      },
+      "author": [{
+        "@type": "Creator",
+        "@id": "103205986",
+        "name": "Saheli Roy Choudhury",
+        "url": "http://qa-aws01web.cnbc.com/saheli-roy-choudhury/",
+        "position": "5000",
+        "sameAs": [
+          "https://www.linkedin.com/linkedin.com/in/sahelirc/",
+          "https://www.twitter.com/sahelirc"
+        ],
+        "cn:socialMediaInfo": [{
+            "cn:url": "https://linkedin.com/linkedin.com/in/sahelirc/",
+            "cn:displayText": "linkedin.com/in/sahelirc/",
+            "cn:type": "linkedin"
+          },
+          {
+            "cn:url": "https://twitter.com/sahelirc",
+            "cn:displayText": "sahelirc",
+            "cn:type": "twitter"
+          }
+        ]
+      }],
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104632927,
+        "author": "Alexandru Sava",
+        "datePublished": "2017-08-04T09:14:04+0000",
+        "caption": "",
+        "description": "",
+        "copyrightHolder": "Alex Sava | Getty Images",
+        "height": "1414",
+        "width": "2120",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104632927-GettyImages-467287994.jpg?v=1501838053"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "@type": "NewsArticle",
+      "cn:relation": [{
+        "position": 3,
+        "cn:relationType": "related",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@type": "Collection",
+      "@id": "10001047",
+      "cn:type": "franchise",
+      "cn:slug": "Retirement",
+      "cn:title": "Retirement",
+      "headline": "Retirement",
+      "cn:sectionLabel": "Retirement",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [
+        "/id/10001047"
+      ],
+      "cn:editedBy": "Rick.Levinson",
+      "cn:createdBy": "migration",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/10001047",
+      "cn:settings": {
+        "cn:listType": "Manual and/or populated by feeds"
+      },
+      "url": "http://qa-aws01web.cnbc.com/retirement/",
+      "datePublished": "2012-01-30T01:54:13+0000",
+      "cn:unpublishDate": "",
+      "cn:liveURL": "/retirement/",
+      "cn:subType": "section",
+      "cn:seoTitle": "Retirement News",
+      "cn:summary": "Retirement planning advice, 401(k) tips, and expert analysis coverage, video, and special reports on CNBC.com. ",
+      "cn:shorterDescription": "Retirement planning advice, 401(k) tips, and expert analysis coverage, video, and special reports on CNBC.com. ",
+      "cn:shortestDescription": "Retirement planning advice, 401(k) tips, and analysis coverage. ",
+      "cn:bodyTeaser": "null",
+      "cn:sectionHierarchy": [{
+          "id": 21324812,
+          "tagName": "Personal Finance",
+          "order": 1
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 2
+        }
+      ],
+      "description": "Retirement planning advice, 401(k) tips, and expert analysis coverage, video, and special reports on CNBC.com. ",
+      "cn:tabLabel": "Retirement",
+      "cn:sectionLinktext": "Retirement",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+          "position": 2,
+          "cn:relationType": "content_queue",
+          "cn:isPromoted": "false"
+        },
+        {
+          "position": 2,
+          "cn:relationType": "related",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "cn:relation": [{
+        "position": 2,
+        "cn:relationType": "skin",
+        "cn:isPromoted": "false"
+      }],
+      "@id": "100010606"
+    },
+    {
+      "@id": "104768602",
+      "cn:type": "chart",
+      "cn:slug": "rise of bitcoin obrien",
+      "cn:title": "The Rise of Bitcoin",
+      "headline": "The Rise of Bitcoin",
+      "cn:creatorOverwrite": "Source: Coindesk",
+      "cn:historicalURL": [],
+      "cn:editedBy": "ritesh.shah",
+      "cn:createdBy": "auto.videouser",
+      "cn:subDomain": "",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104768602",
+      "url": "",
+      "datePublished": "2017-10-12T13:58:48+0000",
+      "cn:liveURL": "",
+      "cn:seoTitle": "",
+      "cn:summary": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:sectionHierarchy": [],
+      "cn:bodyTeaser": "null",
+      "description": "",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual",
+        "cn:tweetOnPublish": 0
+      },
+      "image": {
+        "representativeOfPage": "true",
+        "@type": "ImageObject",
+        "@id": 104768603,
+        "author": "",
+        "datePublished": "",
+        "caption": "",
+        "description": "",
+        "copyrightHolder": "",
+        "height": "400",
+        "width": "800",
+        "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104768603-coindesk-bpi-chart.jpeg?v=1507816712"
+      },
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "cn:chartType": "image",
+      "cn:filepath": "2017/10/12/",
+      "cn:filename": "coindesk-bpi-chart.jpeg",
+      "@type": "Table",
+      "cn:relation": [{
+        "position": 2,
+        "cn:relationType": "tags",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@type": "Collection",
+      "@id": "100860510",
+      "cn:type": "franchise",
+      "cn:slug": "Savings",
+      "cn:title": "Savings",
+      "headline": "Savings",
+      "cn:sectionLabel": "Savings",
+      "cn:creatorOverwrite": "",
+      "cn:historicalURL": [],
+      "cn:editedBy": "Rick.Levinson",
+      "cn:createdBy": "joseph.odell",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/100860510",
+      "cn:settings": {
+        "cn:listType": "Manual and/or populated by feeds"
+      },
+      "url": "http://qa-aws01web.cnbc.com/savings/",
+      "datePublished": "2016-04-07T18:26:34+0000",
+      "cn:unpublishDate": "",
+      "cn:liveURL": "/savings/",
+      "cn:subType": "section",
+      "cn:seoTitle": "Savings Tips and Advice",
+      "cn:summary": "Tips and advice on building and maintaining your savings for personal finance. ",
+      "cn:shorterDescription": "Tips and advice on building and maintaining your savings for personal finance. ",
+      "cn:shortestDescription": "Tips and advice on how to save for your personal finances. ",
+      "cn:bodyTeaser": "null",
+      "cn:sectionHierarchy": [{
+          "id": 21324812,
+          "tagName": "Personal Finance",
+          "order": 1
+        },
+        {
+          "id": 10000161,
+          "tagName": "CNBC Global",
+          "order": 2
+        }
+      ],
+      "description": "Tips and advice on building and maintaining your savings for personal finance. ",
+      "cn:tabLabel": "Savings",
+      "cn:sectionLinktext": "Savings",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:relation": [{
+          "position": 1,
+          "cn:relationType": "content_queue",
+          "cn:isPromoted": "false"
+        },
+        {
+          "position": 1,
+          "cn:relationType": "related",
+          "cn:isPromoted": "false"
+        }
+      ]
+    },
+    {
+      "@type": "DigitalDocument",
+      "fileFormat": "text/tpl",
+      "@id": "102876524",
+      "cn:type": "markup_template",
+      "cn:slug": "Story Simple Right Rail template",
+      "cn:title": "",
+      "headline": "",
+      "cn:creatorOverwrite": "",
+      "cn:editedBy": "viktor.cea",
+      "cn:historicalURL": [],
+      "cn:createdBy": "viktor.cea",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:dateline": "Yes",
+        "cn:displayByline": "Yes",
+        "cn:displaySource": "Yes",
+        "cn:outbrainEnabled": "Yes",
+        "cn:isFamilyFriendly": "Yes",
+        "cn:listType": "Virtual"
+      },
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/102876524",
+      "datePublished": "2015-07-30T00:41:29+0000",
+      "cn:liveURL": "",
+      "cn:seoTitle": "",
+      "cn:summary": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:sectionHierarchy": [],
+      "name": "story_simple.tpl",
+      "url": "file://story_simple.tpl",
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "cn:relation": [{
+        "position": 1,
+        "cn:relationType": "template",
+        "cn:isPromoted": "false"
+      }]
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "101327626",
+      "cn:type": "skin",
+      "cn:slug": "Your Money, Your Future Skin",
+      "cn:title": "",
+      "headline": "",
+      "cn:creatorOverwrite": "",
+      "cn:editedBy": "joseph.odell",
+      "cn:historicalURL": [],
+      "cn:createdBy": "Josephine.Bila",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/101327626",
+      "cn:settings": {
+        "cn:commentsEnabled": "Yes",
+        "cn:socialtoolsEnabled": "Yes",
+        "cn:listType": "Virtual"
+      },
+      "datePublished": "2014-01-10T21:26:32+0000",
+      "cn:liveURL": "",
+      "cn:seoTitle": "",
+      "cn:summary": "",
+      "cn:shorterDescription": "",
+      "cn:shortestDescription": "",
+      "cn:bodyTeaser": "null",
+      "cn:sectionHierarchy": [],
+      "@context": {
+        "@vocab": "http://schema.org/",
+        "cn": "http://cnbc.com/schema/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "cn:unpublishDate": "",
+      "cn:relation": [{
+        "position": 1,
+        "cn:relationType": "skin",
+        "cn:isPromoted": "false"
+      }]
+    }
+  ]
+}

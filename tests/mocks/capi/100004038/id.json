@@ -1,0 +1,771 @@
+{
+  "cn:branding": "cnbc",
+  "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+  "url": "https://qa-aws01pub.cnbc.com/latest-video/",
+  "cn:type": "franchise",
+  "cn:creatorOverwrite": "",
+  "cn:liveURL": "/latest-video/",
+  "@id": "100004038",
+  "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100004038",
+  "cn:slug": "Video: All",
+  "cn:subType": "original_show",
+  "cn:title": "Latest News",
+  "cn:tagName": "Video: All",
+  "cn:sectionHierarchy": [{
+    "id": 100004038,
+    "tagName": "Video: All",
+    "order": 1
+  }, {
+    "id": 15839263,
+    "tagName": "Video and TV",
+    "order": 2
+  }, {
+    "id": 10000161,
+    "tagName": "CNBC Global",
+    "order": 3
+  }],
+  "cn:isContemplate": "No",
+  "cn:shorterHeadline": "",
+  "cn:sectionLabel": "",
+  "cn:state": "Publish",
+  "cn:settings": {
+    "cn:listType": "Manual and/or populated by feeds",
+    "cn:tweetOnPublish": 0
+  },
+  "sourceOrganization": [{
+    "@type": "Organization",
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+    "url": "",
+    "cn:type": "source",
+    "cn:creatorOverwrite": "",
+    "cn:liveURL": "",
+    "@id": "80000022",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/80000022",
+    "cn:slug": "CNBC US Source",
+    "cn:title": "CNBC US",
+    "cn:tagName": "CNBC US Source",
+    "cn:sourceLogo": "https://qa-aws01fm.cnbc.com/applications/cnbc.com/resources/source_logo/2018/04/30/133403971-flowers.JPG",
+    "cn:sourceName": "CNBC.com",
+    "cn:linkHeadline": "",
+    "description": "CNBC.com",
+    "name": "CNBC US"
+  }],
+  "description": "View our CNBC video gallery and find video news clips on the stock market! Play live videos and find up to date market news. Break down your selection by: Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, CEO Interviews.",
+  "cn:section": {
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+    "url": "https://qa-aws01pub.cnbc.com/top-video/",
+    "cn:type": "franchise",
+    "cn:creatorOverwrite": "",
+    "cn:liveURL": "/top-video/",
+    "@id": "15839263",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/15839263",
+    "cn:slug": "Video and TV Top News",
+    "cn:subType": "video",
+    "cn:title": "Top News",
+    "cn:tagName": "Video and TV",
+    "cn:sectionHierarchy": [{
+      "id": 15839263,
+      "tagName": "Video and TV",
+      "order": 1
+    }, {
+      "id": 15837856,
+      "tagName": "CNBC TV",
+      "order": 2
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 3
+    }],
+    "cn:isContemplate": "No",
+    "cn:shorterHeadline": "Top Video",
+    "cn:sectionLabel": "Top Video",
+    "cn:state": "Publish",
+    "cn:settings": {
+      "cn:dateline": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:displayByline": "Yes",
+      "cn:displaySource": "Yes",
+      "cn:listType": "Manual and/or populated by feeds",
+      "cn:outbrainEnabled": "Yes",
+      "cn:tweetOnPublish": 0
+    },
+    "author": [{
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+      "url": "https://qa-aws01pub.cnbc.com/alex-crippen/",
+      "cn:type": "creator",
+      "cn:creatorOverwrite": "",
+      "cn:liveURL": "/alex-crippen/",
+      "@id": "15920968",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/15920968",
+      "cn:slug": "Alex Crippen",
+      "cn:title": "Alex Crippen",
+      "cn:tagName": "Alex Crippen",
+      "name": "Alex Crippen",
+      "givenName": "Alex",
+      "familyName": "Crippen",
+      "email": "",
+      "telephone": "",
+      "sameAs": ["https://www.twitter.com/alexcrippen"],
+      "cn:socialMediaInfo": [{
+        "cn:url": "https://twitter.com/alexcrippen",
+        "cn:displayText": "alexcrippen",
+        "cn:type": "twitter"
+      }],
+      "@type": "Person"
+    }],
+    "description": "Play live videos and find up-to-date market news. View Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, and CEO Interviews.",
+    "cn:linkHeadline": "Top Video",
+    "cn:sectionLinktext": "Top Video",
+    "headline": "Top Video",
+    "datePublished": "2012-08-04T04:54:10+0000",
+    "cn:dateLastPublished": "2018-07-27T19:10:02+0000",
+    "cn:dateFirstPublished": "2012-08-04T04:54:10+0000",
+    "expires": "",
+    "dateModified": "2018-07-27T19:10:03+0000",
+    "cn:historicalURL": ["/id/15839263"],
+    "cn:shortestHeadline": "Top Video",
+    "cn:tabLabel": "Top Video",
+    "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"100197426\"/></assets><div class=\"group\"/></group></body>",
+    "cn:shortestDescription": "Play live videos and find up-to-date market news.",
+    "cn:seoTitle": "CNBC Top Video",
+    "cn:summary": "Play live videos and find up-to-date market news. View Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, and CEO Interviews.",
+    "cn:editedBy": "girish",
+    "cn:createdBy": "migration",
+    "cn:shorterDescription": "Play live videos and find up-to-date market news. View Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, and CEO Interviews.",
+    "name": "Top News",
+    "cn:sectionColor": "#000000",
+    "cn:promoText": "",
+    "cn:showTime": "",
+    "@type": "Collection"
+  },
+  "cn:linkHeadline": "Latest Video",
+  "cn:sectionLinktext": "Latest Video",
+  "headline": "Latest Video",
+  "datePublished": "2014-11-04T20:28:25+0000",
+  "cn:dateLastPublished": "2018-06-28T15:56:15+0000",
+  "cn:dateFirstPublished": "2012-08-03T21:44:59+0000",
+  "expires": "",
+  "dateModified": "2018-06-28T15:56:13+0000",
+  "cn:historicalURL": ["/id/100004038", "/video-all/"],
+  "cn:shortestHeadline": "Latest Video",
+  "cn:tabLabel": "Latest Video",
+  "cn:bodyTeaser": "",
+  "cn:shortestDescription": "",
+  "cn:seoTitle": "CNBC Latest Video News Clips on the Stock Market  - CNBC",
+  "cn:summary": "View our CNBC video gallery and find video news clips on the stock market! Play live videos and find up to date market news. Break down your selection by: Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, CEO Interviews.",
+  "cn:editedBy": "Sreekant.Male",
+  "cn:createdBy": "chris.larsen",
+  "cn:shorterDescription": "",
+  "@context": {
+    "cn": "http://cnbc.com/schema/",
+    "@vocab": "http://schema.org/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "CNBC",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "name": "Latest News",
+  "cn:sectionColor": "#000000",
+  "cn:promoText": "",
+  "cn:showTime": "",
+  "@type": "Collection",
+  "cn:xmlArticleBody": "",
+  "articlebody": "",
+  "cn:xmlKeyPoints": "",
+  "cn:keyword": "",
+  "cn:unpublishDate": "",
+  "cn:association": [{
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+    "url": "https://qa-aws01pub.cnbc.com/top-video/",
+    "cn:type": "franchise",
+    "cn:creatorOverwrite": "",
+    "cn:liveURL": "/top-video/",
+    "@id": "15839263",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/15839263",
+    "cn:slug": "Video and TV Top News",
+    "cn:subType": "video",
+    "cn:title": "Top News",
+    "cn:tagName": "Video and TV",
+    "cn:sectionHierarchy": [{
+      "id": 15839263,
+      "tagName": "Video and TV",
+      "order": 1
+    }, {
+      "id": 15837856,
+      "tagName": "CNBC TV",
+      "order": 2
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 3
+    }],
+    "cn:isContemplate": "No",
+    "cn:shorterHeadline": "Top Video",
+    "cn:sectionLabel": "Top Video",
+    "cn:state": "Publish",
+    "cn:settings": {
+      "cn:dateline": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:displayByline": "Yes",
+      "cn:displaySource": "Yes",
+      "cn:listType": "Manual and/or populated by feeds",
+      "cn:outbrainEnabled": "Yes",
+      "cn:tweetOnPublish": 0
+    },
+    "author": [{
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+      "url": "https://qa-aws01pub.cnbc.com/alex-crippen/",
+      "cn:type": "creator",
+      "cn:creatorOverwrite": "",
+      "cn:liveURL": "/alex-crippen/",
+      "@id": "15920968",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/15920968",
+      "cn:slug": "Alex Crippen",
+      "cn:title": "Alex Crippen",
+      "cn:tagName": "Alex Crippen",
+      "name": "Alex Crippen",
+      "givenName": "Alex",
+      "familyName": "Crippen",
+      "email": "",
+      "telephone": "",
+      "sameAs": ["https://www.twitter.com/alexcrippen"],
+      "cn:socialMediaInfo": [{
+        "cn:url": "https://twitter.com/alexcrippen",
+        "cn:displayText": "alexcrippen",
+        "cn:type": "twitter"
+      }],
+      "@type": "Person"
+    }],
+    "cn:association": [{
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+      "url": "https://qa-aws01pub.cnbc.com/alex-crippen/",
+      "cn:type": "creator",
+      "cn:creatorOverwrite": "",
+      "cn:liveURL": "/alex-crippen/",
+      "@id": "15920968",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/15920968",
+      "cn:slug": "Alex Crippen",
+      "cn:title": "Alex Crippen",
+      "cn:tagName": "Alex Crippen",
+      "description": "Alex Crippen is senior coordinating producer at CNBC.com. He started with CNBC television in 1990. Crippen began his media career in affiliate TV and news radio. He holds a degree in economics from Wesleyan University.",
+      "@type": "CreativeWork",
+      "cn:relation": [{
+        "cn:relationType": "author",
+        "cn:isPromoted": "false"
+      }]
+    }],
+    "description": "Play live videos and find up-to-date market news. View Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, and CEO Interviews.",
+    "cn:linkHeadline": "Top Video",
+    "cn:sectionLinktext": "Top Video",
+    "headline": "Top Video",
+    "datePublished": "2012-08-04T04:54:10+0000",
+    "cn:dateLastPublished": "2018-07-27T19:10:02+0000",
+    "cn:dateFirstPublished": "2012-08-04T04:54:10+0000",
+    "expires": "",
+    "dateModified": "2018-07-27T19:10:03+0000",
+    "cn:historicalURL": ["/id/15839263"],
+    "cn:shortestHeadline": "Top Video",
+    "cn:tabLabel": "Top Video",
+    "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset nid=\"100197426\"/></assets><div class=\"group\"/></group></body>",
+    "cn:shortestDescription": "Play live videos and find up-to-date market news.",
+    "cn:seoTitle": "CNBC Top Video",
+    "cn:summary": "Play live videos and find up-to-date market news. View Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, and CEO Interviews.",
+    "cn:editedBy": "girish",
+    "cn:createdBy": "migration",
+    "cn:shorterDescription": "Play live videos and find up-to-date market news. View Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, and CEO Interviews.",
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "publisher": {
+      "name": "CNBC",
+      "@type": "Organization",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "name": "Top News",
+    "cn:sectionColor": "#000000",
+    "cn:promoText": "",
+    "cn:showTime": "",
+    "@type": "Collection",
+    "cn:relation": [{
+      "position": 5000,
+      "cn:relationType": "section",
+      "cn:isPromoted": "false"
+    }, {
+      "position": 1,
+      "cn:relationType": "tags",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+    "url": "https://qa-aws01pub.cnbc.com/morning-squawk-newsletter-opt-in/",
+    "cn:type": "wildcard",
+    "cn:creatorOverwrite": "",
+    "cn:liveURL": "/morning-squawk-newsletter-opt-in/",
+    "@id": "101500928",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/101500928",
+    "cn:slug": "newsletters opt-in form right rail",
+    "cn:title": "",
+    "cn:tagName": "",
+    "cn:sectionHierarchy": [],
+    "cn:isContemplate": "No",
+    "cn:shorterHeadline": "",
+    "cn:state": "Publish",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Virtual",
+      "cn:tweetOnPublish": 0
+    },
+    "description": "",
+    "cn:linkHeadline": "",
+    "headline": "",
+    "datePublished": "2014-03-17T19:48:30+0000",
+    "cn:dateLastPublished": "2017-09-21T20:03:03+0000",
+    "cn:dateFirstPublished": "2014-03-17T19:48:30+0000",
+    "expires": "",
+    "dateModified": "2017-09-21T20:03:03+0000",
+    "cn:historicalURL": [],
+    "cn:shortestHeadline": "",
+    "cn:bodyTeaser": "null",
+    "cn:shortestDescription": "",
+    "cn:seoTitle": "morning squawk newsletter opt in",
+    "cn:summary": "",
+    "cn:editedBy": "matt.shade",
+    "cn:createdBy": "matt.shade",
+    "cn:shorterDescription": "",
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "publisher": {
+      "name": "CNBC",
+      "@type": "Organization",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "cn:wildcard": {
+      "cn:wildcardContent": {
+        "cn:__cdata": "<div id=\"nl-optin-rr-move\">\r\n<link href=\"//fm.cnbc.com/applications/cnbc.com/resources/styles/skin/MARKETING/EMAIL/EXACT-TARGET/FORMS/CNBC-API/css/embed-form.css\" rel=\"stylesheet\">\r\n<style>\r\n#optIn-right-rail .has-error label, #optIn-right-rail .has-error .with-errors, #optIn-right-rail .has-error{color:orangered;}\r\n#optIn-right-rail .required {float: none!important;color: orangered;}\r\n#optIn-right-rail .blank-email-error, #optIn-right-rail .subscriptions-alert{display:none;}\r\n#optIn-right-rail .newsletter-choice, #optIn-right-rail .newsletter-info{cursor:pointer;font-weight:normal;}\r\n#optIn-right-rail .newsletter-info h2{margin-top:0px;margin-left:5px;font-size:1.2em;margin-bottom:0px;border-bottom:none;}\r\n#optIn-right-rail .checkbox, #optIn-right-rail .bootstrap-select.btn-group .btn .filter-option{font-weight:normal!important;letter-spacing:0px;}\r\n#optIn-right-rail .checkbox{border:#efefef solid 1px;border-radius:3px; padding-left:0px;}\r\n#optIn-right-rail #nl-submit, #optIn-right-rail .btn.modal-button{height:auto;border-color:#b0b9bd; color:white; background:#b0b9bd; text-transform:uppercase;font-weight:normal;letter-spacing:0px;font-size:16px;padding:5px 8px;}\r\n#optIn-right-rail #nl-submit:hover, #optIn-right-rail .btn.modal-button:hover{background:#2aa6e7!important;border-color:#2aa6e7;}\r\n#optIn-right-rail .checkbox label{display:block;background: #e9e9e9;border: solid #dfdfdf 1px;padding:10px;}\r\n#optIn-right-rail .nl-privacy{font-size:11px; display:block; clear:both;border-bottom:#CCD6D8 solid 1px;border-top:#CCD6D8 solid 1px;padding-bottom:5px;padding-top:5px; margin-bottom:5px; margin-top:20px;text-align:center;}\r\n#optIn-right-rail .nl-privacy a{font-size:11px;}\r\n#optIn-right-rail p{font-size:16px;margin-bottom:10px;}\r\n#optIn-right-rail{background:#efefef;border-radius:3px;padding:20px;margin-bottom:30px;}\r\n#optIn-right-rail input[type=checkbox]{position: static; margin-left: 0px; float: left;margin-right: 5px;}\r\n#optIn-right-rail h5{border-bottom: lightgrey solid 2px;margin-bottom: 10px;padding-bottom: 5px;font-size: 22px;font-weight:normal;margin-top:0px;}\r\n#optIn-right-rail #collapse{display:none;}\r\n#optIn-right-rail #toggle-close{color:white;padding:4px 7px 4px 0px;border-radius:3px;background:#427a92;font-size:12px;display:none;cursor:pointer;position: relative;right: -290px;text-align:right;top:5px;width: 20px;}\r\n#optIn-right-rail #toggle-close:hover{background:#3f9ccd;}\r\n#optIn-right-rail .form-group.check{margin-bottom:5px;}\r\n#optIn-right-rail .btn{height:auto;}\r\n#optIn-right-rail .alert{padding:0px;}\r\n#rt_contact h3, #rt_contact h4{display:none;}\r\n</style>\r\n\r\n<!--[if lt IE 9]>\r\n<script src=\"//fm.cnbc.com/applications/cnbc.com/resources/styles/skin/MARKETING/EMAIL/EXACT-TARGET/FORMS/CNBC-API/js/html5shiv.js\"></script>\r\n<![endif]-->    \r\n<div id=\"optIn-right-rail\">\r\n<h5>CNBC NEWSLETTERS</h5>\r\n<p>Get the best of CNBC in your inbox</p>\r\n        \r\n<div class=\"newslettersForm\">\r\n    <div id=\"collapse\">\r\n    <div class=\"alert subscriptions-alert has-error\">Please choose a subscription</div>\r\n\r\n     <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000031\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"make-it\" checked>            \r\n            <div class=\"newsletter-info\">\r\n                <h2>Make It</h2>\r\n                <small>A daily email for dreamers, seekers and game changers.</small>\r\n            </div>\r\n          </label>        \r\n        </div>\r\n    </div>\r\n    \r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000007\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"breaking-news\" checked>            \r\n            <div class=\"newsletter-info\">\r\n                <h2>Breaking News</h2>\r\n                <small>CNBC's latest news headlines</small>\r\n            </div>\r\n          </label>        \r\n        </div>\r\n    </div>\r\n    \r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000001\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"morning-squawk\" checked>           \r\n            <div class=\"newsletter-info\">\r\n                <h2>Morning Squawk</h2>\r\n                <small>Daily before the bell news roundup</small>\r\n            </div>\r\n          </label>        \r\n        </div>\r\n    </div>\r\n    \r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000002\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"evening-brief\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Evening Brief</h2>\r\n                <small>Daily recap of the day's top headlines</small>\r\n            </div>\r\n          </label>        \r\n        </div>\r\n    </div>\r\n      \r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000003\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"guest-alerts\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Guest Alerts</h2>\r\n                <small>Guest information &amp; reminders for your calendar</small>\r\n            </div>          \r\n          </label>        \r\n        </div>\r\n    </div>\r\n\r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000004\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"your-wealth\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Your Wealth</h2>\r\n                <small>Weekly advice on managing your money</small>\r\n            </div>\r\n          </label>        \r\n        </div>\r\n    </div>\r\n    \r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000005\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"options-action\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Options Action</h2>\r\n                <small>Insight from the Options Action panel</small>\r\n            </div>\r\n          </label>        \r\n        </div>\r\n    </div>\r\n\r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000030\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"your-money-your-vote\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Your Money Your Vote</h2>\r\n                <small>Everything you need to know about the coming election</small>\r\n            </div>          \r\n          </label>        \r\n        </div>\r\n    </div>\r\n    \r\n<br>    \r\n<div class=\"form-group\">\r\n    <select class=\"select-picker form-control\" id=\"rr-job-industry\" name=\"job_industry\" size=\"1\" autocomplete=\"off\">\r\n        <option value=\"\">Job Industry</option>\r\n        <option value=\"Advertising/Marketing\">Advertising/Marketing</option>\r\n        <option value=\"Automotive\">Automotive</option>\r\n        <option value=\"Communications/PR\">Communications/PR</option>\r\n        <option value=\"Construction/Manufacturing\">Construction/Manufacturing</option>\r\n        <option value=\"Education\">Education</option>\r\n        <option value=\"Finance/Banking/Insurance\">Finance/Banking/Insurance</option>\r\n        <option value=\"Legal\">Legal</option>\r\n        <option value=\"Media/Entertainment\">Media/Entertainment</option>\r\n        <option value=\"Medical/Health Care\">Medical/Health Care</option>\r\n        <option value=\"Mining/Oil/Gas/Utilities\">Mining/Oil/Gas/Utilities</option>\r\n        <option value=\"Gov't/Non-Profit\">Gov't/Non-Profit</option>\r\n        <option value=\"Real Estate\">Real Estate</option>\r\n        <option value=\"Retail\">Retail</option>\r\n        <option value=\"Technology/IT\">Technology/IT</option>\r\n        <option value=\"Transportation/Shipping\">Transportation/Shipping</option>\r\n        <option value=\"Travel/Hospitality\">Travel/Hospitality</option>\r\n        <option value=\"Other\">Other</option>\r\n    </select>\r\n</div>\r\n\r\n</div>  <!-- END COLLAPSE -->  \r\n <div class=\"form-group\">\r\n     <input type=\"email\" class=\"form-control\" id=\"inputEmail\" placeholder=\" Email (Required)\" autocomplete=\"off\" data-error=\"Please enter a valid email address\" required>\r\n     <div class=\"help-block with-errors\"></div>\r\n     <div class=\"blank-email-error has-error\">Please enter a valid email address</div>\r\n   </div>\r\n   \r\n   \r\n</div> <!-- FORM -->\r\n\r\n<div class=\"nl-privacy\">Get these newsletters delivered to your inbox, and more info about about our products and service. <a href=\"//nbcuni.com/privacy/\">Privacy Policy</a>.</div>\r\n\r\n   <div class=\"form-group\">\r\n       <button id=\"nl-submit\" type=\"submit\" class=\"btn btn-primary\">Submit</button>\r\n     </div>\r\n\r\n\r\n \r\n\r\n<div id=\"toggle-close\">&#x25B2;</div>\r\n\r\n\r\n\r\n\r\n\r\n\r\n<script>\r\nvar i_am_old_ie = false;\r\n</script>\r\n<!--[if lte IE 9]>\r\n<script>\r\ni_am_old_ie = true;\r\n</script>\r\n<![endif]-->\r\n\r\n\r\n<script type=\"text/javascript\">\r\n\r\n\r\n\r\n    postLoadFunctions = postLoadFunctions || {};\r\n    postLoadFunctions.newslettersright = function(){ \r\n     \r\n     var pico_code = window.document.createElement( 'script' );\r\npico_code.src = '//fm.cnbc.com/applications/cnbc.com/resources/styles/skin/MARKETING/EMAIL/EXACT-TARGET/FORMS/CNBC-API/js/picoModal.js';\r\nwindow.document.getElementsByTagName( 'body' )[ 0 ].appendChild( pico_code );\r\n\r\nvar vd = window.document.createElement( 'script' );\r\nvd.src = '//fm.cnbc.com/applications/cnbc.com/resources/styles/skin/MARKETING/EMAIL/EXACT-TARGET/FORMS/CNBC-API/js/validator.js';\r\nwindow.document.getElementsByTagName( 'body' )[ 0 ].appendChild( vd );\t\r\n \r\n\r\n \r\n \r\nconsole.log(\"newsletter real right rail js ready\");\r\n\t\t\t   $.support.cors = true;\r\n\t\t\t   \r\n\t\t\t   $.ajaxSetup({ cache: false });\r\n\t\t\t   \r\n\t\t\t   var url = \"//register.cnbc.com/auth/api/153/\";\r\n\t\t\t   var email =\"\";\r\n\t\t\t   var subscriptions =\"\";\r\n\t\t\t   var income =\"\";\r\n\t\t\t   var occupation =\"\";\r\n\t\t\t   var industry =\"\";\r\n\t\t\t   var source =\"\";\r\n\t\t\t   var subscriptionArray =[];\r\n\t\t\t   var newsletterIDArray=[];\r\n\t\t\t   var newsletterConstruct =\"\";\r\n\t\t\t   var theURL =\"\";\r\n\t\t\t   \r\n   \t\t\tvar rightrail_locationSource =[];\r\n\t\t\t\r\n\t\t\t\r\n   \t\t\t\r\n\t\t\t   \r\n\t\t\t   $('#nl-submit').prop('disabled', false);\r\n\t\t\t   // $('.select-picker').selectpicker('refresh');\r\n\t\t\t   \r\n\t\t\t   $('#optIn-right-rail label').on('click', function(){\r\n\t\t\t\t   if($(this).hasClass(\"newsletter-selected\")){\r\n\t\t\t\t\t   console.log('has te class');\r\n\t\t\t\t\t   $(this).removeClass(\"newsletter-selected\");\r\n\t\t\t\t   }else{\r\n\t\t\t\t\t   $(this).addClass(\"newsletter-selected\");\r\n\t\t\t\t   }\r\n\t\t\t   \t\r\n\t\t\t   });\r\n\t\t\t   \r\n\t\t\t   \r\n\t\t\t   $('#optIn-right-rail .reload').on('click', function(){\r\n\t\t   \t\twhile(subscriptionArray.length > 0) {\r\n\t\t   \t\t    subscriptionArray.pop();\r\n\t\t   \t\t}\r\n\t\t\t   \t\r\n\t\t\t   });\r\n\t\t\t   \r\n\r\n\t\t\t   \r\n\t\t\t   \r\n$('#optIn-right-rail .newsletter-choice').on('change', function(){\r\n\t$('#optIn-right-rail .subscriptions-alert').hide();\r\n});\r\n\r\n\r\n\r\n$('#optIn-right-rail #inputEmail').on('keyup', function(){\r\n\temail = $('#optIn-right-rail #inputEmail').val();\r\n\tif (validateEmail(email)) {\r\n\t$('#nl-submit').prop('disabled', false);\r\n\t$('#optIn-right-rail .blank-email-error').hide();\r\n}\r\n});\r\n\r\n$('#optIn-right-rail #inputEmail').on('focus', function(){\r\n\tconsole.log('we are focused');\r\n\t$('#optIn-right-rail .blank-email-error').hide();\t\t\r\n\t$(\"#optIn-right-rail #collapse\").slideDown();\t\r\n\t$('#optIn-right-rail #toggle-close').fadeIn('fast');\t\t\t\r\n\r\n});\r\n\r\n$('#optIn-right-rail #toggle-close').on('click', function(){\r\n\t$(\"#optIn-right-rail #collapse\").slideToggle();\r\n\t$('#optIn-right-rail #toggle-close').fadeOut('fast');\r\n});\r\n\r\n\r\n$(\"#optIn-right-rail #inputEmail\").on('keypress',function(e){\r\n     var p = e.which;\r\n     if(p==13 && $(\"#optIn-right-rail #inputEmail\").is(\":focus\")){\r\n         $(\"#optIn-right-rail #nl-submit\").trigger( \"click\" );\r\n\t\t return false\r\n     }\r\n });\r\n function validateEmail(email) { \r\n     var re = /^(([^<>()[\\]\\\\.,;:\\s@\\\"]+(\\.[^<>()[\\]\\\\.,;:\\s@\\\"]+)*)|(\\\".+\\\"))@((\\[[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\])|(([a-zA-Z\\-0-9]+\\.)+[a-zA-Z]{2,}))$/;\r\n     return re.test(email);\r\n\t console.log();\r\n }  \r\n \r\n$('#optIn-right-rail #nl-submit').on('click', function(e){\r\n\temail = $('#optIn-right-rail #inputEmail').val();\r\n\tconsole.log('press');\r\n\tif (validateEmail(email)) {\r\n\t\t\r\n\t\tconsole.log(\"email is good\");\r\n\t\t\r\n\t\tif(!s.prop31 == \"\"){\r\n\t\t\trightrail_locationSource.push(s.prop31);\r\n\t\t}\r\n\t\tif(!s.prop32 == \"\"){\r\n\t\t\trightrail_locationSource.push(s.prop32);\r\n\t\t}\r\n\t\tif(!s.prop33 == \"\"){\r\n\t\t\trightrail_locationSource.push(s.prop33);\r\n\t\t}\r\n\t\tif(!s.prop34 == \"\"){\r\n\t\t\trightrail_locationSource.push(s.prop34);\r\n\t\t}\r\n\t\tif(!s.prop35 == \"\"){\r\n\t\t\trightrail_locationSource.push(s.prop35);\r\n\t\t}\r\n\t\t\r\n\t\t\r\n\t\t\r\n\t\t$('#nl-submit').prop('disabled', true);\r\n\t\t$('#optIn-right-rail #inputEmail').prop('disabled', true);\r\n\t\tnewsletterConstruct =\"\";\r\n\t\t$('#optIn-right-rail .subscriptions-alert').hide();\r\n\t\t$('#optIn-right-rail .blank-email-error').hide();\r\n\t\t$(this).parent().removeClass('has-error');\t\t\r\n\t\t\r\n\t\t$( \"#optIn-right-rail .newsletter-choice\" ).each(function() {\r\n\t\t\tif($(this).is(':checked')){\r\n\t\t\t\tsubscriptionArray.push($(this).data('subscription'));\r\n\t\t\t\tnewsletterIDArray.push($(this).attr('id'))\r\n\t\t\t}else{\r\n\t\t\t\t\r\n\t\t\t\r\n\t\t\t}\t\t\r\n\t\t});\t\r\n\t\t\r\n\t\t\r\n\t\t\r\n\t\r\n\t\tif(subscriptionArray.length == 0){\r\n\t\t\tconsole.log(\"no subs\");\r\n\t\t\twhile(subscriptionArray.length > 0) {\r\n\t\t\t    subscriptionArray.pop();\r\n\t\t\t}\r\n\t\t\t$('#optIn-right-rail .subscriptions-alert').show();\r\n\t\t}else{\r\n\t\t\tconsole.log(subscriptionArray);\r\n\t\t\temail = email + \"/sync\";\r\n\t\t\tindustry = \"&industry=\" + encodeURIComponent($('#rr-job-industry').val());\r\n\t\t\tsource = \"&source=newsletters\";\r\n\t\t\tsubscriptions = \"?callback=nil&subscriptions=\" + subscriptionArray.join(\"|\");\t\r\n\t\t\t\r\n\t\t\ttheURL = url + email;\r\n\t\t\t\r\n\t\t\tnewsletterConstruct += subscriptions;\r\n\t\r\n\t\t\tif(!$('#rr-job-industry').val() == \"\"){\r\n\t\t\t\tnewsletterConstruct += industry;\r\n\t\t\t\t\t\r\n\t\t\t}\r\n\t\t\tnewsletterConstruct += source;\r\n\t\t\trail_locationSource = \"&location_source=RightRail|\" + rightrail_locationSource.join(\"|\");\r\n\t\t\tnewsletterConstruct += rail_locationSource;\r\n\t\t\tconsole.log(newsletterConstruct);\r\n\t\t\tsendNewsletterData(newsletterConstruct);\r\n\t\t}\r\n\t\t\r\n\t  } else {\r\n\t\t  console.log(\"email is bad\")\r\n  \t\t$('#nl-submit').prop('disabled', true);\r\n  \t\t$('#optIn-right-rail .blank-email-error').show();\r\n\t\tnewsletterConstruct =\"\";\r\n  \t\twhile(subscriptionArray.length > 0) {\r\n  \t\t    subscriptionArray.pop();\r\n  \t\t}\r\n  \t\twhile(rightrail_locationSource.length > 0) {\r\n  \t\t    rightrail_locationSource.pop();\r\n  \t\t}\r\n\t  }\r\n\t\r\n});\t\r\n\r\n\t\r\n\tfunction sendNewsletterData(newsletterConstruct){\r\n\r\nif(i_am_old_ie) {\r\n                (function(c){if(i_am_old_ie){c.__jquery_xdomain__=c.support.cors=!0;var e=function(a){return\"object\"===c.type(a)?a:(a=/^(((([^:\\/#\\?]+:)?(?:\\/\\/((?:(([^:@\\/#\\?]+)(?:\\:([^:@\\/#\\?]+))?)@)?(([^:\\/#\\?]+)(?:\\:([0-9]+))?))?)?)?((\\/?(?:[^\\/\\?#]+\\/+)*)([^\\?#]*)))?(\\?[^#]+)?)(#.*)?/.exec(a))?{href:a[0]||\"\",hrefNoHash:a[1]||\"\",hrefNoSearch:a[2]||\"\",domain:a[3]||\"\",protocol:a[4]||\"\",authority:a[5]||\"\",username:a[7]||\"\",password:a[8]||\"\",host:a[9]||\"\", hostname:a[10]||\"\",port:a[11]||\"\",pathname:a[12]||\"\",directory:a[13]||\"\",filename:a[14]||\"\",search:a[15]||\"\",hash:a[16]||\"\"}:{}},f=c.ajaxSettings.xhr,d=\"SESSION_COOKIE_NAME\"in window?window.SESSION_COOKIE_NAME:\"jsessionid\",g=e(document.location.href).domain;c.ajaxSettings.xhr=function(){var a=e(this.url).domain;if(\"\"===a||a===g)return f.call(c.ajaxSettings);try{var b=new XDomainRequest;if(!b.setRequestHeader)b.setRequestHeader=c.noop;if(!b.getAllResponseHeaders)b.getAllResponseHeaders=c.noop;if(d){var h= b.open;b.open=function(){var a=RegExp(\"(?:^|; )\"+d+\"=([^;]*)\",\"i\").exec(document.cookie);if(a=a&&a[1]){var b=arguments[1].indexOf(\"?\");arguments[1]=-1==b?arguments[1]+(\";\"+d+\"=\"+a):arguments[1].substring(0,b)+\";\"+d+\"=\"+a+arguments[1].substring(b)}return h.apply(this,arguments)}}b.onload=function(){if(\"function\"===typeof b.onreadystatechange)b.readyState=4,b.status=200,b.onreadystatechange.call(b,null,!1)};b.onerror=b.ontimeout=function(){if(\"function\"===typeof b.onreadystatechange)b.readyState=4, b.status=500,b.onreadystatechange.call(b,null,!1)};return b}catch(i){}}}})(jQuery);\r\n};\r\n\t\t\r\n\t\t$.ajax({\r\n\t\t\ttype: \"POST\"\r\n\t\t\t,crossDomain: true\r\n\t\t\t,url:theURL\r\n\t\t\t,data: newsletterConstruct\r\n\t\t\t,contentType: \"application/x-www-form-urlencoded\"\t\t  \r\n\t\t}).success(function(data){\r\n\t\t\tconsole.log(theURL + newsletterConstruct);\r\n\t\t\tnewsletterConstruct =\"\";\r\n\t\t\t\r\n\t\t\ts.linkTrackVars=\"events,eVar43,eVar17\";\r\n\t\t\ts.linkTrackEvents=\"event40\";\r\n\t\t\t s.events=\"event40\";\r\n\t\t\t s.eVar43=\"RightRail|\" + rightrail_locationSource.join(\"|\");\r\n\t\t\t \r\n\t\t\t s.eVar17 = newsletterIDArray.join(\"|\");\r\n\t\t\t \r\n\t\t\t\r\n\t\t\tMODULELOCATION = \"RightRail|\" + rightrail_locationSource.join(\"|\");\r\n\t\t\tNEWSLETTERARRAY = newsletterIDArray.join(\"|\");\r\n\t\t\t\r\n\t\t\t// console.log(\"evar43: \" + s.eVar43 +\"\\n\"+ \"evar17: \" + s.eVar17 + \"\\n\" + \"module location: \" + MODULELOCATION)\r\n\t\t\t\r\n\t\t s.tl(this,'o','Newsletter Subscribe');\r\n\t\t \r\n\t\t\twhile(subscriptionArray.length > 0) {\r\n\t\t\t    subscriptionArray.pop();\r\n\t\t\t}\r\n\t  \t\twhile(rightrail_locationSource.length > 0) {\r\n\t  \t\t    rightrail_locationSource.pop();\r\n\t  \t\t}\r\n\t\t\t\r\n\t\t\tsuccessModal();\r\n\t\t\t\r\n\t\t}).error(function(data){\r\n\t\t\tconsole.log(\"error captain\");\r\n\t\t\tnewsletterConstruct =\"\";\r\n\t\t\twhile(subscriptionArray.length > 0) {\r\n\t\t\t    subscriptionArray.pop();\r\n\t\t\t}\r\n\t  \t\twhile(rightrail_locationSource.length > 0) {\r\n\t  \t\t    rightrail_locationSource.pop();\r\n\t  \t\t}\r\n\t\t\t\r\n\t\t\terrorModal();\r\n\t\t});\r\n\t}\r\n\t\r\n\t\r\n\tfunction successModal(){\r\n\t\t\r\n\t\tpicoModal({\r\n\t\t      content: \"Thank You for Subscribing!\",\r\n\t\t      overlayStyles: function ( styles ) { styles.opacity = 0; },\r\n\t\t      modalStyles: function ( styles ) { styles.opacity = 0; }\r\n\t\t  })\r\n\t\t  .afterShow(function(modal){\t\t\t\r\n\t\t      $(modal.overlayElem()).animate({opacity: .5});\r\n\t\t      $(modal.modalElem()).animate({opacity: 1});\r\n\t\t  })\r\n\t\t  .afterClose(function(modal, event){\r\n\t\t\t  \r\n  \t\t\t$('#nl-submit').prop('disabled', false);\r\n\t   \t\t$('#optIn-right-rail #inputEmail').prop('disabled', false);\r\n  \t\t\t$('#optIn-right-rail #inputEmail').val(\" \");\r\n\t\t\t$('#optIn-right-rail #inputEmail').blur();\r\n\t\t\t$(\"#optIn-right-rail #collapse\").slideUp();\t\r\n\t\t\t$('#optIn-right-rail #toggle-close').fadeOut('fast');\r\n\t\t\tevent.preventDefault();\r\n  \t\t\t$('#optIn-right-rail #rr-job-industry').prop('selectedIndex',0);\r\n  \t\t\t$('#optIn-right-rail .newsletter-choice').prop('checked', true);\r\n\t\t  })\r\n\t\t  .beforeClose(function(modal, event) {\r\n\t\t      event.preventDefault();\r\n\t\t      $(modal.overlayElem()).add(modal.modalElem())\r\n\t\t          .animate(\r\n\t\t              { opacity: 0 },\r\n\t\t              { complete: modal.forceClose }\r\n\t\t          );\r\n\t\t  })\r\n\t\t  .show();\r\n\t}\r\n\t\r\n\tfunction errorModal(){\r\n\t\t\r\n\t\tpicoModal({\r\n\t\t      content: \"Oops!  Something went wrong, please try again.\",\r\n\t\t      overlayStyles: function ( styles ) { styles.opacity = 0; },\r\n\t\t      modalStyles: function ( styles ) { styles.opacity = 0; }\r\n\t\t  })\r\n\t\t  .afterShow(function(modal){\r\n\t\t   \r\n\t\t      $(modal.overlayElem()).animate({opacity: .5});\r\n\t\t      $(modal.modalElem()).animate({opacity: 1});\r\n\t\t  })\r\n\t\t  .afterClose(function(modal, event){\r\n\t\t\t  event.preventDefault();\r\n   \t\t   console.log(\"right rail error modal hide\");\r\n   \t\t\r\n   \t\t$('#nl-submit').prop('disabled', false);\r\n   \t\t$('#optIn-right-rail #inputEmail').prop('disabled', false);\r\n\t\t  })\r\n\t\t  .beforeClose(function(modal, event) {\r\n\t\t      event.preventDefault();\r\n\t\t      $(modal.overlayElem()).add(modal.modalElem())\r\n\t\t          .animate(\r\n\t\t              { opacity: 0 },\r\n\t\t              { complete: modal.forceClose }\r\n\t\t          );\r\n\t\t  })\r\n\t\t  .show();\r\n\t}              \r\n}\r\n</script>\r\n</div>"
+      },
+      "cn:wildcardPromo": {
+        "cn:__cdata": "<div id=\"nl-optin-rr-move\">\r\n<!-- <link href=\"//fm.cnbc.com/applications/cnbc.com/resources/styles/skin/MARKETING/EMAIL/EXACT-TARGET/FORMS/CNBC-API/css/embed-form.css\" rel=\"stylesheet\"> -->\r\n<style>\r\n#optIn-right-rail .has-error label, #optIn-right-rail .has-error .with-errors, #optIn-right-rail .has-error{color:orangered;}\r\n#optIn-right-rail .required {float: none!important;color: orangered;}\r\n#optIn-right-rail .blank-email-error, #optIn-right-rail .subscriptions-alert{display:none;}\r\n#optIn-right-rail .newsletter-choice, #optIn-right-rail .newsletter-info{cursor:pointer;font-weight:normal;}\r\n#optIn-right-rail .newsletter-info h2{margin-top:0px;margin-left:5px;font-size:1.2em;margin-bottom:0px;border-bottom:none;}\r\n#optIn-right-rail .checkbox, #optIn-right-rail .bootstrap-select.btn-group .btn .filter-option{font-weight:normal!important;letter-spacing:0px;}\r\n#optIn-right-rail .checkbox{border:#efefef solid 1px;border-radius:3px; padding-left:0px;}\r\n#optIn-right-rail #nl-submit, #optIn-right-rail .btn.modal-button{height:auto;border-color:#b0b9bd; color:white; background:#b0b9bd; text-transform:uppercase;font-weight:normal;letter-spacing:0px;font-size:16px;padding:5px 8px;}\r\n#optIn-right-rail #nl-submit:hover, #optIn-right-rail .btn.modal-button:hover{background:#2aa6e7!important;border-color:#2aa6e7;}\r\n#optIn-right-rail .checkbox label{display:block;background: #e9e9e9;border: solid #dfdfdf 1px;padding:10px;}\r\n#optIn-right-rail .nl-privacy{font-size:11px; display:block; clear:both;border-bottom:#CCD6D8 solid 1px;border-top:#CCD6D8 solid 1px;padding-bottom:5px;padding-top:5px; margin-bottom:5px; margin-top:20px;text-align:center;}\r\n#optIn-right-rail .nl-privacy a{font-size:11px;}\r\n#optIn-right-rail p{font-size:16px;margin-bottom:10px;}\r\n#optIn-right-rail{background:#efefef;border-radius:3px;padding:20px;margin-bottom:30px;}\r\n#optIn-right-rail input[type=checkbox]{position: static; margin-left: 0px; float: left;margin-right: 5px;}\r\n#optIn-right-rail h5{border-bottom: lightgrey solid 2px;margin-bottom: 10px;padding-bottom: 5px;font-size: 22px;font-weight:normal;margin-top:0px;}\r\n#optIn-right-rail #collapse{display:none;}\r\n#optIn-right-rail #toggle-close{color:white;padding:4px 7px 4px 0px;border-radius:3px;background:#427a92;font-size:12px;display:none;cursor:pointer;position: relative;right: -290px;text-align:right;top:5px;width: 20px;}\r\n#optIn-right-rail #toggle-close:hover{background:#3f9ccd;}\r\n#optIn-right-rail .form-group.check{margin-bottom:5px;}\r\n#optIn-right-rail .btn{height:auto;}\r\n#optIn-right-rail .alert{padding:0px;}\r\n#rt_contact h3, #rt_contact h4{display:none;}\r\n.newspop .newsletter-choice {margin-bottom: 40px; margin-top: 10px;}\r\n#optIn-right-rail #inputEmail{width: 90%; padding: 10px; font-size: 14px; border: none; border-radius: 3px;}\r\n</style>\r\n\r\n<!--[if lt IE 9]>\r\n<script src=\"//fm.cnbc.com/applications/cnbc.com/resources/styles/skin/MARKETING/EMAIL/EXACT-TARGET/FORMS/CNBC-API/js/html5shiv.js\"></script>\r\n<![endif]-->\r\n<div id=\"optIn-right-rail\">\r\n<h5>CNBC NEWSLETTERS</h5>\r\n<p>Get the best of CNBC in your inbox</p>\r\n\r\n<div class=\"newslettersForm\">\r\n    <div id=\"collapse\">\r\n    <div class=\"alert subscriptions-alert has-error\">Please choose a subscription</div>\r\n\r\n     <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000031\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"make-it\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Make It</h2>\r\n                <small>A daily email for dreamers, seekers and game changers.</small>\r\n            </div>\r\n          </label>\r\n        </div>\r\n    </div>\r\n\r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000007\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"breaking-news\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Breaking News</h2>\r\n                <small>CNBC's latest news headlines</small>\r\n            </div>\r\n          </label>\r\n        </div>\r\n    </div>\r\n\r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000001\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"morning-squawk\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Morning Squawk</h2>\r\n                <small>Daily before the bell news roundup</small>\r\n            </div>\r\n          </label>\r\n        </div>\r\n    </div>\r\n\r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000002\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"evening-brief\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Evening Brief</h2>\r\n                <small>Daily recap of the day's top headlines</small>\r\n            </div>\r\n          </label>\r\n        </div>\r\n    </div>\r\n\r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000003\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"guest-alerts\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Guest Alerts</h2>\r\n                <small>Guest information &amp; reminders for your calendar</small>\r\n            </div>\r\n          </label>\r\n        </div>\r\n    </div>\r\n\r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000004\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"your-wealth\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Your Wealth</h2>\r\n                <small>Weekly advice on managing your money</small>\r\n            </div>\r\n          </label>\r\n        </div>\r\n    </div>\r\n\r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000005\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"options-action\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Options Action</h2>\r\n                <small>Insight from the Options Action panel</small>\r\n            </div>\r\n          </label>\r\n        </div>\r\n    </div>\r\n\r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000030\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"your-money-your-vote\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Your Money Your Vote</h2>\r\n                <small>Everything you need to know about the coming election</small>\r\n            </div>\r\n          </label>\r\n        </div>\r\n    </div>\r\n\r\n<br>\r\n<div class=\"form-group\">\r\n    <select class=\"select-picker form-control\" id=\"rr-job-industry\" name=\"job_industry\" size=\"1\" autocomplete=\"off\">\r\n        <option value=\"\">Job Industry</option>\r\n        <option value=\"Advertising/Marketing\">Advertising/Marketing</option>\r\n        <option value=\"Automotive\">Automotive</option>\r\n        <option value=\"Communications/PR\">Communications/PR</option>\r\n        <option value=\"Construction/Manufacturing\">Construction/Manufacturing</option>\r\n        <option value=\"Education\">Education</option>\r\n        <option value=\"Finance/Banking/Insurance\">Finance/Banking/Insurance</option>\r\n        <option value=\"Legal\">Legal</option>\r\n        <option value=\"Media/Entertainment\">Media/Entertainment</option>\r\n        <option value=\"Medical/Health Care\">Medical/Health Care</option>\r\n        <option value=\"Mining/Oil/Gas/Utilities\">Mining/Oil/Gas/Utilities</option>\r\n        <option value=\"Gov't/Non-Profit\">Gov't/Non-Profit</option>\r\n        <option value=\"Real Estate\">Real Estate</option>\r\n        <option value=\"Retail\">Retail</option>\r\n        <option value=\"Technology/IT\">Technology/IT</option>\r\n        <option value=\"Transportation/Shipping\">Transportation/Shipping</option>\r\n        <option value=\"Travel/Hospitality\">Travel/Hospitality</option>\r\n        <option value=\"Other\">Other</option>\r\n    </select>\r\n</div>\r\n\r\n</div>  <!-- END COLLAPSE -->\r\n <div class=\"form-group\">\r\n     <input type=\"email\" class=\"form-control\" id=\"inputEmail\" placeholder=\" Email (Required)\" autocomplete=\"off\" data-error=\"Please enter a valid email address\" required>\r\n     <div class=\"help-block with-errors\"></div>\r\n     <div class=\"blank-email-error has-error\">Please enter a valid email address</div>\r\n   </div>\r\n\r\n\r\n</div> <!-- FORM -->\r\n\r\n<div class=\"nl-privacy\">Get these newsletters delivered to your inbox, and more info about about our products and service. <a href=\"//nbcuni.com/privacy/\">Privacy Policy</a>.</div>\r\n\r\n   <div class=\"form-group\">\r\n       <button id=\"nl-submit\" type=\"submit\" class=\"btn btn-primary\">Go</button>\r\n     </div>\r\n\r\n\r\n\r\n\r\n<div id=\"toggle-close\">&#x25B2;</div>\r\n\r\n\r\n\r\n\r\n\r\n\r\n<script>\r\nvar i_am_old_ie = false;\r\n</script>\r\n<!--[if lte IE 9]>\r\n<script>\r\ni_am_old_ie = true;\r\n</script>\r\n<![endif]-->\r\n\r\n\r\n<script type=\"text/javascript\">\r\n\r\nwindow.postLoadFunctions = window.postLoadFunctions || {};\r\nwindow.postLoadFunctions['newslettersRight'] = function() {\r\n  var newsletterJSCall = function() {\r\n    (function($) {\r\n\r\n var pico_code = window.document.createElement('script');\r\n      pico_code.src = '//fm.cnbc.com/applications/cnbc.com/resources/styles/skin/MARKETING/EMAIL/EXACT-TARGET/FORMS/CNBC-API/js/picoModal.js';\r\n      window.document.getElementsByTagName('body')[0].appendChild(pico_code);\r\n\r\n      $(\".news-widget #inputEmail, #optIn-right-rail #inputEmail\").on('keypress', function(e) {\r\n        var p = e.which;\r\n        if (p == 13 && $(\".news-widget #inputEmail\").is(\":focus\")) {\r\n          $(\".news-widget #nl-submit, #optIn-right-rail #nl-submit\").trigger(\"click\");\r\n          return false;\r\n        }\r\n      });\r\n\r\n\r\n      $('.news-widget #nl-submit, #optIn-right-rail #nl-submit').on('click', function(e) {\r\n\r\n    \t    var newspop = document.createElement(\"script\");\r\n    \t    newspop.type = \"text/javascript\";\r\n    \t    newspop.src = \"https://fm.cnbc.com/applications/cnbc.com/resources/styles/skin/MARKETING/EMAIL/MODAL/newspop.js?v=20\";\r\n    \t    document.getElementsByTagName(\"head\")[0].appendChild(newspop);\r\n\r\n\r\n  setTimeout(function() {\r\n   $('.newspop #inputEmail').val(inputValue);\r\n  }, 1000);\r\n\r\n      });\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n    })(jQuery);\r\n\r\n  };\r\n\r\n  setTimeout(function() {\r\n    newsletterJSCall();\r\n  }, 200);\r\n};\r\n</script>\r\n</div>\r\n"
+      }
+    },
+    "@type": "CreativeWork",
+    "cn:relation": [{
+      "position": 4999,
+      "cn:relationType": "contact_info",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "@type": "Organization",
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+    "url": "",
+    "cn:type": "source",
+    "cn:creatorOverwrite": "",
+    "cn:liveURL": "",
+    "@id": "80000022",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/80000022",
+    "cn:slug": "CNBC US Source",
+    "cn:title": "CNBC US",
+    "cn:tagName": "CNBC US Source",
+    "cn:sourceLogo": "https://qa-aws01fm.cnbc.com/applications/cnbc.com/resources/source_logo/2018/04/30/133403971-flowers.JPG",
+    "cn:sourceName": "CNBC.com",
+    "cn:sectionHierarchy": [],
+    "cn:isContemplate": "No",
+    "cn:shorterHeadline": " ",
+    "cn:state": "Publish",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:tweetOnPublish": 0
+    },
+    "description": "CNBC.com",
+    "cn:linkHeadline": "",
+    "headline": "CNBC US",
+    "datePublished": "2011-10-06T17:33:47+0000",
+    "cn:dateLastPublished": "2018-06-05T20:12:22+0000",
+    "cn:dateFirstPublished": "2011-10-06T17:33:47+0000",
+    "expires": "",
+    "dateModified": "2018-06-05T20:12:15+0000",
+    "cn:historicalURL": [],
+    "cn:shortestHeadline": "CNBC",
+    "cn:bodyTeaser": "",
+    "cn:shortestDescription": "",
+    "cn:summary": "",
+    "cn:editedBy": "darshini.oza",
+    "cn:createdBy": "migration",
+    "cn:shorterDescription": "CNBC.com",
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "publisher": {
+      "name": "CNBC",
+      "@type": "Organization",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "name": "CNBC US",
+    "cn:relation": [{
+      "position": 4998,
+      "cn:relationType": "source",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "fileFormat": "text/tpl",
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+    "url": "file://video_section_front.tpl",
+    "cn:type": "markup_template",
+    "cn:title": "Video Section Front Template",
+    "cn:creatorOverwrite": "",
+    "cn:liveURL": "",
+    "@id": "103032829",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/103032829",
+    "cn:slug": "Video Section Front Template",
+    "cn:tagName": "",
+    "cn:shortestDescription": "",
+    "cn:sectionHierarchy": [],
+    "cn:seoTitle": "",
+    "cn:isContemplate": "No",
+    "cn:shorterHeadline": "",
+    "cn:state": "Publish",
+    "cn:summary": "",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:dateline": "Yes",
+      "cn:isFamilyFriendly": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:displayByline": "Yes",
+      "cn:displaySource": "Yes",
+      "cn:listType": "Virtual",
+      "cn:outbrainEnabled": "Yes"
+    },
+    "description": "",
+    "cn:linkHeadline": "",
+    "headline": "Video Section Front Template",
+    "cn:editedBy": "yogen.patel",
+    "datePublished": "2015-09-28T23:01:10+0000",
+    "cn:dateLastPublished": "2015-09-28T23:01:14+0000",
+    "cn:dateFirstPublished": "2015-09-28T23:01:14+0000",
+    "expires": "",
+    "dateModified": "2015-09-28T23:01:14+0000",
+    "cn:historicalURL": [],
+    "cn:shortestHeadline": "",
+    "cn:createdBy": "yogen.patel",
+    "cn:bodyTeaser": "null",
+    "cn:shorterDescription": "",
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "publisher": {
+      "name": "CNBC",
+      "@type": "Organization",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "name": "video_section_front.tpl",
+    "@type": "DigitalDocument",
+    "cn:relation": [{
+      "position": 4996,
+      "cn:relationType": "template",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "cn:relation": [{
+      "position": 4995,
+      "cn:relationType": "feed",
+      "cn:isPromoted": "false"
+    }],
+    "@id": "100016182"
+  }, {
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+    "url": "https://qa-aws01pub.cnbc.com/us-video/",
+    "cn:type": "franchise",
+    "cn:creatorOverwrite": "",
+    "cn:liveURL": "/us-video/",
+    "@id": "100004036",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100004036",
+    "cn:slug": "U.S. Video",
+    "cn:subType": "original_show",
+    "cn:title": "CNBC U.S. Video News Clips on the Stock Market - CNBC",
+    "cn:tagName": "U.S. Video",
+    "cn:sectionHierarchy": [{
+      "id": 100004036,
+      "tagName": "U.S. Video",
+      "order": 1
+    }, {
+      "id": 100004038,
+      "tagName": "Video: All",
+      "order": 2
+    }, {
+      "id": 15839263,
+      "tagName": "Video and TV",
+      "order": 3
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 4
+    }],
+    "cn:isContemplate": "No",
+    "cn:shorterHeadline": "",
+    "cn:sectionLabel": "",
+    "cn:state": "Publish",
+    "cn:settings": {
+      "cn:listType": "Manual and/or populated by feeds",
+      "cn:tweetOnPublish": 0
+    },
+    "description": "View our CNBC video gallery and find video news clips on the stock market! Play live videos and find up to date market news. Break down your selection by: Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, CEO Interviews.",
+    "cn:linkHeadline": "U.S. Video",
+    "cn:sectionLinktext": "U.S. Video",
+    "headline": "U.S. Video",
+    "datePublished": "2014-11-04T20:29:53+0000",
+    "cn:dateLastPublished": "2017-07-12T18:03:20+0000",
+    "cn:dateFirstPublished": "2012-08-03T21:40:01+0000",
+    "expires": "",
+    "dateModified": "2017-07-12T18:03:21+0000",
+    "cn:historicalURL": ["/id/100004036"],
+    "cn:shortestHeadline": "U.S.",
+    "cn:tabLabel": "U.S.",
+    "cn:bodyTeaser": "",
+    "cn:shortestDescription": "",
+    "cn:seoTitle": "CNBC U.S. Video News Clips on the Stock Market - CNBC",
+    "cn:summary": "View our CNBC video gallery and find video news clips on the stock market! Play live videos and find up to date market news. Break down your selection by: Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, CEO Interviews.",
+    "cn:editedBy": "Devin.Hance",
+    "cn:createdBy": "chris.larsen",
+    "cn:shorterDescription": "",
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "publisher": {
+      "name": "CNBC",
+      "@type": "Organization",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "name": "CNBC U.S. Video News Clips on the Stock Market - CNBC",
+    "@type": "Collection",
+    "cn:relation": [{
+      "position": 3,
+      "cn:relationType": "related",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+    "url": "https://qa-aws01pub.cnbc.com/asia-video/",
+    "cn:type": "franchise",
+    "cn:creatorOverwrite": "",
+    "cn:liveURL": "/asia-video/",
+    "@id": "100004034",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100004034",
+    "cn:slug": "Asia Video",
+    "cn:subType": "original_show",
+    "cn:title": "CNBC Asia Video News Clips on the Stock Market - CNBC",
+    "cn:tagName": "Asia Video",
+    "cn:sectionHierarchy": [{
+      "id": 100004034,
+      "tagName": "Asia Video",
+      "order": 1
+    }, {
+      "id": 100004038,
+      "tagName": "Video: All",
+      "order": 2
+    }, {
+      "id": 15839263,
+      "tagName": "Video and TV",
+      "order": 3
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 4
+    }],
+    "cn:isContemplate": "No",
+    "cn:shorterHeadline": "Asia Video",
+    "cn:sectionLabel": "Asia Video",
+    "cn:state": "Publish",
+    "cn:settings": {
+      "cn:listType": "Manual and/or populated by feeds"
+    },
+    "description": "View our CNBC video gallery and find video news clips on the stock market! Play live videos and find up to date market news. Break down your selection by: Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, CEO Interviews.",
+    "cn:linkHeadline": "Asia Video",
+    "cn:sectionLinktext": "Asia Video",
+    "headline": "Asia Video",
+    "datePublished": "2014-11-04T20:30:57+0000",
+    "cn:dateLastPublished": "2016-07-22T11:17:27+0000",
+    "cn:dateFirstPublished": "2012-08-03T21:34:12+0000",
+    "expires": "",
+    "dateModified": "2016-07-22T11:17:32+0000",
+    "cn:historicalURL": ["/id/100004034"],
+    "cn:shortestHeadline": "Asia Video",
+    "cn:tabLabel": "Asia Video",
+    "cn:bodyTeaser": "",
+    "cn:shortestDescription": "",
+    "cn:seoTitle": "CNBC Asia Video News Clips on the Stock Market - CNBC",
+    "cn:summary": "View our CNBC video gallery and find video news clips on the stock market! Play live videos and find up to date market news. Break down your selection by: Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, CEO Interviews.",
+    "cn:editedBy": "bryn.bache",
+    "cn:createdBy": "chris.larsen",
+    "cn:shorterDescription": "",
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "publisher": {
+      "name": "CNBC",
+      "@type": "Organization",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "name": "CNBC Asia Video News Clips on the Stock Market - CNBC",
+    "@type": "Collection",
+    "cn:relation": [{
+      "position": 2,
+      "cn:relationType": "related",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+    "url": "",
+    "cn:type": "skin",
+    "cn:title": "",
+    "cn:creatorOverwrite": "",
+    "cn:liveURL": "",
+    "@id": "100003343",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100003343",
+    "cn:slug": "cnbc global skin",
+    "cn:tagName": "",
+    "cn:shortestDescription": "",
+    "cn:sectionHierarchy": [],
+    "cn:isContemplate": "No",
+    "cn:shorterHeadline": "",
+    "cn:state": "Publish",
+    "cn:summary": "",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:tweetOnPublish": 0
+    },
+    "description": "",
+    "cn:linkHeadline": "",
+    "headline": "",
+    "cn:editedBy": "matt.shade",
+    "datePublished": "2012-07-30T19:54:30+0000",
+    "cn:dateLastPublished": "2018-03-26T19:49:51+0000",
+    "cn:dateFirstPublished": "2012-07-30T19:54:30+0000",
+    "expires": "",
+    "dateModified": "2018-03-26T19:49:51+0000",
+    "cn:historicalURL": [],
+    "cn:shortestHeadline": "",
+    "cn:createdBy": "matt.shade",
+    "cn:bodyTeaser": "",
+    "cn:shorterDescription": "",
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "publisher": {
+      "name": "CNBC",
+      "@type": "Organization",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@type": "DigitalDocument",
+    "cn:relation": [{
+      "position": 2,
+      "cn:relationType": "skin",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "cn:relation": [{
+      "position": 1,
+      "cn:relationType": "parent",
+      "cn:isPromoted": "false"
+    }],
+    "@id": "17"
+  }, {
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+    "url": "https://qa-aws01pub.cnbc.com/europe-video/",
+    "cn:type": "franchise",
+    "cn:creatorOverwrite": "",
+    "cn:liveURL": "/europe-video/",
+    "@id": "100004035",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100004035",
+    "cn:slug": "Europe Video",
+    "cn:subType": "original_show",
+    "cn:title": "CNBC Europe Video News Clips on the Stock Market - CNBC",
+    "cn:tagName": "Europe Video",
+    "cn:sectionHierarchy": [{
+      "id": 100004035,
+      "tagName": "Europe Video",
+      "order": 1
+    }, {
+      "id": 100004038,
+      "tagName": "Video: All",
+      "order": 2
+    }, {
+      "id": 15839263,
+      "tagName": "Video and TV",
+      "order": 3
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 4
+    }],
+    "cn:isContemplate": "No",
+    "cn:shorterHeadline": "",
+    "cn:sectionLabel": "",
+    "cn:state": "Publish",
+    "cn:linkHeadline": "Europe Video",
+    "cn:sectionLinktext": "Europe Video",
+    "headline": "Europe Video",
+    "datePublished": "2014-11-04T20:35:42+0000",
+    "cn:dateLastPublished": "2016-07-21T11:57:28+0000",
+    "cn:dateFirstPublished": "2012-08-03T21:36:34+0000",
+    "expires": "",
+    "dateModified": "2016-07-21T11:57:33+0000",
+    "cn:historicalURL": ["/id/100004035"],
+    "cn:shortestHeadline": "Europe Video",
+    "cn:tabLabel": "Europe Video",
+    "cn:bodyTeaser": "",
+    "cn:shortestDescription": "",
+    "cn:seoTitle": "CNBC Europe Video News Clips on the Stock Market - CNBC",
+    "cn:summary": "View our CNBC video gallery and find video news clips on the stock market! Play live videos and find up to date market news. Break down your selection by: Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, CEO Interviews.",
+    "cn:editedBy": "bryn.bache",
+    "cn:createdBy": "chris.larsen",
+    "cn:shorterDescription": "",
+    "description": "View our CNBC video gallery and find video news clips on the stock market! Play live videos and find up to date market news. Break down your selection by: Top Videos, Most Viewed, US, Europe, Asia, Analyst Interviews, CEO Interviews.",
+    "@context": {
+      "cn": "http://cnbc.com/schema/",
+      "@vocab": "http://schema.org/"
+    },
+    "publisher": {
+      "name": "CNBC",
+      "@type": "Organization",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "name": "CNBC Europe Video News Clips on the Stock Market - CNBC",
+    "@type": "Collection",
+    "cn:relation": [{
+      "position": 1,
+      "cn:relationType": "related",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "cn:relation": [{
+      "position": 1,
+      "cn:relationType": "skin",
+      "cn:isPromoted": "false"
+    }],
+    "@id": "102152071"
+  }]
+}

@@ -1,0 +1,1862 @@
+{
+  "cn:branding": "cnbc",
+  "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+  "url": "https://qa-aws01pub.cnbc.com/economy/",
+  "cn:type": "franchise",
+  "cn:creatorOverwrite": "",
+  "cn:liveURL": "/economy/",
+  "@id": "20910258",
+  "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/20910258",
+  "cn:slug": "Economy",
+  "cn:subType": "news_section",
+  "cn:title": "Economy",
+  "cn:tagName": "Economy",
+  "cn:sectionHierarchy": [{
+    "id": 20910258,
+    "tagName": "Economy",
+    "order": 1
+  }, {
+    "id": 10000161,
+    "tagName": "CNBC Global",
+    "order": 2
+  }],
+  "cn:isContemplate": "No",
+  "cn:shorterHeadline": "Economy",
+  "cn:sectionLabel": "Economy",
+  "cn:state": "Publish",
+  "cn:settings": {
+    "cn:commentsEnabled": "Yes",
+    "cn:socialtoolsEnabled": "Yes",
+    "cn:listType": "Manual and/or populated by feeds",
+    "cn:tweetOnPublish": 0
+  },
+  "description": "Find the economic latest news and headlines, as well as blogs and video from CNBC.com.",
+  "cn:section": {
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+    "url": "https://qa-aws01pub.cnbc.com/cnbc-global/",
+    "cn:type": "franchise",
+    "cn:creatorOverwrite": "",
+    "cn:liveURL": "/cnbc-global/",
+    "@id": "10000161",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000161",
+    "cn:slug": "CNBC Global",
+    "cn:subType": "news_section",
+    "cn:title": "Headlines from CNBC",
+    "cn:tagName": "CNBC Global",
+    "cn:sectionHierarchy": [{
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 1
+    }],
+    "cn:isContemplate": "No",
+    "cn:shorterHeadline": "CNBC",
+    "cn:sectionLabel": "CNBC",
+    "cn:state": "Publish",
+    "cn:settings": {
+      "cn:listType": "Manual and/or populated by feeds",
+      "cn:tweetOnPublish": 0
+    },
+    "description": "CNBC",
+    "cn:linkHeadline": "Headlines from CNBC",
+    "cn:sectionLinktext": "Headlines from CNBC",
+    "headline": "Headlines from CNBC",
+    "datePublished": "2012-02-03T16:18:58+0000",
+    "cn:dateLastPublished": "2018-06-21T00:54:36+0000",
+    "cn:dateFirstPublished": "2012-02-03T16:18:58+0000",
+    "expires": "",
+    "dateModified": "2018-06-21T00:54:12+0000",
+    "cn:historicalURL": ["/id/10000161"],
+    "cn:shortestHeadline": "CNBC",
+    "cn:tabLabel": "CNBC",
+    "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><br /></p><div id=\"csscan-wrapper\" style=\"display: none; \"><h2 id=\"csscan-header\">element</h2><table id=\"csscan-table\"><tbody><tr><th colspan=\"2\" id=\"csscan-header-font\" class=\"csscan-header\">Font</th></tr><tr id=\"csscan-row-font-family\"><td id=\"csscan-property-font-family\" class=\"csscan-property\">font-family</td><td id=\"csscan-value-font-family\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-size\"><td id=\"csscan-property-font-size\" class=\"csscan-property\">font-size</td><td id=\"csscan-value-font-size\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-style\"><td id=\"csscan-property-font-style\" class=\"csscan-property\">font-style</td><td id=\"csscan-value-font-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-variant\"><td id=\"csscan-property-font-variant\" class=\"csscan-property\">font-variant</td><td id=\"csscan-value-font-variant\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-weight\"><td id=\"csscan-property-font-weight\" class=\"csscan-property\">font-weight</td><td id=\"csscan-value-font-weight\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-letter-spacing\"><td id=\"csscan-property-letter-spacing\" class=\"csscan-property\">letter-spacing</td><td id=\"csscan-value-letter-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-line-height\"><td id=\"csscan-property-line-height\" class=\"csscan-property\">line-height</td><td id=\"csscan-value-line-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-decoration\"><td id=\"csscan-property-text-decoration\" class=\"csscan-property\">text-decoration</td><td id=\"csscan-value-text-decoration\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-align\"><td id=\"csscan-property-text-align\" class=\"csscan-property\">text-align</td><td id=\"csscan-value-text-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-indent\"><td id=\"csscan-property-text-indent\" class=\"csscan-property\">text-indent</td><td id=\"csscan-value-text-indent\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-transform\"><td id=\"csscan-property-text-transform\" class=\"csscan-property\">text-transform</td><td id=\"csscan-value-text-transform\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-white-space\"><td id=\"csscan-property-white-space\" class=\"csscan-property\">white-space</td><td id=\"csscan-value-white-space\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-word-spacing\"><td id=\"csscan-property-word-spacing\" class=\"csscan-property\">word-spacing</td><td id=\"csscan-value-word-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-color\"><td id=\"csscan-property-color\" class=\"csscan-property\">color</td><td id=\"csscan-value-color\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-background\" class=\"csscan-header\">Background</th></tr><tr id=\"csscan-row-background-attachment\"><td id=\"csscan-property-background-attachment\" class=\"csscan-property\">bg-attachment</td><td id=\"csscan-value-background-attachment\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-color\"><td id=\"csscan-property-background-color\" class=\"csscan-property\">bg-color</td><td id=\"csscan-value-background-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-image\"><td id=\"csscan-property-background-image\" class=\"csscan-property\">bg-image</td><td id=\"csscan-value-background-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-position\"><td id=\"csscan-property-background-position\" class=\"csscan-property\">bg-position</td><td id=\"csscan-value-background-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-repeat\"><td id=\"csscan-property-background-repeat\" class=\"csscan-property\">bg-repeat</td><td id=\"csscan-value-background-repeat\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-size\" class=\"csscan-header\">Box</th></tr><tr id=\"csscan-row-width\"><td id=\"csscan-property-width\" class=\"csscan-property\">width</td><td id=\"csscan-value-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-height\"><td id=\"csscan-property-height\" class=\"csscan-property\">height</td><td id=\"csscan-value-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-top\"><td id=\"csscan-property-border-top\" class=\"csscan-property\">border-top</td><td id=\"csscan-value-border-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-right\"><td id=\"csscan-property-border-right\" class=\"csscan-property\">border-right</td><td id=\"csscan-value-border-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-bottom\"><td id=\"csscan-property-border-bottom\" class=\"csscan-property\">border-bottom</td><td id=\"csscan-value-border-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-left\"><td id=\"csscan-property-border-left\" class=\"csscan-property\">border-left</td><td id=\"csscan-value-border-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-margin\"><td id=\"csscan-property-margin\" class=\"csscan-property\">margin</td><td id=\"csscan-value-margin\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-padding\"><td id=\"csscan-property-padding\" class=\"csscan-property\">padding</td><td id=\"csscan-value-padding\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-height\"><td id=\"csscan-property-max-height\" class=\"csscan-property\">max-height</td><td id=\"csscan-value-max-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-height\"><td id=\"csscan-property-min-height\" class=\"csscan-property\">min-height</td><td id=\"csscan-value-min-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-width\"><td id=\"csscan-property-max-width\" class=\"csscan-property\">max-width</td><td id=\"csscan-value-max-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-width\"><td id=\"csscan-property-min-width\" class=\"csscan-property\">min-width</td><td id=\"csscan-value-min-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-color\"><td id=\"csscan-property-outline-color\" class=\"csscan-property\">outline-color</td><td id=\"csscan-value-outline-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-style\"><td id=\"csscan-property-outline-style\" class=\"csscan-property\">outline-style</td><td id=\"csscan-value-outline-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-width\"><td id=\"csscan-property-outline-width\" class=\"csscan-property\">outline-width</td><td id=\"csscan-value-outline-width\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-position\" class=\"csscan-header\">Positioning</th></tr><tr id=\"csscan-row-position\"><td id=\"csscan-property-position\" class=\"csscan-property\">position</td><td id=\"csscan-value-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-top\"><td id=\"csscan-property-top\" class=\"csscan-property\">top</td><td id=\"csscan-value-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-bottom\"><td id=\"csscan-property-bottom\" class=\"csscan-property\">bottom</td><td id=\"csscan-value-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-right\"><td id=\"csscan-property-right\" class=\"csscan-property\">right</td><td id=\"csscan-value-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-left\"><td id=\"csscan-property-left\" class=\"csscan-property\">left</td><td id=\"csscan-value-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-float\"><td id=\"csscan-property-float\" class=\"csscan-property\">float</td><td id=\"csscan-value-float\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-display\"><td id=\"csscan-property-display\" class=\"csscan-property\">display</td><td id=\"csscan-value-display\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-clear\"><td id=\"csscan-property-clear\" class=\"csscan-property\">clear</td><td id=\"csscan-value-clear\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-z-index\"><td id=\"csscan-property-z-index\" class=\"csscan-property\">z-index</td><td id=\"csscan-value-z-index\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-list\" class=\"csscan-header\">List</th></tr><tr id=\"csscan-row-list-style-image\"><td id=\"csscan-property-list-style-image\" class=\"csscan-property\">list-style-image</td><td id=\"csscan-value-list-style-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-type\"><td id=\"csscan-property-list-style-type\" class=\"csscan-property\">list-style-type</td><td id=\"csscan-value-list-style-type\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-position\"><td id=\"csscan-property-list-style-position\" class=\"csscan-property\">list-style-position</td><td id=\"csscan-value-list-style-position\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-table\" class=\"csscan-header\">Table</th></tr><tr id=\"csscan-row-vertical-align\"><td id=\"csscan-property-vertical-align\" class=\"csscan-property\">vertical-align</td><td id=\"csscan-value-vertical-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-collapse\"><td id=\"csscan-property-border-collapse\" class=\"csscan-property\">border-collapse</td><td id=\"csscan-value-border-collapse\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-spacing\"><td id=\"csscan-property-border-spacing\" class=\"csscan-property\">border-spacing</td><td id=\"csscan-value-border-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-caption-side\"><td id=\"csscan-property-caption-side\" class=\"csscan-property\">caption-side</td><td id=\"csscan-value-caption-side\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-empty-cells\"><td id=\"csscan-property-empty-cells\" class=\"csscan-property\">empty-cells</td><td id=\"csscan-value-empty-cells\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-table-layout\"><td id=\"csscan-property-table-layout\" class=\"csscan-property\">table-layout</td><td id=\"csscan-value-table-layout\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-effects\" class=\"csscan-header\">Effects</th></tr><tr id=\"csscan-row-text-shadow\"><td id=\"csscan-property-text-shadow\" class=\"csscan-property\">text-shadow</td><td id=\"csscan-value-text-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row--webkit-box-shadow\"><td id=\"csscan-property--webkit-box-shadow\" class=\"csscan-property\">-webkit-box-shadow</td><td id=\"csscan-value--webkit-box-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-radius\"><td id=\"csscan-property-border-radius\" class=\"csscan-property\">border-radius</td><td id=\"csscan-value-border-radius\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-other\" class=\"csscan-header\">Other</th></tr><tr id=\"csscan-row-overflow\"><td id=\"csscan-property-overflow\" class=\"csscan-property\">overflow</td><td id=\"csscan-value-overflow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-cursor\"><td id=\"csscan-property-cursor\" class=\"csscan-property\">cursor</td><td id=\"csscan-value-cursor\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-visibility\"><td id=\"csscan-property-visibility\" class=\"csscan-property\">visibility</td><td id=\"csscan-value-visibility\" class=\"csscan-value\"></td></tr></tbody></table></div><div id=\"csscan-wrapper\" style=\"display: none; \"><h2 id=\"csscan-header\">element</h2><table id=\"csscan-table\"><tbody><tr><th colspan=\"2\" id=\"csscan-header-font\" class=\"csscan-header\">Font</th></tr><tr id=\"csscan-row-font-family\"><td id=\"csscan-property-font-family\" class=\"csscan-property\">font-family</td><td id=\"csscan-value-font-family\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-size\"><td id=\"csscan-property-font-size\" class=\"csscan-property\">font-size</td><td id=\"csscan-value-font-size\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-style\"><td id=\"csscan-property-font-style\" class=\"csscan-property\">font-style</td><td id=\"csscan-value-font-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-variant\"><td id=\"csscan-property-font-variant\" class=\"csscan-property\">font-variant</td><td id=\"csscan-value-font-variant\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-weight\"><td id=\"csscan-property-font-weight\" class=\"csscan-property\">font-weight</td><td id=\"csscan-value-font-weight\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-letter-spacing\"><td id=\"csscan-property-letter-spacing\" class=\"csscan-property\">letter-spacing</td><td id=\"csscan-value-letter-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-line-height\"><td id=\"csscan-property-line-height\" class=\"csscan-property\">line-height</td><td id=\"csscan-value-line-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-decoration\"><td id=\"csscan-property-text-decoration\" class=\"csscan-property\">text-decoration</td><td id=\"csscan-value-text-decoration\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-align\"><td id=\"csscan-property-text-align\" class=\"csscan-property\">text-align</td><td id=\"csscan-value-text-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-indent\"><td id=\"csscan-property-text-indent\" class=\"csscan-property\">text-indent</td><td id=\"csscan-value-text-indent\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-transform\"><td id=\"csscan-property-text-transform\" class=\"csscan-property\">text-transform</td><td id=\"csscan-value-text-transform\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-white-space\"><td id=\"csscan-property-white-space\" class=\"csscan-property\">white-space</td><td id=\"csscan-value-white-space\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-word-spacing\"><td id=\"csscan-property-word-spacing\" class=\"csscan-property\">word-spacing</td><td id=\"csscan-value-word-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-color\"><td id=\"csscan-property-color\" class=\"csscan-property\">color</td><td id=\"csscan-value-color\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-background\" class=\"csscan-header\">Background</th></tr><tr id=\"csscan-row-background-attachment\"><td id=\"csscan-property-background-attachment\" class=\"csscan-property\">bg-attachment</td><td id=\"csscan-value-background-attachment\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-color\"><td id=\"csscan-property-background-color\" class=\"csscan-property\">bg-color</td><td id=\"csscan-value-background-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-image\"><td id=\"csscan-property-background-image\" class=\"csscan-property\">bg-image</td><td id=\"csscan-value-background-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-position\"><td id=\"csscan-property-background-position\" class=\"csscan-property\">bg-position</td><td id=\"csscan-value-background-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-repeat\"><td id=\"csscan-property-background-repeat\" class=\"csscan-property\">bg-repeat</td><td id=\"csscan-value-background-repeat\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-size\" class=\"csscan-header\">Box</th></tr><tr id=\"csscan-row-width\"><td id=\"csscan-property-width\" class=\"csscan-property\">width</td><td id=\"csscan-value-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-height\"><td id=\"csscan-property-height\" class=\"csscan-property\">height</td><td id=\"csscan-value-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-top\"><td id=\"csscan-property-border-top\" class=\"csscan-property\">border-top</td><td id=\"csscan-value-border-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-right\"><td id=\"csscan-property-border-right\" class=\"csscan-property\">border-right</td><td id=\"csscan-value-border-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-bottom\"><td id=\"csscan-property-border-bottom\" class=\"csscan-property\">border-bottom</td><td id=\"csscan-value-border-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-left\"><td id=\"csscan-property-border-left\" class=\"csscan-property\">border-left</td><td id=\"csscan-value-border-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-margin\"><td id=\"csscan-property-margin\" class=\"csscan-property\">margin</td><td id=\"csscan-value-margin\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-padding\"><td id=\"csscan-property-padding\" class=\"csscan-property\">padding</td><td id=\"csscan-value-padding\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-height\"><td id=\"csscan-property-max-height\" class=\"csscan-property\">max-height</td><td id=\"csscan-value-max-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-height\"><td id=\"csscan-property-min-height\" class=\"csscan-property\">min-height</td><td id=\"csscan-value-min-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-width\"><td id=\"csscan-property-max-width\" class=\"csscan-property\">max-width</td><td id=\"csscan-value-max-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-width\"><td id=\"csscan-property-min-width\" class=\"csscan-property\">min-width</td><td id=\"csscan-value-min-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-color\"><td id=\"csscan-property-outline-color\" class=\"csscan-property\">outline-color</td><td id=\"csscan-value-outline-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-style\"><td id=\"csscan-property-outline-style\" class=\"csscan-property\">outline-style</td><td id=\"csscan-value-outline-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-width\"><td id=\"csscan-property-outline-width\" class=\"csscan-property\">outline-width</td><td id=\"csscan-value-outline-width\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-position\" class=\"csscan-header\">Positioning</th></tr><tr id=\"csscan-row-position\"><td id=\"csscan-property-position\" class=\"csscan-property\">position</td><td id=\"csscan-value-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-top\"><td id=\"csscan-property-top\" class=\"csscan-property\">top</td><td id=\"csscan-value-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-bottom\"><td id=\"csscan-property-bottom\" class=\"csscan-property\">bottom</td><td id=\"csscan-value-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-right\"><td id=\"csscan-property-right\" class=\"csscan-property\">right</td><td id=\"csscan-value-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-left\"><td id=\"csscan-property-left\" class=\"csscan-property\">left</td><td id=\"csscan-value-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-float\"><td id=\"csscan-property-float\" class=\"csscan-property\">float</td><td id=\"csscan-value-float\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-display\"><td id=\"csscan-property-display\" class=\"csscan-property\">display</td><td id=\"csscan-value-display\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-clear\"><td id=\"csscan-property-clear\" class=\"csscan-property\">clear</td><td id=\"csscan-value-clear\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-z-index\"><td id=\"csscan-property-z-index\" class=\"csscan-property\">z-index</td><td id=\"csscan-value-z-index\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-list\" class=\"csscan-header\">List</th></tr><tr id=\"csscan-row-list-style-image\"><td id=\"csscan-property-list-style-image\" class=\"csscan-property\">list-style-image</td><td id=\"csscan-value-list-style-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-type\"><td id=\"csscan-property-list-style-type\" class=\"csscan-property\">list-style-type</td><td id=\"csscan-value-list-style-type\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-position\"><td id=\"csscan-property-list-style-position\" class=\"csscan-property\">list-style-position</td><td id=\"csscan-value-list-style-position\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-table\" class=\"csscan-header\">Table</th></tr><tr id=\"csscan-row-vertical-align\"><td id=\"csscan-property-vertical-align\" class=\"csscan-property\">vertical-align</td><td id=\"csscan-value-vertical-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-collapse\"><td id=\"csscan-property-border-collapse\" class=\"csscan-property\">border-collapse</td><td id=\"csscan-value-border-collapse\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-spacing\"><td id=\"csscan-property-border-spacing\" class=\"csscan-property\">border-spacing</td><td id=\"csscan-value-border-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-caption-side\"><td id=\"csscan-property-caption-side\" class=\"csscan-property\">caption-side</td><td id=\"csscan-value-caption-side\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-empty-cells\"><td id=\"csscan-property-empty-cells\" class=\"csscan-property\">empty-cells</td><td id=\"csscan-value-empty-cells\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-table-layout\"><td id=\"csscan-property-table-layout\" class=\"csscan-property\">table-layout</td><td id=\"csscan-value-table-layout\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-effects\" class=\"csscan-header\">Effects</th></tr><tr id=\"csscan-row-text-shadow\"><td id=\"csscan-property-text-shadow\" class=\"csscan-property\">text-shadow</td><td id=\"csscan-value-text-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row--webkit-box-shadow\"><td id=\"csscan-property--webkit-box-shadow\" class=\"csscan-property\">-webkit-box-shadow</td><td id=\"csscan-value--webkit-box-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-radius\"><td id=\"csscan-property-border-radius\" class=\"csscan-property\">border-radius</td><td id=\"csscan-value-border-radius\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-other\" class=\"csscan-header\">Other</th></tr><tr id=\"csscan-row-overflow\"><td id=\"csscan-property-overflow\" class=\"csscan-property\">overflow</td><td id=\"csscan-value-overflow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-cursor\"><td id=\"csscan-property-cursor\" class=\"csscan-property\">cursor</td><td id=\"csscan-value-cursor\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-visibility\"><td id=\"csscan-property-visibility\" class=\"csscan-property\">visibility</td><td id=\"csscan-value-visibility\" class=\"csscan-value\"></td></tr></tbody></table></div></div></group></body>",
+    "cn:shortestDescription": "",
+    "cn:seoTitle": "Headlines from CNBC",
+    "cn:summary": "",
+    "cn:editedBy": "caroline.shiny",
+    "cn:createdBy": "migration",
+    "cn:shorterDescription": "CNBC",
+    "name": "Headlines from CNBC",
+    "cn:sectionColor": "#000000",
+    "cn:promoText": "",
+    "cn:showTime": "",
+    "@type": "Collection"
+  },
+  "cn:linkHeadline": "Economy",
+  "cn:sectionLinktext": "Economy",
+  "headline": "Economy",
+  "datePublished": "2014-05-21T19:59:46+0000",
+  "cn:dateLastPublished": "2018-07-16T18:40:19+0000",
+  "cn:dateFirstPublished": "2012-01-29T18:43:59+0000",
+  "expires": "",
+  "dateModified": "2018-07-16T18:39:07+0000",
+  "cn:historicalURL": ["/id/20910258"],
+  "cn:shortestHeadline": "Economy",
+  "cn:tabLabel": "Economy",
+  "cn:bodyTeaser": "",
+  "cn:shortestDescription": "Latest economic news, headlines, blogs, and video.",
+  "cn:seoTitle": "Economic News",
+  "cn:summary": "Find the economic latest news and headlines, as well as blogs and video from CNBC.com.",
+  "cn:editedBy": "NagarajaNaick.Bukke@nbcuni.com",
+  "cn:createdBy": "migration",
+  "cn:shorterDescription": "Get the latest economic news, headlines, blogs, and video.",
+  "@context": {
+    "@vocab": "http://schema.org/",
+    "cn": "http://cnbc.com/schema/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "CNBC",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "name": "Economy",
+  "cn:sectionColor": "#000000",
+  "cn:promoText": "",
+  "cn:showTime": "",
+  "@type": "Collection",
+  "cn:xmlArticleBody": "",
+  "articlebody": "",
+  "cn:xmlKeyPoints": "",
+  "cn:keyword": "Economy, global economy, economic news",
+  "cn:unpublishDate": "2012-12-13T16:00:09+0000",
+  "cn:association": [{
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+    "url": "https://qa-aws01pub.cnbc.com/cnbc-global/",
+    "cn:type": "franchise",
+    "cn:creatorOverwrite": "",
+    "cn:liveURL": "/cnbc-global/",
+    "@id": "10000161",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000161",
+    "cn:slug": "CNBC Global",
+    "cn:subType": "news_section",
+    "cn:title": "Headlines from CNBC",
+    "cn:tagName": "CNBC Global",
+    "cn:sectionHierarchy": [{
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 1
+    }],
+    "cn:isContemplate": "No",
+    "cn:shorterHeadline": "CNBC",
+    "cn:sectionLabel": "CNBC",
+    "cn:state": "Publish",
+    "cn:settings": {
+      "cn:listType": "Manual and/or populated by feeds",
+      "cn:tweetOnPublish": 0
+    },
+    "description": "CNBC",
+    "cn:linkHeadline": "Headlines from CNBC",
+    "cn:sectionLinktext": "Headlines from CNBC",
+    "headline": "Headlines from CNBC",
+    "datePublished": "2012-02-03T16:18:58+0000",
+    "cn:dateLastPublished": "2018-06-21T00:54:36+0000",
+    "cn:dateFirstPublished": "2012-02-03T16:18:58+0000",
+    "expires": "",
+    "dateModified": "2018-06-21T00:54:12+0000",
+    "cn:historicalURL": ["/id/10000161"],
+    "cn:shortestHeadline": "CNBC",
+    "cn:tabLabel": "CNBC",
+    "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><br /></p><div id=\"csscan-wrapper\" style=\"display: none; \"><h2 id=\"csscan-header\">element</h2><table id=\"csscan-table\"><tbody><tr><th colspan=\"2\" id=\"csscan-header-font\" class=\"csscan-header\">Font</th></tr><tr id=\"csscan-row-font-family\"><td id=\"csscan-property-font-family\" class=\"csscan-property\">font-family</td><td id=\"csscan-value-font-family\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-size\"><td id=\"csscan-property-font-size\" class=\"csscan-property\">font-size</td><td id=\"csscan-value-font-size\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-style\"><td id=\"csscan-property-font-style\" class=\"csscan-property\">font-style</td><td id=\"csscan-value-font-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-variant\"><td id=\"csscan-property-font-variant\" class=\"csscan-property\">font-variant</td><td id=\"csscan-value-font-variant\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-weight\"><td id=\"csscan-property-font-weight\" class=\"csscan-property\">font-weight</td><td id=\"csscan-value-font-weight\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-letter-spacing\"><td id=\"csscan-property-letter-spacing\" class=\"csscan-property\">letter-spacing</td><td id=\"csscan-value-letter-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-line-height\"><td id=\"csscan-property-line-height\" class=\"csscan-property\">line-height</td><td id=\"csscan-value-line-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-decoration\"><td id=\"csscan-property-text-decoration\" class=\"csscan-property\">text-decoration</td><td id=\"csscan-value-text-decoration\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-align\"><td id=\"csscan-property-text-align\" class=\"csscan-property\">text-align</td><td id=\"csscan-value-text-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-indent\"><td id=\"csscan-property-text-indent\" class=\"csscan-property\">text-indent</td><td id=\"csscan-value-text-indent\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-transform\"><td id=\"csscan-property-text-transform\" class=\"csscan-property\">text-transform</td><td id=\"csscan-value-text-transform\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-white-space\"><td id=\"csscan-property-white-space\" class=\"csscan-property\">white-space</td><td id=\"csscan-value-white-space\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-word-spacing\"><td id=\"csscan-property-word-spacing\" class=\"csscan-property\">word-spacing</td><td id=\"csscan-value-word-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-color\"><td id=\"csscan-property-color\" class=\"csscan-property\">color</td><td id=\"csscan-value-color\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-background\" class=\"csscan-header\">Background</th></tr><tr id=\"csscan-row-background-attachment\"><td id=\"csscan-property-background-attachment\" class=\"csscan-property\">bg-attachment</td><td id=\"csscan-value-background-attachment\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-color\"><td id=\"csscan-property-background-color\" class=\"csscan-property\">bg-color</td><td id=\"csscan-value-background-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-image\"><td id=\"csscan-property-background-image\" class=\"csscan-property\">bg-image</td><td id=\"csscan-value-background-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-position\"><td id=\"csscan-property-background-position\" class=\"csscan-property\">bg-position</td><td id=\"csscan-value-background-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-repeat\"><td id=\"csscan-property-background-repeat\" class=\"csscan-property\">bg-repeat</td><td id=\"csscan-value-background-repeat\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-size\" class=\"csscan-header\">Box</th></tr><tr id=\"csscan-row-width\"><td id=\"csscan-property-width\" class=\"csscan-property\">width</td><td id=\"csscan-value-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-height\"><td id=\"csscan-property-height\" class=\"csscan-property\">height</td><td id=\"csscan-value-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-top\"><td id=\"csscan-property-border-top\" class=\"csscan-property\">border-top</td><td id=\"csscan-value-border-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-right\"><td id=\"csscan-property-border-right\" class=\"csscan-property\">border-right</td><td id=\"csscan-value-border-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-bottom\"><td id=\"csscan-property-border-bottom\" class=\"csscan-property\">border-bottom</td><td id=\"csscan-value-border-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-left\"><td id=\"csscan-property-border-left\" class=\"csscan-property\">border-left</td><td id=\"csscan-value-border-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-margin\"><td id=\"csscan-property-margin\" class=\"csscan-property\">margin</td><td id=\"csscan-value-margin\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-padding\"><td id=\"csscan-property-padding\" class=\"csscan-property\">padding</td><td id=\"csscan-value-padding\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-height\"><td id=\"csscan-property-max-height\" class=\"csscan-property\">max-height</td><td id=\"csscan-value-max-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-height\"><td id=\"csscan-property-min-height\" class=\"csscan-property\">min-height</td><td id=\"csscan-value-min-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-width\"><td id=\"csscan-property-max-width\" class=\"csscan-property\">max-width</td><td id=\"csscan-value-max-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-width\"><td id=\"csscan-property-min-width\" class=\"csscan-property\">min-width</td><td id=\"csscan-value-min-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-color\"><td id=\"csscan-property-outline-color\" class=\"csscan-property\">outline-color</td><td id=\"csscan-value-outline-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-style\"><td id=\"csscan-property-outline-style\" class=\"csscan-property\">outline-style</td><td id=\"csscan-value-outline-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-width\"><td id=\"csscan-property-outline-width\" class=\"csscan-property\">outline-width</td><td id=\"csscan-value-outline-width\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-position\" class=\"csscan-header\">Positioning</th></tr><tr id=\"csscan-row-position\"><td id=\"csscan-property-position\" class=\"csscan-property\">position</td><td id=\"csscan-value-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-top\"><td id=\"csscan-property-top\" class=\"csscan-property\">top</td><td id=\"csscan-value-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-bottom\"><td id=\"csscan-property-bottom\" class=\"csscan-property\">bottom</td><td id=\"csscan-value-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-right\"><td id=\"csscan-property-right\" class=\"csscan-property\">right</td><td id=\"csscan-value-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-left\"><td id=\"csscan-property-left\" class=\"csscan-property\">left</td><td id=\"csscan-value-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-float\"><td id=\"csscan-property-float\" class=\"csscan-property\">float</td><td id=\"csscan-value-float\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-display\"><td id=\"csscan-property-display\" class=\"csscan-property\">display</td><td id=\"csscan-value-display\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-clear\"><td id=\"csscan-property-clear\" class=\"csscan-property\">clear</td><td id=\"csscan-value-clear\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-z-index\"><td id=\"csscan-property-z-index\" class=\"csscan-property\">z-index</td><td id=\"csscan-value-z-index\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-list\" class=\"csscan-header\">List</th></tr><tr id=\"csscan-row-list-style-image\"><td id=\"csscan-property-list-style-image\" class=\"csscan-property\">list-style-image</td><td id=\"csscan-value-list-style-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-type\"><td id=\"csscan-property-list-style-type\" class=\"csscan-property\">list-style-type</td><td id=\"csscan-value-list-style-type\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-position\"><td id=\"csscan-property-list-style-position\" class=\"csscan-property\">list-style-position</td><td id=\"csscan-value-list-style-position\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-table\" class=\"csscan-header\">Table</th></tr><tr id=\"csscan-row-vertical-align\"><td id=\"csscan-property-vertical-align\" class=\"csscan-property\">vertical-align</td><td id=\"csscan-value-vertical-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-collapse\"><td id=\"csscan-property-border-collapse\" class=\"csscan-property\">border-collapse</td><td id=\"csscan-value-border-collapse\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-spacing\"><td id=\"csscan-property-border-spacing\" class=\"csscan-property\">border-spacing</td><td id=\"csscan-value-border-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-caption-side\"><td id=\"csscan-property-caption-side\" class=\"csscan-property\">caption-side</td><td id=\"csscan-value-caption-side\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-empty-cells\"><td id=\"csscan-property-empty-cells\" class=\"csscan-property\">empty-cells</td><td id=\"csscan-value-empty-cells\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-table-layout\"><td id=\"csscan-property-table-layout\" class=\"csscan-property\">table-layout</td><td id=\"csscan-value-table-layout\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-effects\" class=\"csscan-header\">Effects</th></tr><tr id=\"csscan-row-text-shadow\"><td id=\"csscan-property-text-shadow\" class=\"csscan-property\">text-shadow</td><td id=\"csscan-value-text-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row--webkit-box-shadow\"><td id=\"csscan-property--webkit-box-shadow\" class=\"csscan-property\">-webkit-box-shadow</td><td id=\"csscan-value--webkit-box-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-radius\"><td id=\"csscan-property-border-radius\" class=\"csscan-property\">border-radius</td><td id=\"csscan-value-border-radius\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-other\" class=\"csscan-header\">Other</th></tr><tr id=\"csscan-row-overflow\"><td id=\"csscan-property-overflow\" class=\"csscan-property\">overflow</td><td id=\"csscan-value-overflow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-cursor\"><td id=\"csscan-property-cursor\" class=\"csscan-property\">cursor</td><td id=\"csscan-value-cursor\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-visibility\"><td id=\"csscan-property-visibility\" class=\"csscan-property\">visibility</td><td id=\"csscan-value-visibility\" class=\"csscan-value\"></td></tr></tbody></table></div><div id=\"csscan-wrapper\" style=\"display: none; \"><h2 id=\"csscan-header\">element</h2><table id=\"csscan-table\"><tbody><tr><th colspan=\"2\" id=\"csscan-header-font\" class=\"csscan-header\">Font</th></tr><tr id=\"csscan-row-font-family\"><td id=\"csscan-property-font-family\" class=\"csscan-property\">font-family</td><td id=\"csscan-value-font-family\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-size\"><td id=\"csscan-property-font-size\" class=\"csscan-property\">font-size</td><td id=\"csscan-value-font-size\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-style\"><td id=\"csscan-property-font-style\" class=\"csscan-property\">font-style</td><td id=\"csscan-value-font-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-variant\"><td id=\"csscan-property-font-variant\" class=\"csscan-property\">font-variant</td><td id=\"csscan-value-font-variant\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-font-weight\"><td id=\"csscan-property-font-weight\" class=\"csscan-property\">font-weight</td><td id=\"csscan-value-font-weight\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-letter-spacing\"><td id=\"csscan-property-letter-spacing\" class=\"csscan-property\">letter-spacing</td><td id=\"csscan-value-letter-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-line-height\"><td id=\"csscan-property-line-height\" class=\"csscan-property\">line-height</td><td id=\"csscan-value-line-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-decoration\"><td id=\"csscan-property-text-decoration\" class=\"csscan-property\">text-decoration</td><td id=\"csscan-value-text-decoration\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-align\"><td id=\"csscan-property-text-align\" class=\"csscan-property\">text-align</td><td id=\"csscan-value-text-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-indent\"><td id=\"csscan-property-text-indent\" class=\"csscan-property\">text-indent</td><td id=\"csscan-value-text-indent\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-text-transform\"><td id=\"csscan-property-text-transform\" class=\"csscan-property\">text-transform</td><td id=\"csscan-value-text-transform\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-white-space\"><td id=\"csscan-property-white-space\" class=\"csscan-property\">white-space</td><td id=\"csscan-value-white-space\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-word-spacing\"><td id=\"csscan-property-word-spacing\" class=\"csscan-property\">word-spacing</td><td id=\"csscan-value-word-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-color\"><td id=\"csscan-property-color\" class=\"csscan-property\">color</td><td id=\"csscan-value-color\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-background\" class=\"csscan-header\">Background</th></tr><tr id=\"csscan-row-background-attachment\"><td id=\"csscan-property-background-attachment\" class=\"csscan-property\">bg-attachment</td><td id=\"csscan-value-background-attachment\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-color\"><td id=\"csscan-property-background-color\" class=\"csscan-property\">bg-color</td><td id=\"csscan-value-background-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-image\"><td id=\"csscan-property-background-image\" class=\"csscan-property\">bg-image</td><td id=\"csscan-value-background-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-position\"><td id=\"csscan-property-background-position\" class=\"csscan-property\">bg-position</td><td id=\"csscan-value-background-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-background-repeat\"><td id=\"csscan-property-background-repeat\" class=\"csscan-property\">bg-repeat</td><td id=\"csscan-value-background-repeat\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-size\" class=\"csscan-header\">Box</th></tr><tr id=\"csscan-row-width\"><td id=\"csscan-property-width\" class=\"csscan-property\">width</td><td id=\"csscan-value-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-height\"><td id=\"csscan-property-height\" class=\"csscan-property\">height</td><td id=\"csscan-value-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-top\"><td id=\"csscan-property-border-top\" class=\"csscan-property\">border-top</td><td id=\"csscan-value-border-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-right\"><td id=\"csscan-property-border-right\" class=\"csscan-property\">border-right</td><td id=\"csscan-value-border-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-bottom\"><td id=\"csscan-property-border-bottom\" class=\"csscan-property\">border-bottom</td><td id=\"csscan-value-border-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-left\"><td id=\"csscan-property-border-left\" class=\"csscan-property\">border-left</td><td id=\"csscan-value-border-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-margin\"><td id=\"csscan-property-margin\" class=\"csscan-property\">margin</td><td id=\"csscan-value-margin\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-padding\"><td id=\"csscan-property-padding\" class=\"csscan-property\">padding</td><td id=\"csscan-value-padding\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-height\"><td id=\"csscan-property-max-height\" class=\"csscan-property\">max-height</td><td id=\"csscan-value-max-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-height\"><td id=\"csscan-property-min-height\" class=\"csscan-property\">min-height</td><td id=\"csscan-value-min-height\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-max-width\"><td id=\"csscan-property-max-width\" class=\"csscan-property\">max-width</td><td id=\"csscan-value-max-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-min-width\"><td id=\"csscan-property-min-width\" class=\"csscan-property\">min-width</td><td id=\"csscan-value-min-width\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-color\"><td id=\"csscan-property-outline-color\" class=\"csscan-property\">outline-color</td><td id=\"csscan-value-outline-color\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-style\"><td id=\"csscan-property-outline-style\" class=\"csscan-property\">outline-style</td><td id=\"csscan-value-outline-style\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-outline-width\"><td id=\"csscan-property-outline-width\" class=\"csscan-property\">outline-width</td><td id=\"csscan-value-outline-width\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-position\" class=\"csscan-header\">Positioning</th></tr><tr id=\"csscan-row-position\"><td id=\"csscan-property-position\" class=\"csscan-property\">position</td><td id=\"csscan-value-position\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-top\"><td id=\"csscan-property-top\" class=\"csscan-property\">top</td><td id=\"csscan-value-top\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-bottom\"><td id=\"csscan-property-bottom\" class=\"csscan-property\">bottom</td><td id=\"csscan-value-bottom\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-right\"><td id=\"csscan-property-right\" class=\"csscan-property\">right</td><td id=\"csscan-value-right\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-left\"><td id=\"csscan-property-left\" class=\"csscan-property\">left</td><td id=\"csscan-value-left\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-float\"><td id=\"csscan-property-float\" class=\"csscan-property\">float</td><td id=\"csscan-value-float\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-display\"><td id=\"csscan-property-display\" class=\"csscan-property\">display</td><td id=\"csscan-value-display\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-clear\"><td id=\"csscan-property-clear\" class=\"csscan-property\">clear</td><td id=\"csscan-value-clear\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-z-index\"><td id=\"csscan-property-z-index\" class=\"csscan-property\">z-index</td><td id=\"csscan-value-z-index\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-list\" class=\"csscan-header\">List</th></tr><tr id=\"csscan-row-list-style-image\"><td id=\"csscan-property-list-style-image\" class=\"csscan-property\">list-style-image</td><td id=\"csscan-value-list-style-image\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-type\"><td id=\"csscan-property-list-style-type\" class=\"csscan-property\">list-style-type</td><td id=\"csscan-value-list-style-type\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-list-style-position\"><td id=\"csscan-property-list-style-position\" class=\"csscan-property\">list-style-position</td><td id=\"csscan-value-list-style-position\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-table\" class=\"csscan-header\">Table</th></tr><tr id=\"csscan-row-vertical-align\"><td id=\"csscan-property-vertical-align\" class=\"csscan-property\">vertical-align</td><td id=\"csscan-value-vertical-align\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-collapse\"><td id=\"csscan-property-border-collapse\" class=\"csscan-property\">border-collapse</td><td id=\"csscan-value-border-collapse\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-spacing\"><td id=\"csscan-property-border-spacing\" class=\"csscan-property\">border-spacing</td><td id=\"csscan-value-border-spacing\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-caption-side\"><td id=\"csscan-property-caption-side\" class=\"csscan-property\">caption-side</td><td id=\"csscan-value-caption-side\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-empty-cells\"><td id=\"csscan-property-empty-cells\" class=\"csscan-property\">empty-cells</td><td id=\"csscan-value-empty-cells\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-table-layout\"><td id=\"csscan-property-table-layout\" class=\"csscan-property\">table-layout</td><td id=\"csscan-value-table-layout\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-effects\" class=\"csscan-header\">Effects</th></tr><tr id=\"csscan-row-text-shadow\"><td id=\"csscan-property-text-shadow\" class=\"csscan-property\">text-shadow</td><td id=\"csscan-value-text-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row--webkit-box-shadow\"><td id=\"csscan-property--webkit-box-shadow\" class=\"csscan-property\">-webkit-box-shadow</td><td id=\"csscan-value--webkit-box-shadow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-border-radius\"><td id=\"csscan-property-border-radius\" class=\"csscan-property\">border-radius</td><td id=\"csscan-value-border-radius\" class=\"csscan-value\"></td></tr><tr><th colspan=\"2\" id=\"csscan-header-other\" class=\"csscan-header\">Other</th></tr><tr id=\"csscan-row-overflow\"><td id=\"csscan-property-overflow\" class=\"csscan-property\">overflow</td><td id=\"csscan-value-overflow\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-cursor\"><td id=\"csscan-property-cursor\" class=\"csscan-property\">cursor</td><td id=\"csscan-value-cursor\" class=\"csscan-value\"></td></tr><tr id=\"csscan-row-visibility\"><td id=\"csscan-property-visibility\" class=\"csscan-property\">visibility</td><td id=\"csscan-value-visibility\" class=\"csscan-value\"></td></tr></tbody></table></div></div></group></body>",
+    "cn:shortestDescription": "",
+    "cn:seoTitle": "Headlines from CNBC",
+    "cn:summary": "",
+    "cn:editedBy": "caroline.shiny",
+    "cn:createdBy": "migration",
+    "cn:shorterDescription": "CNBC",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "publisher": {
+      "name": "CNBC",
+      "@type": "Organization",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "name": "Headlines from CNBC",
+    "cn:sectionColor": "#000000",
+    "cn:promoText": "",
+    "cn:showTime": "",
+    "@type": "Collection",
+    "cn:relation": [{
+      "position": 5000,
+      "cn:relationType": "section",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+    "url": "",
+    "cn:type": "editorialsearch",
+    "cn:title": "",
+    "cn:creatorOverwrite": "",
+    "cn:liveURL": "",
+    "@id": "100260283",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100260283",
+    "cn:slug": "Economy and Government: Content Primary",
+    "cn:tagName": "",
+    "cn:shortestDescription": "",
+    "cn:sectionHierarchy": [],
+    "cn:isContemplate": "No",
+    "cn:shorterHeadline": "",
+    "cn:state": "Publish",
+    "cn:summary": "",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Virtual"
+    },
+    "description": "",
+    "cn:linkHeadline": "",
+    "headline": "",
+    "cn:editedBy": "brian.beers",
+    "datePublished": "2012-11-29T20:05:43+0000",
+    "cn:dateLastPublished": "2014-09-02T16:04:37+0000",
+    "cn:dateFirstPublished": "2012-11-29T20:05:57+0000",
+    "expires": "",
+    "dateModified": "2014-09-02T16:04:37+0000",
+    "cn:historicalURL": [],
+    "cn:shortestHeadline": "",
+    "cn:createdBy": "paul.toscano",
+    "cn:bodyTeaser": "null",
+    "cn:shorterDescription": "",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "publisher": {
+      "name": "CNBC",
+      "@type": "Organization",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@type": "SearchAction",
+    "cn:relation": [{
+      "position": 5000,
+      "cn:relationType": "feed",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "fileFormat": "text/tpl",
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+    "url": "file://franchise.tpl",
+    "cn:type": "markup_template",
+    "cn:title": "Topic Template",
+    "cn:creatorOverwrite": "",
+    "cn:liveURL": "",
+    "@id": "10007",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10007",
+    "cn:slug": "Topic Template",
+    "cn:tagName": "",
+    "cn:shortestDescription": "",
+    "cn:sectionHierarchy": [],
+    "cn:isContemplate": "No",
+    "cn:shorterHeadline": "",
+    "cn:state": "Publish",
+    "cn:summary": "",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes"
+    },
+    "description": "",
+    "cn:linkHeadline": "",
+    "headline": "Topic Template",
+    "cn:editedBy": "chris.larsen",
+    "datePublished": "2012-08-09T14:58:03+0000",
+    "cn:dateLastPublished": "2012-08-09T19:41:08+0000",
+    "cn:dateFirstPublished": "2012-08-09T14:58:03+0000",
+    "expires": "",
+    "dateModified": "2012-08-09T19:41:08+0000",
+    "cn:historicalURL": [],
+    "cn:shortestHeadline": "",
+    "cn:createdBy": "ingest",
+    "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p><br /></p></div></group></body>",
+    "cn:shorterDescription": "",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "publisher": {
+      "name": "CNBC",
+      "@type": "Organization",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "name": "franchise.tpl",
+    "@type": "DigitalDocument",
+    "cn:relation": [{
+      "position": 4999,
+      "cn:relationType": "template",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+    "url": "https://qa-aws01pub.cnbc.com/morning-squawk-newsletter-opt-in/",
+    "cn:type": "wildcard",
+    "cn:creatorOverwrite": "",
+    "cn:liveURL": "/morning-squawk-newsletter-opt-in/",
+    "@id": "101500928",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/101500928",
+    "cn:slug": "newsletters opt-in form right rail",
+    "cn:title": "",
+    "cn:tagName": "",
+    "cn:sectionHierarchy": [],
+    "cn:isContemplate": "No",
+    "cn:shorterHeadline": "",
+    "cn:state": "Publish",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Virtual",
+      "cn:tweetOnPublish": 0
+    },
+    "description": "",
+    "cn:linkHeadline": "",
+    "headline": "",
+    "datePublished": "2014-03-17T19:48:30+0000",
+    "cn:dateLastPublished": "2017-09-21T20:03:03+0000",
+    "cn:dateFirstPublished": "2014-03-17T19:48:30+0000",
+    "expires": "",
+    "dateModified": "2017-09-21T20:03:03+0000",
+    "cn:historicalURL": [],
+    "cn:shortestHeadline": "",
+    "cn:bodyTeaser": "null",
+    "cn:shortestDescription": "",
+    "cn:seoTitle": "morning squawk newsletter opt in",
+    "cn:summary": "",
+    "cn:editedBy": "matt.shade",
+    "cn:createdBy": "matt.shade",
+    "cn:shorterDescription": "",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "publisher": {
+      "name": "CNBC",
+      "@type": "Organization",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "cn:wildcard": {
+      "cn:wildcardContent": {
+        "cn:__cdata": "<div id=\"nl-optin-rr-move\">\r\n<link href=\"//fm.cnbc.com/applications/cnbc.com/resources/styles/skin/MARKETING/EMAIL/EXACT-TARGET/FORMS/CNBC-API/css/embed-form.css\" rel=\"stylesheet\">\r\n<style>\r\n#optIn-right-rail .has-error label, #optIn-right-rail .has-error .with-errors, #optIn-right-rail .has-error{color:orangered;}\r\n#optIn-right-rail .required {float: none!important;color: orangered;}\r\n#optIn-right-rail .blank-email-error, #optIn-right-rail .subscriptions-alert{display:none;}\r\n#optIn-right-rail .newsletter-choice, #optIn-right-rail .newsletter-info{cursor:pointer;font-weight:normal;}\r\n#optIn-right-rail .newsletter-info h2{margin-top:0px;margin-left:5px;font-size:1.2em;margin-bottom:0px;border-bottom:none;}\r\n#optIn-right-rail .checkbox, #optIn-right-rail .bootstrap-select.btn-group .btn .filter-option{font-weight:normal!important;letter-spacing:0px;}\r\n#optIn-right-rail .checkbox{border:#efefef solid 1px;border-radius:3px; padding-left:0px;}\r\n#optIn-right-rail #nl-submit, #optIn-right-rail .btn.modal-button{height:auto;border-color:#b0b9bd; color:white; background:#b0b9bd; text-transform:uppercase;font-weight:normal;letter-spacing:0px;font-size:16px;padding:5px 8px;}\r\n#optIn-right-rail #nl-submit:hover, #optIn-right-rail .btn.modal-button:hover{background:#2aa6e7!important;border-color:#2aa6e7;}\r\n#optIn-right-rail .checkbox label{display:block;background: #e9e9e9;border: solid #dfdfdf 1px;padding:10px;}\r\n#optIn-right-rail .nl-privacy{font-size:11px; display:block; clear:both;border-bottom:#CCD6D8 solid 1px;border-top:#CCD6D8 solid 1px;padding-bottom:5px;padding-top:5px; margin-bottom:5px; margin-top:20px;text-align:center;}\r\n#optIn-right-rail .nl-privacy a{font-size:11px;}\r\n#optIn-right-rail p{font-size:16px;margin-bottom:10px;}\r\n#optIn-right-rail{background:#efefef;border-radius:3px;padding:20px;margin-bottom:30px;}\r\n#optIn-right-rail input[type=checkbox]{position: static; margin-left: 0px; float: left;margin-right: 5px;}\r\n#optIn-right-rail h5{border-bottom: lightgrey solid 2px;margin-bottom: 10px;padding-bottom: 5px;font-size: 22px;font-weight:normal;margin-top:0px;}\r\n#optIn-right-rail #collapse{display:none;}\r\n#optIn-right-rail #toggle-close{color:white;padding:4px 7px 4px 0px;border-radius:3px;background:#427a92;font-size:12px;display:none;cursor:pointer;position: relative;right: -290px;text-align:right;top:5px;width: 20px;}\r\n#optIn-right-rail #toggle-close:hover{background:#3f9ccd;}\r\n#optIn-right-rail .form-group.check{margin-bottom:5px;}\r\n#optIn-right-rail .btn{height:auto;}\r\n#optIn-right-rail .alert{padding:0px;}\r\n#rt_contact h3, #rt_contact h4{display:none;}\r\n</style>\r\n\r\n<!--[if lt IE 9]>\r\n<script src=\"//fm.cnbc.com/applications/cnbc.com/resources/styles/skin/MARKETING/EMAIL/EXACT-TARGET/FORMS/CNBC-API/js/html5shiv.js\"></script>\r\n<![endif]-->    \r\n<div id=\"optIn-right-rail\">\r\n<h5>CNBC NEWSLETTERS</h5>\r\n<p>Get the best of CNBC in your inbox</p>\r\n        \r\n<div class=\"newslettersForm\">\r\n    <div id=\"collapse\">\r\n    <div class=\"alert subscriptions-alert has-error\">Please choose a subscription</div>\r\n\r\n     <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000031\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"make-it\" checked>            \r\n            <div class=\"newsletter-info\">\r\n                <h2>Make It</h2>\r\n                <small>A daily email for dreamers, seekers and game changers.</small>\r\n            </div>\r\n          </label>        \r\n        </div>\r\n    </div>\r\n    \r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000007\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"breaking-news\" checked>            \r\n            <div class=\"newsletter-info\">\r\n                <h2>Breaking News</h2>\r\n                <small>CNBC's latest news headlines</small>\r\n            </div>\r\n          </label>        \r\n        </div>\r\n    </div>\r\n    \r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000001\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"morning-squawk\" checked>           \r\n            <div class=\"newsletter-info\">\r\n                <h2>Morning Squawk</h2>\r\n                <small>Daily before the bell news roundup</small>\r\n            </div>\r\n          </label>        \r\n        </div>\r\n    </div>\r\n    \r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000002\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"evening-brief\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Evening Brief</h2>\r\n                <small>Daily recap of the day's top headlines</small>\r\n            </div>\r\n          </label>        \r\n        </div>\r\n    </div>\r\n      \r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000003\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"guest-alerts\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Guest Alerts</h2>\r\n                <small>Guest information &amp; reminders for your calendar</small>\r\n            </div>          \r\n          </label>        \r\n        </div>\r\n    </div>\r\n\r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000004\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"your-wealth\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Your Wealth</h2>\r\n                <small>Weekly advice on managing your money</small>\r\n            </div>\r\n          </label>        \r\n        </div>\r\n    </div>\r\n    \r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000005\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"options-action\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Options Action</h2>\r\n                <small>Insight from the Options Action panel</small>\r\n            </div>\r\n          </label>        \r\n        </div>\r\n    </div>\r\n\r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000030\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"your-money-your-vote\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Your Money Your Vote</h2>\r\n                <small>Everything you need to know about the coming election</small>\r\n            </div>          \r\n          </label>        \r\n        </div>\r\n    </div>\r\n    \r\n<br>    \r\n<div class=\"form-group\">\r\n    <select class=\"select-picker form-control\" id=\"rr-job-industry\" name=\"job_industry\" size=\"1\" autocomplete=\"off\">\r\n        <option value=\"\">Job Industry</option>\r\n        <option value=\"Advertising/Marketing\">Advertising/Marketing</option>\r\n        <option value=\"Automotive\">Automotive</option>\r\n        <option value=\"Communications/PR\">Communications/PR</option>\r\n        <option value=\"Construction/Manufacturing\">Construction/Manufacturing</option>\r\n        <option value=\"Education\">Education</option>\r\n        <option value=\"Finance/Banking/Insurance\">Finance/Banking/Insurance</option>\r\n        <option value=\"Legal\">Legal</option>\r\n        <option value=\"Media/Entertainment\">Media/Entertainment</option>\r\n        <option value=\"Medical/Health Care\">Medical/Health Care</option>\r\n        <option value=\"Mining/Oil/Gas/Utilities\">Mining/Oil/Gas/Utilities</option>\r\n        <option value=\"Gov't/Non-Profit\">Gov't/Non-Profit</option>\r\n        <option value=\"Real Estate\">Real Estate</option>\r\n        <option value=\"Retail\">Retail</option>\r\n        <option value=\"Technology/IT\">Technology/IT</option>\r\n        <option value=\"Transportation/Shipping\">Transportation/Shipping</option>\r\n        <option value=\"Travel/Hospitality\">Travel/Hospitality</option>\r\n        <option value=\"Other\">Other</option>\r\n    </select>\r\n</div>\r\n\r\n</div>  <!-- END COLLAPSE -->  \r\n <div class=\"form-group\">\r\n     <input type=\"email\" class=\"form-control\" id=\"inputEmail\" placeholder=\" Email (Required)\" autocomplete=\"off\" data-error=\"Please enter a valid email address\" required>\r\n     <div class=\"help-block with-errors\"></div>\r\n     <div class=\"blank-email-error has-error\">Please enter a valid email address</div>\r\n   </div>\r\n   \r\n   \r\n</div> <!-- FORM -->\r\n\r\n<div class=\"nl-privacy\">Get these newsletters delivered to your inbox, and more info about about our products and service. <a href=\"//nbcuni.com/privacy/\">Privacy Policy</a>.</div>\r\n\r\n   <div class=\"form-group\">\r\n       <button id=\"nl-submit\" type=\"submit\" class=\"btn btn-primary\">Submit</button>\r\n     </div>\r\n\r\n\r\n \r\n\r\n<div id=\"toggle-close\">&#x25B2;</div>\r\n\r\n\r\n\r\n\r\n\r\n\r\n<script>\r\nvar i_am_old_ie = false;\r\n</script>\r\n<!--[if lte IE 9]>\r\n<script>\r\ni_am_old_ie = true;\r\n</script>\r\n<![endif]-->\r\n\r\n\r\n<script type=\"text/javascript\">\r\n\r\n\r\n\r\n    postLoadFunctions = postLoadFunctions || {};\r\n    postLoadFunctions.newslettersright = function(){ \r\n     \r\n     var pico_code = window.document.createElement( 'script' );\r\npico_code.src = '//fm.cnbc.com/applications/cnbc.com/resources/styles/skin/MARKETING/EMAIL/EXACT-TARGET/FORMS/CNBC-API/js/picoModal.js';\r\nwindow.document.getElementsByTagName( 'body' )[ 0 ].appendChild( pico_code );\r\n\r\nvar vd = window.document.createElement( 'script' );\r\nvd.src = '//fm.cnbc.com/applications/cnbc.com/resources/styles/skin/MARKETING/EMAIL/EXACT-TARGET/FORMS/CNBC-API/js/validator.js';\r\nwindow.document.getElementsByTagName( 'body' )[ 0 ].appendChild( vd );\t\r\n \r\n\r\n \r\n \r\nconsole.log(\"newsletter real right rail js ready\");\r\n\t\t\t   $.support.cors = true;\r\n\t\t\t   \r\n\t\t\t   $.ajaxSetup({ cache: false });\r\n\t\t\t   \r\n\t\t\t   var url = \"//register.cnbc.com/auth/api/153/\";\r\n\t\t\t   var email =\"\";\r\n\t\t\t   var subscriptions =\"\";\r\n\t\t\t   var income =\"\";\r\n\t\t\t   var occupation =\"\";\r\n\t\t\t   var industry =\"\";\r\n\t\t\t   var source =\"\";\r\n\t\t\t   var subscriptionArray =[];\r\n\t\t\t   var newsletterIDArray=[];\r\n\t\t\t   var newsletterConstruct =\"\";\r\n\t\t\t   var theURL =\"\";\r\n\t\t\t   \r\n   \t\t\tvar rightrail_locationSource =[];\r\n\t\t\t\r\n\t\t\t\r\n   \t\t\t\r\n\t\t\t   \r\n\t\t\t   $('#nl-submit').prop('disabled', false);\r\n\t\t\t   // $('.select-picker').selectpicker('refresh');\r\n\t\t\t   \r\n\t\t\t   $('#optIn-right-rail label').on('click', function(){\r\n\t\t\t\t   if($(this).hasClass(\"newsletter-selected\")){\r\n\t\t\t\t\t   console.log('has te class');\r\n\t\t\t\t\t   $(this).removeClass(\"newsletter-selected\");\r\n\t\t\t\t   }else{\r\n\t\t\t\t\t   $(this).addClass(\"newsletter-selected\");\r\n\t\t\t\t   }\r\n\t\t\t   \t\r\n\t\t\t   });\r\n\t\t\t   \r\n\t\t\t   \r\n\t\t\t   $('#optIn-right-rail .reload').on('click', function(){\r\n\t\t   \t\twhile(subscriptionArray.length > 0) {\r\n\t\t   \t\t    subscriptionArray.pop();\r\n\t\t   \t\t}\r\n\t\t\t   \t\r\n\t\t\t   });\r\n\t\t\t   \r\n\r\n\t\t\t   \r\n\t\t\t   \r\n$('#optIn-right-rail .newsletter-choice').on('change', function(){\r\n\t$('#optIn-right-rail .subscriptions-alert').hide();\r\n});\r\n\r\n\r\n\r\n$('#optIn-right-rail #inputEmail').on('keyup', function(){\r\n\temail = $('#optIn-right-rail #inputEmail').val();\r\n\tif (validateEmail(email)) {\r\n\t$('#nl-submit').prop('disabled', false);\r\n\t$('#optIn-right-rail .blank-email-error').hide();\r\n}\r\n});\r\n\r\n$('#optIn-right-rail #inputEmail').on('focus', function(){\r\n\tconsole.log('we are focused');\r\n\t$('#optIn-right-rail .blank-email-error').hide();\t\t\r\n\t$(\"#optIn-right-rail #collapse\").slideDown();\t\r\n\t$('#optIn-right-rail #toggle-close').fadeIn('fast');\t\t\t\r\n\r\n});\r\n\r\n$('#optIn-right-rail #toggle-close').on('click', function(){\r\n\t$(\"#optIn-right-rail #collapse\").slideToggle();\r\n\t$('#optIn-right-rail #toggle-close').fadeOut('fast');\r\n});\r\n\r\n\r\n$(\"#optIn-right-rail #inputEmail\").on('keypress',function(e){\r\n     var p = e.which;\r\n     if(p==13 && $(\"#optIn-right-rail #inputEmail\").is(\":focus\")){\r\n         $(\"#optIn-right-rail #nl-submit\").trigger( \"click\" );\r\n\t\t return false\r\n     }\r\n });\r\n function validateEmail(email) { \r\n     var re = /^(([^<>()[\\]\\\\.,;:\\s@\\\"]+(\\.[^<>()[\\]\\\\.,;:\\s@\\\"]+)*)|(\\\".+\\\"))@((\\[[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\])|(([a-zA-Z\\-0-9]+\\.)+[a-zA-Z]{2,}))$/;\r\n     return re.test(email);\r\n\t console.log();\r\n }  \r\n \r\n$('#optIn-right-rail #nl-submit').on('click', function(e){\r\n\temail = $('#optIn-right-rail #inputEmail').val();\r\n\tconsole.log('press');\r\n\tif (validateEmail(email)) {\r\n\t\t\r\n\t\tconsole.log(\"email is good\");\r\n\t\t\r\n\t\tif(!s.prop31 == \"\"){\r\n\t\t\trightrail_locationSource.push(s.prop31);\r\n\t\t}\r\n\t\tif(!s.prop32 == \"\"){\r\n\t\t\trightrail_locationSource.push(s.prop32);\r\n\t\t}\r\n\t\tif(!s.prop33 == \"\"){\r\n\t\t\trightrail_locationSource.push(s.prop33);\r\n\t\t}\r\n\t\tif(!s.prop34 == \"\"){\r\n\t\t\trightrail_locationSource.push(s.prop34);\r\n\t\t}\r\n\t\tif(!s.prop35 == \"\"){\r\n\t\t\trightrail_locationSource.push(s.prop35);\r\n\t\t}\r\n\t\t\r\n\t\t\r\n\t\t\r\n\t\t$('#nl-submit').prop('disabled', true);\r\n\t\t$('#optIn-right-rail #inputEmail').prop('disabled', true);\r\n\t\tnewsletterConstruct =\"\";\r\n\t\t$('#optIn-right-rail .subscriptions-alert').hide();\r\n\t\t$('#optIn-right-rail .blank-email-error').hide();\r\n\t\t$(this).parent().removeClass('has-error');\t\t\r\n\t\t\r\n\t\t$( \"#optIn-right-rail .newsletter-choice\" ).each(function() {\r\n\t\t\tif($(this).is(':checked')){\r\n\t\t\t\tsubscriptionArray.push($(this).data('subscription'));\r\n\t\t\t\tnewsletterIDArray.push($(this).attr('id'))\r\n\t\t\t}else{\r\n\t\t\t\t\r\n\t\t\t\r\n\t\t\t}\t\t\r\n\t\t});\t\r\n\t\t\r\n\t\t\r\n\t\t\r\n\t\r\n\t\tif(subscriptionArray.length == 0){\r\n\t\t\tconsole.log(\"no subs\");\r\n\t\t\twhile(subscriptionArray.length > 0) {\r\n\t\t\t    subscriptionArray.pop();\r\n\t\t\t}\r\n\t\t\t$('#optIn-right-rail .subscriptions-alert').show();\r\n\t\t}else{\r\n\t\t\tconsole.log(subscriptionArray);\r\n\t\t\temail = email + \"/sync\";\r\n\t\t\tindustry = \"&industry=\" + encodeURIComponent($('#rr-job-industry').val());\r\n\t\t\tsource = \"&source=newsletters\";\r\n\t\t\tsubscriptions = \"?callback=nil&subscriptions=\" + subscriptionArray.join(\"|\");\t\r\n\t\t\t\r\n\t\t\ttheURL = url + email;\r\n\t\t\t\r\n\t\t\tnewsletterConstruct += subscriptions;\r\n\t\r\n\t\t\tif(!$('#rr-job-industry').val() == \"\"){\r\n\t\t\t\tnewsletterConstruct += industry;\r\n\t\t\t\t\t\r\n\t\t\t}\r\n\t\t\tnewsletterConstruct += source;\r\n\t\t\trail_locationSource = \"&location_source=RightRail|\" + rightrail_locationSource.join(\"|\");\r\n\t\t\tnewsletterConstruct += rail_locationSource;\r\n\t\t\tconsole.log(newsletterConstruct);\r\n\t\t\tsendNewsletterData(newsletterConstruct);\r\n\t\t}\r\n\t\t\r\n\t  } else {\r\n\t\t  console.log(\"email is bad\")\r\n  \t\t$('#nl-submit').prop('disabled', true);\r\n  \t\t$('#optIn-right-rail .blank-email-error').show();\r\n\t\tnewsletterConstruct =\"\";\r\n  \t\twhile(subscriptionArray.length > 0) {\r\n  \t\t    subscriptionArray.pop();\r\n  \t\t}\r\n  \t\twhile(rightrail_locationSource.length > 0) {\r\n  \t\t    rightrail_locationSource.pop();\r\n  \t\t}\r\n\t  }\r\n\t\r\n});\t\r\n\r\n\t\r\n\tfunction sendNewsletterData(newsletterConstruct){\r\n\r\nif(i_am_old_ie) {\r\n                (function(c){if(i_am_old_ie){c.__jquery_xdomain__=c.support.cors=!0;var e=function(a){return\"object\"===c.type(a)?a:(a=/^(((([^:\\/#\\?]+:)?(?:\\/\\/((?:(([^:@\\/#\\?]+)(?:\\:([^:@\\/#\\?]+))?)@)?(([^:\\/#\\?]+)(?:\\:([0-9]+))?))?)?)?((\\/?(?:[^\\/\\?#]+\\/+)*)([^\\?#]*)))?(\\?[^#]+)?)(#.*)?/.exec(a))?{href:a[0]||\"\",hrefNoHash:a[1]||\"\",hrefNoSearch:a[2]||\"\",domain:a[3]||\"\",protocol:a[4]||\"\",authority:a[5]||\"\",username:a[7]||\"\",password:a[8]||\"\",host:a[9]||\"\", hostname:a[10]||\"\",port:a[11]||\"\",pathname:a[12]||\"\",directory:a[13]||\"\",filename:a[14]||\"\",search:a[15]||\"\",hash:a[16]||\"\"}:{}},f=c.ajaxSettings.xhr,d=\"SESSION_COOKIE_NAME\"in window?window.SESSION_COOKIE_NAME:\"jsessionid\",g=e(document.location.href).domain;c.ajaxSettings.xhr=function(){var a=e(this.url).domain;if(\"\"===a||a===g)return f.call(c.ajaxSettings);try{var b=new XDomainRequest;if(!b.setRequestHeader)b.setRequestHeader=c.noop;if(!b.getAllResponseHeaders)b.getAllResponseHeaders=c.noop;if(d){var h= b.open;b.open=function(){var a=RegExp(\"(?:^|; )\"+d+\"=([^;]*)\",\"i\").exec(document.cookie);if(a=a&&a[1]){var b=arguments[1].indexOf(\"?\");arguments[1]=-1==b?arguments[1]+(\";\"+d+\"=\"+a):arguments[1].substring(0,b)+\";\"+d+\"=\"+a+arguments[1].substring(b)}return h.apply(this,arguments)}}b.onload=function(){if(\"function\"===typeof b.onreadystatechange)b.readyState=4,b.status=200,b.onreadystatechange.call(b,null,!1)};b.onerror=b.ontimeout=function(){if(\"function\"===typeof b.onreadystatechange)b.readyState=4, b.status=500,b.onreadystatechange.call(b,null,!1)};return b}catch(i){}}}})(jQuery);\r\n};\r\n\t\t\r\n\t\t$.ajax({\r\n\t\t\ttype: \"POST\"\r\n\t\t\t,crossDomain: true\r\n\t\t\t,url:theURL\r\n\t\t\t,data: newsletterConstruct\r\n\t\t\t,contentType: \"application/x-www-form-urlencoded\"\t\t  \r\n\t\t}).success(function(data){\r\n\t\t\tconsole.log(theURL + newsletterConstruct);\r\n\t\t\tnewsletterConstruct =\"\";\r\n\t\t\t\r\n\t\t\ts.linkTrackVars=\"events,eVar43,eVar17\";\r\n\t\t\ts.linkTrackEvents=\"event40\";\r\n\t\t\t s.events=\"event40\";\r\n\t\t\t s.eVar43=\"RightRail|\" + rightrail_locationSource.join(\"|\");\r\n\t\t\t \r\n\t\t\t s.eVar17 = newsletterIDArray.join(\"|\");\r\n\t\t\t \r\n\t\t\t\r\n\t\t\tMODULELOCATION = \"RightRail|\" + rightrail_locationSource.join(\"|\");\r\n\t\t\tNEWSLETTERARRAY = newsletterIDArray.join(\"|\");\r\n\t\t\t\r\n\t\t\t// console.log(\"evar43: \" + s.eVar43 +\"\\n\"+ \"evar17: \" + s.eVar17 + \"\\n\" + \"module location: \" + MODULELOCATION)\r\n\t\t\t\r\n\t\t s.tl(this,'o','Newsletter Subscribe');\r\n\t\t \r\n\t\t\twhile(subscriptionArray.length > 0) {\r\n\t\t\t    subscriptionArray.pop();\r\n\t\t\t}\r\n\t  \t\twhile(rightrail_locationSource.length > 0) {\r\n\t  \t\t    rightrail_locationSource.pop();\r\n\t  \t\t}\r\n\t\t\t\r\n\t\t\tsuccessModal();\r\n\t\t\t\r\n\t\t}).error(function(data){\r\n\t\t\tconsole.log(\"error captain\");\r\n\t\t\tnewsletterConstruct =\"\";\r\n\t\t\twhile(subscriptionArray.length > 0) {\r\n\t\t\t    subscriptionArray.pop();\r\n\t\t\t}\r\n\t  \t\twhile(rightrail_locationSource.length > 0) {\r\n\t  \t\t    rightrail_locationSource.pop();\r\n\t  \t\t}\r\n\t\t\t\r\n\t\t\terrorModal();\r\n\t\t});\r\n\t}\r\n\t\r\n\t\r\n\tfunction successModal(){\r\n\t\t\r\n\t\tpicoModal({\r\n\t\t      content: \"Thank You for Subscribing!\",\r\n\t\t      overlayStyles: function ( styles ) { styles.opacity = 0; },\r\n\t\t      modalStyles: function ( styles ) { styles.opacity = 0; }\r\n\t\t  })\r\n\t\t  .afterShow(function(modal){\t\t\t\r\n\t\t      $(modal.overlayElem()).animate({opacity: .5});\r\n\t\t      $(modal.modalElem()).animate({opacity: 1});\r\n\t\t  })\r\n\t\t  .afterClose(function(modal, event){\r\n\t\t\t  \r\n  \t\t\t$('#nl-submit').prop('disabled', false);\r\n\t   \t\t$('#optIn-right-rail #inputEmail').prop('disabled', false);\r\n  \t\t\t$('#optIn-right-rail #inputEmail').val(\" \");\r\n\t\t\t$('#optIn-right-rail #inputEmail').blur();\r\n\t\t\t$(\"#optIn-right-rail #collapse\").slideUp();\t\r\n\t\t\t$('#optIn-right-rail #toggle-close').fadeOut('fast');\r\n\t\t\tevent.preventDefault();\r\n  \t\t\t$('#optIn-right-rail #rr-job-industry').prop('selectedIndex',0);\r\n  \t\t\t$('#optIn-right-rail .newsletter-choice').prop('checked', true);\r\n\t\t  })\r\n\t\t  .beforeClose(function(modal, event) {\r\n\t\t      event.preventDefault();\r\n\t\t      $(modal.overlayElem()).add(modal.modalElem())\r\n\t\t          .animate(\r\n\t\t              { opacity: 0 },\r\n\t\t              { complete: modal.forceClose }\r\n\t\t          );\r\n\t\t  })\r\n\t\t  .show();\r\n\t}\r\n\t\r\n\tfunction errorModal(){\r\n\t\t\r\n\t\tpicoModal({\r\n\t\t      content: \"Oops!  Something went wrong, please try again.\",\r\n\t\t      overlayStyles: function ( styles ) { styles.opacity = 0; },\r\n\t\t      modalStyles: function ( styles ) { styles.opacity = 0; }\r\n\t\t  })\r\n\t\t  .afterShow(function(modal){\r\n\t\t   \r\n\t\t      $(modal.overlayElem()).animate({opacity: .5});\r\n\t\t      $(modal.modalElem()).animate({opacity: 1});\r\n\t\t  })\r\n\t\t  .afterClose(function(modal, event){\r\n\t\t\t  event.preventDefault();\r\n   \t\t   console.log(\"right rail error modal hide\");\r\n   \t\t\r\n   \t\t$('#nl-submit').prop('disabled', false);\r\n   \t\t$('#optIn-right-rail #inputEmail').prop('disabled', false);\r\n\t\t  })\r\n\t\t  .beforeClose(function(modal, event) {\r\n\t\t      event.preventDefault();\r\n\t\t      $(modal.overlayElem()).add(modal.modalElem())\r\n\t\t          .animate(\r\n\t\t              { opacity: 0 },\r\n\t\t              { complete: modal.forceClose }\r\n\t\t          );\r\n\t\t  })\r\n\t\t  .show();\r\n\t}              \r\n}\r\n</script>\r\n</div>"
+      },
+      "cn:wildcardPromo": {
+        "cn:__cdata": "<div id=\"nl-optin-rr-move\">\r\n<!-- <link href=\"//fm.cnbc.com/applications/cnbc.com/resources/styles/skin/MARKETING/EMAIL/EXACT-TARGET/FORMS/CNBC-API/css/embed-form.css\" rel=\"stylesheet\"> -->\r\n<style>\r\n#optIn-right-rail .has-error label, #optIn-right-rail .has-error .with-errors, #optIn-right-rail .has-error{color:orangered;}\r\n#optIn-right-rail .required {float: none!important;color: orangered;}\r\n#optIn-right-rail .blank-email-error, #optIn-right-rail .subscriptions-alert{display:none;}\r\n#optIn-right-rail .newsletter-choice, #optIn-right-rail .newsletter-info{cursor:pointer;font-weight:normal;}\r\n#optIn-right-rail .newsletter-info h2{margin-top:0px;margin-left:5px;font-size:1.2em;margin-bottom:0px;border-bottom:none;}\r\n#optIn-right-rail .checkbox, #optIn-right-rail .bootstrap-select.btn-group .btn .filter-option{font-weight:normal!important;letter-spacing:0px;}\r\n#optIn-right-rail .checkbox{border:#efefef solid 1px;border-radius:3px; padding-left:0px;}\r\n#optIn-right-rail #nl-submit, #optIn-right-rail .btn.modal-button{height:auto;border-color:#b0b9bd; color:white; background:#b0b9bd; text-transform:uppercase;font-weight:normal;letter-spacing:0px;font-size:16px;padding:5px 8px;}\r\n#optIn-right-rail #nl-submit:hover, #optIn-right-rail .btn.modal-button:hover{background:#2aa6e7!important;border-color:#2aa6e7;}\r\n#optIn-right-rail .checkbox label{display:block;background: #e9e9e9;border: solid #dfdfdf 1px;padding:10px;}\r\n#optIn-right-rail .nl-privacy{font-size:11px; display:block; clear:both;border-bottom:#CCD6D8 solid 1px;border-top:#CCD6D8 solid 1px;padding-bottom:5px;padding-top:5px; margin-bottom:5px; margin-top:20px;text-align:center;}\r\n#optIn-right-rail .nl-privacy a{font-size:11px;}\r\n#optIn-right-rail p{font-size:16px;margin-bottom:10px;}\r\n#optIn-right-rail{background:#efefef;border-radius:3px;padding:20px;margin-bottom:30px;}\r\n#optIn-right-rail input[type=checkbox]{position: static; margin-left: 0px; float: left;margin-right: 5px;}\r\n#optIn-right-rail h5{border-bottom: lightgrey solid 2px;margin-bottom: 10px;padding-bottom: 5px;font-size: 22px;font-weight:normal;margin-top:0px;}\r\n#optIn-right-rail #collapse{display:none;}\r\n#optIn-right-rail #toggle-close{color:white;padding:4px 7px 4px 0px;border-radius:3px;background:#427a92;font-size:12px;display:none;cursor:pointer;position: relative;right: -290px;text-align:right;top:5px;width: 20px;}\r\n#optIn-right-rail #toggle-close:hover{background:#3f9ccd;}\r\n#optIn-right-rail .form-group.check{margin-bottom:5px;}\r\n#optIn-right-rail .btn{height:auto;}\r\n#optIn-right-rail .alert{padding:0px;}\r\n#rt_contact h3, #rt_contact h4{display:none;}\r\n.newspop .newsletter-choice {margin-bottom: 40px; margin-top: 10px;}\r\n#optIn-right-rail #inputEmail{width: 90%; padding: 10px; font-size: 14px; border: none; border-radius: 3px;}\r\n</style>\r\n\r\n<!--[if lt IE 9]>\r\n<script src=\"//fm.cnbc.com/applications/cnbc.com/resources/styles/skin/MARKETING/EMAIL/EXACT-TARGET/FORMS/CNBC-API/js/html5shiv.js\"></script>\r\n<![endif]-->\r\n<div id=\"optIn-right-rail\">\r\n<h5>CNBC NEWSLETTERS</h5>\r\n<p>Get the best of CNBC in your inbox</p>\r\n\r\n<div class=\"newslettersForm\">\r\n    <div id=\"collapse\">\r\n    <div class=\"alert subscriptions-alert has-error\">Please choose a subscription</div>\r\n\r\n     <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000031\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"make-it\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Make It</h2>\r\n                <small>A daily email for dreamers, seekers and game changers.</small>\r\n            </div>\r\n          </label>\r\n        </div>\r\n    </div>\r\n\r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000007\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"breaking-news\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Breaking News</h2>\r\n                <small>CNBC's latest news headlines</small>\r\n            </div>\r\n          </label>\r\n        </div>\r\n    </div>\r\n\r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000001\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"morning-squawk\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Morning Squawk</h2>\r\n                <small>Daily before the bell news roundup</small>\r\n            </div>\r\n          </label>\r\n        </div>\r\n    </div>\r\n\r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000002\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"evening-brief\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Evening Brief</h2>\r\n                <small>Daily recap of the day's top headlines</small>\r\n            </div>\r\n          </label>\r\n        </div>\r\n    </div>\r\n\r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000003\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"guest-alerts\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Guest Alerts</h2>\r\n                <small>Guest information &amp; reminders for your calendar</small>\r\n            </div>\r\n          </label>\r\n        </div>\r\n    </div>\r\n\r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000004\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"your-wealth\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Your Wealth</h2>\r\n                <small>Weekly advice on managing your money</small>\r\n            </div>\r\n          </label>\r\n        </div>\r\n    </div>\r\n\r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000005\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"options-action\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Options Action</h2>\r\n                <small>Insight from the Options Action panel</small>\r\n            </div>\r\n          </label>\r\n        </div>\r\n    </div>\r\n\r\n    <div class=\"form-group check\">\r\n        <div class=\"checkbox\">\r\n          <label>\r\n            <input data-subscription=\"40000030\" class=\"newsletter-choice\" type=\"checkbox\" autocomplete=\"off\" id=\"your-money-your-vote\" checked>\r\n            <div class=\"newsletter-info\">\r\n                <h2>Your Money Your Vote</h2>\r\n                <small>Everything you need to know about the coming election</small>\r\n            </div>\r\n          </label>\r\n        </div>\r\n    </div>\r\n\r\n<br>\r\n<div class=\"form-group\">\r\n    <select class=\"select-picker form-control\" id=\"rr-job-industry\" name=\"job_industry\" size=\"1\" autocomplete=\"off\">\r\n        <option value=\"\">Job Industry</option>\r\n        <option value=\"Advertising/Marketing\">Advertising/Marketing</option>\r\n        <option value=\"Automotive\">Automotive</option>\r\n        <option value=\"Communications/PR\">Communications/PR</option>\r\n        <option value=\"Construction/Manufacturing\">Construction/Manufacturing</option>\r\n        <option value=\"Education\">Education</option>\r\n        <option value=\"Finance/Banking/Insurance\">Finance/Banking/Insurance</option>\r\n        <option value=\"Legal\">Legal</option>\r\n        <option value=\"Media/Entertainment\">Media/Entertainment</option>\r\n        <option value=\"Medical/Health Care\">Medical/Health Care</option>\r\n        <option value=\"Mining/Oil/Gas/Utilities\">Mining/Oil/Gas/Utilities</option>\r\n        <option value=\"Gov't/Non-Profit\">Gov't/Non-Profit</option>\r\n        <option value=\"Real Estate\">Real Estate</option>\r\n        <option value=\"Retail\">Retail</option>\r\n        <option value=\"Technology/IT\">Technology/IT</option>\r\n        <option value=\"Transportation/Shipping\">Transportation/Shipping</option>\r\n        <option value=\"Travel/Hospitality\">Travel/Hospitality</option>\r\n        <option value=\"Other\">Other</option>\r\n    </select>\r\n</div>\r\n\r\n</div>  <!-- END COLLAPSE -->\r\n <div class=\"form-group\">\r\n     <input type=\"email\" class=\"form-control\" id=\"inputEmail\" placeholder=\" Email (Required)\" autocomplete=\"off\" data-error=\"Please enter a valid email address\" required>\r\n     <div class=\"help-block with-errors\"></div>\r\n     <div class=\"blank-email-error has-error\">Please enter a valid email address</div>\r\n   </div>\r\n\r\n\r\n</div> <!-- FORM -->\r\n\r\n<div class=\"nl-privacy\">Get these newsletters delivered to your inbox, and more info about about our products and service. <a href=\"//nbcuni.com/privacy/\">Privacy Policy</a>.</div>\r\n\r\n   <div class=\"form-group\">\r\n       <button id=\"nl-submit\" type=\"submit\" class=\"btn btn-primary\">Go</button>\r\n     </div>\r\n\r\n\r\n\r\n\r\n<div id=\"toggle-close\">&#x25B2;</div>\r\n\r\n\r\n\r\n\r\n\r\n\r\n<script>\r\nvar i_am_old_ie = false;\r\n</script>\r\n<!--[if lte IE 9]>\r\n<script>\r\ni_am_old_ie = true;\r\n</script>\r\n<![endif]-->\r\n\r\n\r\n<script type=\"text/javascript\">\r\n\r\nwindow.postLoadFunctions = window.postLoadFunctions || {};\r\nwindow.postLoadFunctions['newslettersRight'] = function() {\r\n  var newsletterJSCall = function() {\r\n    (function($) {\r\n\r\n var pico_code = window.document.createElement('script');\r\n      pico_code.src = '//fm.cnbc.com/applications/cnbc.com/resources/styles/skin/MARKETING/EMAIL/EXACT-TARGET/FORMS/CNBC-API/js/picoModal.js';\r\n      window.document.getElementsByTagName('body')[0].appendChild(pico_code);\r\n\r\n      $(\".news-widget #inputEmail, #optIn-right-rail #inputEmail\").on('keypress', function(e) {\r\n        var p = e.which;\r\n        if (p == 13 && $(\".news-widget #inputEmail\").is(\":focus\")) {\r\n          $(\".news-widget #nl-submit, #optIn-right-rail #nl-submit\").trigger(\"click\");\r\n          return false;\r\n        }\r\n      });\r\n\r\n\r\n      $('.news-widget #nl-submit, #optIn-right-rail #nl-submit').on('click', function(e) {\r\n\r\n    \t    var newspop = document.createElement(\"script\");\r\n    \t    newspop.type = \"text/javascript\";\r\n    \t    newspop.src = \"https://fm.cnbc.com/applications/cnbc.com/resources/styles/skin/MARKETING/EMAIL/MODAL/newspop.js?v=20\";\r\n    \t    document.getElementsByTagName(\"head\")[0].appendChild(newspop);\r\n\r\n\r\n  setTimeout(function() {\r\n   $('.newspop #inputEmail').val(inputValue);\r\n  }, 1000);\r\n\r\n      });\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n    })(jQuery);\r\n\r\n  };\r\n\r\n  setTimeout(function() {\r\n    newsletterJSCall();\r\n  }, 200);\r\n};\r\n</script>\r\n</div>\r\n"
+      }
+    },
+    "@type": "CreativeWork",
+    "cn:relation": [{
+      "position": 4999,
+      "cn:relationType": "contact_info",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "cn:relation": [{
+      "position": 15,
+      "cn:relationType": "content_queue",
+      "cn:isPromoted": "false"
+    }],
+    "@id": "101993178"
+  }, {
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+    "url": "https://qa-aws01pub.cnbc.com/economy/",
+    "cn:type": "franchise",
+    "cn:creatorOverwrite": "",
+    "cn:liveURL": "/economy/",
+    "@id": "20910258",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/20910258",
+    "cn:slug": "Economy",
+    "cn:subType": "news_section",
+    "cn:title": "Economy",
+    "cn:tagName": "Economy",
+    "cn:sectionHierarchy": [{
+      "id": 20910258,
+      "tagName": "Economy",
+      "order": 1
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 2
+    }],
+    "cn:isContemplate": "No",
+    "cn:shorterHeadline": "Economy",
+    "cn:sectionLabel": "Economy",
+    "cn:state": "Publish",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Manual and/or populated by feeds",
+      "cn:tweetOnPublish": 0
+    },
+    "description": "Find the economic latest news and headlines, as well as blogs and video from CNBC.com.",
+    "cn:linkHeadline": "Economy",
+    "cn:sectionLinktext": "Economy",
+    "headline": "Economy",
+    "datePublished": "2014-05-21T19:59:46+0000",
+    "cn:dateLastPublished": "2018-07-16T18:40:19+0000",
+    "cn:dateFirstPublished": "2012-01-29T18:43:59+0000",
+    "expires": "",
+    "dateModified": "2018-07-16T18:39:07+0000",
+    "cn:historicalURL": ["/id/20910258"],
+    "cn:shortestHeadline": "Economy",
+    "cn:tabLabel": "Economy",
+    "cn:bodyTeaser": "",
+    "cn:shortestDescription": "Latest economic news, headlines, blogs, and video.",
+    "cn:seoTitle": "Economic News",
+    "cn:summary": "Find the economic latest news and headlines, as well as blogs and video from CNBC.com.",
+    "cn:editedBy": "NagarajaNaick.Bukke@nbcuni.com",
+    "cn:createdBy": "migration",
+    "cn:shorterDescription": "Get the latest economic news, headlines, blogs, and video.",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "publisher": {
+      "name": "CNBC",
+      "@type": "Organization",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "name": "Economy",
+    "cn:sectionColor": "#000000",
+    "cn:promoText": "",
+    "cn:showTime": "",
+    "@type": "Collection",
+    "cn:relation": [{
+      "position": 14,
+      "cn:relationType": "content_queue",
+      "cn:isPromoted": "false"
+    }, {
+      "position": 7,
+      "cn:relationType": "navigation",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+    "url": "https://qa-aws01pub.cnbc.com/us-economy/",
+    "cn:type": "franchise",
+    "cn:creatorOverwrite": "",
+    "cn:liveURL": "/us-economy/",
+    "@id": "100010507",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100010507",
+    "cn:slug": "US Economy",
+    "cn:subType": "news_section",
+    "cn:title": "US Economy",
+    "cn:tagName": "US Economy",
+    "cn:sectionHierarchy": [{
+      "id": 100010507,
+      "tagName": "US Economy",
+      "order": 1
+    }, {
+      "id": 20910258,
+      "tagName": "Economy",
+      "order": 2
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 3
+    }],
+    "cn:isContemplate": "No",
+    "cn:shorterHeadline": "US Economy",
+    "cn:sectionLabel": "US Economy",
+    "cn:state": "Publish",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Manual and/or populated by feeds",
+      "cn:tweetOnPublish": 0
+    },
+    "description": "Latest news and headlines affecting the United States economy.",
+    "cn:linkHeadline": "US Economy",
+    "cn:sectionLinktext": "US Economy",
+    "headline": "US Economy",
+    "datePublished": "2014-09-02T17:20:56+0000",
+    "cn:dateLastPublished": "2018-07-16T18:54:34+0000",
+    "cn:dateFirstPublished": "2012-08-31T17:34:02+0000",
+    "expires": "",
+    "dateModified": "2018-07-16T18:53:22+0000",
+    "cn:historicalURL": ["/economics/", "/id/100010507"],
+    "cn:shortestHeadline": "US Economy",
+    "cn:tabLabel": "US Economy",
+    "cn:bodyTeaser": "",
+    "cn:shortestDescription": "Latest news affecting the United States economy.",
+    "cn:seoTitle": "United States Economy",
+    "cn:summary": "Latest news and headlines affecting the United States economy.",
+    "cn:editedBy": "Anusha.Gogineni",
+    "cn:createdBy": "Mark.Richards",
+    "cn:shorterDescription": "Latest news and headlines affecting the United States economy.",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "publisher": {
+      "name": "CNBC",
+      "@type": "Organization",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "name": "US Economy",
+    "cn:sectionColor": "#000000",
+    "cn:promoText": "",
+    "cn:showTime": "",
+    "@type": "Collection",
+    "cn:relation": [{
+      "position": 13,
+      "cn:relationType": "content_queue",
+      "cn:isPromoted": "false"
+    }, {
+      "position": 5,
+      "cn:relationType": "navigation",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+    "url": "https://qa-aws01pub.cnbc.com/us-top-news-and-analysis/",
+    "cn:type": "franchise",
+    "cn:creatorOverwrite": "",
+    "cn:liveURL": "/us-top-news-and-analysis/",
+    "@id": "100003114",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100003114",
+    "cn:slug": "US Top News and Analysis",
+    "cn:subType": "news_section",
+    "cn:title": "US Top News and Analysis",
+    "cn:tagName": "US Top News and Analysis",
+    "cn:sectionHierarchy": [{
+      "id": 100003114,
+      "tagName": "US Top News and Analysis",
+      "order": 1
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 2
+    }],
+    "cn:isContemplate": "No",
+    "cn:shorterHeadline": "Top News & Analysis",
+    "cn:sectionLabel": "Top News & Analysis",
+    "cn:state": "Publish",
+    "cn:settings": {
+      "cn:listType": "Manual and/or populated by feeds",
+      "cn:tweetOnPublish": 0
+    },
+    "image": {
+      "@type": "ImageObject",
+      "representativeOfPage": "true",
+      "caption": "French President Emmanuel Macron (L) looks on as U.S. President Donald Trump speaks during their meeting in the Oval Office at the White House in Washington, April 24, 2018.",
+      "author": "",
+      "copyrightHolder": "Kevin Lamarque | Reuters",
+      "@id": "105154982",
+      "height": "1333",
+      "datePublished": "2018-04-24T14:55:10+0000",
+      "description": "",
+      "width": "2000",
+      "url": "https://qa-aws02image-origin.cnbcfm.com/api/v1/image/105154982-RTX5X6HH.jpg?v=1525965087"
+    },
+    "cn:association": [{
+      "@type": "ImageObject",
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+      "cn:type": "image",
+      "cn:creatorOverwrite": "Kevin Lamarque | Reuters",
+      "cn:liveURL": "",
+      "@id": "105154982",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/105154982",
+      "cn:slug": "RT: Emmanuel Macron and Donald Trump 180424",
+      "cn:title": "",
+      "cn:tagName": "",
+      "url": "https://qa-aws02image-origin.cnbcfm.com/api/v1/image/105154982-RTX5X6HH.jpg?v=1525965087",
+      "description": "",
+      "cn:imgCreator": "",
+      "contentSize": 314861,
+      "caption": "French President Emmanuel Macron (L) looks on as U.S. President Donald Trump speaks during their meeting in the Oval Office at the White House in Washington, April 24, 2018.",
+      "copyrightHolder": "Kevin Lamarque | Reuters",
+      "height": "1333",
+      "width": "2000",
+      "cn:relation": [{
+        "cn:relationType": "promo",
+        "cn:isPromoted": "true"
+      }]
+    }],
+    "description": "",
+    "cn:linkHeadline": "Top News & Analysis",
+    "cn:sectionLinktext": "Top News & Analysis",
+    "headline": "Top News & Analysis",
+    "datePublished": "2018-02-26T02:38:43+0000",
+    "cn:dateLastPublished": "2018-07-25T02:46:19+0000",
+    "cn:dateFirstPublished": "2012-07-24T12:36:42+0000",
+    "expires": "",
+    "dateModified": "2018-07-25T02:46:39+0000",
+    "cn:historicalURL": ["/id/100003114"],
+    "cn:shortestHeadline": "Top News",
+    "cn:tabLabel": "Top News",
+    "cn:bodyTeaser": "",
+    "cn:shortestDescription": "",
+    "cn:seoTitle": "Stock Markets, Business News, Financials, Earnings - CNBC",
+    "cn:summary": "",
+    "cn:editedBy": "auto.premiumuser",
+    "cn:createdBy": "catherina.centanni",
+    "cn:shorterDescription": "",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "publisher": {
+      "name": "CNBC",
+      "@type": "Organization",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "name": "US Top News and Analysis",
+    "cn:sectionColor": "#000000",
+    "cn:promoText": "",
+    "cn:showTime": "",
+    "@type": "Collection",
+    "cn:relation": [{
+      "position": 12,
+      "cn:relationType": "content_queue",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+    "url": "https://qa-aws01pub.cnbc.com/world-economy/",
+    "cn:type": "franchise",
+    "cn:creatorOverwrite": "",
+    "cn:liveURL": "/world-economy/",
+    "@id": "10000834",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000834",
+    "cn:slug": "World Economy",
+    "cn:subType": "section",
+    "cn:title": "World Economy",
+    "cn:tagName": "World Economy",
+    "cn:sectionHierarchy": [{
+      "id": 10000834,
+      "tagName": "World Economy",
+      "order": 1
+    }, {
+      "id": 20910258,
+      "tagName": "Economy",
+      "order": 2
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 3
+    }],
+    "cn:isContemplate": "No",
+    "cn:shorterHeadline": "World Economy",
+    "cn:sectionLabel": "World Economy",
+    "cn:state": "Publish",
+    "cn:settings": {
+      "cn:listType": "Manual and/or populated by feeds"
+    },
+    "description": "Latest news and headlines around the world related to the state of the global economy.",
+    "cn:linkHeadline": "World Economy",
+    "cn:sectionLinktext": "World Economy",
+    "headline": "World Economy",
+    "datePublished": "2012-01-30T01:54:29+0000",
+    "cn:dateLastPublished": "2016-06-22T18:15:18+0000",
+    "cn:dateFirstPublished": "2012-01-30T01:54:29+0000",
+    "expires": "",
+    "dateModified": "2016-06-22T18:16:59+0000",
+    "cn:historicalURL": ["/global-economy/", "/id/10000834"],
+    "cn:shortestHeadline": "World Economy",
+    "cn:tabLabel": "World Economy",
+    "cn:bodyTeaser": "",
+    "cn:shortestDescription": "Latest news around the world related to the state of the global economy.",
+    "cn:seoTitle": "Global Economy",
+    "cn:summary": "Latest news and headlines around the world related to the state of the global economy.",
+    "cn:editedBy": "brian.beers",
+    "cn:createdBy": "migration",
+    "cn:shorterDescription": "Latest news and headlines around the world related to the state of the global economy.",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "publisher": {
+      "name": "CNBC",
+      "@type": "Organization",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "name": "World Economy",
+    "@type": "Collection",
+    "cn:relation": [{
+      "position": 11,
+      "cn:relationType": "content_queue",
+      "cn:isPromoted": "false"
+    }, {
+      "position": 6,
+      "cn:relationType": "navigation",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+    "url": "https://qa-aws01pub.cnbc.com/economic-reports/",
+    "cn:type": "franchise",
+    "cn:creatorOverwrite": "",
+    "cn:liveURL": "/economic-reports/",
+    "@id": "10000832",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000832",
+    "cn:slug": "Economic Reports",
+    "cn:subType": "section",
+    "cn:title": "Economic Reports",
+    "cn:tagName": "Economic Reports",
+    "cn:sectionHierarchy": [{
+      "id": 10000832,
+      "tagName": "Economic Reports",
+      "order": 1
+    }, {
+      "id": 100010507,
+      "tagName": "US Economy",
+      "order": 2
+    }, {
+      "id": 20910258,
+      "tagName": "Economy",
+      "order": 3
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 4
+    }],
+    "cn:isContemplate": "No",
+    "cn:shorterHeadline": "",
+    "cn:sectionLabel": "",
+    "cn:state": "Publish",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Manual and/or populated by feeds"
+    },
+    "description": "Economic Reports",
+    "cn:linkHeadline": "",
+    "cn:sectionLinktext": "",
+    "headline": "Economic Reports",
+    "datePublished": "2012-01-30T01:52:50+0000",
+    "cn:dateLastPublished": "2014-07-01T17:18:35+0000",
+    "cn:dateFirstPublished": "2012-01-30T01:52:50+0000",
+    "expires": "",
+    "dateModified": "2014-07-01T17:18:35+0000",
+    "cn:historicalURL": ["/id/10000832"],
+    "cn:shortestHeadline": "",
+    "cn:tabLabel": "",
+    "cn:bodyTeaser": "",
+    "cn:shortestDescription": "",
+    "cn:seoTitle": "Economic Reports",
+    "cn:summary": "",
+    "cn:editedBy": "Josephine.Bila",
+    "cn:createdBy": "migration",
+    "cn:shorterDescription": "Economic Reports",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "publisher": {
+      "name": "CNBC",
+      "@type": "Organization",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "name": "Economic Reports",
+    "@type": "Collection",
+    "cn:relation": [{
+      "position": 10,
+      "cn:relationType": "content_queue",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "cn:relation": [{
+      "position": 9,
+      "cn:relationType": "content_queue",
+      "cn:isPromoted": "false"
+    }],
+    "@id": "10000136"
+  }, {
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+    "url": "https://qa-aws01pub.cnbc.com/id/10000873",
+    "cn:type": "franchise",
+    "cn:title": "Government Sponsored Enterprise",
+    "cn:creatorOverwrite": "",
+    "cn:liveURL": "/id/10000873",
+    "@id": "10000873",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000873",
+    "cn:slug": "Government Sponsored Enterprise",
+    "cn:tagName": "Government Sponsored Enterprise",
+    "cn:subType": "section",
+    "cn:shortestDescription": "",
+    "cn:sectionHierarchy": [{
+      "id": 10000873,
+      "tagName": "Government Sponsored Enterprise",
+      "order": 1
+    }, {
+      "id": 10000887,
+      "tagName": "Congress",
+      "order": 2
+    }, {
+      "id": 10000113,
+      "tagName": "Politics",
+      "order": 3
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 4
+    }],
+    "cn:seoTitle": "Government Sponsored Enterprise",
+    "cn:isContemplate": "No",
+    "cn:shorterHeadline": "",
+    "cn:sectionLabel": "",
+    "cn:state": "Publish",
+    "cn:summary": "",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Virtual"
+    },
+    "description": "Government Sponsored Enterprise",
+    "cn:linkHeadline": "",
+    "cn:sectionLinktext": "",
+    "headline": "Government Sponsored Enterprise",
+    "cn:editedBy": "jill.weinberger",
+    "datePublished": "2012-01-30T01:48:47+0000",
+    "cn:dateLastPublished": "2012-11-30T16:27:45+0000",
+    "cn:dateFirstPublished": "2012-01-30T01:48:47+0000",
+    "expires": "",
+    "dateModified": "2013-10-31T21:44:52+0000",
+    "cn:historicalURL": ["/government-sponsored-enterprise/"],
+    "cn:shortestHeadline": "",
+    "cn:tabLabel": "",
+    "cn:createdBy": "migration",
+    "cn:bodyTeaser": "",
+    "cn:shorterDescription": "Government Sponsored Enterprise",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "publisher": {
+      "name": "CNBC",
+      "@type": "Organization",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "name": "Government Sponsored Enterprise",
+    "@type": "Collection",
+    "cn:relation": [{
+      "position": 8,
+      "cn:relationType": "content_queue",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+    "url": "https://qa-aws01pub.cnbc.com/government-shutdown/",
+    "cn:type": "franchise",
+    "cn:creatorOverwrite": "",
+    "cn:liveURL": "/government-shutdown/",
+    "@id": "10001066",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10001066",
+    "cn:slug": "Government Shutdown",
+    "cn:subType": "section",
+    "cn:title": "Government Shutdown",
+    "cn:tagName": "Government Shutdown",
+    "cn:sectionHierarchy": [{
+      "id": 10001066,
+      "tagName": "Government Shutdown",
+      "order": 1
+    }, {
+      "id": 10000887,
+      "tagName": "Congress",
+      "order": 2
+    }, {
+      "id": 10000113,
+      "tagName": "Politics",
+      "order": 3
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 4
+    }],
+    "cn:isContemplate": "No",
+    "cn:shorterHeadline": "Government Shutdown",
+    "cn:sectionLabel": "Government Shutdown",
+    "cn:state": "Publish",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Manual and/or populated by feeds"
+    },
+    "description": "Government Shutdown",
+    "cn:linkHeadline": "Government Shutdown",
+    "cn:sectionLinktext": "Government Shutdown",
+    "headline": "Government Shutdown",
+    "datePublished": "2012-01-30T01:48:38+0000",
+    "cn:dateLastPublished": "2013-10-16T23:30:14+0000",
+    "cn:dateFirstPublished": "2012-01-30T01:48:38+0000",
+    "expires": "",
+    "dateModified": "2013-10-31T21:44:52+0000",
+    "cn:historicalURL": ["/id/10001066"],
+    "cn:shortestHeadline": "Government Shutdown",
+    "cn:tabLabel": "Government Shutdown",
+    "cn:bodyTeaser": "",
+    "cn:shortestDescription": "",
+    "cn:seoTitle": "Government Shutdown",
+    "cn:summary": "",
+    "cn:editedBy": "cindy.perman",
+    "cn:createdBy": "migration",
+    "cn:shorterDescription": "Government Shutdown",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "publisher": {
+      "name": "CNBC",
+      "@type": "Organization",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "name": "Government Shutdown",
+    "@type": "Collection",
+    "cn:relation": [{
+      "position": 7,
+      "cn:relationType": "content_queue",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+    "url": "https://qa-aws01pub.cnbc.com/id/10000808",
+    "cn:type": "franchise",
+    "cn:title": "GDP",
+    "cn:creatorOverwrite": "",
+    "cn:liveURL": "/id/10000808",
+    "@id": "10000808",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000808",
+    "cn:slug": "GDP",
+    "cn:tagName": "GDP",
+    "cn:subType": "section",
+    "cn:shortestDescription": "",
+    "cn:sectionHierarchy": [{
+      "id": 10000808,
+      "tagName": "GDP",
+      "order": 1
+    }, {
+      "id": 10000832,
+      "tagName": "Economic Reports",
+      "order": 2
+    }, {
+      "id": 100010507,
+      "tagName": "US Economy",
+      "order": 3
+    }, {
+      "id": 20910258,
+      "tagName": "Economy",
+      "order": 4
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 5
+    }],
+    "cn:seoTitle": "GDP",
+    "cn:isContemplate": "No",
+    "cn:shorterHeadline": "",
+    "cn:sectionLabel": "",
+    "cn:state": "Publish",
+    "cn:summary": "",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Virtual"
+    },
+    "description": "GDP",
+    "cn:linkHeadline": "",
+    "cn:sectionLinktext": "",
+    "headline": "GDP",
+    "cn:editedBy": "jill.weinberger",
+    "datePublished": "2012-01-30T01:52:59+0000",
+    "cn:dateLastPublished": "2012-11-27T17:20:28+0000",
+    "cn:dateFirstPublished": "2012-01-30T01:52:59+0000",
+    "expires": "",
+    "dateModified": "2013-10-31T21:44:52+0000",
+    "cn:historicalURL": ["/gdp/"],
+    "cn:shortestHeadline": "",
+    "cn:tabLabel": "",
+    "cn:createdBy": "migration",
+    "cn:bodyTeaser": "",
+    "cn:shorterDescription": "GDP",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "publisher": {
+      "name": "CNBC",
+      "@type": "Organization",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "name": "GDP",
+    "@type": "Collection",
+    "cn:relation": [{
+      "position": 6,
+      "cn:relationType": "content_queue",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+    "url": "https://qa-aws01pub.cnbc.com/central-banks/",
+    "cn:type": "franchise",
+    "cn:creatorOverwrite": "",
+    "cn:liveURL": "/central-banks/",
+    "@id": "10000825",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000825",
+    "cn:slug": "Central Banks",
+    "cn:subType": "section",
+    "cn:title": "Central Banks",
+    "cn:tagName": "Central Banks",
+    "cn:sectionHierarchy": [{
+      "id": 10000825,
+      "tagName": "Central Banks",
+      "order": 1
+    }, {
+      "id": 20910258,
+      "tagName": "Economy",
+      "order": 2
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 3
+    }],
+    "cn:isContemplate": "No",
+    "cn:shorterHeadline": "Central Banks",
+    "cn:sectionLabel": "Central Banks",
+    "cn:state": "Publish",
+    "cn:settings": {
+      "cn:listType": "Manual and/or populated by feeds"
+    },
+    "description": "Latest headlines from central banks around the world, including the Bank of Japan and ECB. ",
+    "cn:linkHeadline": "Central Banks",
+    "cn:sectionLinktext": "Central Banks",
+    "headline": "Central Banks",
+    "datePublished": "2012-01-30T01:53:29+0000",
+    "cn:dateLastPublished": "2016-06-10T10:08:53+0000",
+    "cn:dateFirstPublished": "2012-01-30T01:53:29+0000",
+    "expires": "",
+    "dateModified": "2016-06-10T10:08:54+0000",
+    "cn:historicalURL": ["/id/10000825"],
+    "cn:shortestHeadline": "Central Banks",
+    "cn:tabLabel": "Central Banks",
+    "cn:bodyTeaser": "",
+    "cn:shortestDescription": "Latest headlines from central banks around the world. ",
+    "cn:seoTitle": "News from Central Banks",
+    "cn:summary": "Latest headlines from central banks around the world, including the Bank of Japan and ECB. ",
+    "cn:editedBy": "katy.barnato",
+    "cn:createdBy": "migration",
+    "cn:shorterDescription": "Latest headlines from central banks around the world, including the Bank of Japan and ECB. ",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "publisher": {
+      "name": "CNBC",
+      "@type": "Organization",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "name": "Central Banks",
+    "@type": "Collection",
+    "cn:relation": [{
+      "position": 5,
+      "cn:relationType": "content_queue",
+      "cn:isPromoted": "false"
+    }, {
+      "position": 3,
+      "cn:relationType": "navigation",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+    "url": "https://qa-aws01pub.cnbc.com/id/10000793",
+    "cn:type": "franchise",
+    "cn:title": "Inflation",
+    "cn:creatorOverwrite": "",
+    "cn:liveURL": "/id/10000793",
+    "@id": "10000793",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000793",
+    "cn:slug": "Inflation",
+    "cn:tagName": "Inflation",
+    "cn:subType": "section",
+    "cn:shortestDescription": "",
+    "cn:sectionHierarchy": [{
+      "id": 10000793,
+      "tagName": "Inflation",
+      "order": 1
+    }, {
+      "id": 10000829,
+      "tagName": "Economic Measures",
+      "order": 2
+    }, {
+      "id": 10000834,
+      "tagName": "World Economy",
+      "order": 3
+    }, {
+      "id": 20910258,
+      "tagName": "Economy",
+      "order": 4
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 5
+    }],
+    "cn:seoTitle": "Inflation",
+    "cn:isContemplate": "No",
+    "cn:shorterHeadline": "",
+    "cn:sectionLabel": "",
+    "cn:state": "Publish",
+    "cn:summary": "",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Virtual"
+    },
+    "description": "Inflation",
+    "cn:linkHeadline": "",
+    "cn:sectionLinktext": "",
+    "headline": "Inflation",
+    "cn:editedBy": "jill.weinberger",
+    "datePublished": "2012-01-30T01:55:08+0000",
+    "cn:dateLastPublished": "2012-11-27T18:33:51+0000",
+    "cn:dateFirstPublished": "2012-01-30T01:55:08+0000",
+    "expires": "",
+    "dateModified": "2013-10-31T21:44:52+0000",
+    "cn:historicalURL": ["/inflation/"],
+    "cn:shortestHeadline": "",
+    "cn:tabLabel": "",
+    "cn:createdBy": "migration",
+    "cn:bodyTeaser": "",
+    "cn:shorterDescription": "Inflation",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "publisher": {
+      "name": "CNBC",
+      "@type": "Organization",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "name": "Inflation",
+    "@type": "Collection",
+    "cn:relation": [{
+      "position": 4,
+      "cn:relationType": "content_queue",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+    "url": "https://qa-aws01pub.cnbc.com/federal-reserve/",
+    "cn:type": "franchise",
+    "cn:creatorOverwrite": "",
+    "cn:liveURL": "/federal-reserve/",
+    "@id": "10000709",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000709",
+    "cn:slug": "Federal Reserve",
+    "cn:subType": "news_section",
+    "cn:title": "The Fed",
+    "cn:tagName": "The Fed",
+    "cn:sectionHierarchy": [{
+      "id": 10000709,
+      "tagName": "The Fed",
+      "order": 1
+    }, {
+      "id": 20910258,
+      "tagName": "Economy",
+      "order": 2
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 3
+    }],
+    "cn:isContemplate": "No",
+    "cn:shorterHeadline": "Federal Reserve",
+    "cn:sectionLabel": "Federal Reserve",
+    "cn:state": "Publish",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Manual and/or populated by feeds",
+      "cn:tweetOnPublish": 0
+    },
+    "image": {
+      "@type": "ImageObject",
+      "representativeOfPage": "true",
+      "caption": "The Federal Reserve building in Washington, D.C.",
+      "author": "",
+      "copyrightHolder": "Kevin Lamarque | Reuters",
+      "@id": "103008592",
+      "height": "1333",
+      "datePublished": "2015-09-18T13:51:35+0000",
+      "description": "",
+      "width": "2000",
+      "url": "https://qa-aws02image-origin.cnbcfm.com/api/v1/image/103008592-RTX1QMVP.jpg?v=1442584304"
+    },
+    "cn:association": [{
+      "@type": "ImageObject",
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+      "cn:type": "image",
+      "cn:creatorOverwrite": "Kevin Lamarque | Reuters",
+      "cn:liveURL": "",
+      "@id": "103475437",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/103475437",
+      "cn:slug": "RT: Janet Yellen Fed meeting 160316-001",
+      "cn:title": "Federal Reserve Chair Janet Yellen holds a press conference following the two-day Federal Open Market Committee (FOMC) policy meeting in Washington March 16, 2016.",
+      "cn:tagName": "",
+      "url": "https://qa-aws02image-origin.cnbcfm.com/api/v1/image/103475437-RTSARNL.jpg?v=1458157747",
+      "description": "",
+      "cn:imgCreator": "",
+      "contentSize": 2904213,
+      "caption": "Federal Reserve Chair Janet Yellen holds a press conference following the two-day Federal Open Market Committee (FOMC) policy meeting in Washington March 16, 2016.",
+      "copyrightHolder": "Kevin Lamarque | Reuters",
+      "height": "3245",
+      "width": "5184",
+      "cn:relation": [{
+        "cn:relationType": "promo",
+        "cn:isPromoted": "false"
+      }]
+    }, {
+      "@type": "ImageObject",
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+      "cn:type": "image",
+      "cn:creatorOverwrite": "Kevin Lamarque | Reuters",
+      "cn:liveURL": "",
+      "@id": "103008592",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/103008592",
+      "cn:slug": "Reusable: Federal Reserve building 150901",
+      "cn:title": "The Federal Reserve",
+      "cn:tagName": "",
+      "url": "https://qa-aws02image-origin.cnbcfm.com/api/v1/image/103008592-RTX1QMVP.jpg?v=1442584304",
+      "description": "",
+      "cn:imgCreator": "",
+      "contentSize": 2167995,
+      "caption": "The Federal Reserve building in Washington, D.C.",
+      "copyrightHolder": "Kevin Lamarque | Reuters",
+      "height": "1333",
+      "width": "2000",
+      "cn:relation": [{
+        "cn:relationType": "promo",
+        "cn:isPromoted": "true"
+      }]
+    }, {
+      "@type": "ImageObject",
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+      "cn:type": "image",
+      "cn:creatorOverwrite": "Brendan Smialowski | AFP | Getty Images",
+      "cn:liveURL": "",
+      "@id": "103394485",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/103394485",
+      "cn:slug": "Premium: $100 bills printing U.S. currency 131011",
+      "cn:title": "A sheet of rare and sought after star notes is seen after the phase of production where the new 100 USD bills are applied with a serial number, a US Federal Reserve seal, are cut and stacked at the US Bureau of Engraving and Printing's Western Currency Fac",
+      "cn:tagName": "",
+      "url": "https://qa-aws02image-origin.cnbcfm.com/api/v1/image/103394485-GettyImages-184074203.jpg?v=1455715100",
+      "description": "",
+      "cn:imgCreator": "",
+      "contentSize": 1738613,
+      "caption": "A sheet of rare and sought after star notes is seen after the phase of production where the new 100 USD bills are applied with a serial number, a US Federal Reserve seal, are cut and stacked at the US Bureau of Engraving and Printing's Western Currency Facility October 11, 2013 in Fort Worth, Texas.",
+      "copyrightHolder": "Brendan Smialowski | AFP | Getty Images",
+      "height": "2403",
+      "width": "3600",
+      "cn:relation": [{
+        "cn:relationType": "promo",
+        "cn:isPromoted": "false"
+      }]
+    }],
+    "description": "Latest news and headlines related to the Federal Reserve. ",
+    "cn:linkHeadline": "The Fed",
+    "cn:sectionLinktext": "The Fed",
+    "headline": "The Fed",
+    "datePublished": "2016-03-14T14:53:33+0000",
+    "cn:dateLastPublished": "2018-06-06T21:25:02+0000",
+    "cn:dateFirstPublished": "2012-01-30T01:54:31+0000",
+    "expires": "",
+    "dateModified": "2018-06-06T21:24:54+0000",
+    "cn:historicalURL": ["/id/10000709"],
+    "cn:shortestHeadline": "The Fed",
+    "cn:tabLabel": "The Fed",
+    "cn:bodyTeaser": "",
+    "cn:shortestDescription": "Latest news from the Federal Reserve. ",
+    "cn:seoTitle": "Federal Reserve",
+    "cn:summary": "Latest news and headlines related to the Federal Reserve. ",
+    "cn:editedBy": "darshini.oza",
+    "cn:createdBy": "migration",
+    "cn:shorterDescription": "Latest news and headlines from the Federal Reserve. ",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "publisher": {
+      "name": "CNBC",
+      "@type": "Organization",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "name": "The Fed",
+    "cn:sectionColor": "#000000",
+    "cn:promoText": "",
+    "cn:showTime": "",
+    "@type": "Collection",
+    "cn:relation": [{
+      "position": 4,
+      "cn:relationType": "navigation",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+    "url": "https://qa-aws01pub.cnbc.com/id/10001296",
+    "cn:type": "franchise",
+    "cn:title": "Economic Development",
+    "cn:creatorOverwrite": "",
+    "cn:liveURL": "/id/10001296",
+    "@id": "10001296",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10001296",
+    "cn:slug": "Economic Development",
+    "cn:tagName": "Economic Development",
+    "cn:subType": "section",
+    "cn:shortestDescription": "",
+    "cn:sectionHierarchy": [{
+      "id": 10001296,
+      "tagName": "Economic Development",
+      "order": 1
+    }, {
+      "id": 10000829,
+      "tagName": "Economic Measures",
+      "order": 2
+    }, {
+      "id": 10000834,
+      "tagName": "World Economy",
+      "order": 3
+    }, {
+      "id": 20910258,
+      "tagName": "Economy",
+      "order": 4
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 5
+    }],
+    "cn:seoTitle": "Economic Development",
+    "cn:isContemplate": "No",
+    "cn:shorterHeadline": "",
+    "cn:sectionLabel": "",
+    "cn:state": "Publish",
+    "cn:summary": "",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Virtual"
+    },
+    "description": "Economic Development",
+    "cn:linkHeadline": "",
+    "cn:sectionLinktext": "",
+    "headline": "Economic Development",
+    "cn:editedBy": "jill.weinberger",
+    "datePublished": "2012-07-28T05:32:24+0000",
+    "cn:dateLastPublished": "2012-11-27T15:24:29+0000",
+    "cn:dateFirstPublished": "2012-07-28T05:32:24+0000",
+    "expires": "",
+    "dateModified": "2013-10-31T21:44:52+0000",
+    "cn:historicalURL": ["/economic-development/"],
+    "cn:shortestHeadline": "",
+    "cn:tabLabel": "",
+    "cn:createdBy": "migration",
+    "cn:bodyTeaser": "",
+    "cn:shorterDescription": "Economic Development",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "publisher": {
+      "name": "CNBC",
+      "@type": "Organization",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "name": "Economic Development",
+    "@type": "Collection",
+    "cn:relation": [{
+      "position": 3,
+      "cn:relationType": "content_queue",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+    "url": "https://qa-aws01pub.cnbc.com/id/10001069",
+    "cn:type": "franchise",
+    "cn:creatorOverwrite": "",
+    "cn:liveURL": "/id/10001069",
+    "@id": "10001069",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10001069",
+    "cn:slug": "Infrastructure",
+    "cn:subType": "section",
+    "cn:title": "Infrastructure",
+    "cn:tagName": "Infrastructure",
+    "cn:sectionHierarchy": [{
+      "id": 10001069,
+      "tagName": "Infrastructure",
+      "order": 1
+    }, {
+      "id": 10000142,
+      "tagName": "Transportation",
+      "order": 2
+    }, {
+      "id": 10001147,
+      "tagName": "Business",
+      "order": 3
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 4
+    }],
+    "cn:isContemplate": "No",
+    "cn:shorterHeadline": "",
+    "cn:sectionLabel": "",
+    "cn:state": "Publish",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Virtual"
+    },
+    "description": "Infrastructure",
+    "cn:linkHeadline": "Infrastructure",
+    "cn:sectionLinktext": "Infrastructure",
+    "headline": "Infrastructure",
+    "datePublished": "2012-01-30T01:53:22+0000",
+    "cn:dateLastPublished": "2013-03-19T14:28:14+0000",
+    "cn:dateFirstPublished": "2012-01-30T01:53:22+0000",
+    "expires": "",
+    "dateModified": "2013-10-31T21:44:52+0000",
+    "cn:historicalURL": ["/infrastructure/"],
+    "cn:shortestHeadline": "",
+    "cn:tabLabel": "",
+    "cn:bodyTeaser": "",
+    "cn:shortestDescription": "",
+    "cn:seoTitle": "Infrastructure",
+    "cn:summary": "",
+    "cn:editedBy": "joseph.odell",
+    "cn:createdBy": "migration",
+    "cn:shorterDescription": "Infrastructure",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "publisher": {
+      "name": "CNBC",
+      "@type": "Organization",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "name": "Infrastructure",
+    "@type": "Collection",
+    "cn:relation": [{
+      "position": 2,
+      "cn:relationType": "content_queue",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+    "url": "https://qa-aws01pub.cnbc.com/jobs/",
+    "cn:type": "franchise",
+    "cn:creatorOverwrite": "",
+    "cn:liveURL": "/jobs/",
+    "@id": "10000837",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000837",
+    "cn:slug": "Jobs",
+    "cn:subType": "section",
+    "cn:title": "Jobs",
+    "cn:tagName": "Jobs",
+    "cn:sectionHierarchy": [{
+      "id": 10000837,
+      "tagName": "Jobs",
+      "order": 1
+    }, {
+      "id": 20910258,
+      "tagName": "Economy",
+      "order": 2
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 3
+    }],
+    "cn:isContemplate": "No",
+    "cn:shorterHeadline": "Jobs",
+    "cn:sectionLabel": "Jobs",
+    "cn:state": "Publish",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Manual and/or populated by feeds"
+    },
+    "cn:association": [{
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+      "url": "https://qa-aws01pub.cnbc.com/mary-thompson/",
+      "cn:type": "creator",
+      "cn:creatorOverwrite": "",
+      "cn:liveURL": "/mary-thompson/",
+      "@id": "15837948",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/15837948",
+      "cn:slug": "Mary Thompson",
+      "cn:title": "Mary Thompson",
+      "cn:tagName": "Mary Thompson",
+      "description": "Mary Thompson joined CNBC in 2000 as a general assignment reporter. She has covered a wide range of stories for CNBC, including the 2008 financial crisis, Hurricane Katrina from along the Gulf Coast and the mutual fund industry's market-timing scandal in 2003.",
+      "@type": "CreativeWork",
+      "cn:relation": [{
+        "cn:relationType": "people",
+        "cn:isPromoted": "false"
+      }]
+    }, {
+      "@type": "ImageObject",
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+      "cn:type": "image",
+      "cn:creatorOverwrite": "Ivan Bajic | E+ | Getty Images",
+      "cn:liveURL": "",
+      "@id": "101323714",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/101323714",
+      "cn:slug": "Premium: Magnifying glass on newspaper jobs search employment",
+      "cn:title": "",
+      "cn:tagName": "",
+      "url": "https://qa-aws02image-origin.cnbcfm.com/api/v1/image/101323714-175464726r.jpg?v=1389281832",
+      "description": "",
+      "cn:imgCreator": "",
+      "contentSize": 1507069,
+      "caption": "",
+      "copyrightHolder": "Ivan Bajic | E+ | Getty Images",
+      "height": "1333",
+      "width": "2000",
+      "cn:relation": [{
+        "cn:relationType": "tags",
+        "cn:isPromoted": "false"
+      }]
+    }],
+    "description": "Economic data on job creation, unemployment benefits, and employment analysis on CNBC.com.",
+    "cn:linkHeadline": "Jobs",
+    "cn:sectionLinktext": "Jobs",
+    "headline": "Jobs",
+    "datePublished": "2014-04-07T12:40:19+0000",
+    "cn:dateLastPublished": "2016-03-18T14:31:04+0000",
+    "cn:dateFirstPublished": "2012-01-30T01:53:02+0000",
+    "expires": "",
+    "dateModified": "2016-03-18T14:31:05+0000",
+    "cn:historicalURL": ["/id/10000837"],
+    "cn:shortestHeadline": "Jobs",
+    "cn:tabLabel": "Jobs",
+    "cn:bodyTeaser": "",
+    "cn:shortestDescription": "Job creation, unemployment benefits, and analysis.",
+    "cn:seoTitle": "Job Related News",
+    "cn:summary": "Economic data on job creation, unemployment benefits, and employment analysis on CNBC.com.",
+    "cn:editedBy": "katy.barnato",
+    "cn:createdBy": "migration",
+    "cn:shorterDescription": "Economic data on job creation, unemployment benefits, and employment analysis on CNBC.com.",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "publisher": {
+      "name": "CNBC",
+      "@type": "Organization",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "name": "Jobs",
+    "@type": "Collection",
+    "cn:relation": [{
+      "position": 2,
+      "cn:relationType": "navigation",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+    "url": "",
+    "cn:type": "skin",
+    "cn:title": "",
+    "cn:creatorOverwrite": "",
+    "cn:liveURL": "",
+    "@id": "100003343",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100003343",
+    "cn:slug": "cnbc global skin",
+    "cn:tagName": "",
+    "cn:shortestDescription": "",
+    "cn:sectionHierarchy": [],
+    "cn:isContemplate": "No",
+    "cn:shorterHeadline": "",
+    "cn:state": "Publish",
+    "cn:summary": "",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:tweetOnPublish": 0
+    },
+    "description": "",
+    "cn:linkHeadline": "",
+    "headline": "",
+    "cn:editedBy": "matt.shade",
+    "datePublished": "2012-07-30T19:54:30+0000",
+    "cn:dateLastPublished": "2018-03-26T19:49:51+0000",
+    "cn:dateFirstPublished": "2012-07-30T19:54:30+0000",
+    "expires": "",
+    "dateModified": "2018-03-26T19:49:51+0000",
+    "cn:historicalURL": [],
+    "cn:shortestHeadline": "",
+    "cn:createdBy": "matt.shade",
+    "cn:bodyTeaser": "",
+    "cn:shorterDescription": "",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "publisher": {
+      "name": "CNBC",
+      "@type": "Organization",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "@type": "DigitalDocument",
+    "cn:relation": [{
+      "position": 1,
+      "cn:relationType": "skin",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+    "url": "https://qa-aws01pub.cnbc.com/rapid-update/",
+    "cn:type": "wildcard",
+    "cn:creatorOverwrite": "",
+    "cn:liveURL": "/rapid-update/",
+    "@id": "101508204",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/101508204",
+    "cn:slug": "CNBC Rapid Update",
+    "cn:title": "Rapid Update - An outlook for U.S. GDP",
+    "cn:tagName": "Rapid Update",
+    "cn:sectionHierarchy": [{
+      "id": 20910258,
+      "tagName": "Economy",
+      "order": 1
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 2
+    }],
+    "cn:isContemplate": "No",
+    "cn:shorterHeadline": "Rapid Update - An outlook for U.S. GDP",
+    "cn:state": "Publish",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Virtual",
+      "cn:tweetOnPublish": 0
+    },
+    "image": {
+      "@type": "ImageObject",
+      "representativeOfPage": "true",
+      "caption": "",
+      "author": "",
+      "copyrightHolder": "",
+      "@id": "100010077",
+      "height": "2731",
+      "datePublished": "2012-08-23T17:38:34+0000",
+      "description": "",
+      "width": "2048",
+      "url": "https://qa-aws02image-origin.cnbcfm.com/api/v1/image/100010077-steve-liesman-headshot-2013.jpg?v=1404907767"
+    },
+    "cn:association": [{
+      "@type": "ImageObject",
+      "cn:branding": "cnbc",
+      "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+      "cn:type": "image",
+      "cn:creatorOverwrite": "",
+      "cn:liveURL": "",
+      "@id": "100010077",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/100010077",
+      "cn:slug": "Steve Liesman Headshot",
+      "cn:title": "Steve Liesman",
+      "cn:tagName": "",
+      "url": "https://qa-aws02image-origin.cnbcfm.com/api/v1/image/100010077-steve-liesman-headshot-2013.jpg?v=1404907767",
+      "description": "",
+      "cn:imgCreator": "",
+      "contentSize": 2084006,
+      "caption": "",
+      "copyrightHolder": "",
+      "height": "2731",
+      "width": "2048",
+      "cn:relation": [{
+        "cn:relationType": "promo",
+        "cn:isPromoted": "true"
+      }]
+    }],
+    "description": "CNBC Rapid Update will offer new measures of how much an economic report changes the outlook on Wall Street for US growth forecasts.",
+    "cn:linkHeadline": "Rapid Update - An outlook for U.S. GDP",
+    "headline": "Rapid Update - An outlook for U.S. GDP",
+    "datePublished": "2016-05-24T16:03:57+0000",
+    "cn:dateLastPublished": "2018-05-16T15:47:03+0000",
+    "cn:dateFirstPublished": "2014-03-25T15:42:13+0000",
+    "expires": "",
+    "dateModified": "2018-05-16T15:46:50+0000",
+    "cn:historicalURL": [],
+    "cn:shortestHeadline": "GDP outlook",
+    "cn:bodyTeaser": "<body><group><subtitle/><pullquote><pullquote_quote/><pullquote_title/><pullquote_attribution/></pullquote><assets><asset/></assets><div class=\"group\"><p>CNBC Rapid Update offers a new measure for how much an economic report changes the outlook on Wall Street for US growth forecasts. With each major report that impacts Gross Domestic Product, <asset_inline ext_link=\"http://www.economy.com/gdp\" ext_title=\"http://www.economy.com/gdp\">Moody's Analytics</asset_inline> and CNBC measure how much the n</p><p>ew data changes the average tracking forecast among a select group of Wall Street economists. A tracking forecast is an estimate for GDP that changes that changes with incoming data.</p><p><em>Updated: May 16, 2018</em></p></div></group></body>",
+    "cn:shortestDescription": "CNBC Rapid Update will offer new measures of how much an economic report changes the outlook on Wall Street for US growth forecasts.",
+    "cn:seoTitle": "Rapid update",
+    "cn:summary": "CNBC Rapid Update will offer new measures of how much an economic report changes the outlook on Wall Street for US growth forecasts.",
+    "cn:editedBy": "Josephine.Bila",
+    "cn:createdBy": "joseph.odell",
+    "cn:shorterDescription": "CNBC Rapid Update will offer new measures of how much an economic report changes the outlook on Wall Street for US growth forecasts.",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "publisher": {
+      "name": "CNBC",
+      "@type": "Organization",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "cn:wildcard": {
+      "cn:wildcardContent": {
+        "cn:__cdata": ""
+      },
+      "cn:wildcardPromo": {
+        "cn:__cdata": ""
+      }
+    },
+    "@type": "CreativeWork",
+    "cn:relation": [{
+      "position": 1,
+      "cn:relationType": "navigation",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+    "url": "https://qa-aws01pub.cnbc.com/id/10000795",
+    "cn:type": "franchise",
+    "cn:title": "Recession",
+    "cn:creatorOverwrite": "",
+    "cn:liveURL": "/id/10000795",
+    "@id": "10000795",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/10000795",
+    "cn:slug": "Recession",
+    "cn:tagName": "Recession",
+    "cn:subType": "section",
+    "cn:shortestDescription": "",
+    "cn:sectionHierarchy": [{
+      "id": 10000795,
+      "tagName": "Recession",
+      "order": 1
+    }, {
+      "id": 10000829,
+      "tagName": "Economic Measures",
+      "order": 2
+    }, {
+      "id": 10000834,
+      "tagName": "World Economy",
+      "order": 3
+    }, {
+      "id": 20910258,
+      "tagName": "Economy",
+      "order": 4
+    }, {
+      "id": 10000161,
+      "tagName": "CNBC Global",
+      "order": 5
+    }],
+    "cn:seoTitle": "Recession",
+    "cn:isContemplate": "No",
+    "cn:shorterHeadline": "",
+    "cn:sectionLabel": "",
+    "cn:state": "Publish",
+    "cn:summary": "",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes",
+      "cn:listType": "Virtual"
+    },
+    "description": "Recession",
+    "cn:linkHeadline": "",
+    "cn:sectionLinktext": "",
+    "headline": "Recession",
+    "cn:editedBy": "jill.weinberger",
+    "datePublished": "2012-01-30T01:53:27+0000",
+    "cn:dateLastPublished": "2012-11-27T21:53:06+0000",
+    "cn:dateFirstPublished": "2012-01-30T01:53:27+0000",
+    "expires": "",
+    "dateModified": "2013-10-31T21:44:52+0000",
+    "cn:historicalURL": ["/recession/"],
+    "cn:shortestHeadline": "",
+    "cn:tabLabel": "",
+    "cn:createdBy": "migration",
+    "cn:bodyTeaser": "",
+    "cn:shorterDescription": "Recession",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "publisher": {
+      "name": "CNBC",
+      "@type": "Organization",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "name": "Recession",
+    "@type": "Collection",
+    "cn:relation": [{
+      "position": 1,
+      "cn:relationType": "content_queue",
+      "cn:isPromoted": "false"
+    }]
+  }, {
+    "cn:branding": "cnbc",
+    "cn:subDomain": "https://qa-aws01pub.cnbc.com",
+    "url": "https://qa-aws01pub.cnbc.com/id/17",
+    "cn:type": "franchise",
+    "cn:title": "Franchise Root",
+    "cn:liveURL": "/id/17",
+    "@id": "17",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/api/v1/id/17",
+    "cn:slug": "Franchise Root",
+    "cn:sectionHierarchy": [{
+      "id": 17,
+      "order": 1
+    }],
+    "cn:seoTitle": "Franchise Root",
+    "cn:isContemplate": "No",
+    "cn:state": "Publish",
+    "cn:settings": {
+      "cn:commentsEnabled": "Yes",
+      "cn:socialtoolsEnabled": "Yes"
+    },
+    "cn:editedBy": "admin",
+    "datePublished": "2002-12-01T05:00:00+0000",
+    "cn:dateLastPublished": "2002-12-01T05:00:00+0000",
+    "cn:dateFirstPublished": "2002-12-01T05:00:00+0000",
+    "expires": "",
+    "dateModified": "2013-09-16T20:44:46+0000",
+    "cn:historicalURL": [],
+    "cn:createdBy": "admin",
+    "cn:bodyTeaser": "",
+    "cn:linkHeadline": "",
+    "cn:sectionLinktext": "",
+    "headline": "Franchise Root",
+    "cn:shorterHeadline": "",
+    "cn:sectionLabel": "",
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "cn": "http://cnbc.com/schema/"
+    },
+    "publisher": {
+      "name": "CNBC",
+      "@type": "Organization",
+      "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+    },
+    "name": "Franchise Root",
+    "@type": "Collection",
+    "cn:relation": [{
+      "position": 0,
+      "cn:relationType": "parent",
+      "cn:isPromoted": "false"
+    }]
+  }]
+}

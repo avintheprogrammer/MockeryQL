@@ -1,0 +1,42 @@
+{
+  "data": {
+    "collection": {
+      "id": 104832573,
+      "type": "franchise",
+      "slug": "Collection: Mad Money Sponsor Tray",
+      "url": "https://qa-aws01web.cnbc.com/mad-money-sponsor-tray/",
+      "summary": null,
+      "shorterDescription": null,
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104832573",
+      "datePublished": "2017-11-09T16:50:24+0000",
+      "subType": "section",
+      "name": "Collection: Mad Money Sponsor Tray",
+      "description": null,
+      "publisher": {
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "related": [
+        {
+          "id": 104847715,
+          "type": "image"
+        },
+        {
+          "id": 104847706,
+          "type": "cnbcnewsstory"
+        },
+        {
+          "id": 104829126,
+          "type": "franchise",
+          "url": "https://qa-aws01web.cnbc.com/the-best-gadgets-of-the-year-to-give-as-holiday-gifts/"
+        }
+      ],
+      "assets": [
+        {
+          "id": 104832580,
+          "type": "webresource"
+        }
+      ]
+    }
+  }
+}

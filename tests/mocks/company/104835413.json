@@ -1,0 +1,27 @@
+{
+  "data": {
+    "company": {
+      "id": 104835413,
+      "type": "company",
+      "brand": "cnbc",
+      "slug": "Prospect Co Ltd T:3528.T-JP",
+      "summary": "this is a company",
+      "shorterDescription": "this is company",
+      "url": "/quotes/?symbol=3528.T-JP",
+      "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104835413",
+      "name": null,
+      "premium": false,
+      "native": false,
+      "publisher": {
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "datePublished": "2017-11-10T17:16:06+0000",
+      "tickerSymbol": "Tokyo Stock Exchange 3528.T-JP",
+      "issuerId": 3928,
+      "sourceOrganization": null,
+      "symbol": "3528.T-JP",
+      "exchangeName": "Tokyo Stock Exchange"
+    }
+  }
+}

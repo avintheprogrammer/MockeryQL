@@ -1,0 +1,67 @@
+{
+  "data": {
+    "video": {
+      "id": 104846487,
+      "type": "cnbcvideo",
+      "brand": "cnbc",
+      "datePublished": "2017-11-16T14:50:42+0000",
+      "dateLastPublished": "2017-11-16T15:28:24+0000",
+      "dateModified": "2017-11-16T15:27:22+0000",
+      "description": "Chase Carey, Formula One chairman and CEO weighs in on the changing media landscape and opportunities in digital content.",
+      "slug": "SOTS Chase Carey: The bundle  HIT 3 171116 Clem EC",
+      "headline": "Chase Carey: The bundle is certainly changing",
+      "url": "/video/2017/11/16/chase-carey-the-bundle-is-certainly-changing.html",
+      "publisher": {
+        "name": "CNBC",
+        "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+      },
+      "show": "Squawk on the Street",
+      "usagePlans": [
+        "MSN Money",
+        "MSNBC.com ",
+        "MobilePhones",
+        "IPTV_PDL",
+        "CNBCNews.com Website",
+        "CNBCNews.com Direct",
+        "CNBC Business Video"
+      ],
+      "encodings": null,
+      "duration": 86,
+      "uploadDate": "2017-11-16T10:38:14+0000",
+      "playbackURL": "",
+      "vcpsId": 3000671746,
+      "relatedTags": [
+        {
+          "id": 104769364,
+          "type": "franchise",
+          "url": "http://qa-aws01web.cnbc.com/ceo-interviews-ott/"
+        },
+        {
+          "id": 100381291,
+          "type": "company",
+          "url": "/quotes/?symbol="
+        },
+        {
+          "id": 15838155,
+          "type": "creator",
+          "url": "http://qa-aws01web.cnbc.com/david-faber/"
+        },
+        {
+          "id": 100004032,
+          "type": "franchise",
+          "url": "http://qa-aws01web.cnbc.com/video-ceo-interviews/"
+        },
+        {
+          "id": 10001117,
+          "type": "franchise",
+          "url": "http://qa-aws01web.cnbc.com/id/10001117"
+        },
+        {
+          "id": 10000117,
+          "type": "franchise",
+          "url": "http://qa-aws01web.cnbc.com/sports-business/"
+        }
+      ]
+    }
+  }
+}

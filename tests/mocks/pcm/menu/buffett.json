@@ -1,0 +1,116 @@
+{
+  "footer": {
+    "main": [{
+      "name": "privacy_policy",
+      "label": "Privacy Policy",
+      "path": "/privacy/",
+      "host": "www.nbcuniversal.com",
+      "attr": {
+        "data": {
+          "trknavattr": "footer:${name}:${name}:${currentDocNID}"
+        }
+      },
+      "items": []
+    }]
+  },
+  "header": {
+    "collapsed": [{
+        "name": "annual_meetings",
+        "label": "Annual Meetings",
+        "path": "/annual-meetings/",
+        "host": "buffett.cnbc.com",
+        "attr": {
+          "data": {
+            "trknavattr": "navigation:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      },
+      {
+        "name": "cnbc_interviews",
+        "label": "CNBC Interviews",
+        "path": "/cnbc-interviews/",
+        "host": "buffett.cnbc.com",
+        "attr": {
+          "data": {
+            "trknavattr": "navigation:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      },
+      {
+        "name": "keynotes",
+        "label": "Keynotes",
+        "path": "/keynotes/",
+        "host": "buffett.cnbc.com",
+        "attr": {
+          "data": {
+            "trknavattr": "navigation:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      },
+      {
+        "name": "buffet_on_x",
+        "label": "Buffett On 'X'",
+        "path": "/buffett-on-x/",
+        "host": "buffett.cnbc.com",
+        "attr": {
+          "data": {
+            "trknavattr": "navigation:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      },
+      {
+        "name": "documentaries",
+        "label": "Documentaries",
+        "path": "/documentaries/",
+        "host": "buffett.cnbc.com",
+        "attr": {
+          "data": {
+            "trknavattr": "navigation:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      },
+      {
+        "name": "about_buffett",
+        "label": "About Buffett",
+        "path": "/about-buffett/",
+        "host": "buffett.cnbc.com",
+        "attr": {
+          "data": {
+            "trknavattr": "navigation:${name}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      }
+    ],
+    "featured": [{
+        "name": "search",
+        "label": "Search",
+        "path": "javascript:void(0);",
+        "host": "",
+        "attr": {
+          "data": {
+            "trknavattr": "featured:${parent}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      },
+      {
+        "name": "cnbc",
+        "label": "CNBC.com",
+        "path": "/",
+        "host": "www.cnbc.com",
+        "attr": {
+          "data": {
+            "trknavattr": "featured:${parent}:${name}:${currentDocNID}"
+          }
+        },
+        "items": []
+      }
+    ]
+  }
+}

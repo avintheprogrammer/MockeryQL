@@ -1,0 +1,199 @@
+[{
+  "@id": "104844669",
+  "cn:type": "blogpost",
+  "cn:slug": "Remix - GURDUS - 171115 - MM",
+  "cn:title": "Cramer Remix: Investors should take shelter in Home Depot’s stock despite today’s action",
+  "headline": "Cramer Remix: Investors, take shelter in Home Depot’s stock despite the action",
+  "cn:creatorOverwrite": "",
+  "cn:editedBy": "rekha.ponnur",
+  "cn:historicalURL": [],
+  "cn:createdBy": "Elizabeth.gurdus@nbcuni.com",
+  "cn:subDomain": "CNBC.com",
+  "cn:branding": "CNBC",
+  "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104844669",
+  "url": "http://qa-aws01web.cnbc.com/2017/11/15/cramer-remix-investors-should-take-shelter-in-home-depots-stock.html",
+  "datePublished": "2017-11-16T00:00:29+0000",
+  "sourceOrganization": [{
+    "@type": "Organization",
+    "@id": "80000022",
+    "cn:type": "source",
+    "cn:slug": "CNBC US Source",
+    "cn:title": "",
+    "headline": "",
+    "cn:creatorOverwrite": "",
+    "cn:editedBy": "john.schoen",
+    "cn:historicalURL": [],
+    "cn:createdBy": "migration",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/80000022",
+    "url": "",
+    "cn:sourceName": "CNBC.com",
+    "description": "CNBC.com"
+  }],
+  "cn:section": [{
+    "id": 15838459,
+    "tagName": "Mad Money",
+    "order": 1
+  }, {
+    "id": 100008328,
+    "tagName": "U.S. Business Day",
+    "order": 2
+  }, {
+    "id": 15839263,
+    "tagName": "Video and TV",
+    "order": 3
+  }, {
+    "id": 10000161,
+    "tagName": "CNBC Global",
+    "order": 4
+  }],
+  "description": "Jim Cramer explained why it’s still worth building a position in the stock of Home Depot.",
+  "cn:settings": {
+    "cn:commentsEnabled": "Yes",
+    "cn:socialtoolsEnabled": "Yes",
+    "cn:dateline": "Yes",
+    "cn:displayByline": "Yes",
+    "cn:displaySource": "Yes",
+    "cn:outbrainEnabled": "Yes",
+    "cn:isFamilyFriendly": "Yes",
+    "cn:listType": "Virtual",
+    "cn:tweetOnPublish": 0
+  },
+  "author": [{
+    "@type": "Creator",
+    "@id": "103964735",
+    "name": "Elizabeth Gurdus",
+    "url": "http://qa-aws01web.cnbc.com/elizabeth-gurdus/",
+    "position": "5000",
+    "sameAs": ["https://www.twitter.com/lizzygurdus"],
+    "cn:socialMediaInfo": [{
+      "cn:url": "https://twitter.com/lizzygurdus",
+      "cn:displayText": "lizzygurdus",
+      "cn:type": "twitter"
+    }]
+  }],
+  "image": {
+    "representativeOfPage": "true",
+    "@type": "ImageObject",
+    "@id": 104741387,
+    "author": "",
+    "datePublished": "2017-09-29T17:15:44+0000",
+    "caption": "Jim Cramer on \"Mad Money.\"",
+    "description": "",
+    "copyrightHolder": "Scott Mlyn | CNBC",
+    "height": "1333",
+    "width": "2000",
+    "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104741387-IMG_8445-jim-cramer.jpg?v=1506705339"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "CNBC",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "@context": {
+    "cn": "http://cnbc.com/schema/",
+    "@vocab": "http://schema.org/"
+  },
+  "@type": "BlogPosting"
+}, {
+  "@id": "104846604",
+  "cn:type": "cnbcnewsstory",
+  "cn:slug": "Impact cybersecurity tips GRANT 20171116",
+  "cn:createdBy": "kelli.grant",
+  "cn:editedBy": "Rick.Levinson",
+  "cn:title": "Smart behaviors that can improve your cybersecurity",
+  "headline": "Smart behaviors to improve your cybersecurity",
+  "cn:creatorOverwrite": "",
+  "cn:historicalURL": [],
+  "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/104846604",
+  "url": "http://qa-aws01web.cnbc.com/2017/11/16/smart-behaviors-that-can-improve-your-cybersecurity.html",
+  "datePublished": "2017-11-16T14:46:38+0000",
+  "cn:section": [{
+    "id": 102091434,
+    "tagName": "Impact conference",
+    "order": 1
+  }, {
+    "id": 15839069,
+    "tagName": "Investing",
+    "order": 2
+  }, {
+    "id": 10000664,
+    "tagName": "Finance",
+    "order": 3
+  }, {
+    "id": 10000161,
+    "tagName": "CNBC Global",
+    "order": 4
+  }],
+  "sourceOrganization": [{
+    "@type": "Organization",
+    "@id": "80000022",
+    "cn:type": "source",
+    "cn:slug": "CNBC US Source",
+    "cn:title": "",
+    "headline": "",
+    "cn:creatorOverwrite": "",
+    "cn:editedBy": "john.schoen",
+    "cn:historicalURL": [],
+    "cn:createdBy": "migration",
+    "contentUrl": "https://qa-aws02capi-bl.cnbc.com/id/80000022",
+    "url": "",
+    "cn:sourceName": "CNBC.com",
+    "description": "CNBC.com"
+  }],
+  "description": "Both advisors and consumers could stand to improve their email habits and password use, to thwart would-be thieves. ",
+  "cn:settings": {
+    "cn:commentsEnabled": "Yes",
+    "cn:socialtoolsEnabled": "Yes",
+    "cn:dateline": "Yes",
+    "cn:displayByline": "Yes",
+    "cn:displaySource": "Yes",
+    "cn:outbrainEnabled": "Yes",
+    "cn:isFamilyFriendly": "Yes",
+    "cn:listType": "Virtual",
+    "cn:tweetOnPublish": 3
+  },
+  "author": [{
+    "@type": "Creator",
+    "@id": "100770389",
+    "name": "Kelli B. Grant",
+    "url": "http://qa-aws01web.cnbc.com/kelli-b-grant/",
+    "position": "5000",
+    "sameAs": ["https://www.twitter.com/kelligrant", "https://www.facebook.com/KelliGrant.money", "https://www.plus.google.com/116379376975025392080"],
+    "cn:socialMediaInfo": [{
+      "cn:url": "https://twitter.com/kelligrant",
+      "cn:displayText": "kelligrant",
+      "cn:type": "twitter"
+    }, {
+      "cn:url": "https://facebook.com/KelliGrant.money",
+      "cn:displayText": "KelliGrant.money",
+      "cn:type": "facebook"
+    }, {
+      "cn:url": "https://plus.google.com/116379376975025392080",
+      "cn:displayText": "116379376975025392080",
+      "cn:type": "googlePlus"
+    }]
+  }],
+  "image": {
+    "representativeOfPage": "true",
+    "@type": "ImageObject",
+    "@id": 104382104,
+    "author": "Linus Strandholm",
+    "datePublished": "2017-04-04T00:10:18+0000",
+    "caption": "",
+    "description": "",
+    "copyrightHolder": "Linus Strandholm | EyeEm | Getty Images",
+    "height": "1414",
+    "width": "2121",
+    "url": "https://qa-aws02capi-img-origin.cnbc.com/image/104382104-GettyImages-707592073_1.jpg?v=1510833535"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "CNBC",
+    "logo": "http://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc-hdr-logo2.png"
+  },
+  "@context": {
+    "cn": "http://cnbc.com/schema/",
+    "@vocab": "http://schema.org/"
+  },
+  "@type": "NewsArticle"
+}]
